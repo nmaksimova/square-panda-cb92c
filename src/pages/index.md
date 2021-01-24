@@ -23,7 +23,7 @@ sections:
     background_image: images/background_pic.jpg
     background_image_opacity: 75
     background_image_size: contain
-    background_image_position: center top
+    background_image_position: left center
     has_border: false
   - type: grid_section
     title: Image Grid
