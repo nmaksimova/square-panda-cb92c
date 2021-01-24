@@ -67,7 +67,7 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: left
-        image: images/adults_dancing.jpg
+        image: images/adult_lessons_3.jpg
         image_alt: Adult dance classes
         image_position: top
         image_align: center
