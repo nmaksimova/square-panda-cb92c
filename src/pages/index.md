@@ -75,10 +75,10 @@ sections:
         image_width: sixty
       - title: Wedding Dance
         title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Make your wedding dance elegant and memorable one. Preparation
+          includes basic instruction in dance fundamentals leading to a
+          choreography developed just for the two of you (to a song you choose).
         content_align: left
         actions:
           - label: Learn More
