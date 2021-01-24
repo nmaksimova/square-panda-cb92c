@@ -14,7 +14,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/pink-goose.jpg
+    image: images/ILTA logo_1_Transparent.jpg
     image_alt: Ilta Dance Studio
     media_position: left
     media_width: fifty
