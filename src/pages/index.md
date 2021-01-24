@@ -26,7 +26,7 @@ sections:
     background_image_position: left center
     has_border: false
   - type: grid_section
-    title: ''
+    title: Start Dancing Today!
     subtitle: Grid Section Example
     grid_items:
       - title: Section Item 1
