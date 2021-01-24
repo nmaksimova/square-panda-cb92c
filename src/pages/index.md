@@ -19,7 +19,7 @@ sections:
     align: right
     padding_top: large
     padding_bottom: large
-    background_color: none
+    background_color: secondary
     background_image: images/background_pic.jpg
     background_image_opacity: 75
     background_image_size: cover
