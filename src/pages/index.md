@@ -26,11 +26,7 @@ sections:
     background_image_position: center center
     has_border: false
     background_image_repeat: no-repeat
-    video_embed_html: >-
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/TLfX1v5Z7Ho?start=29" frameborder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-      gyroscope; picture-in-picture" allowfullscreen></iframe>
+    video_embed_html: ''
   - type: grid_section
     title: Start Dancing Today!
     subtitle: ''
