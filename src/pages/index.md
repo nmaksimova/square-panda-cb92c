@@ -18,7 +18,7 @@ sections:
     media_width: fifty
     align: right
     padding_top: large
-    padding_bottom: none
+    padding_bottom: large
     background_color: secondary
     background_image: images/background_pic.jpg
     background_image_opacity: 75
