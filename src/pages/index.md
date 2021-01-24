@@ -52,7 +52,7 @@ sections:
         image_has_padding: true
         image_width: sixty
       - title: Adult Lessons
-        title_align: left
+        title_align: center
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
