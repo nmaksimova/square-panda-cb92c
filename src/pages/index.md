@@ -21,7 +21,7 @@ sections:
     align: center
     padding_top: large
     padding_bottom: large
-    background_color: none
+    background_color: primary
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
