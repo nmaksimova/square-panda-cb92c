@@ -104,7 +104,7 @@ sections:
     title: Meet Our Teachers
     subtitle: ''
     actions:
-      - label: Join the team
+      - label: Learn more
         url: /style-guide
         style: primary
     grid_items:
