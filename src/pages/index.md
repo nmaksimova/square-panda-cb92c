@@ -87,7 +87,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        actions_align: left
+        actions_align: right
         image: images/wedding_2.jpg
         image_alt: Section item 3 icon
         image_position: top
