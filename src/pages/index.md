@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     content: "###### We\_offer group classes, private lessons\_and other opportunities to help you learn the art\_of Ballroom and Latin dancing!\_Whether you are a novice or an experienced dancer,\_we have the right instructor to work with you!\_Our students are finalists and winners of many competitions and National championships.\n"
     actions:
-      - label: Try Free
+      - label: Complimentary Lesson
         url: /pricing
         style: primary
       - label: Learn More
