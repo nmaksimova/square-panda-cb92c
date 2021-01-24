@@ -95,7 +95,7 @@ sections:
     grid_gap_vert: small
     enable_cards: true
     align: center
-    background_color: primary
+    background_color: none
   - type: grid_section
     title: Reviews Section
     subtitle: Grid Section Example
