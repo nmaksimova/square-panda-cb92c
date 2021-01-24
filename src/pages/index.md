@@ -123,7 +123,7 @@ sections:
         title_align: center
         image: images/hugh-saturation.jpg
         image_position: top
-      - title: Hilary Ouse
+      - title: Shelly Linder
         subtitle: Operations Manager
         title_align: center
         image: images/hilary-ouse.jpg
