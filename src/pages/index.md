@@ -12,7 +12,7 @@ sections:
       - label: Gift Card
         url: /features
         style: primary
-    image: images/ILTA_LOGO_TR.png
+    image: images/ILTA_LOGO_TR_GREY.png
     image_alt: Ilta Dance Studio
     media_position: left
     media_width: sixty
