@@ -29,7 +29,7 @@ sections:
     title: Start Dancing Today!
     subtitle: ''
     grid_items:
-      - title: Section Item 1
+      - title: Kids
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
