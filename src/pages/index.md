@@ -124,7 +124,7 @@ sections:
         image: images/JENYA.png
         image_position: top
       - title: Shelly Linder
-        subtitle: Operations Manager
+        subtitle: ''
         title_align: center
         image: images/hilary-ouse.jpg
         image_position: top
