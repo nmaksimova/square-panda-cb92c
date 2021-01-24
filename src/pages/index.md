@@ -9,7 +9,7 @@ sections:
       - label: Complimentary Lesson
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: Gift Card
         url: /features
         style: secondary
     image: images/ILTA_LOGO_TR.png
