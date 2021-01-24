@@ -101,7 +101,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Team Section
+    title: Meet Our Teachers
     subtitle: Grid Section Example
     actions:
       - label: Join the team
