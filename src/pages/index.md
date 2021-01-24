@@ -53,10 +53,11 @@ sections:
         image_width: sixty
       - title: Adult Lessons
         title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Beginner Group Classes are available in Latin Dance (Salsa and
+          Merengue) and Ballroom Dance (Waltz, Foxtrot, Swing, Tango). You will
+          learn how to create combinations of steps and use good leader /
+          follower techniques.
         content_align: left
         actions:
           - label: Learn More
