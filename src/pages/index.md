@@ -66,7 +66,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        actions_align: left
+        actions_align: right
         image: images/adult_lessons_3.jpg
         image_alt: Adult dance classes
         image_position: top
