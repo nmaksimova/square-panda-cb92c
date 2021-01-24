@@ -114,7 +114,7 @@ sections:
         image: images/gustav-purpleson.jpg
         image_position: top
       - title: Ilana Meshkausk
-        subtitle: Software Engineer
+        subtitle: ''
         title_align: center
         image: images/dianne-ameter.jpg
         image_position: top
