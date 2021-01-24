@@ -126,7 +126,7 @@ sections:
       - title: Shelly Linder
         subtitle: ''
         title_align: center
-        image: images/hilary-ouse.jpg
+        image: images/Shelly.png
         image_position: top
     grid_cols: four
     align: center
