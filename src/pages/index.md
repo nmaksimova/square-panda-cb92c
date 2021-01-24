@@ -51,7 +51,7 @@ sections:
         image_align: center
         image_has_padding: true
         image_width: sixty
-      - title: 'Adult '
+      - title: Adult Lessons
         title_align: left
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
