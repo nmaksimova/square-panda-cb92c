@@ -102,7 +102,7 @@ sections:
     background_color: none
   - type: grid_section
     title: Meet Our Teachers
-    subtitle: Grid Section Example
+    subtitle: ''
     actions:
       - label: Join the team
         url: /style-guide
