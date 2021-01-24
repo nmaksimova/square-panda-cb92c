@@ -17,7 +17,7 @@ sections:
     media_position: left
     media_width: fifty
     align: right
-    padding_top: small
+    padding_top: large
     padding_bottom: large
     background_color: secondary
     background_image: images/background_pic.jpg
