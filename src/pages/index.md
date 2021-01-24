@@ -44,7 +44,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: center
-        actions_align: left
+        actions_align: right
         image: images/kids_dancing_2.jpg
         image_alt: Section item 1 icon
         image_position: top
