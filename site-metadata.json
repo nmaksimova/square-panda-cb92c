@@ -72,7 +72,7 @@
         "logo": "images/clever-anemone.png",
         "logo_alt": "Ilta Dance Studio",
         "has_primary_nav": true,
-        "primary_nav_title": "Company",
+        "primary_nav_title": "Ilta Dance",
         "primary_nav_links": [
             {
                 "label": "About",
