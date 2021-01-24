@@ -43,7 +43,7 @@ sections:
             style: link
             has_icon: true
             icon: arrow-right
-            icon_position: center
+            icon_position: right
         actions_align: right
         image: images/kids_dancing_2.jpg
         image_alt: Section item 1 icon
