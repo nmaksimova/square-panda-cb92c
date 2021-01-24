@@ -23,7 +23,7 @@ sections:
     background_image: images/superb-lavender.jpg
     background_image_opacity: 80
     background_image_size: cover
-    background_image_position: left center
+    background_image_position: left top
     has_border: false
   - type: grid_section
     title: Start Dancing Today!
