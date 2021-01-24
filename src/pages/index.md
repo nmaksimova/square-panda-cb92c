@@ -21,7 +21,7 @@ sections:
     padding_bottom: large
     background_color: primary
     background_image: images/superb-lavender.jpg
-    background_image_opacity: 8
+    background_image_opacity: 0
     background_image_size: cover
     background_image_position: left center
     has_border: false
