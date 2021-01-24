@@ -15,7 +15,7 @@ sections:
         url: /features
         style: secondary
     image: images/stock-photo-senior-couple-attending-dance-class-1057007168.jpg
-    image_alt: Hero section placeholder image
+    image_alt: Ilta Dance Studio
     media_position: left
     media_width: fifty
     align: left
