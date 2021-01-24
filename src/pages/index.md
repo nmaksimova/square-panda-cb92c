@@ -14,7 +14,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/ILTA logo_1_Transparent.jpg
+    image: images/ILTA_LOGO_TR.png
     image_alt: Ilta Dance Studio
     media_position: left
     media_width: fifty
