@@ -121,7 +121,7 @@ sections:
       - title: Jenya Didenko
         subtitle: ''
         title_align: center
-        image: images/hugh-saturation.jpg
+        image: images/JENYA.png
         image_position: top
       - title: Shelly Linder
         subtitle: Operations Manager
