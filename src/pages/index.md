@@ -16,7 +16,7 @@ sections:
     image_alt: Ilta Dance Studio
     media_position: left
     media_width: sixty
-    align: center
+    align: left
     padding_top: large
     padding_bottom: large
     background_color: primary
