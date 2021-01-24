@@ -70,7 +70,7 @@ sections:
         image: images/adults_dancing.jpg
         image_alt: Adult dance classes
         image_position: top
-        image_align: left
+        image_align: center
         image_has_padding: true
         image_width: sixty
       - title: Section Item 3
