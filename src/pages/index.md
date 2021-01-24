@@ -31,10 +31,11 @@ sections:
     grid_items:
       - title: Kids
         title_align: center
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          For children and youth who are interested in competing, a year of
+          group work in preparation is recommended. Private lessons for children
+          and youth can focus on social dance skills or preparation for dance
+          competition.
         content_align: left
         actions:
           - label: Learn More
