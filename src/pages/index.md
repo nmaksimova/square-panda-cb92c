@@ -118,7 +118,7 @@ sections:
         title_align: center
         image: images/dianne-ameter.jpg
         image_position: top
-      - title: Hugh Saturation
+      - title: Jenya Didenko
         subtitle: Developer Advocate
         title_align: center
         image: images/hugh-saturation.jpg
