@@ -116,7 +116,7 @@ sections:
       - title: Ilana Meshkausk
         subtitle: ''
         title_align: center
-        image: images/dianne-ameter.jpg
+        image: images/ILANA.png
         image_position: top
       - title: Jenya Didenko
         subtitle: ''
