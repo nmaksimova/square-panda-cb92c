@@ -27,7 +27,7 @@ sections:
     has_border: false
   - type: grid_section
     title: Start Dancing Today!
-    subtitle: Grid Section Example
+    subtitle: ''
     grid_items:
       - title: Section Item 1
         title_align: left
