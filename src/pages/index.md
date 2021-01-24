@@ -45,7 +45,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/kids_dancing.jpg
+        image: images/kids_dancing_2.jpg
         image_alt: Section item 1 icon
         image_position: top
         image_align: center
