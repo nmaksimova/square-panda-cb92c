@@ -109,7 +109,7 @@ sections:
         style: primary
     grid_items:
       - title: Tamaz Shiloshvili
-        subtitle: Co-Founder & CEO
+        subtitle: ''
         title_align: center
         image: images/gustav-purpleson.jpg
         image_position: top
