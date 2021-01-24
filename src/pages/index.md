@@ -20,7 +20,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
-    background_image: images/oval-elm.jpg
+    background_image: images/background_pic.jpg
     background_image_opacity: 75
     background_image_size: cover
     background_image_position: center center
