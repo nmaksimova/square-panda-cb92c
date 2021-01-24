@@ -25,6 +25,7 @@ sections:
     background_image_size: cover
     background_image_position: left top
     has_border: false
+    background_image_repeat: no-repeat
   - type: grid_section
     title: Start Dancing Today!
     subtitle: ''
