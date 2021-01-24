@@ -24,7 +24,7 @@ sections:
     background_color: secondary
     background_image: images/oval-elm.jpg
     background_image_opacity: 50
-    background_image_size: contain
+    background_image_size: cover
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
