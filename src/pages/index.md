@@ -111,7 +111,7 @@ sections:
       - title: Tamaz Shiloshvili
         subtitle: ''
         title_align: center
-        image: images/gustav-purpleson.jpg
+        image: images/TAMAZ.png
         image_position: top
       - title: Ilana Meshkausk
         subtitle: ''
