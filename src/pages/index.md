@@ -68,7 +68,7 @@ sections:
             icon_position: center
         actions_align: left
         image: images/adults_dancing.jpg
-        image_alt: Section item 2 icon
+        image_alt: Adult dance classess
         image_position: top
         image_align: left
         image_has_padding: true
