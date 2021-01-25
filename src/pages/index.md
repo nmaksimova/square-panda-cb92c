@@ -334,7 +334,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
-  - title: l
+  - title: ''
     subtitle: lorem-ipsum
     title_align: left
     content: >-
