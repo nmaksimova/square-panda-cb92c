@@ -355,7 +355,7 @@ sections:
         is_required: true
         type: form_field
       - input_type: text
-        name: lorem-ipsum
+        name: E-mail
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
