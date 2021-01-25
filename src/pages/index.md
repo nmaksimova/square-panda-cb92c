@@ -359,7 +359,7 @@ sections:
         label: E-mail
         default_value: lorem-ipsum
         options: []
-        is_required: false
+        is_required: true
         type: form_field
     submit_label: lorem-ipsum
     align_vert: top
