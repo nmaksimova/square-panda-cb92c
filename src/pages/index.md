@@ -337,8 +337,7 @@ sections:
   - title: Book your first class with us
     subtitle: ''
     title_align: left
-    content: |
-      #
+    content: ''
     content_align: left
     form_position: right
     form_width: fifty
