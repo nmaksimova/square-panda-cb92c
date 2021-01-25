@@ -334,7 +334,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
-  - title: ''
+  - title: Book your first class with us
     subtitle: ''
     title_align: left
     content: >-
