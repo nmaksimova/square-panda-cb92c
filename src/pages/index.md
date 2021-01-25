@@ -349,7 +349,7 @@ sections:
     form_fields:
       - input_type: text
         name: Your Name
-        label: Name
+        label: Your Name
         default_value: ''
         options: []
         is_required: false
