@@ -342,7 +342,7 @@ sections:
     content_align: left
     form_position: right
     form_width: fifty
-    form_layout: stacked
+    form_layout: inline
     enable_card: true
     form_id: Book a class
     form_action: Submit
