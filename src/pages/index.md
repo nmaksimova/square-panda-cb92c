@@ -348,7 +348,7 @@ sections:
     form_action: Submit
     form_fields:
       - input_type: text
-        name: Name
+        name: Your Name
         label: Name
         default_value: ''
         options: []
