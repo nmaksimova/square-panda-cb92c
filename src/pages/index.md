@@ -335,7 +335,7 @@ sections:
     padding_bottom: large
     background_color: secondary
   - title: ''
-    subtitle: lorem-ipsum
+    subtitle: Book your first class with us
     title_align: left
     content: >-
       ## Lorem ipsum
