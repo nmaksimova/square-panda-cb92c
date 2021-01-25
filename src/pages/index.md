@@ -348,7 +348,7 @@ sections:
     form_action: Submit
     form_fields:
       - input_type: text
-        name: lorem-ipsum
+        name: Name
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
