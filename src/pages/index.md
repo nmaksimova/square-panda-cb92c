@@ -338,7 +338,7 @@ sections:
     subtitle: ''
     title_align: left
     content: |
-      *
+      #
     content_align: left
     form_position: right
     form_width: fifty
