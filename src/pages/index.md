@@ -345,7 +345,7 @@ sections:
     form_layout: inline
     enable_card: false
     form_id: Book a class
-    form_action: lorem-ipsum
+    form_action: Submit
     form_fields: []
     submit_label: lorem-ipsum
     align_vert: top
