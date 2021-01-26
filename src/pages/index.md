@@ -384,7 +384,7 @@ sections:
           - Google
           - Family/Friend
           - Social Media
-          - lorem-ipsum
+          - Competition
         is_required: false
         type: form_field
     submit_label: Submit
