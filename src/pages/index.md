@@ -372,7 +372,7 @@ sections:
         label: Preferred Location
         default_value: Preferred Location
         options:
-          - ''
+          - 'Framingham, MA'
         is_required: false
         type: form_field
     submit_label: Submit
