@@ -381,7 +381,7 @@ sections:
         label: How did you hear about us?
         default_value: ''
         options:
-          - ''
+          - Google
         is_required: false
         type: form_field
     submit_label: Submit
