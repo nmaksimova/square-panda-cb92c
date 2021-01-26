@@ -368,7 +368,7 @@ sections:
         is_required: false
         type: form_field
       - input_type: select
-        name: ''
+        name: Preferred Location
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
