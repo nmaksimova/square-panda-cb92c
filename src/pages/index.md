@@ -383,6 +383,7 @@ sections:
         options:
           - Google
           - Family/Friend
+          - lorem-ipsum
         is_required: false
         type: form_field
     submit_label: Submit
