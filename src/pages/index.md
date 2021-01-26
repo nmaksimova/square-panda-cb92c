@@ -334,7 +334,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
-  - title: Book your first class with us
+  - title: Book your first complimentary class with us
     subtitle: ''
     title_align: left
     content: "###### **Schedule your 30\_minute COMPLIMENTARY lesson (adults only)**&#xA;&#xA;\n"
