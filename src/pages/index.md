@@ -363,7 +363,7 @@ sections:
       - input_type: tel
         name: Phone
         label: Phone
-        default_value: lorem-ipsum
+        default_value: Phone
         options: []
         is_required: false
         type: form_field
