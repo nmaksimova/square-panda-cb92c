@@ -370,7 +370,7 @@ sections:
       - input_type: select
         name: Preferred Location
         label: Preferred Location
-        default_value: Preferred Location
+        default_value: 'Framingham, MA'
         options:
           - 'Framingham, MA'
           - 'Salem, MA'
