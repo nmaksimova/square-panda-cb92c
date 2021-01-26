@@ -348,7 +348,7 @@ sections:
     form_fields:
       - input_type: text
         name: Full Name
-        label: Your Name
+        label: Full Name
         default_value: ''
         options: []
         is_required: true
