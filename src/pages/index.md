@@ -379,7 +379,7 @@ sections:
       - input_type: select
         name: How did you hear about us?
         label: How did you hear about us?
-        default_value: lorem-ipsum
+        default_value: ''
         options:
           - lorem-ipsum
         is_required: false
