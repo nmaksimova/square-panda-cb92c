@@ -391,7 +391,7 @@ sections:
       - input_type: textarea
         name: Message/Comments
         label: Message/Comments
-        default_value: lorem-ipsum
+        default_value: lorem-ipsumMessage/Comments
         options: []
         is_required: false
         type: form_field
