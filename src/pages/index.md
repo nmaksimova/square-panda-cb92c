@@ -386,7 +386,7 @@ sections:
           - Social Media
           - Competition
           - Other
-        is_required: false
+        is_required: true
         type: form_field
     submit_label: Submit
     align_vert: top
