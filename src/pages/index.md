@@ -356,7 +356,7 @@ sections:
       - input_type: email
         name: E-mail
         label: E-mail
-        default_value: ''
+        default_value: E-mail
         options: []
         is_required: true
         type: form_field
