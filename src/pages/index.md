@@ -337,8 +337,7 @@ sections:
   - title: Book your first class with us
     subtitle: ''
     title_align: left
-    content: |
-      ###### Some text
+    content: "###### **Schedule your 30\_minute COMPLIMENTARY lesson (adults only)**&#xA;&#xA;\n"
     content_align: left
     form_position: right
     form_width: fifty
