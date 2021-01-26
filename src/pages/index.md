@@ -382,7 +382,7 @@ sections:
         default_value: ''
         options:
           - Google
-          - lorem-ipsum
+          - Family/Friend
         is_required: false
         type: form_field
     submit_label: Submit
