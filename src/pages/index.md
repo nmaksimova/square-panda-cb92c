@@ -378,7 +378,7 @@ sections:
         type: form_field
       - input_type: select
         name: How did you hear about us?
-        label: lorem-ipsum
+        label: How did you hear about us?
         default_value: lorem-ipsum
         options:
           - lorem-ipsum
