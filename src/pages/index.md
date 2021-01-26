@@ -370,7 +370,7 @@ sections:
       - input_type: select
         name: Preferred Location
         label: Preferred Location
-        default_value: lorem-ipsum
+        default_value: Preferred Location
         options: []
         is_required: false
         type: form_field
