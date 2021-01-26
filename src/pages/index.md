@@ -390,7 +390,7 @@ sections:
         type: form_field
       - input_type: textarea
         name: Message/Comments
-        label: lorem-ipsum
+        label: Message/Comments
         default_value: lorem-ipsum
         options: []
         is_required: false
