@@ -255,32 +255,6 @@ sections:
           had to offer.
 
 
-          > I have danced ballroom for approximately 10 years and have had the
-          good fortune to have danced with and been coached by some very good
-          professionals.I had been dancing in Connecticut but the 160 mile round
-          trip began to wear on me. When my Internet search showed there was a
-          studio just 12 miles from my home I was thrilled but cautious because
-          it was a priority for me to work with teachers of very high caliber.
-          After my first lesson with Tamaz I knew I need not look any further. I
-          had found an extremely well trained, talented instructor who can not
-          only clearly articulate the technical aspects of the dance, the
-          essence of its feeling and meaning but he could also dance
-          exquisitely.
-
-
-          > Believe it or not that is not always the case elsewhere. In just a
-          few short months, my understanding of the art and my technique has
-          improved immensely. Ilana also coaches me and her keen eye catches
-          troubles before they turn into habits and corrections are given with
-          immediate results. Both have the innate ability to bring out the best
-          in you. I was most impressed too with how professionally the studio is
-          managed, how hard they both work and their commitment not only to
-          their students but also to family and friends is most evident and of
-          great importance to them. This coupled with their strong character and
-          high level of integrity provides a safe environment in which to learn
-          and have fun.
-
-
           **Bernadette Mc Cool**
         image: images/gordon-norman.png
         image_alt: Gordon Norman
