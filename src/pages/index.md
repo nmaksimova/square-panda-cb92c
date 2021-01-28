@@ -25,7 +25,7 @@ sections:
     background_image_opacity: 80
     background_image_size: cover
     background_image_position: right center
-    has_border: false
+    has_border: true
     background_image_repeat: no-repeat
     video_embed_html: ''
   - type: grid_section
