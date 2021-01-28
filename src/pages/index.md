@@ -228,12 +228,16 @@ sections:
         image_align: center
         title: 'Framingham, MA'
         image_position: bottom
-        content: >
-          \<br>1255 Worcester Road (Rt. 9)\<br/> Framingham, MA
-          01702\<br/>Entrance in rear of plaza\<br/>
+        content: |
+          1255 Worcester Road (Rt. 9)
 
+          Framingham, MA 01702
 
-          [781-492-2769 ](tel:+12345567890)\<br/> dance@iltadance.com
+          Entrance in rear of plaza
+
+          [781-492-2769 ](tel:+12345567890)
+
+          **dance@iltadance.com**
       - image: images/logo-2.svg
         image_alt: Netlify logo
         image_align: center
