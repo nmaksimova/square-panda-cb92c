@@ -134,7 +134,7 @@ sections:
     background_color: secondary
   - type: grid_section
     title: Testimonials
-    subtitle: Grid Section Example
+    subtitle: ''
     grid_items:
       - content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
