@@ -220,7 +220,7 @@ sections:
     background_color: none
   - type: grid_section
     title: Our Locations
-    subtitle: Grid Section Example
+    subtitle: ''
     align: center
     grid_items:
       - image: images/logo-1.svg
