@@ -17,7 +17,7 @@ sections:
     media_position: left
     media_width: sixty
     align: center
-    padding_top: small
+    padding_top: large
     padding_bottom: large
     background_color: primary
     background_image: >-
