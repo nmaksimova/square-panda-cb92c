@@ -243,6 +243,7 @@ sections:
         image_alt: Netlify logo
         image_align: center
         title: Salem
+        title_align: center
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
