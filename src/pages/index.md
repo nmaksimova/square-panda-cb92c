@@ -245,12 +245,43 @@ sections:
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          > If you are looking for a great ballroom dance studio, look no
+          further. ILTA Dance Studio is a fabulous find! First impressions are
+          lasting impressions as the saying goes and I knew immediately that
+          ILTA Dance Studio would be a great place for me. From my first
+          conversations with Ilana and Tamaz I was impressed with their warmth
+          and genuine interest in my needs while articulating clearly what ILTA
+          had to offer.
 
 
-          **Gordon Norman,** *Web Designer, Studio*
+          > I have danced ballroom for approximately 10 years and have had the
+          good fortune to have danced with and been coached by some very good
+          professionals.I had been dancing in Connecticut but the 160 mile round
+          trip began to wear on me. When my Internet search showed there was a
+          studio just 12 miles from my home I was thrilled but cautious because
+          it was a priority for me to work with teachers of very high caliber.
+          After my first lesson with Tamaz I knew I need not look any further. I
+          had found an extremely well trained, talented instructor who can not
+          only clearly articulate the technical aspects of the dance, the
+          essence of its feeling and meaning but he could also dance
+          exquisitely.
+
+
+          > Believe it or not that is not always the case elsewhere. In just a
+          few short months, my understanding of the art and my technique has
+          improved immensely. Ilana also coaches me and her keen eye catches
+          troubles before they turn into habits and corrections are given with
+          immediate results. Both have the innate ability to bring out the best
+          in you. I was most impressed too with how professionally the studio is
+          managed, how hard they both work and their commitment not only to
+          their students but also to family and friends is most evident and of
+          great importance to them. This coupled with their strong character and
+          high level of integrity provides a safe environment in which to learn
+          and have fun.
+
+
+          **Bernadette Mc Cool**
         image: images/gordon-norman.png
         image_alt: Gordon Norman
         image_position: left
