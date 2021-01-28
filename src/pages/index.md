@@ -132,60 +132,6 @@ sections:
     grid_cols: four
     align: center
     background_color: secondary
-  - type: grid_section
-    title: Testimonials
-    subtitle: ''
-    grid_items:
-      - content: >
-          > As soon as I had my first lesson with Tamaz, I knew I would learn a
-          lot from him. His knowledge and experience, his skill as a dancer and
-          teacher left no doubt about it. As I continue to study with him, I
-          realize that his patience and creativity as a teacher, his confidence
-          in me, and the depth and breadth of his experience as a dancer are
-          making me a better dancer than I ever dreamed possible. Tamaz is the
-          best teacher I have ever had. He encourages me, and inspires me to
-          continue to learn and improve as a dancer.
-
-
-          **Tracey Robinson-Harris**
-        image_alt: Hanson Deck
-        image_position: left
-        image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Miles Tone,** *CEO, Studio*
-        image: images/miles-tone.png
-        image_alt: Miles Tone
-        image_position: left
-        image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Eleanor Carr,** *CTO, Studio*
-        image: images/eleanor-carr.png
-        image_alt: Eleanor Carr
-        image_position: left
-        image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Gordon Norman,** *Web Designer, Studio*
-        image: images/gordon-norman.png
-        image_alt: Gordon Norman
-        image_position: left
-        image_width: twenty-five
-    grid_cols: two
-    grid_gap_horiz: medium
-    grid_gap_vert: large
-    align: center
-    background_color: secondary
   - type: cta_section
     title: This is Call To Action Section In DIY Theme!
     content: >-
@@ -380,6 +326,60 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
     background_image: images/scientific-lavender.jpg
+  - type: grid_section
+    title: Testimonials
+    subtitle: ''
+    grid_items:
+      - content: >
+          > As soon as I had my first lesson with Tamaz, I knew I would learn a
+          lot from him. His knowledge and experience, his skill as a dancer and
+          teacher left no doubt about it. As I continue to study with him, I
+          realize that his patience and creativity as a teacher, his confidence
+          in me, and the depth and breadth of his experience as a dancer are
+          making me a better dancer than I ever dreamed possible. Tamaz is the
+          best teacher I have ever had. He encourages me, and inspires me to
+          continue to learn and improve as a dancer.
+
+
+          **Tracey Robinson-Harris**
+        image_alt: Hanson Deck
+        image_position: left
+        image_width: twenty-five
+      - content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel, maximus aliquet risus.
+
+
+          **Miles Tone,** *CEO, Studio*
+        image: images/miles-tone.png
+        image_alt: Miles Tone
+        image_position: left
+        image_width: twenty-five
+      - content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel, maximus aliquet risus.
+
+
+          **Eleanor Carr,** *CTO, Studio*
+        image: images/eleanor-carr.png
+        image_alt: Eleanor Carr
+        image_position: left
+        image_width: twenty-five
+      - content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel, maximus aliquet risus.
+
+
+          **Gordon Norman,** *Web Designer, Studio*
+        image: images/gordon-norman.png
+        image_alt: Gordon Norman
+        image_position: left
+        image_width: twenty-five
+    grid_cols: two
+    grid_gap_horiz: medium
+    grid_gap_vert: large
+    align: center
+    background_color: secondary
   - type: grid_section
     title: Our Locations
     subtitle: ''
