@@ -219,7 +219,7 @@ sections:
     has_border: false
     background_color: none
   - type: grid_section
-    title: Image Grid
+    title: Our Locations
     subtitle: Grid Section Example
     align: center
     grid_items:
