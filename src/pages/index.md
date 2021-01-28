@@ -223,8 +223,7 @@ sections:
     subtitle: ''
     align: center
     grid_items:
-      - image: images/logo-1.svg
-        image_alt: Contentful logo
+      - image_alt: Contentful logo
         image_align: center
         title: Framingham
         image_position: bottom
