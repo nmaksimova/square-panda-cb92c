@@ -129,7 +129,7 @@ sections:
         title_align: center
         image: images/Shelly.png
         image_position: top
-    grid_cols: four
+    grid_cols: three
     align: center
     background_color: secondary
   - title: Book your first class with us
