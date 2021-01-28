@@ -226,7 +226,7 @@ sections:
       - image: images/logo-1.svg
         image_alt: Contentful logo
         image_align: center
-        title: Framingham
+        title: 'Framingham, MA'
         image_position: bottom
       - image: images/logo-2.svg
         image_alt: Netlify logo
