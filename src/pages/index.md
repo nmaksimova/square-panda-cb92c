@@ -226,7 +226,7 @@ sections:
       - image: images/logo-1.svg
         image_alt: Contentful logo
         image_align: center
-        title: 'Framingham, MA'
+        title: Framingham
         image_position: bottom
         content: |
           1255 Worcester Road (Rt. 9)
