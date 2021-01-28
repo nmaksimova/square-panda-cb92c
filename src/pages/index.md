@@ -20,7 +20,8 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    background_image: images/famous-sparrow.jpg
+    background_image: >-
+      images/stock-photo-happy-sweet-senior-couple-dancing-slow-ballroom-dance-inside-the-house-during-their-leisure-time-290952215.jpg
     background_image_opacity: 80
     background_image_size: cover
     background_image_position: center center
