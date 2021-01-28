@@ -148,7 +148,6 @@ sections:
 
 
           **Tracey Robinson-Harris**
-        image: images/hanson-deck.png
         image_alt: Hanson Deck
         image_position: left
         image_width: twenty-five
