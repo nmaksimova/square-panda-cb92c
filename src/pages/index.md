@@ -233,6 +233,7 @@ sections:
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
+    enable_cards: true
   - type: features_section
     features:
       - title: >-
