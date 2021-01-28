@@ -237,6 +237,7 @@ sections:
           [781-492-2769 ](tel:+12345567890)
 
           **dance@iltadance.com**
+        content_align: center
       - image: images/logo-2.svg
         image_alt: Netlify logo
         image_align: center
