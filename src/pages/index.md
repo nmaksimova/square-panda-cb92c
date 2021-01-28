@@ -136,12 +136,18 @@ sections:
     title: Testimonials
     subtitle: ''
     grid_items:
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          > As soon as I had my first lesson with Tamaz, I knew I would learn a
+          lot from him. His knowledge and experience, his skill as a dancer and
+          teacher left no doubt about it. As I continue to study with him, I
+          realize that his patience and creativity as a teacher, his confidence
+          in me, and the depth and breadth of his experience as a dancer are
+          making me a better dancer than I ever dreamed possible. Tamaz is the
+          best teacher I have ever had. He encourages me, and inspires me to
+          continue to learn and improve as a dancer.
 
 
-          **Hanson Deck,** *App Developer, Studio*
+          **Tracey Robinson-Harris**
         image: images/hanson-deck.png
         image_alt: Hanson Deck
         image_position: left
