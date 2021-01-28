@@ -24,7 +24,7 @@ sections:
       images/stock-photo-happy-sweet-senior-couple-dancing-slow-ballroom-dance-inside-the-house-during-their-leisure-time-290952215.jpg
     background_image_opacity: 80
     background_image_size: cover
-    background_image_position: center bottom
+    background_image_position: center center
     has_border: false
     background_image_repeat: no-repeat
     video_embed_html: ''
