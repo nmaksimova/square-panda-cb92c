@@ -248,12 +248,17 @@ sections:
         image_alt: Miles Tone
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          > ILTA Dance Studio is a truly rare find. The owners are not only
+          remarkable pro dancers, but they also possess a unique ability to
+          teach both children and adults the art of dancing. They are committed
+          and passionate teachers and also fun loving, amicable people.I never
+          imagined my husband on the dance floor, now, thanks to the skillful
+          work of ILTA, he searches the web for places to CHA CHA! Boston night
+          life has a whole new meaning.
 
 
-          **Eleanor Carr,** *CTO, Studio*
+          **Olga Golub**
         image: images/eleanor-carr.png
         image_alt: Eleanor Carr
         image_position: left
