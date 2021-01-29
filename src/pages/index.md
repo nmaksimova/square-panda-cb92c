@@ -273,7 +273,6 @@ sections:
 
 
           **Bernadette Mc Cool**
-        image: images/gordon-norman.png
         image_alt: Gordon Norman
         image_position: left
         image_width: twenty-five
