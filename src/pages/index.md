@@ -143,7 +143,7 @@ sections:
     form_layout: inline
     enable_card: true
     form_id: Book a class
-    form_action: Submit
+    form_action: /thank-you
     form_fields:
       - input_type: text
         name: Full Name
@@ -245,12 +245,17 @@ sections:
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          > If you are looking for a great ballroom dance studio, look no
+          further. ILTA Dance Studio is a fabulous find! First impressions are
+          lasting impressions as the saying goes and I knew immediately that
+          ILTA Dance Studio would be a great place for me. From my first
+          conversations with Ilana and Tamaz I was impressed with their warmth
+          and genuine interest in my needs while articulating clearly what ILTA
+          had to offer.
 
 
-          **Gordon Norman,** *Web Designer, Studio*
+          **Bernadette Mc Cool**
         image: images/gordon-norman.png
         image_alt: Gordon Norman
         image_position: left
