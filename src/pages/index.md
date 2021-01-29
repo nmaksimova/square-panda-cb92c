@@ -259,7 +259,6 @@ sections:
 
 
           **Olga Golub**
-        image: images/eleanor-carr.png
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
