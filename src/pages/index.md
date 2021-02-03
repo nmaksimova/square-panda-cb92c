@@ -22,9 +22,9 @@ sections:
     background_color: secondary
     background_image: >-
       images/stock-photo-happy-sweet-senior-couple-dancing-slow-ballroom-dance-inside-the-house-during-their-leisure-time-290952215.jpg
-    background_image_opacity: 80
+    background_image_opacity: 60
     background_image_size: cover
-    background_image_position: center center
+    background_image_position: center bottom
     has_border: false
     background_image_repeat: no-repeat
     video_embed_html: ''
@@ -225,23 +225,40 @@ sections:
         image_alt: Hanson Deck
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          > I have been a student of Tamaz’ now for over two years. I’ve danced
+          for over 20 years with a variety of teachers and none has been as
+          influential or as talented as Tamaz. Tamaz is an amazing dancer and
+          also an innovative choreographer. He has taught me so much about dance
+          and also about myself helping me gain the confidence to perform with a
+          partner and to compete as well.
+
+          >
+
+          > Tamaz creates dance programs that are individually tailored and has
+          a keen ability to assess just how much pushing or nurturing students
+          need to challenge themselves and make them the best dancers they can
+          be. Tamaz cares deeply for each one of his students and it is truly a
+          pleasure taking lessons from him. He has my highest recommendation and
+          I personally look forward to many more years of learning from someone
+          who I believe to be one of the best in the business.
 
 
-          **Miles Tone,** *CEO, Studio*
-        image: images/miles-tone.png
+          **Kristy Klein**
         image_alt: Miles Tone
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          > ILTA Dance Studio is a truly rare find. The owners are not only
+          remarkable pro dancers, but they also possess a unique ability to
+          teach both children and adults the art of dancing. They are committed
+          and passionate teachers and also fun loving, amicable people.I never
+          imagined my husband on the dance floor, now, thanks to the skillful
+          work of ILTA, he searches the web for places to CHA CHA! Boston night
+          life has a whole new meaning.
 
 
-          **Eleanor Carr,** *CTO, Studio*
-        image: images/eleanor-carr.png
+          **Olga Golub**
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
@@ -256,7 +273,6 @@ sections:
 
 
           **Bernadette Mc Cool**
-        image: images/gordon-norman.png
         image_alt: Gordon Norman
         image_position: left
         image_width: twenty-five
