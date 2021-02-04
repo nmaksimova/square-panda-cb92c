@@ -13,7 +13,7 @@ sections:
     content: ''
   - type: features_section
     features:
-      - title: 'Adult '
+      - title: Adult Ballroom and Latin Dance Classes
         subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
