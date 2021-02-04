@@ -8,6 +8,7 @@ sections:
     align: center
     background_color: secondary
     background_image: images/Adult_dance_classes.jpg
+    background_image_position: center center
   - type: features_section
     features:
       - title: Section Title One
