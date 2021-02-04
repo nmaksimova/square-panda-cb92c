@@ -1,5 +1,5 @@
 ---
-title: 'Adult Dance '
+title: Adult Dance Classes
 excerpt: lorem-ipsum
 sections:
   - type: hero_section
