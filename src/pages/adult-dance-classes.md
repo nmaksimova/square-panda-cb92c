@@ -4,7 +4,7 @@ excerpt: lorem-ipsum
 sections:
   - type: hero_section
     title: Adult Dance Classes
-    subtitle: ''
+    subtitle: test
     align: center
     background_color: secondary
     background_image: images/Adult_dance_classes_2.jpg
