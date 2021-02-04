@@ -9,7 +9,7 @@ sections:
     background_color: secondary
     background_image: images/Adult_dance_classes_2.jpg
     background_image_position: center center
-    background_image_opacity: 60
+    background_image_opacity: 40
   - type: features_section
     features:
       - title: Section Title One
