@@ -3,7 +3,7 @@ title: Adult Dance Classes
 excerpt: lorem-ipsum
 sections:
   - type: hero_section
-    title: About
+    title: Adult Dance Classes
     subtitle: About Page Demo
     align: center
     background_color: secondary
