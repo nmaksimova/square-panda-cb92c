@@ -19,18 +19,14 @@ sections:
           It's never too late to learn how to dance! Our experienced dance
           instructors will help you to start and succeed in your dance journey.
           Whether you interested in social dancing, wedding dance program or
-          competitive dance lessons, Ilta Dance Studio is the right place to
-          go. 
+          competitive dance lessons, Ilta Dance Studio is the right place to go.
 
 
           Don't have a partner? No worries, we have special dance programs
           designs for single dancers. Ilta dance teachers use unique approaches
           to each student and help students to find their own dance styles.
-          Contact us to learn more about our **adult dance classes** or** book
-          your first complimentary private lesson.
-
-
-          **
+          Contact us to learn more about our **adult dance classes** or **book
+          your first complimentary private lesson**.
         image: images/about-5.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
