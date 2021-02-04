@@ -4,7 +4,7 @@ excerpt: lorem-ipsum
 sections:
   - type: hero_section
     title: Adult Dance Classes
-    subtitle: 'Ilta Dance Studio has adult '
+    subtitle: 'Ilta Dance Studio offers adult ballroom and latin dance classes. '
     align: center
     background_color: secondary
     background_image: images/Adult_dance_classes_2.jpg
