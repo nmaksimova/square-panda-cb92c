@@ -1,5 +1,5 @@
 ---
-title: About
+title: Adult Da
 excerpt: lorem-ipsum
 sections:
   - type: hero_section
