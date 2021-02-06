@@ -151,6 +151,7 @@ sections:
       - label: Book your first class
         url: /pricing
         style: primary
+        has_icon: true
     align: center
     padding_top: medium
     padding_bottom: medium
