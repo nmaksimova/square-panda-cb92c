@@ -28,7 +28,8 @@ sections:
           to each student and help students to find their own dance styles.
           Contact us to learn more about our **adult dance classes** or **book
           your first complimentary private lesson**.
-        image: images/marvelous-dolphin.jpg
+        image: >-
+          images/stock-photo-romantic-couple-smiling-and-dancing-on-a-sunny-day-1441832486.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
