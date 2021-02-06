@@ -64,6 +64,16 @@ sections:
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
+        actions:
+          - label: Book your first class
+            url: /book_class
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
       - title: PRO-AM
         subtitle: ''
         content: "There are many wonderful benefits to **competing with your teacher** instead of another amateur. You will improve exponentially faster because your lessons focus entirely on you. \_Your dance training is tailored specifically to your individual goals, strengths, and weaknesses.\n\nAlso, you will feel a lot less stress competing with an experienced professional who will guide you through the entire process. Although it is an amazing journey to compete with an amateur partner, it is often difficult to find a partner who matches your skill level, age, physical requirements, commitment, and budget.\n\nSome people turn to pro-am to continue dancing and improving while searching for an amateur partner. \_Then there are others who dance pro-am exclusively because they are hooked on improving at their own pace, having individually-tailored lessons, competing with an experienced professional, and excelling in the pro-am competition circuit.\n"
@@ -76,14 +86,43 @@ sections:
         type: feature
         image: >-
           images/stock-photo-couple-feet-of-dancers-woman-and-man-latino-dancing-1082722793.jpg
+  - type: cta_section
+    title: Complimentary first dance lesson
+    content: >
+      Book your first dance class with Ilta to get started your dance journey.
+      Our experienced instructors will introduce you to different dance styles
+      during your one-on-one first lesson.
+
+
+      **Fill out this short form and start your dance adventure with us!**
+    actions:
+      - label: Book your first class
+        url: /book_class
+        style: primary
+        has_icon: false
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: primary
+    background_image: >-
+      images/stock-photo-talented-dance-instructor-teaching-aging-couple-at-the-ballroom-605494889.jpg
+    background_image_opacity: 15
   - type: grid_section
     title: Our Locations
     grid_items:
-      - title: Some City
-        content: >-
-          1234 Some St.<br/> Some City, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)
+      - title: Framigham
+        content: |+
+          1255 Worcester Road (Rt. 9)
+
+          Framingham, MA 01702
+
+          Entrance in rear of plaza
+
+          [781-492-2769](tel:+12345567890)
+
+          [**dance@iltadance.com**](mailto:dance@iltadance.com)
+
         content_align: left
         actions:
           - label: Get Directions
@@ -94,11 +133,24 @@ sections:
             icon_position: right
         actions_align: left
         actions_width: auto
-      - title: Some City
-        content: >-
-          1234 Some St.<br/> Some City, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)
+      - title: Salem
+        content: >
+          A Performing Arts Academy
+
+
+          96 Swampscott Rd #6
+
+
+          Salem, MA 01970
+
+
+          [781-492-2769](tel:+12345567890)
+
+
+          [**dance@iltadance.com**](mailto:dance@iltadance.com)[](mailto:email@example.com)
+
+
+          [](mailto:email@example.com)
         content_align: left
         actions:
           - label: Get Directions
@@ -109,55 +161,14 @@ sections:
             icon_position: right
         actions_align: left
         actions_width: auto
-      - title: Some City
-        content: >-
-          1234 Some St.<br/> Some City, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)
-        content_align: left
-        actions:
-          - label: Get Directions
-            url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        actions_align: left
-        actions_width: auto
-      - title: Some City
-        content: >-
-          1234 Some St.<br/> Some City, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)
-        content_align: left
-        actions:
-          - label: Get Directions
-            url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        actions_align: left
-        actions_width: auto
-    grid_cols: four
+    grid_cols: two
     grid_gap_horiz: large
     grid_gap_vert: large
     enable_cards: true
     padding_top: medium
     padding_bottom: medium
     has_border: false
-    background_color: none
-  - type: cta_section
-    title: This is a Call to Action
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
-    actions:
-      - label: Compare Plans
-        url: /pricing
-        style: primary
+    background_color: secondary
     align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: primary
 template: advanced
 ---
