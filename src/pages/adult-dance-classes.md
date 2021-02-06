@@ -57,7 +57,7 @@ sections:
         media_position: left
         media_width: fifty
       - title: Private Lessons
-        subtitle: 'Donec nisl ligula, cursus id molestie vel. '
+        subtitle: 'el. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
