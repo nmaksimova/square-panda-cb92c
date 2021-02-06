@@ -148,7 +148,7 @@ sections:
 
       **Fill out this short form and start your dance adventure with us!**
     actions:
-      - label: Compare Plans
+      - label: Book your first class
         url: /pricing
         style: primary
     align: center
