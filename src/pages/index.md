@@ -185,6 +185,7 @@ sections:
           - Social Media
           - Competition
           - Other
+          - lorem-ipsum
         is_required: true
         type: form_field
       - input_type: textarea
