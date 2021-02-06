@@ -80,10 +80,17 @@ sections:
     title: Our Locations
     grid_items:
       - title: Framigham
-        content: >-
-          1234 Some St.<br/> Some City, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)
+        content: |+
+          1255 Worcester Road (Rt. 9)
+
+          Framingham, MA 01702
+
+          Entrance in rear of plaza
+
+          [781-492-2769](tel:+12345567890)
+
+          [**dance@iltadance.com**](mailto:dance@iltadance.com)
+
         content_align: left
         actions:
           - label: Get Directions
