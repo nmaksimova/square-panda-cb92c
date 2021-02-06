@@ -180,12 +180,12 @@ sections:
         label: How did you hear about us?
         default_value: ''
         options:
+          - lorem-ipsum
           - Google
           - Family/Friend
           - Social Media
           - Competition
           - Other
-          - lorem-ipsum
         is_required: true
         type: form_field
       - input_type: textarea
