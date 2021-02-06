@@ -76,6 +76,28 @@ sections:
         type: feature
         image: >-
           images/stock-photo-couple-feet-of-dancers-woman-and-man-latino-dancing-1082722793.jpg
+  - type: cta_section
+    title: Complimentary first dance lesson
+    content: >
+      Book your first dance class with Ilta to get started your dance journey.
+      Our experienced instructors will introduce you to different dance styles
+      during your one-on-one first lesson.
+
+
+      **Fill out this short form and start your dance adventure with us!**
+    actions:
+      - label: Book your first class
+        url: /pricing
+        style: primary
+        has_icon: false
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: primary
+    background_image: >-
+      images/stock-photo-talented-dance-instructor-teaching-aging-couple-at-the-ballroom-605494889.jpg
+    background_image_opacity: 15
   - type: grid_section
     title: Our Locations
     grid_items:
@@ -138,27 +160,5 @@ sections:
     has_border: false
     background_color: secondary
     align: center
-  - type: cta_section
-    title: Complimentary first dance lesson
-    content: >
-      Book your first dance class with Ilta to get started your dance journey.
-      Our experienced instructors will introduce you to different dance styles
-      during your one-on-one first lesson.
-
-
-      **Fill out this short form and start your dance adventure with us!**
-    actions:
-      - label: Book your first class
-        url: /pricing
-        style: primary
-        has_icon: false
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: primary
-    background_image: >-
-      images/stock-photo-talented-dance-instructor-teaching-aging-couple-at-the-ballroom-605494889.jpg
-    background_image_opacity: 15
 template: advanced
 ---
