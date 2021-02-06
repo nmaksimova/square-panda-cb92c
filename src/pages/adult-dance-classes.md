@@ -74,6 +74,8 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: >-
+          images/stock-photo-couple-feet-of-dancers-woman-and-man-latino-dancing-1082722793.jpg
   - type: grid_section
     title: Our Officess
     grid_items:
