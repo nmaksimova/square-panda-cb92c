@@ -65,7 +65,7 @@ sections:
         media_position: right
         media_width: fifty
         actions:
-          - label: Book a class
+          - label: Book your first class
             url: /book_class
             style: primary
             has_icon: false
