@@ -34,10 +34,22 @@ sections:
         media_width: fifty
       - title: 'Group Classes '
         subtitle: ''
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          It doesn't matter if you are an experienced dancer or just a beginner
+          who wants to learn **how to dance**, Ilta Dance has group programs for
+          all levels.
+
+
+          Beginner group classes are designed for those who have no previous
+          dance experience or have a little bit of dance experience and would
+          like to learn the steps properly.
+
+
+          Intermediate group classes are for the next level. Building on what
+          you already know or expand your dance repertoire, learn new dances and
+          add more steps and patterns. **Waltz**, **Foxtrot**, **Swing**,
+          **Tango**, **Cha Cha**, and **Latin dancing** – **Rumba**, **Salsa**,
+          **Samba** and **Merengue**.
         image: images/about-2.jpg
         image_alt: People in a conference room
         media_position: left
