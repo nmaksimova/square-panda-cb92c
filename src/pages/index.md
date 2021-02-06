@@ -171,9 +171,9 @@ sections:
         label: Preferred Location
         default_value: Select a location
         options:
+          - lorem-ipsum
           - 'Framingham, MA'
           - 'Salem, MA'
-          - lorem-ipsum
         is_required: true
         type: form_field
       - input_type: select
