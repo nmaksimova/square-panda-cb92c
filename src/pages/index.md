@@ -171,7 +171,7 @@ sections:
         label: Preferred Location
         default_value: Select a location
         options:
-          - lorem-ipsum
+          - Select a location
           - 'Framingham, MA'
           - 'Salem, MA'
         is_required: true
