@@ -66,7 +66,7 @@ sections:
         media_width: fifty
         actions:
           - label: Book a class
-            url: lorem-ipsum
+            url: /book_class
             style: primary
             has_icon: false
             icon: arrow-left
