@@ -66,17 +66,7 @@ sections:
         media_width: fifty
       - title: PRO-AM
         subtitle: ''
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "There are many wonderful benefits to **competing with your teacher** instead of another amateur. You will improve exponentially faster because your lessons focus entirely on you. \_Your dance training is tailored specifically to your individual goals, strengths, and weaknesses.\n\nAlso, you will feel a lot less stress competing with an experienced professional who will guide you through the entire process. Although it is an amazing journey to compete with an amateur partner, it is often difficult to find a partner who matches your skill level, age, physical requirements, commitment, and budget.\n\nSome people turn to pro-am to continue dancing and improving while searching for an amateur partner. \_Then there are others who dance pro-am exclusively because they are hooked on improving at their own pace, having individually-tailored lessons, competing with an experienced professional, and excelling in the pro-am competition circuit.\n"
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
