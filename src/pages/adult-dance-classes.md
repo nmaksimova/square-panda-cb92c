@@ -64,8 +64,8 @@ sections:
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
-      - title: Pro-AM
-        subtitle: lorem-ipsum
+      - title: PRO-AM
+        subtitle: ''
         content: >-
           ## Lorem ipsum
 
