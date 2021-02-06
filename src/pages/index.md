@@ -173,6 +173,7 @@ sections:
         options:
           - 'Framingham, MA'
           - 'Salem, MA'
+          - lorem-ipsum
         is_required: true
         type: form_field
       - input_type: select
