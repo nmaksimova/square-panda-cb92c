@@ -180,7 +180,7 @@ sections:
         label: How did you hear about us?
         default_value: ''
         options:
-          - lorem-ipsum
+          - ''
           - Google
           - Family/Friend
           - Social Media
