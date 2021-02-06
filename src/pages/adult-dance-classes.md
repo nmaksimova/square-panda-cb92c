@@ -140,7 +140,13 @@ sections:
     align: center
   - type: cta_section
     title: Complimentary first dance lesson
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
+    content: >
+      Book your first dance class with Ilta to get started your dance journey.
+      Our experienced instructors will introduce you to different dance styles
+      during your one-on-one first lesson.
+
+
+      **Fill out this short form and start your dance adventure with us!**
     actions:
       - label: Compare Plans
         url: /pricing
