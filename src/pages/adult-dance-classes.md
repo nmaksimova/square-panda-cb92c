@@ -158,6 +158,6 @@ sections:
     background_color: primary
     background_image: >-
       images/stock-photo-talented-dance-instructor-teaching-aging-couple-at-the-ballroom-605494889.jpg
-    background_image_opacity: 20
+    background_image_opacity: 10
 template: advanced
 ---
