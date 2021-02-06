@@ -7,7 +7,8 @@ sections:
     subtitle: 'Ilta Dance Studio offers adult ballroom and latin dance classes. '
     align: center
     background_color: secondary
-    background_image: images/Adult_dance_classes_2.jpg
+    background_image: >-
+      images/stock-photo-lovely-young-couple-dancing-together-at-party-1600581697_background.jpg
     background_image_position: center center
     background_image_opacity: 40
     content: ''
@@ -27,32 +28,56 @@ sections:
           to each student and help students to find their own dance styles.
           Contact us to learn more about our **adult dance classes** or **book
           your first complimentary private lesson**.
-        image: images/marvelous-dolphin.jpg
+        image: >-
+          images/stock-photo-romantic-couple-smiling-and-dancing-on-a-sunny-day-1441832486.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
-      - title: Section Title Two
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-        image: images/about-2.jpg
+      - title: 'Group Classes '
+        subtitle: ''
+        content: >
+          It doesn't matter if you are an experienced dancer or just a beginner
+          who wants to learn **how to dance**, Ilta Dance has group programs for
+          all levels.
+
+
+          Beginner group classes are designed for those who have no previous
+          dance experience or have a little bit of dance experience and would
+          like to learn the steps properly.
+
+
+          Intermediate group classes are for the next level. Building on what
+          you already know or expand your dance repertoire, learn new dances and
+          add more steps and patterns. **Waltz**, **Foxtrot**, **Swing**,
+          **Tango**, **Cha Cha**, and **Latin dancing** – **Rumba**, **Salsa**,
+          **Samba** and **Merengue**.
+        image: >-
+          images/stock-photo-lovely-young-couple-dancing-together-at-party-1593172162.jpg
         image_alt: People in a conference room
         media_position: left
         media_width: fifty
-      - title: Section Title Three
-        subtitle: 'Donec nisl ligula, cursus id molestie vel. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-        image: images/about-1.jpg
+      - title: Private Lessons
+        subtitle: ''
+        content: "Best way to receive personalized attention and faster learn dancing. Lessons may be for one or couple with any instructor. The Introductory 1/2 hour lesson is available at discounted rate. You will learn steps, step patterns, how to create combinations of steps and good leader / follower techniques as well as overview of the dances. Ballroom – Waltz, Foxtrot, Swing, Tango, Cha Cha. Latin dancing – Rumba, Salsa, Samba and Merengue.\n\n\n**30\_minute COMPLIMENTARY lesson (adults only)**\n"
+        image: >-
+          images/stock-photo-delighted-dance-instructor-tangoing-with-senior-woman-at-the-ballroom-605501690.jpg
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
+      - title: PRO-AM
+        subtitle: ''
+        content: "There are many wonderful benefits to **competing with your teacher** instead of another amateur. You will improve exponentially faster because your lessons focus entirely on you. \_Your dance training is tailored specifically to your individual goals, strengths, and weaknesses.\n\nAlso, you will feel a lot less stress competing with an experienced professional who will guide you through the entire process. Although it is an amazing journey to compete with an amateur partner, it is often difficult to find a partner who matches your skill level, age, physical requirements, commitment, and budget.\n\nSome people turn to pro-am to continue dancing and improving while searching for an amateur partner. \_Then there are others who dance pro-am exclusively because they are hooked on improving at their own pace, having individually-tailored lessons, competing with an experienced professional, and excelling in the pro-am competition circuit.\n"
+        actions: []
+        image_alt: lorem-ipsum
+        video_embed_html: ''
+        media_position: left
+        media_width: fifty
+        align: left
+        type: feature
+        image: >-
+          images/stock-photo-couple-feet-of-dancers-woman-and-man-latino-dancing-1082722793.jpg
   - type: grid_section
-    title: Our Officess
+    title: Our Locations
     grid_items:
       - title: Some City
         content: >-
