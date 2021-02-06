@@ -2,33 +2,6 @@
 title: Home
 excerpt: lorem-ipsum
 sections:
-  - type: hero_section
-    title: Welcome to Ilta Dance!
-    subtitle: ''
-    content: "**We\_offer group classes, private lessons\_and other opportunities to help you learn the art\_of Ballroom and Latin dancing!\_Whether you are a novice or an experienced dancer,\_we have the right instructor to work with you!\_Our students are finalists and winners of many competitions and National championships.**\n"
-    actions:
-      - label: Complimentary Lesson
-        url: /pricing
-        style: primary
-      - label: Gift Card
-        url: /features
-        style: primary
-    image: images/ILTA_LOGO_TR_GREY.png
-    image_alt: Ilta Dance Studio
-    media_position: top
-    media_width: sixty
-    align: right
-    padding_top: large
-    padding_bottom: large
-    background_color: secondary
-    background_image: >-
-      images/stock-photo-happy-sweet-senior-couple-dancing-slow-ballroom-dance-inside-the-house-during-their-leisure-time-290952215.jpg
-    background_image_opacity: 60
-    background_image_size: cover
-    background_image_position: center bottom
-    has_border: false
-    background_image_repeat: no-repeat
-    video_embed_html: ''
   - title: Book your first class with us
     subtitle: ''
     title_align: left
