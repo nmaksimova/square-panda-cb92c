@@ -103,37 +103,6 @@ sections:
     enable_cards: true
     align: center
     background_color: none
-  - type: grid_section
-    title: Meet Our Teachers
-    subtitle: ''
-    actions:
-      - label: Learn more
-        url: /style-guide
-        style: primary
-    grid_items:
-      - title: Tamaz Shiloshvili
-        subtitle: ''
-        title_align: center
-        image: images/TAMAZ.png
-        image_position: top
-      - title: Ilana Meshkausk
-        subtitle: ''
-        title_align: center
-        image: images/ILANA.png
-        image_position: top
-      - title: Jenya Didenko
-        subtitle: ''
-        title_align: center
-        image: images/JENYA.png
-        image_position: top
-      - title: Shelly Linder
-        subtitle: ''
-        title_align: center
-        image: images/Shelly.png
-        image_position: top
-    grid_cols: three
-    align: center
-    background_color: secondary
   - title: Book your first class with us
     subtitle: ''
     title_align: left
