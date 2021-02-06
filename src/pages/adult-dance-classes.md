@@ -150,7 +150,7 @@ sections:
     actions:
       - label: Book your first class
         url: /pricing
-        style: secondary
+        style: primary
     align: center
     padding_top: medium
     padding_bottom: medium
