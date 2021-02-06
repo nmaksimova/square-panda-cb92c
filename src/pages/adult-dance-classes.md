@@ -188,7 +188,7 @@ sections:
     form_width: fifty
     form_layout: stacked
     enable_card: false
-    form_id: 'Book a '
+    form_id: Book a class
     form_action: lorem-ipsum
     form_fields: []
     submit_label: lorem-ipsum
