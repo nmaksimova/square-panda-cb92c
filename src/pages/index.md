@@ -43,8 +43,8 @@ sections:
         actions:
           - label: Learn More
             url: /style-guide
-            style: link
-            has_icon: true
+            style: primary
+            has_icon: false
             icon: arrow-right
             icon_position: right
         actions_align: right
@@ -65,8 +65,8 @@ sections:
         actions:
           - label: Learn More
             url: /adult-dance-classes
-            style: link
-            has_icon: true
+            style: primary
+            has_icon: false
             icon: arrow-right
             icon_position: right
         actions_align: right
@@ -86,8 +86,8 @@ sections:
         actions:
           - label: Learn More
             url: /style-guide
-            style: link
-            has_icon: true
+            style: primary
+            has_icon: false
             icon: arrow-right
             icon_position: right
         actions_align: right
@@ -169,8 +169,9 @@ sections:
       - input_type: select
         name: Preferred Location
         label: Preferred Location
-        default_value: 'Framingham, MA'
+        default_value: Select a location
         options:
+          - Select a location
           - 'Framingham, MA'
           - 'Salem, MA'
         is_required: true
@@ -180,6 +181,7 @@ sections:
         label: How did you hear about us?
         default_value: ''
         options:
+          - ''
           - Google
           - Family/Friend
           - Social Media
