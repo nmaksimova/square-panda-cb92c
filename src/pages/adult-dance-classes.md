@@ -106,8 +106,16 @@ sections:
           A Performing Arts Academy
 
 
-          96 Swampscott Rd #6Salem, MA
-          01970[781-492-2769](tel:+12345567890)[**dance@iltadance.com**](mailto:dance@iltadance.com)[](mailto:email@example.com)
+          96 Swampscott Rd #6
+
+
+          Salem, MA 01970
+
+
+          [781-492-2769](tel:+12345567890)
+
+
+          [**dance@iltadance.com**](mailto:dance@iltadance.com)[](mailto:email@example.com)
 
 
           [](mailto:email@example.com)
