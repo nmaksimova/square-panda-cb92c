@@ -139,7 +139,7 @@ sections:
     background_color: secondary
     align: center
   - type: cta_section
-    title: Book your first free private class
+    title: Complimentary first dance lesson
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
       - label: Compare Plans
