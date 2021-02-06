@@ -77,7 +77,7 @@ sections:
         image: >-
           images/stock-photo-couple-feet-of-dancers-woman-and-man-latino-dancing-1082722793.jpg
   - type: grid_section
-    title: Our Officess
+    title: Our Locations
     grid_items:
       - title: Some City
         content: >-
