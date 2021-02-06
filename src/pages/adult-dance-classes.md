@@ -58,10 +58,7 @@ sections:
         media_width: fifty
       - title: Private Lessons
         subtitle: ''
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: "Best way to receive personalized attention and faster learn dancing. Lessons may be for one or couple with any instructor. The Introductory 1/2 hour lesson is available at discounted rate. You will learn steps, step patterns, how to create combinations of steps and good leader / follower techniques as well as overview of the dances. Ballroom – Waltz, Foxtrot, Swing, Tango, Cha Cha. Latin dancing – Rumba, Salsa, Samba and Merengue.\n\n\n**30\_minute COMPLIMENTARY lesson (adults only)**\n"
         image: images/about-1.jpg
         image_alt: Happy co-workers
         media_position: right
