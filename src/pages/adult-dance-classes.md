@@ -94,7 +94,7 @@ sections:
           **fill it out and email back to us.**
         actions:
           - label: Download form
-            url: lorem-ipsum
+            url: 'https://square-panda-cb92c.netlify.app/images/ILTA-Adults-2020.pdf'
             style: link
             has_icon: false
             icon: arrow-left
