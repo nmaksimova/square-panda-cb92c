@@ -93,7 +93,7 @@ sections:
           Form](https://square-panda-cb92c.netlify.app/images/ILTA-Adults-2020.pdf),
           **fill it out and email back to us.**
         actions:
-          - label: lorem-ipsum
+          - label: Download form
             url: lorem-ipsum
             style: link
             has_icon: false
