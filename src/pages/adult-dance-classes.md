@@ -102,7 +102,7 @@ sections:
           #### Please download Adult Registration Form, fill it out and email
           back to us.
         actions:
-          - label: Download Registration form
+          - label: Download Registration Form
             url: 'https://square-panda-cb92c.netlify.app/images/ILTA-Adults-2020.pdf'
             style: primary
             has_icon: false
