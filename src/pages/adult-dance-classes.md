@@ -58,7 +58,7 @@ sections:
         media_width: fifty
       - title: Private Lessons
         subtitle: ''
-        content: "Best way to receive personalized attention and faster learn dancing. Lessons may be for one or couple with any instructor. The Introductory 1/2 hour lesson is available at discounted rate. You will learn steps, step patterns, how to create combinations of steps and good leader / follower techniques as well as overview of the dances. Ballroom – Waltz, Foxtrot, Swing, Tango, Cha Cha. Latin dancing – Rumba, Salsa, Samba and Merengue.\n\n**30\_minute COMPLIMENTARY lesson (adults only)**\n\n****\n\n[**Download Adults Registration Form**](https://square-panda-cb92c.netlify.app/images/ILTA-Adults-2020.pdf)\n"
+        content: "Best way to receive personalized attention and faster learn dancing. Lessons may be for one or couple with any instructor. The Introductory 1/2 hour lesson is available at discounted rate. You will learn steps, step patterns, how to create combinations of steps and good leader / follower techniques as well as overview of the dances. Ballroom – Waltz, Foxtrot, Swing, Tango, Cha Cha. Latin dancing – Rumba, Salsa, Samba and Merengue.\n\n**30\_minute COMPLIMENTARY lesson (adults only)**\n\n"
         image: >-
           images/stock-photo-delighted-dance-instructor-tangoing-with-senior-woman-at-the-ballroom-605501690.jpg
         image_alt: Happy co-workers
