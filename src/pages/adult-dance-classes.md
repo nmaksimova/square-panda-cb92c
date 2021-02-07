@@ -106,7 +106,7 @@ sections:
         video_embed_html: ''
         media_position: top
         media_width: fifty
-        align: left
+        align: center
         type: feature
   - type: cta_section
     title: Complimentary first dance lesson
