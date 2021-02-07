@@ -89,9 +89,9 @@ sections:
       - title: ''
         subtitle: ''
         content: >
-          **Please download **[Adult Registration
-          Form](https://square-panda-cb92c.netlify.app/images/ILTA-Adults-2020.pdf),**
-          fill it out and email back to us.**
+          **Please download** [Adult Registration
+          Form](https://square-panda-cb92c.netlify.app/images/ILTA-Adults-2020.pdf),
+          **fill it out and email back to us.**
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: ''
