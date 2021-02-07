@@ -86,6 +86,19 @@ sections:
         type: feature
         image: >-
           images/stock-photo-couple-feet-of-dancers-woman-and-man-latino-dancing-1082722793.jpg
+      - title: ''
+        subtitle: ''
+        content: >
+          **Please download** [Adult Registration
+          Form](https://square-panda-cb92c.netlify.app/images/ILTA-Adults-2020.pdf),
+          **fill it out and email back to us.**
+        actions: []
+        image_alt: lorem-ipsum
+        video_embed_html: ''
+        media_position: top
+        media_width: fifty
+        align: left
+        type: feature
   - type: cta_section
     title: Complimentary first dance lesson
     content: >
