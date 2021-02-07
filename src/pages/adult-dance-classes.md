@@ -88,17 +88,10 @@ sections:
           images/stock-photo-couple-feet-of-dancers-woman-and-man-latino-dancing-1082722793.jpg
       - title: ''
         subtitle: ''
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          ## Please download [Adult Registration
+          Form](https://square-panda-cb92c.netlify.app/images/ILTA-Adults-2020.pdf),
+          fill it out and email back to us.
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
