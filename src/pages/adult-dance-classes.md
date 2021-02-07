@@ -58,7 +58,7 @@ sections:
         media_width: fifty
         actions:
           - label: Download Registration Form
-            url: lorem-ipsum
+            url: 'https://square-panda-cb92c.netlify.app/images/ILTA-Adults-2020.pdf'
             style: link
             has_icon: false
             icon: arrow-left
