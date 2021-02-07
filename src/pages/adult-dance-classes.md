@@ -57,7 +57,7 @@ sections:
         media_position: left
         media_width: fifty
         actions:
-          - label: lorem-ipsum
+          - label: Download Registration Form
             url: lorem-ipsum
             style: link
             has_icon: false
