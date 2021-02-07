@@ -87,7 +87,7 @@ sections:
         image: >-
           images/stock-photo-couple-feet-of-dancers-woman-and-man-latino-dancing-1082722793.jpg
       - title: ''
-        subtitle: lorem-ipsum
+        subtitle: ''
         content: >-
           ## Lorem ipsum
 
