@@ -14,7 +14,7 @@ sections:
     content: ''
   - type: features_section
     features:
-      - title: Adult Ballroom and Latin Dance Classes
+      - title: Your Wedding Day First Dance
         subtitle: ''
         content: >
           It's never too late to learn how to dance! Our experienced dance
