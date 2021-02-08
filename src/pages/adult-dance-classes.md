@@ -53,7 +53,8 @@ sections:
 
           Dances we teach:
 
-          Ballroom - **Waltz**, **Tango**, **Foxtrot**, **Viennese Waltz**,
+
+          **Ballroom** - **Waltz**, **Tango**, **Foxtrot**, **Viennese Waltz**,
           **Quickstep;**
 
 
