@@ -90,7 +90,7 @@ sections:
         media_position: left
         media_width: fifty
         actions:
-          - label: Download Kids Registration Form
+          - label: Kids Registration Form
             url: >-
               https://square-panda-cb92c.netlify.app/images/ILTA-Registration-20.pdf
             style: secondary
