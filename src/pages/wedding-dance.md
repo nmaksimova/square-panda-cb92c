@@ -14,7 +14,7 @@ sections:
     content: ''
   - type: features_section
     features:
-      - title: Your Wedding Day First Dance
+      - title: ' First Dance'
         subtitle: ''
         content: >
 
