@@ -14,7 +14,7 @@ sections:
     background_image_size: cover
   - type: features_section
     features:
-      - title: Adult Ballroom and Latin Dance Classes
+      - title: Kids Programs
         subtitle: ''
         content: >
           It's never too late to learn how to dance! Our experienced dance
