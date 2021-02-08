@@ -17,20 +17,20 @@ sections:
       - title: Your Wedding Day First Dance
         subtitle: ''
         content: >
-          It's never too late to learn how to dance! Our experienced dance
-          instructors will help you to start and succeed in your dance journey.
-          Whether you interested in **social dancing**, **wedding dance
-          program** or **competitive dance lessons**, **Ilta Dance Studio** is
-          the right place to go.
+
+          Your first dance together as husband and wife is an expression of your
+          love and commitment, embodying the vows you’ve just made to one
+          another. Make your special dance elegant and memorable. Amaze your
+          family and friends.
 
 
-          Don't have a partner? No worries, we have special dance programs
-          designs for single dancers. Ilta dance teachers use unique approaches
-          to each student and help students to find their own dance styles. 
+          Wedding dance preparation includes basic instruction in dance
+          fundamentals leading to a choreography developed just for the two of
+          you (to a song of your choice) and the skill to gracefully improvise
+          on the dance floor.
 
 
-          [Contact us](/contact) to learn more about our **adult dance classes**
-          or [**book**](/book_class) your first complimentary private lesson.
+          Contact us to learn more about our **wedding program**.
         image: >-
           images/stock-photo-romantic-couple-smiling-and-dancing-on-a-sunny-day-1441832486.jpg
         image_alt: People in conversation in the office lounge area
