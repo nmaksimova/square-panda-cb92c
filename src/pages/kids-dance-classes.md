@@ -121,16 +121,7 @@ sections:
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
-        actions:
-          - label: Book your first class
-            url: /book_class
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
       - title: Online Classes
         subtitle: ''
         content: >
