@@ -47,15 +47,6 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: Book your first free class
-            url: /book_class
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
       - title: 'Group Classes '
         subtitle: ''
         content: >
