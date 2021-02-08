@@ -12,7 +12,7 @@ sections:
       - label: Gift Card
         url: /features
         style: primary
-    image: images/ILTA_LOGO_TR_GREY.png
+    image: images/ILTA_DANCE_LOGO.png
     image_alt: Ilta Dance Studio
     media_position: top
     media_width: sixty
@@ -42,7 +42,7 @@ sections:
         content_align: left
         actions:
           - label: Learn More
-            url: /style-guide
+            url: /kids-dance-classes
             style: primary
             has_icon: false
             icon: arrow-right

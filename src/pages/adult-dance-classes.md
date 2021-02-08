@@ -19,20 +19,42 @@ sections:
         content: >
           It's never too late to learn how to dance! Our experienced dance
           instructors will help you to start and succeed in your dance journey.
-          Whether you interested in social dancing, wedding dance program or
-          competitive dance lessons, Ilta Dance Studio is the right place to go.
+          Whether you interested in **social dancing**, **wedding dance
+          program** or **competitive dance lessons**, **Ilta Dance Studio** is
+          the right place to go.
 
 
           Don't have a partner? No worries, we have special dance programs
           designs for single dancers. Ilta dance teachers use unique approaches
-          to each student and help students to find their own dance styles.
-          Contact us to learn more about our **adult dance classes** or **book
-          your first complimentary private lesson**.
+          to each student and help students to find their own dance styles. 
+
+
+          [Contact us](/contact) to learn more about our **adult dance classes**
+          or [**book**](/book_class) your first complimentary private lesson.
         image: >-
           images/stock-photo-romantic-couple-smiling-and-dancing-on-a-sunny-day-1441832486.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
+        actions:
+          - label: Contact us
+            url: /contact
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+          - label: Book your first free class
+            url: /book_class
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
       - title: 'Group Classes '
         subtitle: ''
         content: >
@@ -71,11 +93,20 @@ sections:
             style: secondary
             has_icon: false
             icon: arrow-left
+            icon_position: center
+            new_window: false
+            no_follow: false
+            type: action
+          - label: Group Schedule Framingham
+            url: lorem-ipsum
+            style: primary
+            has_icon: false
+            icon: arrow-left
             icon_position: right
             new_window: false
             no_follow: false
             type: action
-          - label: Group Schedule
+          - label: Group Schedule Salem
             url: lorem-ipsum
             style: primary
             has_icon: false
@@ -191,13 +222,7 @@ sections:
           [**dance@iltadance.com**](mailto:dance@iltadance.com)
 
         content_align: left
-        actions:
-          - label: Get Directions
-            url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         actions_align: left
         actions_width: auto
       - title: Salem
@@ -219,13 +244,7 @@ sections:
 
           [](mailto:email@example.com)
         content_align: left
-        actions:
-          - label: Get Directions
-            url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         actions_align: left
         actions_width: auto
     grid_cols: two
