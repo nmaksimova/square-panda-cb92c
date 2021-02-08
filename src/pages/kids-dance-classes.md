@@ -21,7 +21,10 @@ sections:
           and levels. There are a lot of **benefits of ballroom dancing for
           children**. During fun and engaging atmosphere at our classes they
           will learn crucial aspects of coordination, body awareness, balance,
-          teamwork.
+          teamwork. Dance activities help kids to develop sense of rhythm,
+          musicality, flexibility of the body. At early age they learn how to
+          work in a team, getting sense of partner leading and following
+          techniques.
 
 
           Working together with a partner, competing on a dance floor, winning
