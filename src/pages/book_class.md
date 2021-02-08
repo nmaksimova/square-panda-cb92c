@@ -42,7 +42,7 @@ sections:
         options:
           - 'Framingham, MA'
           - 'Salem, MA'
-          - lorem-ipsum
+          - Select a loca
         is_required: true
         type: form_field
       - input_type: select
