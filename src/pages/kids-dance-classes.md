@@ -8,7 +8,7 @@ sections:
     align: center
     background_color: secondary
     background_image: images/IMG_0500.jpeg
-    background_image_position: center center
+    background_image_position: center top
     background_image_opacity: 30
     content: ''
     background_image_size: cover
