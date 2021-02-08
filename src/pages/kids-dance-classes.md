@@ -116,8 +116,7 @@ sections:
           children or youth taking private lessons who want to compete, and
           don’t have a partner, the instructor will be their partner for shows
           and competitions, as well as in the lessons.
-        image: >-
-          images/stock-photo-delighted-dance-instructor-tangoing-with-senior-woman-at-the-ballroom-605501690.jpg
+        image: images/Kids_Private_Classes.jpg
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
