@@ -86,7 +86,7 @@ sections:
         content_align: left
         actions:
           - label: Learn More
-            url: /style-guide
+            url: /wedding-dance
             style: primary
             has_icon: false
             icon: arrow-right
