@@ -150,7 +150,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: images/IMG_0521.jpg
+        image: images/Online_kids_lessons.jpg
       - title: ''
         subtitle: ''
         content: >
