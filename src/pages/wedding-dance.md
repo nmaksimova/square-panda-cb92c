@@ -1,6 +1,6 @@
 ---
 title: Wedding Dance Classes
-excerpt: lorem-ipsum
+excerpt: Wedding Dance
 sections:
   - type: hero_section
     title: Adult Dance Classes
