@@ -3,7 +3,7 @@ title: Kids Dance Classes
 excerpt: Kids Dance Classes
 sections:
   - type: hero_section
-    title: Adult Dance Classes
+    title: Kids Dance Classes
     subtitle: 'Ilta Dance Studio offers adult ballroom and latin dance classes. '
     align: center
     background_color: secondary
