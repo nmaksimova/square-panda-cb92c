@@ -40,7 +40,7 @@ sections:
         label: Preferred Location
         default_value: Select a location
         options:
-          - Select a location
+          - ''
           - 'Framingham, MA'
           - 'Salem, MA'
           - Online Class
