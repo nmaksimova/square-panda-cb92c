@@ -37,7 +37,7 @@ sections:
         media_position: right
         media_width: fifty
         actions:
-          - label: lorem-ipsum
+          - label: Contact us
             url: lorem-ipsum
             style: link
             has_icon: false
