@@ -1,5 +1,5 @@
 ---
-title: Adult Dance Classes
+title: Kids Dance Classes
 excerpt: lorem-ipsum
 sections:
   - type: hero_section
