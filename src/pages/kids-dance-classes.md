@@ -81,7 +81,8 @@ sections:
         media_width: fifty
         actions:
           - label: Download Kids Registration Form
-            url: 'https://square-panda-cb92c.netlify.app/images/ILTA-Adults-2020.pdf'
+            url: >-
+              https://square-panda-cb92c.netlify.app/images/ILTA-Registration-20.pdf
             style: secondary
             has_icon: false
             icon: arrow-left
