@@ -51,12 +51,12 @@ sections:
         label: How did you hear about us?
         default_value: ''
         options:
+          - ''
           - Google
           - Family/Friend
           - Social Media
           - Competition
           - Other
-          - ''
         is_required: true
         type: form_field
       - input_type: textarea
