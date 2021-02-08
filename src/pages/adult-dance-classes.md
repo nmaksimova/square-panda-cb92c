@@ -106,7 +106,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: 'Group Schedule '
+          - label: Group Schedule Salem
             url: lorem-ipsum
             style: link
             has_icon: false
