@@ -47,7 +47,7 @@ sections:
             no_follow: false
             type: action
           - label: Book your first free class
-            url: lorem-ipsum
+            url: /book_class
             style: link
             has_icon: false
             icon: arrow-left
