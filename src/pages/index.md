@@ -32,7 +32,7 @@ sections:
     title: Start Dancing Today!
     subtitle: ''
     grid_items:
-      - title: Kids
+      - title: Kids Classes
         title_align: center
         content: >
           For children and youth who are interested in competing, a year of
