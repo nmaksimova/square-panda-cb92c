@@ -52,19 +52,17 @@ sections:
       - title: Kids Group Classes
         subtitle: ''
         content: >
-          It doesn't matter if you are an experienced dancer or just a beginner
-          who wants to learn **how to dance**, Ilta Dance has group programs for
-          all levels.
+          Our group classes designed for kids all ages and levels. 
 
 
-          Beginner group classes are designed for those who have no previous
-          dance experience or have a little bit of dance experience and would
-          like to learn the steps properly.
+          Group classes for our youngest dancers (starting from **3-4 years
+          old**) focus on musicality and an easy start on rhythm and posture
+          using simple stretches, fun music and movement. 
 
 
-          Intermediate group classes are for the next level. Building on what
-          you already know or expand your dance repertoire, learn new dances and
-          add more steps and patterns.
+          In group classes for **older children and youth**, the focus is on
+          developing a solid foundation in the basics. You will learn steps and
+          step patterns, posture, dancing on beat and more.
 
 
           Dances we teach:
