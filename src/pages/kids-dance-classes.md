@@ -9,7 +9,7 @@ sections:
     background_color: secondary
     background_image: images/IMG_0500.jpeg
     background_image_position: center center
-    background_image_opacity: 40
+    background_image_opacity: 15
     content: ''
   - type: features_section
     features:
