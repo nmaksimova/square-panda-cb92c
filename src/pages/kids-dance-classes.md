@@ -11,6 +11,7 @@ sections:
     background_image_position: center center
     background_image_opacity: 30
     content: ''
+    background_image_size: cover
   - type: features_section
     features:
       - title: Adult Ballroom and Latin Dance Classes
