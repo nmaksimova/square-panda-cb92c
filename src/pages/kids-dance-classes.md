@@ -46,7 +46,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-      - title: 'Group Classes '
+      - title: Kids Group Classes
         subtitle: ''
         content: >
           It doesn't matter if you are an experienced dancer or just a beginner
