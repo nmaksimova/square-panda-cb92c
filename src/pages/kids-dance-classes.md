@@ -132,7 +132,7 @@ sections:
         media_position: right
         media_width: fifty
         actions: []
-      - title: HIP HOP Classes for Kids
+      - title: HIP Hop Classes for Kids
         subtitle: ''
         content: "This is very energizing class for children of all ages. We teach coordination required for **hip‐hop** movements, with the physical development of child’s age in mind.\_ Beginner program focuses on fundamentals of hip‐hop. Students learn the necessary elements and moves which require the coordination and balance with contemporary music.\n"
         actions: []
