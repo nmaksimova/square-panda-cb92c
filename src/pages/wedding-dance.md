@@ -55,27 +55,6 @@ sections:
             new_window: false
             no_follow: false
             type: action
-      - title: ''
-        subtitle: ''
-        content: >
-          #### Please download Adult Registration Form, fill it out and email
-          back to us.
-        actions:
-          - label: Download Registration Form
-            url: 'https://square-panda-cb92c.netlify.app/images/ILTA-Adults-2020.pdf'
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        image_alt: lorem-ipsum
-        video_embed_html: ''
-        media_position: top
-        media_width: fifty
-        align: center
-        type: feature
   - type: cta_section
     title: Complimentary first dance lesson
     content: >
