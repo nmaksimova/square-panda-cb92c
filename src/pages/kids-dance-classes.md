@@ -16,7 +16,7 @@ sections:
     actions:
       - label: Kids Registration Form
         url: 'https://square-panda-cb92c.netlify.app/images/ILTA-Registration-20.pdf'
-        style: link
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
