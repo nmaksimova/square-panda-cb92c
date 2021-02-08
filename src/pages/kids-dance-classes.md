@@ -96,7 +96,7 @@ sections:
             style: secondary
             has_icon: false
             icon: arrow-left
-            icon_position: center
+            icon_position: right
             new_window: false
             no_follow: false
             type: action
