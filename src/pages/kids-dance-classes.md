@@ -89,7 +89,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: Group Schedule Framingham
+          - label: Kids Schedule Framingham
             url: lorem-ipsum
             style: primary
             has_icon: false
