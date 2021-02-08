@@ -8,7 +8,7 @@ sections:
     align: center
     background_color: secondary
     background_image: >-
-      images/stock-photo-lovely-young-couple-dancing-together-at-party-1600581697_background.jpg
+      images/stock-photo-location-of-hands-of-the-newlyweds-in-the-first-wedding-dance-1018356046.jpg
     background_image_position: center center
     background_image_opacity: 40
     content: ''
