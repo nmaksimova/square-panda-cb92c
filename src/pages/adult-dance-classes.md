@@ -135,7 +135,7 @@ sections:
         media_width: fifty
         align: center
         type: feature
-      - title: lorem-ipsum
+      - title: Online Classes
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
