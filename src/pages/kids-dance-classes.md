@@ -150,7 +150,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: images/IMG_0519.jpg
+        image: images/IMG_0521.jpg
       - title: ''
         subtitle: ''
         content: >
