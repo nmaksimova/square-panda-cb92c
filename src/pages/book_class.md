@@ -38,10 +38,12 @@ sections:
       - input_type: select
         name: Preferred Location
         label: Preferred Location
-        default_value: 'Framingham, MA'
+        default_value: Select a location
         options:
+          - Select a location
           - 'Framingham, MA'
           - 'Salem, MA'
+          - Online Class
         is_required: true
         type: form_field
       - input_type: select
@@ -49,6 +51,7 @@ sections:
         label: How did you hear about us?
         default_value: ''
         options:
+          - ''
           - Google
           - Family/Friend
           - Social Media
