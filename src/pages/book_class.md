@@ -38,7 +38,7 @@ sections:
       - input_type: select
         name: Preferred Location
         label: Preferred Location
-        default_value: 'Framingham, MA'
+        default_value: Select a location
         options:
           - Select a location
           - 'Framingham, MA'
