@@ -42,7 +42,7 @@ sections:
         content_align: left
         actions:
           - label: Learn More
-            url: /style-guide
+            url: /kids-dance-classes
             style: primary
             has_icon: false
             icon: arrow-right
