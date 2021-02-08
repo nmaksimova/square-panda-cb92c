@@ -137,17 +137,14 @@ sections:
         type: feature
       - title: Online Classes
         subtitle: ''
-        content: >-
-          ## Lorem ipsum
+        content: >
+          **Ilta Dance** offers an exciting new way of learning the art of dance
+          from the comfort of your home. It's very important to keep practicing
+          and improving your dance routine even if you can't go to the studio.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          We teach **online zoom lessons** for any levels. Private and group
+          classes are available. 
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: ''
