@@ -48,12 +48,12 @@ sections:
 
           Intermediate group classes are for the next level. Building on what
           you already know or expand your dance repertoire, learn new dances and
-          add more steps and patterns. 
+          add more steps and patterns.
 
 
-          Dances we teach:** 
+          Dances we teach:
 
-          Ballroom - Waltz**, **Tango**, **Foxtrot**, **Viennese Waltz**,
+          Ballroom - **Waltz**, **Tango**, **Foxtrot**, **Viennese Waltz**,
           **Quickstep;**
 
 
