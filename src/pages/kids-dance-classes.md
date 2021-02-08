@@ -94,7 +94,7 @@ sections:
             url: >-
               https://square-panda-cb92c.netlify.app/images/ILTA-Registration-20.pdf
             style: secondary
-            has_icon: false
+            has_icon: true
             icon: arrow-left
             icon_position: right
             new_window: false
