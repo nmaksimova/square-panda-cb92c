@@ -109,7 +109,13 @@ sections:
             type: action
       - title: Kids Private Lessons
         subtitle: ''
-        content: "Best way to receive personalized attention and faster learn dancing. Lessons may be for one or couple with any instructor. The Introductory 1/2 hour lesson is available at discounted rate. You will learn steps, step patterns, how to create combinations of steps and good leader / follower techniques as well as overview of the dances. \n\n**30\_minute COMPLIMENTARY lesson (adults only)**\n"
+        content: >
+          For children who are interested in competing, a year of group work in
+          preparation is recommended. Private lessons for children and youth can
+          focus on social dance skills or preparation for dance competition. For
+          children or youth taking private lessons who want to compete, and
+          don’t have a partner, the instructor will be their partner for shows
+          and competitions, as well as in the lessons.
         image: >-
           images/stock-photo-delighted-dance-instructor-tangoing-with-senior-woman-at-the-ballroom-605501690.jpg
         image_alt: Happy co-workers
