@@ -48,9 +48,17 @@ sections:
 
           Intermediate group classes are for the next level. Building on what
           you already know or expand your dance repertoire, learn new dances and
-          add more steps and patterns. **Waltz**, **Foxtrot**, **Swing**,
-          **Tango**, **Cha Cha**, and **Latin dancing** – **Rumba**, **Salsa**,
-          **Samba** and **Merengue**.
+          add more steps and patterns. 
+
+
+          Dances we teach:** 
+
+          Ballroom - Waltz**, **Tango**, **Foxtrot**, **Viennese Waltz**,
+          **Quickstep;**
+
+
+          **Latin - Cha Cha**, **Samba**, **Rumba**, **Paso Doble**, **Jive**,
+          **Salsa**, **Swing**, **Bachata**.
         image: >-
           images/stock-photo-lovely-young-couple-dancing-together-at-party-1593172162.jpg
         image_alt: People in a conference room
