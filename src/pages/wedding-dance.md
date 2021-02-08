@@ -3,7 +3,7 @@ title: Wedding Dance Classes
 excerpt: Wedding Dance
 sections:
   - type: hero_section
-    title: Adult Dance Classes
+    title: Wedding Dance
     subtitle: 'Ilta Dance Studio offers adult ballroom and latin dance classes. '
     align: center
     background_color: secondary
