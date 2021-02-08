@@ -132,7 +132,7 @@ sections:
         align: left
         type: feature
         image: >-
-          images/stock-photo-couple-feet-of-dancers-woman-and-man-latino-dancing-1082722793.jpg
+          images/stock-photo-group-of-happy-tweens-with-female-teacher-practicing-hip-hop-in-modern-dance-studio-1779864599.jpg
       - title: Online Classes
         subtitle: ''
         content: >
