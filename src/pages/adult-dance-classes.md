@@ -136,7 +136,7 @@ sections:
         align: center
         type: feature
       - title: Online Classes
-        subtitle: lorem-ipsum
+        subtitle: ''
         content: >-
           ## Lorem ipsum
 
