@@ -43,7 +43,7 @@ sections:
           - Select a location
           - 'Framingham, MA'
           - 'Salem, MA'
-          - lorem-ipsum
+          - Online Class
         is_required: true
         type: form_field
       - input_type: select
