@@ -32,7 +32,7 @@ sections:
     title: Start Dancing Today!
     subtitle: ''
     grid_items:
-      - title: Kids
+      - title: Kids Classes
         title_align: center
         content: >
           For children and youth who are interested in competing, a year of
@@ -48,7 +48,8 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: right
-        image: images/kids_dancing_3.jpg
+        image: >-
+          images/stock-photo-young-dancers-isolated-on-white-background-10892038.jpg
         image_alt: Section item 1 icon
         image_position: top
         image_align: center
@@ -85,7 +86,7 @@ sections:
         content_align: left
         actions:
           - label: Learn More
-            url: /style-guide
+            url: /wedding-dance
             style: primary
             has_icon: false
             icon: arrow-right
