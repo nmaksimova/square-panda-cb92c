@@ -17,20 +17,21 @@ sections:
       - title: Kids Programs
         subtitle: ''
         content: >
-          It's never too late to learn how to dance! Our experienced dance
-          instructors will help you to start and succeed in your dance journey.
-          Whether you interested in **social dancing**, **wedding dance
-          program** or **competitive dance lessons**, **Ilta Dance Studio** is
-          the right place to go.
+          **Ilta Dance Studio** provides different classes for kids of all ages
+          and levels. There are a lot of **benefits of ballroom dancing for
+          children**. During fun and engaging atmosphere at our classes they
+          will learn crucial aspects of coordination, body awareness, balance,
+          teamwork. 
 
 
-          Don't have a partner? No worries, we have special dance programs
-          designs for single dancers. Ilta dance teachers use unique approaches
-          to each student and help students to find their own dance styles. 
+          Working together with a partner, competing on a dance floor, winning
+          competitions help young dancers to build trust, respect, cooperation,
+          and the sense of self-confidence. Our instructors easily find approach
+          to each child, motivate them to open up, achieve new levels and help
+          them grow to be the best versions of themselves.
 
 
-          [Contact us](/contact) to learn more about our **adult dance classes**
-          or [**book**](/book_class) your first complimentary private lesson.
+          [Contact us](/contact) to learn more about our **kids dance classes**.
         image: >-
           images/stock-photo-romantic-couple-smiling-and-dancing-on-a-sunny-day-1441832486.jpg
         image_alt: People in conversation in the office lounge area
