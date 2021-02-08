@@ -154,7 +154,7 @@ sections:
       - title: ''
         subtitle: ''
         content: >
-          #### Please download Adult Registration Form, fill it out and email
+          #### Please download Kids Registration Form, fill it out and email
           back to us.
         actions:
           - label: Download Registration Form
