@@ -14,7 +14,7 @@ sections:
     content: ''
   - type: features_section
     features:
-      - title: ' First Danc'
+      - title: ' First Wedding Danc'
         subtitle: ''
         content: >
 
