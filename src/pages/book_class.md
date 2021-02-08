@@ -40,9 +40,9 @@ sections:
         label: Preferred Location
         default_value: 'Framingham, MA'
         options:
+          - Select a location
           - 'Framingham, MA'
           - 'Salem, MA'
-          - Select a location
         is_required: true
         type: form_field
       - input_type: select
