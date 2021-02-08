@@ -14,7 +14,7 @@ sections:
       ##### To get started, please download **Kids Registration Form**
     background_image_size: cover
     actions:
-      - label: lorem-ipsum
+      - label: Kids Registration Form
         url: lorem-ipsum
         style: link
         has_icon: false
