@@ -110,8 +110,8 @@ sections:
           and improving your dance routine even if you can't go to the studio.
 
 
-          We teach **online zoom lessons** for any levels. Private and group
-          classes are available. 
+          We teach **online zoom lessons** for any levels. **Private and group
+          classes are available.**
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: ''
