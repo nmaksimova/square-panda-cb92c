@@ -10,7 +10,8 @@ sections:
     background_image: images/IMG_0500.jpeg
     background_image_position: center center
     background_image_opacity: 30
-    content: ''
+    content: |
+      ##### To get started, please download **Kids Registration Form**
     background_image_size: cover
   - type: features_section
     features:
