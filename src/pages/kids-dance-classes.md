@@ -32,8 +32,7 @@ sections:
 
 
           [Contact us](/contact) to learn more about our **kids dance classes**.
-        image: >-
-          images/stock-photo-romantic-couple-smiling-and-dancing-on-a-sunny-day-1441832486.jpg
+        image: images/Kids_dance.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
