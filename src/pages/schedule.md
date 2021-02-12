@@ -1,6 +1,6 @@
 ---
 sections:
-  - title: lorem-ipsum
+  - title: Ilta Dance Schedule
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
