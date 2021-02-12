@@ -36,7 +36,7 @@ sections:
       - title: 'Salem, MA'
         title_align: center
         content: |
-          ### Dance Classes Schedule
+          #### Dance Classes Schedule
         content_align: left
         actions: []
         actions_align: left
