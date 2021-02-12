@@ -22,7 +22,7 @@ sections:
       - title_align: center
         content: |
           #### Dance Classes Schedule
-        content_align: left
+        content_align: center
         actions: []
         actions_align: left
         actions_width: auto
