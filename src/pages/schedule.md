@@ -35,8 +35,6 @@ sections:
         title: 'Framingham, MA'
       - title: 'Salem, MA'
         title_align: center
-        content: |
-          #### Dance Classes Schedule
         content_align: center
         actions:
           - label: Dance Classes Schedule
