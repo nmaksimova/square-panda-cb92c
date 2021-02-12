@@ -2,5 +2,5 @@
 excerpt: lorem-ipsum
 sections: []
 template: advanced
-title: 'Dance Group Classes Schedule, Framingham'
+title: 'Dance Group Classes Schedule, Framingham, MA'
 ---
