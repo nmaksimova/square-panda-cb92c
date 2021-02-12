@@ -22,7 +22,7 @@ sections:
       - title_align: center
         content_align: center
         actions:
-          - label: lorem-ipsum
+          - label: Dance Classes Schedule
             url: lorem-ipsum
             style: link
             has_icon: false
