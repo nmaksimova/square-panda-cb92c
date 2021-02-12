@@ -20,8 +20,6 @@ sections:
     actions: []
     grid_items:
       - title_align: center
-        content: |
-          #### Dance Classes Schedule
         content_align: center
         actions: []
         actions_align: left
