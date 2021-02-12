@@ -16,6 +16,7 @@ sections:
     type: hero_section
     background_image: >-
       images/stock-photo-concept-image-of-a-calendar-with-a-blue-push-pin-closeup-shot-of-a-thumbtack-attached-the-words-271990226.jpg
+    title: '     '
   - title: Ilta Dance Schedule
     actions: []
     grid_items:
