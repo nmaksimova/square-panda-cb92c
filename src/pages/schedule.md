@@ -35,7 +35,7 @@ sections:
         title: 'Framingham, MA'
       - title: 'Salem, MA'
         subtitle: lorem-ipsum
-        title_align: left
+        title_align: center
         content: >-
           ## Lorem ipsum
 
