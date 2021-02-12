@@ -33,7 +33,7 @@ sections:
         image_has_padding: false
         type: grid_item
         title: 'Framingham, MA'
-      - title: lorem-ipsum
+      - title: 'Salem, MA'
         subtitle: lorem-ipsum
         title_align: left
         content: >-
