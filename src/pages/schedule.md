@@ -1,7 +1,6 @@
 ---
 sections:
-  - title: Ilta Dance Schedule
-    actions: []
+  - actions: []
     image_alt: lorem-ipsum
     media_position: top
     media_width: fifty
