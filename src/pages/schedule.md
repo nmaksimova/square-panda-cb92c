@@ -19,7 +19,7 @@ sections:
   - title: Ilta Dance Schedule
     actions: []
     grid_items:
-      - title_align: left
+      - title_align: center
         content: >-
           ## Lorem ipsum
 
