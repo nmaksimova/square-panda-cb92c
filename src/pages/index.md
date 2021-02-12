@@ -7,7 +7,7 @@ sections:
     content: "**We\_offer group classes, private lessons\_and other opportunities to help you learn the art\_of Ballroom and Latin dancing!\_Whether you are a novice or an experienced dancer,\_we have the right instructor to work with you!\_Our students are finalists and winners of many competitions and National championships.**\n"
     actions:
       - label: Complimentary Lesson
-        url: /pricing
+        url: /book-class
         style: primary
       - label: Gift Card
         url: /features
