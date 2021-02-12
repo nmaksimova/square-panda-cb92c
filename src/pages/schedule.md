@@ -39,7 +39,7 @@ sections:
           #### Dance Classes Schedule
         content_align: center
         actions:
-          - label: Schedule
+          - label: Dance Classes Schedule
             url: lorem-ipsum
             style: primary
             has_icon: false
