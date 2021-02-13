@@ -18,7 +18,7 @@ sections:
     type: hero_section
     title: ' Framingham Dance Schedule'
     subtitle: '    '
-  - title: Framingham Dance Schedule
+  - title: Kids Ballroom and Latin Classes
     actions: []
     grid_items:
       - title_align: center
