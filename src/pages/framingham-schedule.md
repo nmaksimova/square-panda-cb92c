@@ -154,7 +154,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     background_image: images/happy-steel.jpg
-  - title: lorem-ipsum
+  - title: Adult Classes
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
