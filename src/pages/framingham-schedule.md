@@ -188,17 +188,19 @@ sections:
         type: grid_item
       - title: Adult Ballroom Classes
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: |
+          ##### **Ballroom Dance**
 
+          *(Beginner Level)*
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   Tuesday - **6:45 pm
+              **
 
+          ##### **Ballroom Technique Class**
 
-          - Lorem ipsum
+          *(Advanced Level)*
 
-          - dolor sit amet
+          *   Thursday - **7:00 pm**
         content_align: left
         actions: []
         actions_align: left
