@@ -89,7 +89,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Champ Level Youth
-        title_align: left
+        title_align: center
         content: >-
           ## Lorem ipsum
 
