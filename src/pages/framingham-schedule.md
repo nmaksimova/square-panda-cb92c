@@ -34,17 +34,16 @@ sections:
         type: grid_item
         title: Beginners
         content: |
-
-
           ##### **3 - 4 years old:**
 
-          Saturday - 11:15 am
+          *   Saturday - 11:15 am
 
           ##### **5 - 6 years old:**
 
-          Monday - 5:00 pm
+          *   Monday - 5:00 pm
 
-          Saturday - 10:15 am
+
+          *   Saturday - 10:15 am
       - title: Intermediate
         title_align: center
         content_align: left
