@@ -72,17 +72,13 @@ sections:
           Sunday - 10:00 am
       - title: Advanced
         title_align: center
-        content: >-
-          ## Lorem ipsum
+        content: |
+          ## **Teens:**
+
+          *   Tuesday - 5:45 pm
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   Thursday - 5:45 pm
         content_align: left
         actions: []
         actions_align: left
