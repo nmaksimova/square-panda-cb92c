@@ -90,17 +90,10 @@ sections:
         type: grid_item
       - title: Champ Level Youth
         title_align: center
-        content: >-
-          ## Lorem ipsum
+        content: |
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   Thursday - 5:15 pm
         content_align: left
         actions: []
         actions_align: left
