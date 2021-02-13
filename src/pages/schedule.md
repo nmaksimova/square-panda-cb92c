@@ -15,7 +15,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     background_image: images/Start_Dancing_4.png
-    title: '  Ilta Dance Scheduel'
+    title: '  Ilta Dance Schedule'
     subtitle: '    '
   - title: Ilta Dance Schedule
     actions: []
