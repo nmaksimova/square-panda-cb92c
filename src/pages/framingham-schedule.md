@@ -124,17 +124,10 @@ sections:
     grid_items:
       - title: Beginners
         title_align: center
-        content: >-
-          ## Lorem ipsum
+        content: |
+          ##### **8+ years old**
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   Saturday - 12:00pm
         content_align: left
         actions: []
         actions_align: left
