@@ -154,7 +154,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     background_image: images/happy-steel.jpg
-  - title: Adults Classes
+  - title: Adult Classes
     actions: []
     grid_items:
       - title: Adults Latin Classes
