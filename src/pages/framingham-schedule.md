@@ -73,7 +73,7 @@ sections:
       - title: Advanced
         title_align: center
         content: |
-          #### **Teens:**
+          ##### **Teens:**
 
           *   Tuesday - 5:45 pm
 
