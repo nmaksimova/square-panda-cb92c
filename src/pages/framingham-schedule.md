@@ -171,7 +171,7 @@ sections:
 
           *(Advanced Level)*
 
-          *   Tuesday -** 7:30 pm**
+          *   Tuesday - **7:30 pm**
 
           ##### **Adult Lady's Latin Choreography**
 
