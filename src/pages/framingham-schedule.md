@@ -43,7 +43,7 @@ sections:
         type: grid_item
         title: Beginners
         content: |
-          ##### **3 - 4 years old: **
+          ##### **3 - 4 years old:** 
 
           ##### **5-6 years old:**
       - title: 'Salem, MA'
