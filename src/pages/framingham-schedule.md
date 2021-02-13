@@ -23,16 +23,7 @@ sections:
     grid_items:
       - title_align: center
         content_align: left
-        actions:
-          - label: Dance Classes Schedule
-            url: lorem-ipsum
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
         actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
