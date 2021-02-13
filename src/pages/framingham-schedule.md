@@ -158,7 +158,6 @@ sections:
     actions: []
     grid_items:
       - title: Adults Latin Classes
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
