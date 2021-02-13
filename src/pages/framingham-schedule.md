@@ -44,6 +44,7 @@ sections:
 
 
           *   Saturday - 10:15 am
+        subtitle: Lessons are 45 minutes
       - title: Intermediate
         title_align: center
         content_align: left
