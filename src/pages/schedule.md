@@ -40,16 +40,13 @@ sections:
         type: grid_item
         title: 'Framingham, MA'
         content: |
-          *   Ballroom and Latin Kids Classes for All levels
+          Ballroom and Latin Kids Classes for All levels
 
+          Hip Hop Kids Classes
 
-          *   Hip Hop Kids Classes
+          Adults Ballroom and Latin Classes
 
-
-          *   Adults Ballroom and Latin Classes
-
-
-          *   Adults Social Dancing
+          Adults Social Dancing
       - title: 'Salem, MA'
         title_align: center
         content_align: center
