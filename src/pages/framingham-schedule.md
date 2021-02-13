@@ -162,20 +162,20 @@ sections:
         content: |
           ##### **Adult Social Dancing**
 
-          ###### (Beginner Level)
+          *(Beginner Level)*
 
-          *   Monday -** 6:00 pm**
+          *   Monday - **6:00 pm**
           *   Sunday - **1:00 pm**
 
           ##### **Latin Technique**
 
-          ###### (Advanced Level)
+          *(Advanced Level)*
 
           *   Tuesday -** 7:30 pm**
 
           ##### **Adult Lady's Latin Choreography**
 
-          *   Wednesday -** 7:30 pm**
+          *   Wednesday - **7:30 pm**
         content_align: left
         actions: []
         actions_align: left
