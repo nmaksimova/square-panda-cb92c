@@ -47,7 +47,7 @@ sections:
           Saturday - 10:15 am
       - title: Intermediate
         title_align: center
-        content_align: center
+        content_align: left
         actions:
           - label: Dance Classes Schedule
             url: lorem-ipsum
