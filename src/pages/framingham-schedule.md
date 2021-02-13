@@ -123,7 +123,7 @@ sections:
     actions: []
     grid_items:
       - title: Beginners
-        title_align: left
+        title_align: center
         content: >-
           ## Lorem ipsum
 
