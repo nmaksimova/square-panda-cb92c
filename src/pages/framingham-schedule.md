@@ -193,8 +193,8 @@ sections:
 
           *(Beginner Level)*
 
-          *   Tuesday - **6:45 pm
-              **
+          *   Tuesday -  **6:45 pm**
+
 
           ##### **Ballroom Technique Class**
 
