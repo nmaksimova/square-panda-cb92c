@@ -34,7 +34,7 @@ sections:
         type: grid_item
         title: Beginners
         content: |
-          ##### ****
+
 
           ##### **3 - 4 years old:**
 
