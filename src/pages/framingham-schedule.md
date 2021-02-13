@@ -213,17 +213,15 @@ sections:
         type: grid_item
       - title: Stay in Shape
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: |
+          ##### **Latin Cardio**
 
+          *   Sunday - **11:00 am
+              **
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          ##### **Stretch Class**
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   Sunday - **12:00 pm**
         content_align: left
         actions: []
         actions_align: left
