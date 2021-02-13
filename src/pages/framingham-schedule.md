@@ -157,7 +157,7 @@ sections:
   - title: Adult Classes
     actions: []
     grid_items:
-      - title: Adults Latin Classes
+      - title: Adult Latin Classes
         title_align: left
         content: >-
           ## Lorem ipsum
