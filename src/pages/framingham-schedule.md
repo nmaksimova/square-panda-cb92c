@@ -155,7 +155,6 @@ sections:
     type: grid_section
     background_image: images/happy-steel.jpg
   - title: Adult Classes
-    subtitle: lorem-ipsum
     actions: []
     grid_items: []
     grid_cols: three
