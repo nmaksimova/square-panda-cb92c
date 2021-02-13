@@ -16,8 +16,7 @@ sections:
     type: hero_section
     title: '  Ilta Dance Schedule'
     subtitle: '    '
-  - title: Ilta Dance Schedule
-    actions: []
+  - actions: []
     grid_items:
       - title_align: center
         content_align: center
