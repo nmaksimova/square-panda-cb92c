@@ -14,7 +14,7 @@ sections:
     background_image_position: center bottom
     background_image_repeat: no-repeat
     type: hero_section
-    background_image: images/Start_Dancing_2.png
+    background_image: images/Start_Dancing_3.png
     title: '     '
     subtitle: '    '
   - title: Ilta Dance Schedule
