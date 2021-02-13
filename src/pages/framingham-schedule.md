@@ -119,7 +119,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     background_image: images/image_6483441 (6).JPG
-  - title: Kids Hip Hop
+  - title: Kids Hip Hop Classes
     actions: []
     grid_items:
       - title: lorem-ipsum
