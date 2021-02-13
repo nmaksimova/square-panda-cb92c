@@ -227,7 +227,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        subtitle: 'Classes for all levels. '
+        subtitle: 'These Classes for all levels. '
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
