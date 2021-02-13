@@ -216,8 +216,8 @@ sections:
         content: |
           ##### **Latin Cardio**
 
-          *   Sunday - **11:00 am
-              **
+          *   Sunday - **11:00 am**
+              \*\*
 
           ##### **Stretch Class**
 
