@@ -120,7 +120,6 @@ sections:
     type: grid_section
     background_image: images/image_6483441 (6).JPG
   - title: Kids Hip Hop
-    subtitle: lorem-ipsum
     actions: []
     grid_items: []
     grid_cols: three
