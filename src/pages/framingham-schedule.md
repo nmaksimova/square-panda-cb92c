@@ -70,7 +70,7 @@ sections:
           Wednesday - 6:00 pm
 
           Sunday - 10:00 am
-      - title: lorem-ipsum
+      - title: Advanced
         subtitle: lorem-ipsum
         title_align: left
         content: >-
