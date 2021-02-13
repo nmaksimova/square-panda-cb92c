@@ -14,8 +14,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    background_image: >-
-      images/stock-photo-concept-image-of-a-calendar-with-a-blue-push-pin-closeup-shot-of-a-thumbtack-attached-the-words-271990226.jpg
+    background_image: images/Start_Dancing_2.png
     title: '     '
     subtitle: '    '
   - title: Ilta Dance Schedule
