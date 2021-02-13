@@ -249,5 +249,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
+    background_image: >-
+      images/stock-photo-lovely-young-couple-dancing-together-at-party-1589914765.jpg
 template: advanced
 ---
