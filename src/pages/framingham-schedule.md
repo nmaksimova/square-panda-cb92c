@@ -45,7 +45,7 @@ sections:
           Monday - 5:00 pm
 
           Saturday - 10:15 am
-      - title: 'Salem, MA'
+      - title: Intermediate
         title_align: center
         content_align: center
         actions:
