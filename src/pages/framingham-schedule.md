@@ -41,6 +41,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        title: Beginners
       - title: 'Salem, MA'
         title_align: center
         content_align: center
