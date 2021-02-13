@@ -71,7 +71,6 @@ sections:
 
           Sunday - 10:00 am
       - title: Advanced
-        subtitle: lorem-ipsum
         title_align: center
         content: >-
           ## Lorem ipsum
