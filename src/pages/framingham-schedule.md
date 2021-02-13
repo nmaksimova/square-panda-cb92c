@@ -159,17 +159,26 @@ sections:
     grid_items:
       - title: Adult Latin Classes
         title_align: center
-        content: >-
-          ## Lorem ipsum
+        content: |+
+          ##### **Adult Social Dancing**
+
+          **(Beginner Level)**
+
+          *   Monday - 6:00 pm
+          *   Sunday - 1:00 pm
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          ##### **Latin Technique**
+
+          **(Advanced Level)**
+
+          *   Tuesday - 7:30 pm
 
 
-          - Lorem ipsum
+          ##### **Adult Lady's Latin Choreography**
 
-          - dolor sit amet
+          *   Wednesday - 7:30 pm
+
         content_align: left
         actions: []
         actions_align: left
