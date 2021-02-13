@@ -42,6 +42,10 @@ sections:
         image_has_padding: false
         type: grid_item
         title: Beginners
+        content: |
+          ##### **3 - 4 years old: **
+
+          ##### **5-6 years old:**
       - title: 'Salem, MA'
         title_align: center
         content_align: center
