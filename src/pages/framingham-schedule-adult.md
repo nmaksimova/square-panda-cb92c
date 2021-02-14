@@ -116,7 +116,7 @@ sections:
     background_image: >-
       images/stock-photo-lovely-young-couple-dancing-together-at-party-1600581697.jpg
   - actions:
-      - label: lorem-ipsum
+      - label: Back to Schedule
         url: lorem-ipsum
         style: link
         has_icon: false
