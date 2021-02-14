@@ -32,7 +32,7 @@ sections:
             type: action
           - label: Adult Schedule
             url: /framingham-schedule-adult
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
