@@ -17,7 +17,6 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     title: ' Framingham - Adult  Dance Schedule'
-    subtitle: '    Adult Dance Schedule'
   - title: Adult Classes
     actions: []
     grid_items:
