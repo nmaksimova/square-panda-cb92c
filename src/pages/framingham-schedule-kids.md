@@ -156,7 +156,7 @@ sections:
     type: grid_section
     background_image: images/happy-steel.jpg
   - actions:
-      - label: lorem-ipsum
+      - label: Back to Schedule
         url: lorem-ipsum
         style: link
         has_icon: false
