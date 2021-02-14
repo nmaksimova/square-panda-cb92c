@@ -117,7 +117,7 @@ sections:
       images/stock-photo-lovely-young-couple-dancing-together-at-party-1600581697.jpg
   - actions:
       - label: Back to Schedule
-        url: lorem-ipsum
+        url: /schedule
         style: link
         has_icon: false
         icon: arrow-left
