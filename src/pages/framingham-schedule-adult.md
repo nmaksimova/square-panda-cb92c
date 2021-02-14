@@ -114,6 +114,6 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     background_image: >-
-      images/stock-photo-lovely-young-couple-dancing-together-at-party-1589914765.jpg
+      images/stock-photo-lovely-young-couple-dancing-together-at-party-1600581697.jpg
 template: advanced
 ---
