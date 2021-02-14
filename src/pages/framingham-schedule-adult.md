@@ -17,6 +17,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     title: ' Framingham - Adult  Dance Schedule'
+    background_image: images/successful-hickory.png
   - title: Adult Classes
     actions: []
     grid_items:
