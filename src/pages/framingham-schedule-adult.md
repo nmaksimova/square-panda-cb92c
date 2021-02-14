@@ -115,18 +115,7 @@ sections:
     type: grid_section
     background_image: >-
       images/stock-photo-lovely-young-couple-dancing-together-at-party-1600581697.jpg
-  - content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    actions: []
+  - actions: []
     actions_position: bottom
     actions_width: fourty
     align: left
