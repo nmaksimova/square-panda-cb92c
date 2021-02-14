@@ -44,9 +44,9 @@ sections:
 
           Hip Hop Kids Classes
 
-          Adults Ballroom and Latin Classes
+          Adult Ballroom and Latin Classes
 
-          Adults Social Dancing
+          Adult Social Dancing
       - title: 'Salem, MA'
         title_align: center
         content_align: center
