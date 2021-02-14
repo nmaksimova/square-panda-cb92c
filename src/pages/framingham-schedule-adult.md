@@ -118,7 +118,7 @@ sections:
   - actions:
       - label: Back to Schedule
         url: /schedule
-        style: secondary
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
