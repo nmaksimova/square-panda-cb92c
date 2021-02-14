@@ -156,7 +156,7 @@ sections:
     type: grid_section
     background_image: images/happy-steel.jpg
   - actions:
-      - label: Back to Framingham Schedule
+      - label: Back to Schedule
         url: lorem-ipsum
         style: primary
         has_icon: false
