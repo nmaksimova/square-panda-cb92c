@@ -120,7 +120,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-    background_image: images/image_6483441 (6).JPG
+    background_image: images/20181026-180532-Original.jpg
   - title: Kids Hip Hop Classes
     actions: []
     grid_items:
