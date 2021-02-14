@@ -22,7 +22,7 @@ sections:
         content_align: center
         actions:
           - label: Kids Schedule
-            url: /framingham-e-kids
+            url: /framingham-
             style: primary
             has_icon: false
             icon: arrow-left
