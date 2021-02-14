@@ -16,7 +16,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    title: ' Framingham Dance Schedule'
+    title: ' Framingham Kids Schedule'
     subtitle: '    '
     background_image: images/modern-olive.png
   - title: Kids Ballroom and Latin Classes
