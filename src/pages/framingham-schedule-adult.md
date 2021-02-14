@@ -18,40 +18,6 @@ sections:
     type: hero_section
     title: ' Framingham Dance Schedule'
     subtitle: '    '
-  - title: Kids Hip Hop Classes
-    actions: []
-    grid_items:
-      - title: Beginners
-        title_align: center
-        content: |
-          ##### **8+ years old**
-
-          *   Saturday - 12:00pm
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-    grid_cols: two
-    grid_gap_vert: small
-    grid_gap_horiz: small
-    enable_cards: true
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 15
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: grid_section
-    background_image: images/happy-steel.jpg
   - title: Adult Classes
     actions: []
     grid_items:
