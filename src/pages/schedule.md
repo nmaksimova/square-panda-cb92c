@@ -21,7 +21,7 @@ sections:
       - title_align: center
         content_align: center
         actions:
-          - label: Dance Classes Schedule
+          - label: Kids Schedule
             url: lorem-ipsum
             style: primary
             has_icon: false
