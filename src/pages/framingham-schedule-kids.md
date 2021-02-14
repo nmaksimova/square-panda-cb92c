@@ -157,7 +157,7 @@ sections:
     background_image: images/happy-steel.jpg
   - actions:
       - label: Back to Schedule
-        url: lorem-ipsum
+        url: /schedule
         style: primary
         has_icon: false
         icon: arrow-left
