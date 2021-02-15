@@ -35,7 +35,7 @@ sections:
         image_alt: Ilta Dance Studio
         media_position: left
         media_width: fifty
-        align: left
+        align: center
         type: feature
         image: images/20180218-190829-Original.jpg
     feature_padding_vert: medium
