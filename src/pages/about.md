@@ -10,7 +10,7 @@ sections:
     image: images/transparent_block.png
   - type: features_section
     features:
-      - title: Section Title One
+      - title: About Ilta Dance
         subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
