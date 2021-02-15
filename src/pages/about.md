@@ -40,10 +40,17 @@ sections:
             new_window: false
             no_follow: false
             type: action
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+      - content: >
+          At **Ilta** you will never be bored from doing the same routine over
+          and over again, because you will constantly challenge and push
+          yourselves to be the best dancer you can be!
+
+
+          Our students are finalists and winners of many competitions and
+          National championships. 
+
+
+          Learn more about our **kids** and adult **dance programs**.
         image: images/Shelly_Erik_2.jpg
         image_alt: People in a conference room
         media_position: left
