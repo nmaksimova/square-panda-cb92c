@@ -114,7 +114,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/IMG-1178.JPG
+        image: images/IMG_0591.jpg
       - title_align: left
         content_align: left
         actions: []
