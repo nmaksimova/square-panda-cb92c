@@ -95,9 +95,7 @@ sections:
 
           Waltz, Tango, Foxtrot, Viennese Waltz, Quickstep
 
-
-
-          ###### **Book you first complimentary class with us (adult program)**
+          ##### **Book you first complimentary class with us (adult program)**
         image: images/IMG_0583.jpg
         image_alt: Happy co-workers
         media_position: right
