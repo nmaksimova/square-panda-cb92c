@@ -75,8 +75,7 @@ sections:
     type: grid_section
   - title: Ilta Dance - Salem
     features:
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
