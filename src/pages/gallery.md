@@ -40,7 +40,6 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/superb-sparrow.JPG
-        title: Ilta Dance Life
       - title_align: left
         content_align: left
         actions: []
