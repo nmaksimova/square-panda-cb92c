@@ -86,7 +86,7 @@ sections:
         content_align: left
         actions:
           - label: Pro AM
-            url: lorem-ipsum
+            url: /gallery-pro-am
             style: link
             has_icon: false
             icon: arrow-left
