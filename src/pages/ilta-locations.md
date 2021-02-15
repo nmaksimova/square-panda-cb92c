@@ -20,7 +20,6 @@ sections:
     video_embed_html: ''
     title: Our Locations
   - type: grid_section
-    title: Our Locations
     subtitle: ''
     align: center
     grid_items:
