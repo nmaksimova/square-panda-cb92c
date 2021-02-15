@@ -5,7 +5,6 @@ sections:
   - type: hero_section
     subtitle: ''
     actions: []
-    image: images/ILTA_DANCE_LOGO.png
     image_alt: Ilta Dance Studio
     media_position: left
     media_width: sixty
