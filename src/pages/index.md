@@ -28,7 +28,7 @@ sections:
     has_border: false
     background_image_repeat: no-repeat
     video_embed_html: ''
-  - title: lorem-ipsum
+  - title: Welcome to Ilta Dance!
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
