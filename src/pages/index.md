@@ -33,9 +33,6 @@ sections:
       - content: "We\_offer **dance group classes**, **private lessons**\_and other opportunities to help you learn the art\_of **Ballroom and Latin dancing**!\_Whether you are a novice or an experienced dancer,\_we have the right instructor to work with you!\_Our students are finalists and winners of many competitions and National championships.\n\n"
         actions: []
         image_alt: lorem-ipsum
-        video_embed_html: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
         media_position: top
         media_width: fifty
         align: left
