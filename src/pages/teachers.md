@@ -103,7 +103,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/Shelly.jpg
+        image: images/good-plankton.png
       - title: Joshua Ginzburg
         subtitle: Assistant teacher
         title_align: center
