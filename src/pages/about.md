@@ -6,6 +6,7 @@ sections:
     align: center
     background_color: secondary
     image: images/polite-europa.png
+    media_position: bottom
   - type: features_section
     features:
       - title: Section Title One
