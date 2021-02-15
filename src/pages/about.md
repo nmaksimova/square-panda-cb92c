@@ -32,7 +32,7 @@ sections:
         media_width: fifty
         actions:
           - label: Learn more about our teachers
-            url: lorem-ipsum
+            url: /ilta-teachers
             style: primary
             has_icon: false
             icon: arrow-left
