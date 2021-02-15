@@ -54,17 +54,9 @@ sections:
         content: |
           ##### **7 - 9 years old:**
 
-          *   Monday - 5:00 pm
+          *   Friday - 5:15 pm
 
-
-          *   Wednesday - 5:00 pm
-
-          ##### **10 - 11 years old:**
-
-          *   Wednesday - 6:00 pm
-
-
-          *   Sunday - 10:00 am
+          *   Saturday - 1:45 pm
       - title: Advanced
         title_align: center
         content: |
