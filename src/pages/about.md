@@ -101,7 +101,7 @@ sections:
         media_position: right
         media_width: fifty
         actions:
-          - label: Book a Class
+          - label: Book Free Class
             url: /book-class
             style: primary
             has_icon: false
