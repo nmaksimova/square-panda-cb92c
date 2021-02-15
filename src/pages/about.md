@@ -66,7 +66,7 @@ sections:
             no_follow: false
             type: action
           - label: Adult Classes
-            url: lorem-ipsum
+            url: /adult-dance-classes
             style: link
             has_icon: false
             icon: arrow-left
