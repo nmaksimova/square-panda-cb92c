@@ -39,7 +39,7 @@ sections:
         image_align: center
         image_has_padding: false
         type: grid_item
-        image: images/superb-sparrow.JPG
+        image: images/modern-yam.jpg
       - title_align: left
         content_align: left
         actions:
