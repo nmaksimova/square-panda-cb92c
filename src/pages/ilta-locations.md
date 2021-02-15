@@ -18,6 +18,7 @@ sections:
     has_border: true
     background_image_repeat: no-repeat
     video_embed_html: ''
+    title: Our Locations
   - type: grid_section
     title: Our Locations
     subtitle: ''
