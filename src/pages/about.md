@@ -11,7 +11,7 @@ sections:
   - type: features_section
     features:
       - title: About Ilta Dance
-        subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: ' '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
