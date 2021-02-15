@@ -75,17 +75,16 @@ sections:
     type: grid_section
   - title: Ilta Dance - Salem
     features:
-      - content: >-
-          ## Lorem ipsum
+      - content: |
+          A Performing Arts Academy
 
+          96 Swampscott Rd #6
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Salem, MA 01970
 
+          [781-492-2769](tel:+12345567890)
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          [**dance@iltadance.com**](mailto:dance@iltadance.com)
         actions: []
         image_alt: lorem-ipsum
         media_position: top
