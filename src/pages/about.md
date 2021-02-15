@@ -7,6 +7,7 @@ sections:
     background_color: secondary
     image: images/polite-europa.png
     media_position: bottom
+    background_image: images/20180603-140523-Original.jpg
   - type: features_section
     features:
       - title: Section Title One
