@@ -84,10 +84,39 @@ sections:
             no_follow: false
             type: action
       - title: Dances We Teach
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: |+
+          We teach different **types of Latin and Ballroom Dance**.
+
+          **Latin**: 
+
+          *   Cha Cha
+
+          *   Samba
+
+          *   Rumba
+
+          *   Paso Doble
+
+          *   Jive
+
+          *   Salsa
+
+          *   Swing
+
+          *   Bachata
+
+          **Ballrom**:
+
+          *   Waltz
+
+          *   Tango
+
+          *   Foxtrot
+
+          *   Viennese Waltz
+
+          *   Quickstep
+
         image: images/IMG_0583.jpg
         image_alt: Happy co-workers
         media_position: right
