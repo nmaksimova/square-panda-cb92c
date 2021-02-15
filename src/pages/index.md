@@ -12,7 +12,7 @@ sections:
         style: primary
     image: images/ILTA_DANCE_LOGO.png
     image_alt: Ilta Dance Studio
-    media_position: top
+    media_position: left
     media_width: sixty
     align: right
     padding_top: large
