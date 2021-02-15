@@ -75,8 +75,7 @@ sections:
     type: grid_section
   - title: Ilta Dance - Framingham
     features:
-      - title: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
