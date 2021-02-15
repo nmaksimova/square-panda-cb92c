@@ -29,7 +29,6 @@ sections:
     background_image_repeat: no-repeat
     video_embed_html: ''
   - title: Welcome to Ilta Dance!
-    subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
     align: center
