@@ -58,7 +58,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/Ilana.jpg
-      - title: lorem-ipsum
+      - title: Jenya Didenko
         subtitle: lorem-ipsum
         title_align: left
         content: >-
