@@ -77,6 +77,12 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        content: |
+          Ballroom and Latin Kids Classes for All levels
+
+          Adult Ballroom and Latin Classes
+
+          Adult Social Dancing
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: large
