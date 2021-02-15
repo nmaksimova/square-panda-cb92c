@@ -109,7 +109,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-    background_image: images/Start_Dancing.png
 template: advanced
 title: 'Dance Group Classes Schedule, Framingham, MA'
 excerpt: Dance Schedule
