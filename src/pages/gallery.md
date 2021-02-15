@@ -44,7 +44,7 @@ sections:
         content_align: left
         actions:
           - label: Competitions
-            url: lorem-ipsum
+            url: /gallery-competitions
             style: link
             has_icon: false
             icon: arrow-left
