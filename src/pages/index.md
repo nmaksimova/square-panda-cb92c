@@ -21,7 +21,7 @@ sections:
     background_image_opacity: 60
     background_image_size: cover
     background_image_position: center center
-    has_border: false
+    has_border: true
     background_image_repeat: no-repeat
     video_embed_html: ''
   - title: Welcome to Ilta Dance!
