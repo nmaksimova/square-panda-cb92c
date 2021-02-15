@@ -30,8 +30,7 @@ sections:
     video_embed_html: ''
   - title: Welcome to Ilta Dance!
     features:
-      - subtitle: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
