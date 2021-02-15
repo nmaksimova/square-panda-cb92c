@@ -106,7 +106,7 @@ sections:
         image: images/Shelly.jpg
       - title: Joshua Ginzburg
         subtitle: Assistant teacher
-        title_align: left
+        title_align: center
         content: >-
           ## Lorem ipsum
 
