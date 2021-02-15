@@ -59,44 +59,6 @@ sections:
           Adult Ballroom and Latin Classes
 
           Adult Social Dancing
-      - title: 'Salem, MA'
-        title_align: center
-        content_align: center
-        actions:
-          - label: Kids Schedule
-            url: /salem-schedule-kids
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: center
-            new_window: false
-            no_follow: false
-            type: action
-          - label: Adult Schedule
-            url: /salem-schedule-adult
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        actions_align: center
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        content: |+
-          Ballroom and Latin Kids Classes for All levels
-
-          Adult Ballroom and Latin Classes
-
-          Adult Social Dancing
-
-
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: large
