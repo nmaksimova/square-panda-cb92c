@@ -90,19 +90,12 @@ sections:
           **Latin**:
 
           Cha Cha
-
           Samba
-
           Rumba
-
           Paso Doble
-
           Jive
-
           Salsa
-
           Swing
-
           Bachata
 
           **Ballrom**:
