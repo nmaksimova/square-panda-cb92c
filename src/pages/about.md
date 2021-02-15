@@ -30,6 +30,16 @@ sections:
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
       - title: Section Title Two
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
