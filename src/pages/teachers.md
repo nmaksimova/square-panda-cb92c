@@ -90,8 +90,9 @@ sections:
       - title: Shelly Linder
         subtitle: Assistant teacher
         title_align: center
-        content: |
-          Shelly is a very high level competitive dancer and a Nation Champion.
+        content: >
+          **Shelly** is a very high level competitive dancer and a Nation
+          Champion.
         content_align: left
         actions: []
         actions_align: left
