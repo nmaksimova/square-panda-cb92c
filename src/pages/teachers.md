@@ -57,7 +57,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/Ilana.jpg
+        image: images/Ilana.png
       - title: Jenya Didenko
         title_align: left
         content: "**Jenya** started dancing at a very young age. In addition to ballroom dancing,\_she was also learning ballet, contemporary dance and hip-hop.\_From her early years, Jenya loved to choreograph and teach others to dance. When she was only 16, her students were winners and finalists at many Ukrainian competitions and dance talent shows.\_In 2010 Jenya moved to the USA. \_After 4 year of dancing as amateur, Jenya became\_professional dancer and instructor.\n\nHer accomplishments include:\nTwin Cities Open Ballroom Champion\nThe Commonwealth Classic Champion\nDancing a la Carte Champion\nNashville Stars Champion.\n"
