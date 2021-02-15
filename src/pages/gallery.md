@@ -1,6 +1,6 @@
 ---
 title: Gallery- Ilta Dance
-excerpt: Gallery
+excerpt: Gallery - Ilta Dance
 sections:
   - title: Gallery
     actions: []
