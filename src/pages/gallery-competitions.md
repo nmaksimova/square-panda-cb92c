@@ -150,7 +150,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/groovy-giraffe.JPG
+        image: images/beige-celery.jpg
       - title_align: left
         content_align: left
         actions: []
