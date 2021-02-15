@@ -86,7 +86,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/Erik.jpg
+        image: images/Erik.png
       - title: Shelly Linder
         subtitle: Assistant teacher
         title_align: center
