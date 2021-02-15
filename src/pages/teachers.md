@@ -73,7 +73,7 @@ sections:
         type: grid_item
         image: images/Jenya.jpg
       - title: Erik Linder
-        subtitle: lorem-ipsum
+        subtitle: Assistant teacher
         title_align: left
         content: >-
           ## Lorem ipsum
