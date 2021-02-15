@@ -61,7 +61,7 @@ sections:
         content_align: center
         actions:
           - label: Kids Schedule
-            url: /salem-schedule
+            url: /salem-schedule-kids
             style: primary
             has_icon: false
             icon: arrow-left
