@@ -5,8 +5,6 @@ sections:
     subtitle: ''
     content: |
       ***
-
-      ***
     actions:
       - label: Complimentary Lesson
         url: /book-class
