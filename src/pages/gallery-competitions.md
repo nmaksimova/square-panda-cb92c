@@ -126,7 +126,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/IMG-1504.jpg
+        image: images/curious-spinach.JPG
       - title_align: left
         content_align: left
         actions: []
