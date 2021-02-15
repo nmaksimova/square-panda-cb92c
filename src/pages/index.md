@@ -39,7 +39,7 @@ sections:
         type: feature
         image: images/20180218-190829-Original.jpg
     feature_padding_vert: medium
-    align: center
+    align: left
     padding_top: medium
     padding_bottom: medium
     has_border: false
