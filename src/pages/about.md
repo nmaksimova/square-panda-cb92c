@@ -2,7 +2,6 @@
 title: About
 sections:
   - type: hero_section
-    title: About
     align: center
     background_color: secondary
     media_position: bottom
