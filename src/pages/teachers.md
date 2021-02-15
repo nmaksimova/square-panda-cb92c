@@ -20,7 +20,7 @@ sections:
   - actions: []
     grid_items:
       - title: Tamaz Shiloshvili
-        subtitle: lorem-ipsum
+        subtitle: Pro
         title_align: left
         content: >-
           ## Lorem ipsum
