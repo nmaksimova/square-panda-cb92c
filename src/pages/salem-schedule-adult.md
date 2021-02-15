@@ -75,30 +75,6 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Stay in Shape
-        title_align: left
-        content: |
-          ##### **Latin Cardio**
-
-          *   Sunday - **11:00 am**
-
-
-          ##### **Stretch Class**
-
-          *   Sunday - **12:00 pm**
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        subtitle: >-
-          These classes are for all levels. They will help to improve
-          coordination, balance, flexibility.
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
