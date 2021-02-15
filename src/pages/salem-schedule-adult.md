@@ -26,8 +26,8 @@ sections:
         content: |
           ##### **Adult Cardio Choreography**
 
-          *   Friday - **6:45 pm
-              **
+          *   Friday - **6:45 pm**
+
 
           ##### **Social Dance Latin**
 
