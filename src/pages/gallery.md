@@ -44,7 +44,7 @@ sections:
         content_align: left
         actions:
           - label: Competitions
-            url: /gallery-competitions
+            url: /gallery-competitionsgallery-competitions
             style: primary
             has_icon: false
             icon: arrow-left
