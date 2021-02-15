@@ -36,9 +36,9 @@ sections:
       - title: Ilana Meshkausk
         title_align: center
         content: >
-          Ilana was born in Lithuania, USSR. She started dancing when she was 6
-          years old and was one of the top competitive dancers in Lithuania,
-          USSR.
+          **Ilana** was born in Lithuania, USSR. She started dancing when she
+          was 6 years old and was one of the top competitive dancers in
+          Lithuania, USSR.
 
 
           Ilana and Tamaz met in Israel, where Ilana’s family relocated when she
