@@ -107,7 +107,7 @@ sections:
             type: action
             url: /framingham-schedule-adult
           - label: Adult Schedule Salem
-            url: lorem-ipsum
+            url: /salem-schedule-adult
             style: primary
             has_icon: false
             icon: arrow-left
