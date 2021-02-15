@@ -87,7 +87,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/Erik.jpg
-      - title: lorem-ipsum
+      - title: Shelly Linder
         subtitle: lorem-ipsum
         title_align: left
         content: >-
