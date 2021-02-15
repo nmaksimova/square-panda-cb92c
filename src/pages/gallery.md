@@ -87,7 +87,7 @@ sections:
         actions:
           - label: Pro AM
             url: /gallery-pro-am
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
