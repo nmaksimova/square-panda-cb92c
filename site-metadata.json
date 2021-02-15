@@ -62,7 +62,7 @@
             },
             {
                 "label": "Salem",
-                "url": "lorem-ipsum",
+                "url": "/schedule-salem",
                 "style": "primary",
                 "has_icon": false,
                 "icon": "arrow-left",
