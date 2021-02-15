@@ -27,7 +27,7 @@ sections:
         actions: []
         actions_align: left
         actions_width: auto
-        image_alt: 'Ilta Dance Teachers '
+        image_alt: Ilta Dance Teachers Tamaz
         image_position: top
         image_width: fifty
         image_align: left
