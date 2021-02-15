@@ -89,7 +89,7 @@ sections:
     type: grid_section
     background_image: images/20181026-180532-Original.jpg
   - actions:
-      - label: Back to Schedule
+      - label: Back to All Schedule
         url: /schedule
         style: primary
         has_icon: false
