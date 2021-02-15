@@ -81,7 +81,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/IMG_0523.jpg
+        image: images/robust-comet.jpg
       - title_align: left
         content_align: left
         actions:
