@@ -116,7 +116,7 @@ sections:
     background_image: >-
       images/stock-photo-lovely-young-couple-dancing-together-at-party-1600581697.jpg
   - actions:
-      - label: Back to Schedule
+      - label: Back to All Schedule
         url: /schedule
         style: primary
         has_icon: false
