@@ -51,7 +51,7 @@ sections:
 
 
           Learn more about our **kids** and **adult** **dance programs**.
-        image: images/Shelly_Erik_2.jpg
+        image: images/unique-planet.jpg
         image_alt: People in a conference room
         media_position: left
         media_width: fifty
