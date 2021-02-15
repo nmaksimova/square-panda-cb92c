@@ -19,7 +19,7 @@ sections:
     type: hero_section
   - actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Tamaz Shiloshvili
         subtitle: lorem-ipsum
         title_align: left
         content: >-
