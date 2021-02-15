@@ -65,7 +65,7 @@ sections:
         content_align: left
         actions:
           - label: Show Cases
-            url: lorem-ipsum
+            url: /gallery-show-cases
             style: link
             has_icon: false
             icon: arrow-left
