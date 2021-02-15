@@ -89,26 +89,11 @@ sections:
 
           **Latin**:
 
-          Cha Cha
-          Samba
-          Rumba
-          Paso Doble
-          Jive
-          Salsa
-          Swing
-          Bachata
+          Cha Cha, Samba, Rumba, Paso Doble, Jive, Salsa, Swing, Bachata
 
           **Ballrom**:
 
-          *   Waltz
-
-          *   Tango
-
-          *   Foxtrot
-
-          *   Viennese Waltz
-
-          *   Quickstep
+          Waltz, Tango, Foxtrot, Viennese Waltz, Quickstep
         image: images/IMG_0583.jpg
         image_alt: Happy co-workers
         media_position: right
