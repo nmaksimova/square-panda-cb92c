@@ -107,17 +107,12 @@ sections:
       - title: Joshua Ginzburg
         subtitle: Assistant teacher
         title_align: center
-        content: >-
-          ## Lorem ipsum
+        content: >
+          **Josh** is a National finalist. 
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Josh, as well as Erik, trains single girls that compete and don't have
+          partners.
         content_align: left
         actions: []
         actions_align: left
