@@ -1,6 +1,6 @@
 ---
 title: Gallery
-excerpt: lorem-ipsum
+excerpt: Gallery
 sections: []
 template: advanced
 ---
