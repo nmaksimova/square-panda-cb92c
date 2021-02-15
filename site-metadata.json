@@ -32,11 +32,6 @@
                 "style": "link"
             },
             {
-                "label": "Testimonials",
-                "url": "/style-guide",
-                "style": "link"
-            },
-            {
                 "label": "Gallery",
                 "url": "/gallery",
                 "style": "link",
@@ -46,6 +41,11 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "Testimonials",
+                "url": "/style-guide",
+                "style": "link"
             }
         ],
         "has_secondary_nav": true,
