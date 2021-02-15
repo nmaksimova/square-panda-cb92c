@@ -34,7 +34,7 @@ sections:
         type: grid_item
         image: images/Tamaz.jpg
       - title: Ilana Meshkausk
-        title_align: left
+        title_align: center
         content: >-
           ## Lorem ipsum
 
