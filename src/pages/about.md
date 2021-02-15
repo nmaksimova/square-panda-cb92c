@@ -84,26 +84,26 @@ sections:
             no_follow: false
             type: action
       - title: Dances We Teach
-        content: |+
+        content: |
           We teach different **types of Latin and Ballroom Dance**.
 
-          **Latin**: 
+          **Latin**:
 
-          *   Cha Cha
+          Cha Cha
 
-          *   Samba
+          Samba
 
-          *   Rumba
+          Rumba
 
-          *   Paso Doble
+          Paso Doble
 
-          *   Jive
+          Jive
 
-          *   Salsa
+          Salsa
 
-          *   Swing
+          Swing
 
-          *   Bachata
+          Bachata
 
           **Ballrom**:
 
@@ -116,7 +116,6 @@ sections:
           *   Viennese Waltz
 
           *   Quickstep
-
         image: images/IMG_0583.jpg
         image_alt: Happy co-workers
         media_position: right
