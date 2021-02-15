@@ -17,6 +17,11 @@
                 "style": "link"
             },
             {
+                "label": "Dance Programs",
+                "url": "/blog",
+                "style": "link"
+            },
+            {
                 "label": "Schedule",
                 "url": "/schedule",
                 "style": "link"
@@ -24,11 +29,6 @@
             {
                 "label": "Teachers",
                 "url": "/teachers",
-                "style": "link"
-            },
-            {
-                "label": "Dance Programs",
-                "url": "/blog",
                 "style": "link"
             },
             {
