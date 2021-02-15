@@ -67,7 +67,7 @@ sections:
             type: action
           - label: Adult Classes
             url: /adult-dance-classes
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
