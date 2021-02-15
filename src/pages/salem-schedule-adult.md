@@ -113,8 +113,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-    background_image: >-
-      images/stock-photo-lovely-young-couple-dancing-together-at-party-1600581697.jpg
+    background_image: images/charming-goose.jpg
   - actions:
       - label: Back to All Schedule
         url: /schedule
