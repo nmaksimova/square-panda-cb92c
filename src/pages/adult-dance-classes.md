@@ -105,7 +105,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-            url: /framingham
+            url: /framingham-schedule-adult
           - label: Group Schedule Salem
             url: lorem-ipsum
             style: primary
