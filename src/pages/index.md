@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     subtitle: ''
     content: |
-      ****
+      ***
     actions:
       - label: Complimentary Lesson
         url: /book-class
