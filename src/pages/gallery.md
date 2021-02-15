@@ -102,7 +102,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/square-mango.jpg
+        image: images/20190728-124708-Original.jpg
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
