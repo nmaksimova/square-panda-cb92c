@@ -13,8 +13,8 @@ sections:
       - title: About Ilta Dance
         subtitle: ' '
         content: >
-          At** ilta Dance Studio** we believe that everyone can dance and it's
-          never too late or too early to **start dancing**! 
+          At **ilta Dance Studio** we believe that everyone can dance and it's
+          never too late or too early to **start dancing**!
 
 
           When you first enter our studios, you feel warm and family atmosphere
