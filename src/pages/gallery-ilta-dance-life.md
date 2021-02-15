@@ -66,7 +66,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/square-mango.jpg
+        image: images/cool-moon.jpg
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
