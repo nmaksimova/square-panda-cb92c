@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     subtitle: ''
     content: |
-      ***
+      ###### qwerty
 
       ***
 
