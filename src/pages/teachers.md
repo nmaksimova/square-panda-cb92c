@@ -72,7 +72,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/Jenya.jpg
-      - title: lorem-ipsum
+      - title: Erik Linder
         subtitle: lorem-ipsum
         title_align: left
         content: >-
