@@ -104,7 +104,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/Shelly.jpg
-      - title: lorem-ipsum
+      - title: Joshua Ginzburg
         subtitle: lorem-ipsum
         title_align: left
         content: >-
