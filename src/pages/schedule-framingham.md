@@ -75,17 +75,17 @@ sections:
     type: grid_section
   - title: Ilta Dance - Framingham
     features:
-      - content: >-
-          ## Lorem ipsum
+      - content: |
 
+          1255 Worcester Road (Rt. 9)
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Framingham, MA 01702
 
+          Entrance in rear of plaza
 
-          - Lorem ipsum
+          781-492-2769
 
-          - dolor sit amet
+          **dance@iltadance.com**
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
