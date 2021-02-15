@@ -3,20 +3,6 @@ title: Home
 sections:
   - type: hero_section
     subtitle: ''
-    content: |
-      ##### q
-
-      ##### a
-
-      ##### a
-
-      ##### sfdfsdf
-
-      ##### sdfsdf
-
-      ##### sdfsd
-
-      ##### a
     actions:
       - label: Complimentary Lesson
         url: /book-class
