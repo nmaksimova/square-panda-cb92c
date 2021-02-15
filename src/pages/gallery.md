@@ -1,5 +1,5 @@
 ---
-title: Gallery
+title: Gallery- Ilta Dance
 excerpt: Gallery
 sections:
   - title: Gallery
