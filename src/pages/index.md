@@ -7,7 +7,7 @@ sections:
     content: "**We\_offer group classes, private lessons\_and other opportunities to help you learn the art\_of Ballroom and Latin dancing!\_Whether you are a novice or an experienced dancer,\_we have the right instructor to work with you!\_Our students are finalists and winners of many competitions and National championships.**\n"
     actions:
       - label: Complimentary Lesson
-        url: /pricing
+        url: /book-class
         style: primary
       - label: Gift Card
         url: /features
@@ -58,10 +58,9 @@ sections:
       - title: Adult Lessons
         title_align: center
         content: >
-          Beginner Group Classes are available in Latin Dance (Salsa and
-          Merengue) and Ballroom Dance (Waltz, Foxtrot, Swing, Tango). You will
-          learn how to create combinations of steps and use good leader /
-          follower techniques.
+          Beginner Group Classes are available in Latin Dance and Ballroom
+          Dance. You will learn how to create combinations of steps and use good
+          leader / follower techniques.
         content_align: left
         actions:
           - label: Learn More

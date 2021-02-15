@@ -97,8 +97,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: Group Schedule Framingham
-            url: lorem-ipsum
+          - label: Adult Schedule Framingham
             style: primary
             has_icon: false
             icon: arrow-left
@@ -106,8 +105,9 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: Group Schedule Salem
-            url: lorem-ipsum
+            url: /framingham-schedule-adult
+          - label: Adult Schedule Salem
+            url: /salem-schedule-adult
             style: primary
             has_icon: false
             icon: arrow-left
