@@ -1,6 +1,6 @@
 ---
 title: 'Dance Group Classes Schedule, Salem MA'
-excerpt: Dance Schedule
+excerpt: Dance Schedule Salem
 sections:
   - actions: []
     image_alt: lorem-ipsum
