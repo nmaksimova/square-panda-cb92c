@@ -40,8 +40,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-      - subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
+      - content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
