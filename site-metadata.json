@@ -49,7 +49,7 @@
             },
             {
                 "label": "Locations",
-                "url": "lorem-ipsum",
+                "url": "/ilta-locations",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
