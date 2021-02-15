@@ -102,7 +102,7 @@ sections:
         media_width: fifty
         actions:
           - label: Book a Class
-            url: lorem-ipsum
+            url: /book-class
             style: link
             has_icon: false
             icon: arrow-left
