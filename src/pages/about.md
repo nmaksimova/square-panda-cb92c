@@ -47,10 +47,10 @@ sections:
 
 
           Our students are finalists and winners of many competitions and
-          National championships. 
+          National championships.
 
 
-          Learn more about our **kids** and adult **dance programs**.
+          Learn more about our **kids** and **adult** **dance programs**.
         image: images/Shelly_Erik_2.jpg
         image_alt: People in a conference room
         media_position: left
