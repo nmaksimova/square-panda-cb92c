@@ -88,7 +88,7 @@ sections:
         type: grid_item
         image: images/Erik.jpg
       - title: Shelly Linder
-        subtitle: lorem-ipsum
+        subtitle: Assistant teacher
         title_align: left
         content: >-
           ## Lorem ipsum
