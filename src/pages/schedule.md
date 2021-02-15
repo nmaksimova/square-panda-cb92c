@@ -61,7 +61,7 @@ sections:
         content_align: center
         actions:
           - label: Kids Schedule
-            url: lorem-ipsum
+            url: /
             style: primary
             has_icon: false
             icon: arrow-left
