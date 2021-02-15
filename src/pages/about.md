@@ -76,7 +76,7 @@ sections:
             type: action
           - label: Wedding Program
             url: /wedding-dance
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
