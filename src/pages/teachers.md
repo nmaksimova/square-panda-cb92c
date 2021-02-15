@@ -3,7 +3,6 @@ title: Ilta teachers
 excerpt: Ilta teachers
 sections:
   - title: Meet Our Teachers
-    subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
