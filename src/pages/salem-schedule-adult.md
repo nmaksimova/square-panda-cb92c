@@ -47,18 +47,9 @@ sections:
       - title: Adult Ballroom Classes
         title_align: left
         content: |
-          ##### **Ballroom Dance**
+          ##### **Social Dance Ballroom**
 
-          *(Beginner Level)*
-
-          *   Tuesday -  **6:45 pm**
-
-
-          ##### **Ballroom Technique Class**
-
-          *(Advanced Level)*
-
-          *   Thursday - **7:00 pm**
+          *   Saturday -  **4:00 pm**
         content_align: left
         actions: []
         actions_align: left
