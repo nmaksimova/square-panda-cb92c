@@ -101,7 +101,7 @@ sections:
         media_position: right
         media_width: fifty
         actions:
-          - label: Book
+          - label: Book a Class
             url: lorem-ipsum
             style: link
             has_icon: false
