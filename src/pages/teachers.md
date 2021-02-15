@@ -89,7 +89,7 @@ sections:
         image: images/Erik.jpg
       - title: Shelly Linder
         subtitle: Assistant teacher
-        title_align: left
+        title_align: center
         content: >-
           ## Lorem ipsum
 
