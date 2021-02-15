@@ -23,7 +23,7 @@ sections:
         content_align: left
         actions:
           - label: Ilta Dance Life
-            url: lorem-ipsum
+            url: /gallery-ilta-dance-life
             style: primary
             has_icon: false
             icon: arrow-left
