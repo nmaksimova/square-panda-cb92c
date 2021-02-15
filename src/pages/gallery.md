@@ -2,7 +2,7 @@
 title: Gallery
 excerpt: Gallery
 sections:
-  - title: lorem-ipsum
+  - title: Gallery
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
