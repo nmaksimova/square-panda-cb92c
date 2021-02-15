@@ -16,7 +16,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    title: ' Framingham - Adult  Dance Schedule'
+    title: Salem - Adult  Dance Schedule
     background_image: images/marvelous-petunia.png
   - title: Adult Classes
     actions: []
