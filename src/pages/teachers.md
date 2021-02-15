@@ -75,17 +75,7 @@ sections:
       - title: Erik Linder
         subtitle: Assistant teacher
         title_align: center
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "Erik is a very high level competitive dancer and a Nation Champion. \n\nErik\_trains single girls that are competitive that don’t have partners. This is a great way to learn and be able to dance or compete with partner that is a dance teacher at the same time.\n\n\n\n"
         content_align: left
         actions: []
         actions_align: left
