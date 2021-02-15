@@ -1,5 +1,5 @@
 ---
-title: 'Dance Group Classes Schedule, Framingham, MA'
+title: 'Dance Group Classes Schedule, Salem MA'
 excerpt: Dance Schedule
 sections:
   - actions: []
