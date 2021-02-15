@@ -135,7 +135,7 @@ sections:
         actions_align: left
         actions_width: auto
         title_align: center
-      - title: Some City
+      - title: Salem
         content: >-
           1234 Some St.<br/> Some City, ST 12345<br/>
           [1-234-556-7890](tel:+12345567890)<br/>
