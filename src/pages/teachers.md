@@ -90,17 +90,8 @@ sections:
       - title: Shelly Linder
         subtitle: Assistant teacher
         title_align: center
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          Shelly is a very high level competitive dancer and a Nation Champion.
         content_align: left
         actions: []
         actions_align: left
