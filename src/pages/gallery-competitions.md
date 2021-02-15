@@ -30,7 +30,7 @@ sections:
         image_align: center
         image_has_padding: false
         type: grid_item
-        image: images/amazing-yam.jpg
+        image: images/amazing-lettuce.jpg
       - title_align: left
         content_align: left
         actions: []
