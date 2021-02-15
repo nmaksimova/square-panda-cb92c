@@ -106,7 +106,7 @@ sections:
             no_follow: false
             type: action
             url: /framingham-schedule-adult
-          - label: Group Schedule Salem
+          - label: Adult Schedule Salem
             url: lorem-ipsum
             style: primary
             has_icon: false
