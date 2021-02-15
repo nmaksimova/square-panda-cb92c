@@ -33,7 +33,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/Tamaz.jpg
-      - title: lorem-ipsum
+      - title: Ilana Meshkausk
         subtitle: lorem-ipsum
         title_align: left
         content: >-
