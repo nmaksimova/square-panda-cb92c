@@ -1,6 +1,6 @@
 ---
 title: Ilta teachers
-excerpt: lorem-ipsum
+excerpt: Ilta teachers
 sections: []
 template: advanced
 ---
