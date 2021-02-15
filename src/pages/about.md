@@ -111,7 +111,7 @@ sections:
             no_follow: false
             type: action
   - type: grid_section
-    title: Our Officess
+    title: Our Locations
     grid_items:
       - title: Some City
         content: >-
