@@ -71,7 +71,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/Jenya.jpg
+        image: images/Jenya.png
       - title: Erik Linder
         subtitle: Assistant teacher
         title_align: center
