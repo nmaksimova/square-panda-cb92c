@@ -57,7 +57,7 @@ sections:
         media_width: fifty
         actions:
           - label: Kids Classes
-            url: lorem-ipsum
+            url: //kids-dance-classes
             style: link
             has_icon: false
             icon: arrow-left
