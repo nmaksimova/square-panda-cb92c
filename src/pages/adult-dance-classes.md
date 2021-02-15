@@ -98,7 +98,6 @@ sections:
             no_follow: false
             type: action
           - label: Adult Schedule Framingham
-            url: lorem-ipsum
             style: primary
             has_icon: false
             icon: arrow-left
