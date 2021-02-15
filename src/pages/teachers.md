@@ -74,7 +74,7 @@ sections:
         image: images/Jenya.jpg
       - title: Erik Linder
         subtitle: Assistant teacher
-        title_align: left
+        title_align: center
         content: >-
           ## Lorem ipsum
 
