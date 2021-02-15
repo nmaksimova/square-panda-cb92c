@@ -32,7 +32,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/Tamaz.jpg
+        image: images/charming-artichoke.jpg
       - title: Ilana Meshkausk
         title_align: center
         content: >
