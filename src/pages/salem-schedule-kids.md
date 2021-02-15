@@ -35,16 +35,9 @@ sections:
         type: grid_item
         title: Beginners
         content: |
-          ##### **3 - 4 years old:**
+          ##### **5 - 7 years old:**
 
-          *   Saturday - 11:15 am
-
-          ##### **5 - 6 years old:**
-
-          *   Monday - 5:00 pm
-
-
-          *   Saturday - 10:15 am
+          *   Saturday - 1:00 pm
         subtitle: Lessons are 45 minutes
       - title: Intermediate
         title_align: center
