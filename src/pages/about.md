@@ -75,7 +75,7 @@ sections:
             no_follow: false
             type: action
           - label: Wedding Program
-            url: lorem-ipsum
+            url: /wedding-dance
             style: link
             has_icon: false
             icon: arrow-left
