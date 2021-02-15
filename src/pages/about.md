@@ -83,7 +83,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-      - title: Dances we teach
+      - title: Dances We Teach
         subtitle: 'Donec nisl ligula, cursus id molestie vel. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
