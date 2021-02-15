@@ -21,44 +21,6 @@ sections:
     background_image: images/successful-moon.png
   - actions: []
     grid_items:
-      - title_align: center
-        content_align: center
-        actions:
-          - label: Kids Schedule
-            url: /framingham-schedule-kids
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-          - label: Adult Schedule
-            url: /framingham-schedule-adult
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        actions_align: center
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        title: 'Framingham, MA'
-        content: |
-          Ballroom and Latin Kids Classes for All levels
-
-          Hip Hop Kids Classes
-
-          Adult Ballroom and Latin Classes
-
-          Adult Social Dancing
       - title: 'Salem, MA'
         title_align: center
         content_align: center
