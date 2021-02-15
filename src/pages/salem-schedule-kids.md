@@ -62,9 +62,7 @@ sections:
         content: |
           ##### **Teens:**
 
-          *   Tuesday - 5:45 pm
-
-          *   Thursday - 5:45 pm
+          *   Friday - 3:45 pm
         content_align: left
         actions: []
         actions_align: left
