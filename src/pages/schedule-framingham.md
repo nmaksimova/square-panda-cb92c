@@ -74,7 +74,6 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - title: Ilta Dance - Framingham
-    subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
     align: center
