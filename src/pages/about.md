@@ -57,7 +57,7 @@ sections:
         media_width: fifty
         actions:
           - label: Kids Classes
-            url: //kids-dance-classes
+            url: /kids-dance-classes
             style: primary
             has_icon: false
             icon: arrow-left
