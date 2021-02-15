@@ -23,7 +23,7 @@ sections:
         subtitle: Pro
         title_align: left
         content: "Tamaz has over 25 years of teaching experience with children and adults. He was born in Georgia, USSR and started learning to dance when he was 8 years old.\_ Tamaz started dancing competitively shortly after and had consistently held top places.\n\nWhen Tamaz was 16 years, his family relocated to Israel where he met Ilana. Together they became Israeli National Champions in Latin and Ballroom. In 2000 Tamaz and Ilana were invited to teach at the prestigious Fred Astaire Studios in Boston, MA.\_In 2006 Tamaz and Ilana opened their own studio “ILTA Dance” in Framingham.\n"
-        content_align: left
+        content_align: center
         actions: []
         actions_align: left
         actions_width: auto
