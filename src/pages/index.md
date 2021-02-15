@@ -7,9 +7,6 @@ sections:
       - label: Complimentary Lesson
         url: /book-class
         style: primary
-      - label: Gift Card
-        url: /features
-        style: primary
     image: images/ILTA_DANCE_LOGO.png
     image_alt: Ilta Dance Studio
     media_position: left
