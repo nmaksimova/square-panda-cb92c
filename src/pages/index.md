@@ -2,32 +2,49 @@
 title: Home
 sections:
   - type: hero_section
-    title: Welcome to Ilta Dance!
     subtitle: ''
-    content: "**We\_offer group classes, private lessons\_and other opportunities to help you learn the art\_of Ballroom and Latin dancing!\_Whether you are a novice or an experienced dancer,\_we have the right instructor to work with you!\_Our students are finalists and winners of many competitions and National championships.**\n"
     actions:
       - label: Complimentary Lesson
         url: /book-class
         style: primary
-      - label: Gift Card
-        url: /features
-        style: primary
+        icon_position: right
     image: images/ILTA_DANCE_LOGO.png
     image_alt: Ilta Dance Studio
-    media_position: top
+    media_position: left
     media_width: sixty
     align: right
     padding_top: large
-    padding_bottom: large
+    padding_bottom: small
     background_color: secondary
     background_image: >-
       images/stock-photo-happy-sweet-senior-couple-dancing-slow-ballroom-dance-inside-the-house-during-their-leisure-time-290952215.jpg
     background_image_opacity: 60
     background_image_size: cover
     background_image_position: center center
-    has_border: false
+    has_border: true
     background_image_repeat: no-repeat
     video_embed_html: ''
+  - title: Welcome to Ilta Dance!
+    features:
+      - content: "We\_offer **dance group classes**, **private lessons**\_and other opportunities to help you learn the art\_of **Ballroom and Latin dancing**!\_Whether you are a novice or an experienced dancer,\_we have the right instructor to work with you!\_Our programs designed for kids and adult dancers.\n\nOur students are finalists and winners of many competitions and National championships.\n\n**All classes available online and in person.**\n\n"
+        actions: []
+        image_alt: Ilta Dance Studio
+        media_position: left
+        media_width: fifty
+        align: left
+        type: feature
+        image: images/successful-sunflower.jpg
+    feature_padding_vert: medium
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: features_section
   - type: grid_section
     title: Start Dancing Today!
     subtitle: ''
@@ -100,37 +117,6 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: small
     enable_cards: true
-    align: center
-    background_color: secondary
-  - type: grid_section
-    title: Meet Our Teachers
-    subtitle: ''
-    actions:
-      - label: Learn more
-        url: /style-guide
-        style: primary
-    grid_items:
-      - title: Tamaz Shiloshvili
-        subtitle: ''
-        title_align: center
-        image: images/TAMAZ.png
-        image_position: top
-      - title: Ilana Meshkausk
-        subtitle: ''
-        title_align: center
-        image: images/ILANA.png
-        image_position: top
-      - title: Jenya Didenko
-        subtitle: ''
-        title_align: center
-        image: images/JENYA.png
-        image_position: top
-      - title: Shelly Linder
-        subtitle: ''
-        title_align: center
-        image: images/Shelly.png
-        image_position: top
-    grid_cols: three
     align: center
     background_color: secondary
   - title: Book your first class with us

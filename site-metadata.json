@@ -12,29 +12,51 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "Features",
-                "url": "/features",
-                "style": "link"
-            },
-            {
-                "label": "Pricing",
-                "url": "/pricing",
-                "style": "link"
-            },
-            {
                 "label": "About",
                 "url": "/about",
                 "style": "link"
             },
             {
-                "label": "Blog",
+                "label": "Dance Programs",
                 "url": "/blog",
                 "style": "link"
             },
             {
-                "label": "Style Guide",
+                "label": "Schedule",
+                "url": "/schedule",
+                "style": "link"
+            },
+            {
+                "label": "Teachers",
+                "url": "/teachers",
+                "style": "link"
+            },
+            {
+                "label": "Gallery",
+                "url": "/gallery",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
+                "label": "Testimonials",
                 "url": "/style-guide",
                 "style": "link"
+            },
+            {
+                "label": "Locations",
+                "url": "/ilta-locations",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
             }
         ],
         "has_secondary_nav": true,
@@ -46,12 +68,12 @@
             },
             {
                 "label": "Framingham",
-                "url": "/pricing",
+                "url": "/schedule-framingham",
                 "style": "primary"
             },
             {
                 "label": "Salem",
-                "url": "lorem-ipsum",
+                "url": "/schedule-salem",
                 "style": "primary",
                 "has_icon": false,
                 "icon": "arrow-left",
@@ -62,7 +84,7 @@
             }
         ],
         "has_anncmnt": true,
-        "anncmnt_content": "We have two locations - Framingham, MA and Salem, MA. [**Learn More**](/pricing/)\n",
+        "anncmnt_content": "Our Locations - Framingham, MA and Salem, MA. [**Learn More**](/pricing/)\n",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
@@ -168,5 +190,6 @@
         ],
         "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=diy&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
     },
-    "title": "Ilta Dance Studio"
+    "title": "Ilta Dance Studio",
+    "favicon": "images/smart-bee.jpg"
 }
