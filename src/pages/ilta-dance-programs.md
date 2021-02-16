@@ -4,11 +4,7 @@ excerpt: lorem-ipsum
 sections:
   - type: hero_section
     subtitle: ''
-    actions:
-      - label: Complimentary Lesson
-        url: /book-class
-        style: primary
-        icon_position: right
+    actions: []
     image_alt: Ilta Dance Studio
     media_position: right
     media_width: sixty
