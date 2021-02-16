@@ -115,18 +115,6 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/20181026-211057-Original.jpg
-      - title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        image: images/IMG_0589.jpg
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
