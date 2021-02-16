@@ -25,27 +25,6 @@ sections:
     has_border: true
     background_image_repeat: no-repeat
     video_embed_html: ''
-  - title: Welcome to Ilta Dance!
-    features:
-      - content: "We\_offer **dance group classes**, **private lessons**\_and other opportunities to help you learn the art\_of **Ballroom and Latin dancing**!\_Whether you are a novice or an experienced dancer,\_we have the right instructor to work with you!\_Our programs designed for kids and adult dancers.\n\nOur students are finalists and winners of many competitions and National championships.\n\n**All classes available online and in person.**\n\n"
-        actions: []
-        image_alt: Ilta Dance Studio
-        media_position: left
-        media_width: fifty
-        align: left
-        type: feature
-        image: images/successful-sunflower.jpg
-    feature_padding_vert: medium
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: features_section
   - type: grid_section
     title: Start Dancing Today!
     subtitle: ''
