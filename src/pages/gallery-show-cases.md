@@ -2,7 +2,7 @@
 title: Gallery- Ilta Dance
 excerpt: Gallery - Ilta Dance
 sections:
-  - title: Gallery - Competitions
+  - title: Gallery - Ilta Show Cases
     actions: []
     image_alt: lorem-ipsum
     media_position: top
