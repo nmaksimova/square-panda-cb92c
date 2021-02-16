@@ -42,7 +42,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/majestic-hedgehog.jpg
+        image: images/20190728-124708-Original_2.jpg
       - title_align: left
         content_align: left
         actions: []
