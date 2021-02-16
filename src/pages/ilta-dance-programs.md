@@ -17,7 +17,7 @@ sections:
     padding_bottom: small
     background_color: secondary
     background_image: images/blue-tiger.jpg
-    background_image_opacity: 60
+    background_image_opacity: 40
     background_image_size: cover
     background_image_position: center center
     has_border: true
