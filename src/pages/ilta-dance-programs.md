@@ -9,7 +9,6 @@ sections:
         url: /book-class
         style: primary
         icon_position: right
-    image: images/ILTA_DANCE_LOGO.png
     image_alt: Ilta Dance Studio
     media_position: left
     media_width: sixty
