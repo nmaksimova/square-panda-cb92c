@@ -102,7 +102,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/smart-sunflower.jpg
+        image: images/IMG-1176.JPG
       - title_align: left
         content_align: left
         actions: []
