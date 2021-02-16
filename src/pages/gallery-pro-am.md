@@ -114,7 +114,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/IMG_0591.jpg
+        image: images/20181026-211057-Original.jpg
       - title_align: left
         content_align: left
         actions: []
