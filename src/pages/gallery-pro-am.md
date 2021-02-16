@@ -78,7 +78,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/incredible-apple.jpg
+        image: images/IMG-0733.JPG
       - title_align: left
         content_align: left
         actions: []
