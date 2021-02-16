@@ -10,7 +10,7 @@ sections:
         style: primary
         icon_position: right
     image_alt: Ilta Dance Studio
-    media_position: left
+    media_position: right
     media_width: sixty
     align: left
     padding_top: large
