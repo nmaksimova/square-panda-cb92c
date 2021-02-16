@@ -43,11 +43,6 @@
                 "type": "action"
             },
             {
-                "label": "Testimonials",
-                "url": "/style-guide",
-                "style": "link"
-            },
-            {
                 "label": "Locations",
                 "url": "/ilta-locations",
                 "style": "link",
