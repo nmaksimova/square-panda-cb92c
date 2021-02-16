@@ -24,6 +24,7 @@ sections:
     background_image_repeat: no-repeat
     video_embed_html: ''
     image: images/groovy-plankton.png
+    title: Ilta Dance Programs
   - type: grid_section
     title: Start Dancing Today!
     subtitle: ''
