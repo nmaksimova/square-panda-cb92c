@@ -169,7 +169,7 @@ sections:
     background_image_position: left center
     background_image_repeat: no-repeat
     type: form_section
-    background_image: images/scientific-lavender.jpg
+    background_image: images/majestic-saturn.jpg
   - type: grid_section
     title: Our Locations
     subtitle: ''
