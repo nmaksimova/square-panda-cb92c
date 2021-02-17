@@ -8,6 +8,10 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: none
+    content: |
+      ##### If you have any questions, call us or fill out this form below.
+
+      #### Ilta Dance: **781-492-2769**
   - type: form_section
     content_align: left
     form_position: right
