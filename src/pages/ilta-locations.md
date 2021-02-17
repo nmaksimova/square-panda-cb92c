@@ -58,6 +58,6 @@ sections:
     grid_gap_vert: medium
     enable_cards: true
     background_color: primary
-    background_image: images/Ilta_Locations.JPG
+    background_image: images/Ilta_locations.png
 template: advanced
 ---
