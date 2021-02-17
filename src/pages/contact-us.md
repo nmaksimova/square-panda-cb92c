@@ -32,12 +32,6 @@ sections:
         name: message
         label: Message
         default_value: Your message
-      - input_type: checkbox
-        name: consent
-        label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
-        is_required: true
     submit_label: Send Message
     align_vert: top
     padding_top: medium
