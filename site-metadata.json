@@ -136,11 +136,6 @@
                 "label": "Schedule",
                 "url": "/schedule",
                 "style": "link"
-            },
-            {
-                "label": "Tutorials",
-                "url": "/blog/category/tutorials",
-                "style": "link"
             }
         ],
         "has_tertiary_nav": true,
