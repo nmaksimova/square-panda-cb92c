@@ -103,7 +103,7 @@
             },
             {
                 "label": "Gallery",
-                "url": "lorem-ipsum",
+                "url": "/gallery",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
