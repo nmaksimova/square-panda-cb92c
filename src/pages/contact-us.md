@@ -63,5 +63,6 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: primary
+    title_align: center
 template: advanced
 ---
