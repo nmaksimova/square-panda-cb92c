@@ -4,7 +4,7 @@ excerpt: Contact us
 sections:
   - type: hero_section
     title: Contact Us
-    subtitle: The optional subtitle
+    subtitle: Fill out this form if you have any questions
     align: center
     padding_top: medium
     padding_bottom: medium
