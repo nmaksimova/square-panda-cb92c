@@ -26,11 +26,11 @@ sections:
 
           Don't have a partner? No worries, we have special dance programs
           designs for single dancers. Ilta dance teachers use unique approaches
-          to each student and help students to find their own dance styles. 
+          to each student and help students to find their own dance styles.
 
 
-          [Contact us](/contact) to learn more about our **adult dance classes**
-          or [**book**](/book_class) your first complimentary private lesson.
+          Contact us to learn more about our **adult dance classes** or book
+          your first complimentary private lesson.
         image: >-
           images/stock-photo-romantic-couple-smiling-and-dancing-on-a-sunny-day-1441832486.jpg
         image_alt: People in conversation in the office lounge area
@@ -38,7 +38,7 @@ sections:
         media_width: fifty
         actions:
           - label: Contact us
-            url: /contact
+            url: /contact-us
             style: primary
             has_icon: false
             icon: arrow-left
@@ -47,7 +47,7 @@ sections:
             no_follow: false
             type: action
           - label: Book your first free class
-            url: /book_class
+            url: /book-class
             style: primary
             has_icon: false
             icon: arrow-left
@@ -125,7 +125,7 @@ sections:
         media_width: fifty
         actions:
           - label: Book your first class
-            url: /book_class
+            url: /book-class
             style: primary
             has_icon: false
             icon: arrow-left
