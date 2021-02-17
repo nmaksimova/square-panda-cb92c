@@ -21,7 +21,7 @@ sections:
     title: Our Locations
   - type: grid_section
     subtitle: ''
-    align: center
+    align: left
     grid_items:
       - image_alt: Contentful logo
         image_align: center
