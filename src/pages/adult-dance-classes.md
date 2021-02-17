@@ -125,7 +125,7 @@ sections:
         media_width: fifty
         actions:
           - label: Book your first class
-            url: /book_class
+            url: /book-class
             style: primary
             has_icon: false
             icon: arrow-left
