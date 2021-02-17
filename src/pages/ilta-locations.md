@@ -57,6 +57,8 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
     enable_cards: true
-    background_color: primary
+    background_color: none
+    background_image: images/Ilta_locations.png
+    background_image_opacity: 40
 template: advanced
 ---

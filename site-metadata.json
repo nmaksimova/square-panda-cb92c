@@ -18,7 +18,7 @@
             },
             {
                 "label": "Dance Programs",
-                "url": "/blog",
+                "url": "/ilta-dance-programs",
                 "style": "link"
             },
             {
@@ -43,11 +43,6 @@
                 "type": "action"
             },
             {
-                "label": "Testimonials",
-                "url": "/style-guide",
-                "style": "link"
-            },
-            {
                 "label": "Locations",
                 "url": "/ilta-locations",
                 "style": "link",
@@ -63,7 +58,7 @@
         "secondary_nav_links": [
             {
                 "label": "Contact Us",
-                "url": "/contact",
+                "url": "/contact-us",
                 "style": "link"
             },
             {
@@ -84,7 +79,7 @@
             }
         ],
         "has_anncmnt": true,
-        "anncmnt_content": "Our Locations - Framingham, MA and Salem, MA. [**Learn More**](/pricing/)\n",
+        "anncmnt_content": "Our Locations - Framingham, MA and Salem, MA. [**Learn More**](/ilta-locations/)\n",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
@@ -102,76 +97,75 @@
                 "style": "link"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide",
+                "label": "Teachers",
+                "url": "/teachers",
                 "style": "link"
+            },
+            {
+                "label": "Gallery",
+                "url": "/gallery",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
+                "label": "Testimonials",
+                "url": "/testimonials",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
             }
         ],
         "has_secondary_nav": true,
-        "secondary_nav_title": "Blog",
+        "secondary_nav_title": "Our Classes",
         "secondary_nav_links": [
             {
-                "label": "News",
-                "url": "/blog/category/news",
+                "label": "Dance Programs",
+                "url": "/ilta-dance-programs",
                 "style": "link"
             },
             {
-                "label": "General",
-                "url": "/blog/category/general",
-                "style": "link"
-            },
-            {
-                "label": "Tutorials",
-                "url": "/blog/category/tutorials",
+                "label": "Schedule",
+                "url": "/schedule",
                 "style": "link"
             }
         ],
         "has_tertiary_nav": true,
-        "tertiary_nav_title": "Legal",
+        "tertiary_nav_title": "Our Studios",
         "tertiary_nav_links": [
             {
-                "label": "Terms & Conditions",
-                "url": "/terms-conditions",
+                "label": "Locations",
+                "url": "/ilta-locations",
                 "style": "link"
             },
             {
-                "label": "Privacy Policy",
-                "url": "/privacy-policy",
+                "label": "Contact Us",
+                "url": "/contact-us",
                 "style": "link"
             }
         ],
         "has_social": true,
         "social_links": [
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
+                "label": "Facebook",
+                "url": "https://www.facebook.com/iltadancestudio/",
                 "style": "link",
                 "has_icon": true,
-                "icon": "twitter",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
-                "label": "GitHub",
-                "url": "https://github.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "github",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "linkedin",
+                "icon": "facebook",
                 "icon_position": "center",
                 "new_window": true
             },
             {
                 "label": "YouTube",
-                "url": "https://www.youtube.com/",
+                "url": "https://www.youtube.com/channel/UCQCAxpUloWr0hS4Fq1Og_Tg",
                 "style": "link",
                 "has_icon": true,
                 "icon": "youtube",
@@ -179,11 +173,11 @@
                 "new_window": true
             },
             {
-                "label": "Vimeo",
-                "url": "https://vimeo.com/",
+                "label": "Instagram",
+                "url": "https://www.instagram.com/iltadance_studio/",
                 "style": "link",
                 "has_icon": true,
-                "icon": "vimeo",
+                "icon": "instagram",
                 "icon_position": "center",
                 "new_window": true
             }
@@ -191,5 +185,5 @@
         "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=diy&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
     },
     "title": "Ilta Dance Studio",
-    "favicon": "images/smart-bee.jpg"
+    "favicon": "images/favicon.png"
 }

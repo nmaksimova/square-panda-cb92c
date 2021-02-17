@@ -103,12 +103,13 @@ sections:
     padding_top: medium
     padding_bottom: small
     has_border: false
-    background_color: none
-    background_image_opacity: 0
+    background_color: primary
+    background_image_opacity: 20
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
+    background_image: images/smart-wallaby.jpg
 template: advanced
 title: 'Dance Group Classes Schedule, Framingham, MA'
 excerpt: Dance Schedule
