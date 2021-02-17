@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-excerpt: lorem-ipsum
+excerpt: Contact us
 sections:
   - type: hero_section
     title: This is the Hero
