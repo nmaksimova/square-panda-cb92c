@@ -98,7 +98,7 @@
             },
             {
                 "label": "Teachers",
-                "url": "//teachers",
+                "url": "/teachers",
                 "style": "link"
             }
         ],
