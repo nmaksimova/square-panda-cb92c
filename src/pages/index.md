@@ -30,7 +30,7 @@ sections:
         actions:
           - label: About Ilta Dance
             url: /about
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
