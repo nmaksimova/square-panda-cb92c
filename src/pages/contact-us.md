@@ -1,5 +1,5 @@
 ---
-title: General enquiries
+title: Contact Us
 excerpt: lorem-ipsum
 sections:
   - type: hero_section
