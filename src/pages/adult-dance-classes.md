@@ -161,8 +161,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: >-
-          images/stock-photo-couple-feet-of-dancers-woman-and-man-latino-dancing-1082722793.jpg
+        image: images/oceanic-squid.jpg
       - title: ''
         subtitle: ''
         content: >
@@ -222,7 +221,16 @@ sections:
           [**dance@iltadance.com**](mailto:dance@iltadance.com)
 
         content_align: left
-        actions: []
+        actions:
+          - label: Framingham Schedule
+            url: /schedule-framingham
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
         actions_align: left
         actions_width: auto
       - title: Salem
@@ -244,7 +252,16 @@ sections:
 
           [](mailto:email@example.com)
         content_align: left
-        actions: []
+        actions:
+          - label: Salem Schedule
+            url: /schedule-salem
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
         actions_align: left
         actions_width: auto
     grid_cols: two

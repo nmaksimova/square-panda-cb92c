@@ -100,8 +100,8 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: Group Schedule Framingham
-            url: lorem-ipsum
+          - label: Kids Schedule Framingham
+            url: /framingham-schedule-kids
             style: primary
             has_icon: false
             icon: arrow-left
@@ -109,8 +109,8 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: Group Schedule Salem
-            url: lorem-ipsum
+          - label: Kids Schedule Salem
+            url: /salem-schedule-kids
             style: primary
             has_icon: false
             icon: arrow-left
@@ -200,9 +200,19 @@ sections:
           [**dance@iltadance.com**](mailto:dance@iltadance.com)
 
         content_align: left
-        actions: []
+        actions:
+          - label: Framingham Schedule
+            url: /schedule-framingham
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
         actions_align: left
         actions_width: auto
+        title_align: center
       - title: Salem
         content: >
           A Performing Arts Academy
@@ -222,9 +232,19 @@ sections:
 
           [](mailto:email@example.com)
         content_align: left
-        actions: []
+        actions:
+          - label: Salem Schedule
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+            url: /schedule-salem
         actions_align: left
         actions_width: auto
+        title_align: center
     grid_cols: two
     grid_gap_horiz: large
     grid_gap_vert: large
@@ -234,5 +254,6 @@ sections:
     has_border: false
     background_color: secondary
     align: center
+    actions: []
 template: advanced
 ---

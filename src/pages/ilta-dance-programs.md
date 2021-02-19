@@ -63,7 +63,7 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: right
-        image: images/adult_lessons_3.jpg
+        image: images/scientific-comet.jpg
         image_alt: Adult dance classes
         image_position: top
         image_align: center
@@ -191,6 +191,16 @@ sections:
           **dance@iltadance.com**
         content_align: left
         title_align: center
+        actions:
+          - label: Framingham Schedule
+            url: /schedule-framingham
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
       - image_alt: Netlify logo
         image_align: center
         title: Salem
@@ -205,6 +215,16 @@ sections:
           [781-492-2769 ](tel:+12345567890)
 
           **dance@iltadance.com**
+        actions:
+          - label: Salem Schedule
+            url: /schedule-salem
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium

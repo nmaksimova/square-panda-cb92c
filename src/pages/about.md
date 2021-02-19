@@ -32,7 +32,7 @@ sections:
         media_width: fifty
         actions:
           - label: Learn more about our teachers
-            url: /ilta-teachers
+            url: /teachers
             style: primary
             has_icon: false
             icon: arrow-left
@@ -125,7 +125,16 @@ sections:
 
           **dance@iltadance.com**
         content_align: left
-        actions: []
+        actions:
+          - label: Framingham Schedule
+            url: /schedule-framingham
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
         actions_align: left
         actions_width: auto
         title_align: center
@@ -141,7 +150,16 @@ sections:
 
           **dance@iltadance.com**
         content_align: left
-        actions: []
+        actions:
+          - label: Salem Schedule
+            url: /schedule-salem
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
         actions_align: left
         actions_width: auto
     grid_cols: two
