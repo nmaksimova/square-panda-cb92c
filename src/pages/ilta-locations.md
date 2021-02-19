@@ -41,7 +41,7 @@ sections:
         title_align: center
         actions:
           - label: Framingham Schedule
-            url: lorem-ipsum
+            url: /schedule-framingham
             style: link
             has_icon: false
             icon: arrow-left
