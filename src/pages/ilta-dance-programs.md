@@ -63,7 +63,7 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: right
-        image: images/adult_lessons_3.jpg
+        image: images/scientific-comet.jpg
         image_alt: Adult dance classes
         image_position: top
         image_align: center
