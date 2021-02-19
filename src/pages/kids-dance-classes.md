@@ -254,15 +254,6 @@ sections:
     has_border: false
     background_color: secondary
     align: center
-    actions:
-      - label: Framingham Schedule
-        url: lorem-ipsum
-        style: link
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
 template: advanced
 ---
