@@ -127,7 +127,7 @@ sections:
         content_align: left
         actions:
           - label: Framingham Schedule
-            url: lorem-ipsum
+            url: /schedule-framingham
             style: link
             has_icon: false
             icon: arrow-left
