@@ -212,6 +212,7 @@ sections:
             type: action
         actions_align: left
         actions_width: auto
+        title_align: center
       - title: Salem
         content: >
           A Performing Arts Academy
