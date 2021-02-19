@@ -235,7 +235,7 @@ sections:
     background_color: secondary
     align: center
     actions:
-      - label: lorem-ipsum
+      - label: Framingham Schedule
         url: lorem-ipsum
         style: link
         has_icon: false
