@@ -241,6 +241,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
+            url: /schedule-salem
         actions_align: left
         actions_width: auto
         title_align: center
