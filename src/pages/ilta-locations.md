@@ -63,6 +63,16 @@ sections:
           [781-492-2769 ](tel:+12345567890)
 
           **dance@iltadance.com**
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
