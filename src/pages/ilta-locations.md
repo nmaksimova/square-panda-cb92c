@@ -64,7 +64,7 @@ sections:
 
           **dance@iltadance.com**
         actions:
-          - label: lorem-ipsum
+          - label: Salem Schedule
             url: lorem-ipsum
             style: link
             has_icon: false
