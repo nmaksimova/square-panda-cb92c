@@ -234,7 +234,7 @@ sections:
         content_align: left
         actions:
           - label: Salem Schedule
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
