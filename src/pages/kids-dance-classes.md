@@ -234,7 +234,6 @@ sections:
         content_align: left
         actions:
           - label: Salem Schedule
-            url: lorem-ipsum
             style: link
             has_icon: false
             icon: arrow-left
