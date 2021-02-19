@@ -161,8 +161,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: >-
-          images/stock-photo-couple-feet-of-dancers-woman-and-man-latino-dancing-1082722793.jpg
+        image: images/oceanic-squid.jpg
       - title: ''
         subtitle: ''
         content: >
