@@ -235,6 +235,7 @@ sections:
         actions: []
         actions_align: left
         actions_width: auto
+        title_align: center
     grid_cols: two
     grid_gap_horiz: large
     grid_gap_vert: large
