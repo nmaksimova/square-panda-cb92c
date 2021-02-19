@@ -194,7 +194,7 @@ sections:
         actions:
           - label: Framingham Schedule
             url: /schedule-framingham
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
