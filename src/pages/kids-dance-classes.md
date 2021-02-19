@@ -110,7 +110,7 @@ sections:
             no_follow: false
             type: action
           - label: Kids Schedule Salem
-            url: lorem-ipsum
+            url: /salem-schedule-kids
             style: primary
             has_icon: false
             icon: arrow-left
