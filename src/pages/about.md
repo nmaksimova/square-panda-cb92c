@@ -151,7 +151,7 @@ sections:
           **dance@iltadance.com**
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Salem Schedule
             url: lorem-ipsum
             style: link
             has_icon: false
