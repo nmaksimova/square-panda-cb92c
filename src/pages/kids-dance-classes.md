@@ -101,7 +101,7 @@ sections:
             no_follow: false
             type: action
           - label: Kids Schedule Framingham
-            url: lorem-ipsum
+            url: /framingham-schedule-kids
             style: primary
             has_icon: false
             icon: arrow-left
