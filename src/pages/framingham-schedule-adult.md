@@ -29,6 +29,7 @@ sections:
           *(Beginner Level)*
 
           *   Monday - **6:00 pm**
+          *   Tuesday -  **6:45 pm**
           *   Sunday - **1:00 pm**
 
           ##### **Latin Technique**
@@ -53,13 +54,6 @@ sections:
       - title: Adult Ballroom Classes
         title_align: left
         content: |
-          ##### **Ballroom Dance**
-
-          *(Beginner Level)*
-
-          *   Tuesday -  **6:45 pm**
-
-
           ##### **Ballroom Technique Class**
 
           *(Advanced Level)*
