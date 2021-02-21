@@ -75,7 +75,14 @@ sections:
       - title: Erik Linder
         subtitle: Assistant teacher
         title_align: center
-        content: "**Erik** is a very high level competitive dancer and a Nation Champion.\n\nErik\_trains single girls that are competitive that don’t have partners. This is a great way to learn and be able to dance or compete with partner that is a dance teacher at the same time.\n"
+        content: >+
+          **Erik** started out young in competitive dancing winning himself many
+          world and national titles. He has also been featured on shows like
+          Oprah, Dancing With The Stars, and America’s Got Talent. Erik trains
+          single girls that are competitive and don’t have partners. This is a
+          great way to learn and be able to dance or compete with a partner that
+          is your dance teacher at the same time.
+
         content_align: left
         actions: []
         actions_align: left
