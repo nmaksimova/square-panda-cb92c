@@ -54,8 +54,6 @@ sections:
       - title: Adult Ballroom Classes
         title_align: left
         content: |
-          ##### **Ballroom Dance**
-
           ##### **Ballroom Technique Class**
 
           *(Advanced Level)*
