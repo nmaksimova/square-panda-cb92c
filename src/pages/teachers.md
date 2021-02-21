@@ -90,9 +90,7 @@ sections:
       - title: Shelly Linder
         subtitle: Assistant teacher
         title_align: center
-        content: >
-          **Shelly** is a very high level competitive dancer and a Nation
-          Champion.
+        content: "**Shelly**’s first steps as a toddler were in a dance studio, as she grew up in the dance world she never lost her love for it! Consistently with her partner and husband Erik Linder they have been taking over the top spots in youth and under 21 ballroom and Latin at many championships. One of her biggest achievements have been being a standard US champion and placing 11th in the worlds amongst the best of the best!\_\n"
         content_align: left
         actions: []
         actions_align: left
