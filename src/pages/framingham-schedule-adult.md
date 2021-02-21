@@ -56,11 +56,6 @@ sections:
         content: |
           ##### **Ballroom Dance**
 
-          *(Beginner Level)*
-
-          *   Tuesday -  **6:45 pm**
-
-
           ##### **Ballroom Technique Class**
 
           *(Advanced Level)*
