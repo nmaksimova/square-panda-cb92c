@@ -26,7 +26,7 @@ sections:
     video_embed_html: ''
   - title: Welcome to Ilta Dance!
     features:
-      - content: "We\_offer **dance group classes**, **private lessons**\_and other opportunities to help you learn the art\_of **Ballroom and Latin dancing**!\_Whether you are a novice or an experienced dancer,\_we have the right instructor to work with you!\_Our programs designed for kids and adult dancers.\n\nOur students are finalists and winners of many competitions and National championships.\n\n**All classes available online and in person.**\n\n"
+      - content: "We\_offer **dance group classes**, **private lessons**\_and other opportunities to help you learn the art\_of **Ballroom and Latin dancing**!\_Whether you are a novice or an experienced dancer,\_we have the right instructor to work with you!\_Our programs designed for kids and adult dancers.\n"
         actions:
           - label: About Ilta Dance
             url: /about
