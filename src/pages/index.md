@@ -55,6 +55,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: images/image_6483441 (28).JPG
     feature_padding_vert: medium
     align: center
     padding_top: medium
