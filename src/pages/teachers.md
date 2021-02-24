@@ -112,12 +112,7 @@ sections:
       - title: Joshua Ginzburg
         subtitle: Assistant teacher
         title_align: center
-        content: >
-          **Josh** is a National finalist. 
-
-
-          Josh, as well as Erik, trains single girls that compete and don't have
-          partners.
+        content: "**Josh** started dancing at the age of 3 and has remained a dancer since then. He and his partner regularly make finals at nation-wide competitions. They have also reached the quarterfinal at the world championships. Josh has been an instructor at\_ILTA\_for several years, teaching and dancing at competitions with his students.\n"
         content_align: left
         actions: []
         actions_align: left
