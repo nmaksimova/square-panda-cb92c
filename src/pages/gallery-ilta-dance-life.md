@@ -114,6 +114,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/image_6483441 (20).JPG
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
