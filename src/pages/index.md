@@ -43,17 +43,12 @@ sections:
         align: left
         type: feature
         image: images/successful-sunflower.jpg
-      - content: >-
-          ## Lorem ipsum
+      - content: >
+          Our students are finalists and winners of many competitions and
+          National championships.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          **All classes available online and in person.**
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
