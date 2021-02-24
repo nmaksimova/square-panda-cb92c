@@ -51,7 +51,7 @@ sections:
 
 
           Learn more about our **kids** and **adult** **dance programs**.
-        image: images/image_6483441 (2).JPG
+        image: images/image_6483441.JPG
         image_alt: People in a conference room
         media_position: left
         media_width: fifty
