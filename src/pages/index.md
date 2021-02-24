@@ -43,8 +43,7 @@ sections:
         align: left
         type: feature
         image: images/successful-sunflower.jpg
-      - subtitle: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
