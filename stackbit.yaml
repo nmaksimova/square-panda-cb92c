@@ -146,18 +146,6 @@ models:
            default: name
          - type: boolean
            name: relativeUrl                 
-  page:
-    type: page
-    label: Page
-    layout: page
-    fields:
-      - type: string
-        name: title
-        label: Title
-        required: true
-      - type: model
-        name: seo
-        models:
           
   header:
     type: object
