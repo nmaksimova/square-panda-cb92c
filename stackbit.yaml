@@ -395,6 +395,10 @@ models:
         name: excerpt
         label: Excerpt
         description: The excerpt of the page displayed in meta data
+     - type: model
+        name: seo
+        models:
+          - stackbit_page_meta   
   post:
     type: page
     urlPath: '/blog/{slug}'
@@ -474,6 +478,10 @@ models:
         description: >-
           The featured image position in the blog post relative to the post
           header content
+      - type: model
+        name: seo
+        models:
+          - stackbit_page_meta    
   advanced:
     type: page
     label: Advanced page
@@ -503,6 +511,10 @@ models:
             - blog_feed_section
             - cta_section
             - form_section
+      - type: model
+        name: seo
+        models:
+          - stackbit_page_meta      
   hero_section:
     type: object
     label: Hero section
