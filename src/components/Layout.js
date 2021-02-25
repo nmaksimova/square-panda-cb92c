@@ -7,6 +7,7 @@ import '../sass/main.scss';
 import Announcement from './Announcement';
 import Header from './Header';
 import Footer from './Footer';
+import SEO from './SEO';
 
 export default class Body extends React.Component {
     render() {
@@ -14,6 +15,7 @@ export default class Body extends React.Component {
         let font = _.get(this.props, 'pageContext.site.siteMetadata.base_font', null) || 'sans-serif';
         return (
             <React.Fragment>
+                <SEO />
                 <Helmet>
                     <title>{_.get(this.props, 'pageContext.frontmatter.title', null) && (_.get(this.props, 'pageContext.frontmatter.title', null) + ' | ')}{_.get(this.props, 'pageContext.site.siteMetadata.title', null)}</title>
                     <meta charSet="utf-8"/>
