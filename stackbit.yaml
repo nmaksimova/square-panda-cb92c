@@ -96,70 +96,70 @@ models:
           - footer
           
   stackbit_page_meta:
-  type: object
-  label: Page meta data
-  fields:
+    type: object
+    label: Page meta data
+    fields:
     - type: string
-      name: title
-      label: Title
-      description: The page title that goes into the <title> tag
-      default: ''
-    - type: string
-      name: description
-      label: Description
-      description: The page description that goes into the <meta name="description"> tag
-      default: ''
-    - type: list
-      name: robots
-      label: Robots
-      description: The items that go into the <meta name="robots"> tag
-      items:
-        type: enum
-        options:
-          - all
-          - index
-          - follow
-          - noindex
-          - nofollow
-          - noimageindex
-          - notranslate
-          - none
-        default: all
-    - type: list
-      name: extra
-      label: Extra
-      description: >-
-        Additional definition for specific meta tags such as open-graph,
-        twitter, etc.
-      items:
-        type: object
-        labelField: name
-        fields:
-          - type: string
-            name: name
-            default: ""
-          - type: string
-            name: value
-            default: ""
-          - type: string
-            name: keyName
-            default: name
-          - type: boolean
-            name: relativeUrl     
+        name: title
+        label: Title
+        description: The page title that goes into the <title> tag
+        default: ''
+      - type: string
+        name: description
+        label: Description
+        description: The page description that goes into the <meta name="description"> tag
+        default: ''
+      - type: list
+        name: robots
+        label: Robots
+        description: The items that go into the <meta name="robots"> tag
+        items:
+          type: enum
+          options:
+            - all
+            - index
+            - follow
+            - noindex
+            - nofollow
+            - noimageindex
+            - notranslate
+            - none
+          default: all
+      - type: list
+        name: extra
+        label: Extra
+        description: >-
+          Additional definition for specific meta tags such as open-graph,
+          twitter, etc.
+        items:
+          type: object
+          labelField: name
+          fields:
+            - type: string
+              name: name
+              default: ""
+            - type: string
+              name: value
+              default: ""
+            - type: string
+              name: keyName
+              default: name
+            - type: boolean
+              name: relativeUrl     
             
- page:
-  type: page
-  label: Page
-  layout: page
-  fields:
-    - type: string
-      name: title
-      label: Title
-      required: true
-    - type: model
-      name: seo
-      models:
-        - stackbit_page_meta           
+  page:
+    type: page
+    label: Page
+    layout: page
+    fields:
+      - type: string
+        name: title
+        label: Title
+        required: true
+      - type: model
+        name: seo
+        models:
+          - stackbit_page_meta           
           
   header:
     type: object
