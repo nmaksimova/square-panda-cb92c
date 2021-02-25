@@ -158,7 +158,6 @@ models:
       - type: model
         name: seo
         models:
-          - stackbit_page_meta           
           
   header:
     type: object
