@@ -94,6 +94,7 @@ models:
         label: Footer configuration
         models:
           - footer
+          
   stackbit_page_meta:
     type: object
     label: Page meta data
@@ -157,7 +158,6 @@ models:
       - type: model
         name: seo
         models:
-          - stackbit_page_meta                   
           
   header:
     type: object
