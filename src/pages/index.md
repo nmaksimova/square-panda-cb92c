@@ -361,6 +361,10 @@ seo:
     classes are for all ages and levels! Salsa, Bachata, Cha Cha, Samba, Rumba,
     Jive, Waltz, Tango, Foxtrot and more.
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /images/futuristic-bee.JPG
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 ---
