@@ -64,7 +64,7 @@ sections:
       - title_align: left
         content_align: left
         actions:
-          - label: Show Cases
+          - label: Showcases
             url: /gallery-show-cases
             style: primary
             has_icon: false
