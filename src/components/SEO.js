@@ -7,7 +7,7 @@ export default function SEO(props) {
         return null;
     }
     return (
-        <Head>
+        <Helmet>
             {seo.title && <title>{ seo.title }</title>}
             {seo.description && <meta name="description" content={ seo.description } />}
             {seo.robots && <meta name="robots" content={ seo.robots.join(',') } />}
@@ -16,6 +16,6 @@ export default function SEO(props) {
                 const value = (meta.relativeUrl ? props.site.domain : '') + meta.value;
                 return <meta key={index} {...{[keyName]: meta.name}} content={value} />
             })}
-        </Head>
+        </Helmet>
     );
 }
