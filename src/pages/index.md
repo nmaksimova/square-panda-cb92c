@@ -357,8 +357,8 @@ template: advanced
 seo:
   title: ILTA Dance Studio
   description: >
-    Latin and Ballroom Dance Classes in Framingham, MA, Salem, MA, Metrowest
-    area. 
+    Latin and Ballroom Dance Classes, Framingham, MA, Salem, MA, Metrowest area.
+    W
   robots: []
   extra: []
   type: stackbit_page_meta
