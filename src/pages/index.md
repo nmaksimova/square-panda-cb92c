@@ -366,5 +366,9 @@ seo:
       value: /images/futuristic-bee.JPG
       keyName: property
       relativeUrl: true
+    - name: 'og:type'
+      value: website
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 ---
