@@ -354,4 +354,10 @@ sections:
     enable_cards: true
     background_color: primary
 template: advanced
+seo:
+  title: ''
+  description: ''
+  robots: []
+  extra: []
+  type: stackbit_page_meta
 ---
