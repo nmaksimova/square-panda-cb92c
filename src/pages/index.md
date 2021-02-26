@@ -358,7 +358,7 @@ seo:
   title: ILTA Dance Studio
   description: >
     Latin and Ballroom Dance Classes, Framingham, MA, Salem, MA, Metrowest area.
-    Our dance classes are for all ages and levels, kids and adult are welcome!
+    Our dance classes are for all ages and levels, kids and adult are welcome! 
   robots: []
   extra: []
   type: stackbit_page_meta
