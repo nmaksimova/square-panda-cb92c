@@ -21,7 +21,7 @@ export default class Body extends React.Component {
                     <meta charSet="utf-8"/>
                     <meta name="viewport" content="width=device-width, initialScale=1.0" />
                     <meta name="google" content="notranslate" />
-                    <meta name="description" content={_.get(this.props, 'pageContext.frontmatter.excerpt', null) || _.get(this.props, 'pageContext.site.siteMetadata.description', null)}/>
+                    <meta name="description" content={_.get(this.props, 'pageContext.frontmatter.excerpt', null) || _.get(this.props, 'pageContext.site.siteMetadata.description', null)}/>                        
                     {(style === 'bold') ? (
                       (font === 'serif') ? (
                       <link href="https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet"/> 
