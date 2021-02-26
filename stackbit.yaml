@@ -22,13 +22,16 @@ models:
     label: Site configuration
     fields:
       - type: string
-        name: domain
-        label: Domain
-      - type: string
         name: title
         label: Title
         description: Site title
         required: true
+      - type: string
+        name: domain
+        label: Domain
+        description: >-
+          The domain of your site, including the protocol, e.g.
+          https://mysite.com/
       - type: image
         name: favicon
         label: Favicon
@@ -93,60 +96,7 @@ models:
         name: footer
         label: Footer configuration
         models:
-          - footer
-          
-  stackbit_page_meta:
-    type: object
-    label: Page meta data
-    fields:
-    - type: string
-      name: title
-      label: Title
-      description: The page title that goes into the <title> tag
-      default: ''
-    - type: string
-      name: description
-      label: Description
-      description: The page description that goes into the <meta name="description"> tag
-      default: ''
-    - type: list
-      name: robots
-      label: Robots
-      description: The items that go into the <meta name="robots"> tag
-      items:
-        type: enum
-        options:
-          - all
-          - index
-          - follow
-          - noindex
-          - nofollow
-          - noimageindex
-          - notranslate
-          - none
-        default: all
-    - type: list
-      name: extra
-      label: Extra
-      description: >-
-          Additional definition for specific meta tags such as open-graph,
-          twitter, etc.
-      items:
-        type: object
-        labelField: name
-        fields:
-         - type: string
-           name: name
-           default: ""
-         - type: string
-           name: value
-           default: ""
-         - type: string
-           name: keyName
-           default: name
-         - type: boolean
-           name: relativeUrl                 
-          
+          - footer                   
   header:
     type: object
     label: Header configuration
@@ -1691,3 +1641,54 @@ models:
         label: No follow
         default: false
         description: Add rel="nofollow" attribute to the link
+  stackbit_page_meta:
+    type: object
+    label: Page meta data
+    fields:
+    - type: string
+      name: title
+      label: Title
+      description: The page title that goes into the <title> tag
+      default: ''
+    - type: string
+      name: description
+      label: Description
+      description: The page description that goes into the <meta name="description"> tag
+      default: ''
+    - type: list
+      name: robots
+      label: Robots
+      description: The items that go into the <meta name="robots"> tag
+      items:
+        type: enum
+        options:
+          - all
+          - index
+          - follow
+          - noindex
+          - nofollow
+          - noimageindex
+          - notranslate
+          - none
+        default: all
+    - type: list
+      name: extra
+      label: Extra
+      description: >-
+          Additional definition for specific meta tags such as open-graph,
+          twitter, etc.
+      items:
+        type: object
+        labelField: name
+        fields:
+         - type: string
+           name: name
+           default: ""
+         - type: string
+           name: value
+           default: ""
+         - type: string
+           name: keyName
+           default: name
+         - type: boolean
+           name: relativeUrl               
