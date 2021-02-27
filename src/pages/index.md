@@ -16,8 +16,7 @@ sections:
     padding_top: large
     padding_bottom: small
     background_color: secondary
-    background_image: >-
-      images/stock-photo-happy-sweet-senior-couple-dancing-slow-ballroom-dance-inside-the-house-during-their-leisure-time-290952215.jpg
+    background_image: images/290952215-huge.jpg
     background_image_opacity: 60
     background_image_size: cover
     background_image_position: center center
@@ -87,8 +86,7 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: right
-        image: >-
-          images/stock-photo-young-dancers-isolated-on-white-background-10892038.jpg
+        image: images/shutterstock_10892038.jpg
         image_alt: Section item 1 icon
         image_position: top
         image_align: center
@@ -109,8 +107,7 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: right
-        image: >-
-          images/stock-photo-social-dance-west-coast-swing-demonstration-of-a-tuck-turn-variation-186619055.jpg
+        image: images/shutterstock_186619055.jpg
         image_alt: Adult dance classes
         image_position: top
         image_align: center
@@ -131,7 +128,7 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: right
-        image: images/wedding_2.jpg
+        image: images/shutterstock_1421123252.jpg
         image_alt: Section item 3 icon
         image_position: top
         image_align: left
@@ -216,8 +213,7 @@ sections:
     background_image_position: left center
     background_image_repeat: no-repeat
     type: form_section
-    background_image: >-
-      images/stock-photo-helpful-mature-dance-instructor-teaching-aged-couple-in-the-ballroom-605499152.jpg
+    background_image: images/shutterstock_605499152.jpg
   - type: grid_section
     title: Testimonials
     subtitle: ''
