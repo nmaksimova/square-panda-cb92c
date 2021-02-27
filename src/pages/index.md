@@ -213,8 +213,7 @@ sections:
     background_image_position: left center
     background_image_repeat: no-repeat
     type: form_section
-    background_image: >-
-      images/stock-photo-helpful-mature-dance-instructor-teaching-aged-couple-in-the-ballroom-605499152.jpg
+    background_image: images/shutterstock_605499152.jpg
   - type: grid_section
     title: Testimonials
     subtitle: ''
