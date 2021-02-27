@@ -128,7 +128,7 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: right
-        image: images/wedding_2.jpg
+        image: images/shutterstock_1421123252.jpg
         image_alt: Section item 3 icon
         image_position: top
         image_align: left
