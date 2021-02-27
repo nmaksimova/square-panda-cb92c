@@ -82,8 +82,7 @@ sections:
 
           **Latin - Cha Cha**, **Samba**, **Rumba**, **Paso Doble**, **Jive**,
           **Salsa**, **Swing**, **Bachata**.
-        image: >-
-          images/stock-photo-lovely-young-couple-dancing-together-at-party-1593172162.jpg
+        image: images/shutterstock_1593172162.jpg
         image_alt: People in a conference room
         media_position: left
         media_width: fifty
