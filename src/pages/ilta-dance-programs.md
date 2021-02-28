@@ -19,7 +19,7 @@ sections:
     has_border: true
     background_image_repeat: no-repeat
     video_embed_html: ''
-    image: images/groovy-plankton.png
+    image: images/festive-chestnut.png
     title: Ilta Dance Programs
   - type: grid_section
     title: Start Dancing Today!
