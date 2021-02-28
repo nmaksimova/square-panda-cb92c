@@ -12,7 +12,7 @@ sections:
     padding_top: large
     padding_bottom: small
     background_color: secondary
-    background_image: images/blue-tiger.jpg
+    background_image: images/clever-primrose.jpg
     background_image_opacity: 40
     background_image_size: cover
     background_image_position: center center
