@@ -7,6 +7,7 @@ sections:
     media_position: bottom
     background_image: images/20180603-140523-Original.jpg
     background_image_opacity: 50
+    image: images/transparent2.png
   - type: features_section
     features:
       - title: About Ilta Dance
