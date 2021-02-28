@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     actions: []
     image_alt: Ilta Dance Studio
-    media_position: right
+    media_position: top
     media_width: sixty
     align: left
     padding_top: large
