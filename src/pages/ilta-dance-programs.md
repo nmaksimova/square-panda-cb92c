@@ -6,20 +6,20 @@ sections:
     subtitle: ''
     actions: []
     image_alt: Ilta Dance Studio
-    media_position: right
+    media_position: bottom
     media_width: sixty
     align: left
     padding_top: large
     padding_bottom: small
     background_color: secondary
-    background_image: images/blue-tiger.jpg
+    background_image: images/clever-primrose.jpg
     background_image_opacity: 40
     background_image_size: cover
     background_image_position: center center
     has_border: true
     background_image_repeat: no-repeat
     video_embed_html: ''
-    image: images/groovy-plankton.png
+    image: images/festive-chestnut.png
     title: Ilta Dance Programs
   - type: grid_section
     title: Start Dancing Today!
@@ -41,8 +41,7 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: right
-        image: >-
-          images/stock-photo-young-dancers-isolated-on-white-background-10892038.jpg
+        image: images/fierce-ant.jpg
         image_alt: Section item 1 icon
         image_position: top
         image_align: center
@@ -63,7 +62,7 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: right
-        image: images/scientific-comet.jpg
+        image: images/thoughtful-robin.jpg
         image_alt: Adult dance classes
         image_position: top
         image_align: center
@@ -84,7 +83,7 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: right
-        image: images/wedding_2.jpg
+        image: images/best-coriander.jpg
         image_alt: Section item 3 icon
         image_position: top
         image_align: left
@@ -169,7 +168,7 @@ sections:
     background_image_position: left center
     background_image_repeat: no-repeat
     type: form_section
-    background_image: images/majestic-saturn.jpg
+    background_image: images/fierce-kangaroo.jpg
   - type: grid_section
     title: Our Locations
     subtitle: ''

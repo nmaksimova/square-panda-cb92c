@@ -7,8 +7,7 @@ sections:
     subtitle: 'Ilta Dance Studio offers adult ballroom and latin dance classes. '
     align: center
     background_color: secondary
-    background_image: >-
-      images/stock-photo-lovely-young-couple-dancing-together-at-party-1600581697_background.jpg
+    background_image: images/shutterstock_1600581697.jpg
     background_image_position: center center
     background_image_opacity: 40
     content: ''
@@ -31,8 +30,6 @@ sections:
 
           Contact us to learn more about our **adult dance classes** or book
           your first complimentary private lesson.
-        image: >-
-          images/stock-photo-romantic-couple-smiling-and-dancing-on-a-sunny-day-1441832486.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
@@ -55,6 +52,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
+        image: images/Adult_dancing.png
       - title: 'Group Classes '
         subtitle: ''
         content: >
@@ -200,8 +198,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: primary
-    background_image: >-
-      images/stock-photo-talented-dance-instructor-teaching-aging-couple-at-the-ballroom-605494889.jpg
+    background_image: images/modern-sage.jpg
     background_image_opacity: 15
   - type: grid_section
     title: Our Locations
