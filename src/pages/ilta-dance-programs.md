@@ -62,7 +62,7 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: right
-        image: images/scientific-comet.jpg
+        image: images/thoughtful-robin.jpg
         image_alt: Adult dance classes
         image_position: top
         image_align: center
