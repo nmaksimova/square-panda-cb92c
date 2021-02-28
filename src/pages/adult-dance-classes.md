@@ -53,7 +53,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-        image: images/shutterstock_605494889.jpg
+        image: images/Adult_dancing.png
       - title: 'Group Classes '
         subtitle: ''
         content: >
