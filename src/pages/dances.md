@@ -60,17 +60,12 @@ sections:
           allow="accelerometer; autoplay; clipboard-write; encrypted-media;
           gyroscope; picture-in-picture" allowfullscreen></iframe>
       - title: Jive
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          **Jive** is a very happy, hoppy, energetic dance, with plenty of
+          knee-lifting, bending, and rocking of the hips. The fastest of the
+          Latin dances, jive incorporates lots of kicks and flicks, even
+          twirling of the woman, and doesn't move around the dance floor like
+          other dances.
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
