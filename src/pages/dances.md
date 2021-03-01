@@ -100,7 +100,7 @@ sections:
           and all over the world. It is characterized by sharp, staccato
           movements and a passionate attitude.
         actions: []
-        image_alt: lorem-ipsum
+        image_alt: Tango
         video_embed_html: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
