@@ -32,18 +32,7 @@ sections:
         actions: []
         title: Samba
       - title: Rumba
-        content: |
-          We teach different **types of Latin and Ballroom Dance**.
-
-          **Latin**:
-
-          Cha Cha, Samba, Rumba, Paso Doble, Jive, Salsa, Swing, Bachata
-
-          **Ballrom**:
-
-          Waltz, Tango, Foxtrot, Viennese Waltz, Quickstep
-
-          ##### **Book you first complimentary class with us (adult program)**
+        content: "##### **Rumba**\_is universally recognized as the dance of love. It is danced to slow, sensual music with a Latin beat and features a hip action known as “Cuban Motion”. Rumba is derived from the Afro-Caribbean dance “Son” and has been popular in this country as a ballroom dance since the 1930's.\n"
         image: images/IMG_0583.jpg
         image_alt: Happy co-workers
         media_position: right
