@@ -84,7 +84,7 @@ sections:
           position.
         actions: []
         image_alt: Waltz
-        media_position: top
+        media_position: left
         media_width: fifty
         align: left
         type: feature
