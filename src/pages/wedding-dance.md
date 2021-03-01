@@ -30,8 +30,7 @@ sections:
 
 
           Contact us to learn more about our **wedding program**.
-        image: >-
-          images/stock-photo-first-wedding-dance-young-couple-dances-on-the-studio-happy-young-bride-and-groom-on-their-578121634.jpg
+        image: images/shutterstock_578121634.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
