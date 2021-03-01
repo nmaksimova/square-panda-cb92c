@@ -63,6 +63,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
+        title: Samba
       - title: Dances We Teach
         content: |
           We teach different **types of Latin and Ballroom Dance**.
