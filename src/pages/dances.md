@@ -25,7 +25,7 @@ sections:
           counter-clockwise around the floor. It is characterized by its
           syncopated timing, bounce, rolling hip action and pelvic tilt and a
           great deal of rhythm is expressed throughout the torso.
-        image: images/image_6483441.JPG
+        image: images/IMG_0699.jpg
         image_alt: People in a conference room
         media_position: left
         media_width: fifty
