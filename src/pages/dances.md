@@ -123,7 +123,7 @@ sections:
         align: left
         type: feature
         image: images/Viennese_Waltz_2.png
-      - title: lorem-ipsum
+      - title: Foxtrot
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
