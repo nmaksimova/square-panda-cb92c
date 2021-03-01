@@ -6,7 +6,7 @@ sections:
     background_color: secondary
     media_position: bottom
     background_image: images/IMG_0704.jpg
-    background_image_opacity: 50
+    background_image_opacity: 30
     title: Dances We Teach
   - type: features_section
     features:
