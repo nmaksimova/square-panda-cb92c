@@ -132,7 +132,7 @@ sections:
         align: left
         type: feature
         image: images/Foxtrot.jpg
-      - title: lorem-ipsum
+      - title: Quickstep
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
