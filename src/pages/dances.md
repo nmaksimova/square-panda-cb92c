@@ -7,6 +7,7 @@ sections:
     media_position: bottom
     background_image: images/IMG_0704.jpg
     background_image_opacity: 50
+    title: Dances We Teach
   - type: features_section
     features:
       - title: About Ilta Dance
