@@ -1,5 +1,4 @@
 ---
-title: About
 excerpt: lorem-ipsum
 sections:
   - type: hero_section
