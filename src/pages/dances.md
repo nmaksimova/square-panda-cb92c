@@ -122,6 +122,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: images/Viennese_Waltz.jpg
   - type: grid_section
     title: Our Locations
     grid_items:
