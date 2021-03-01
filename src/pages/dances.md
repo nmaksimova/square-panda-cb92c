@@ -59,7 +59,7 @@ sections:
           src="https://www.youtube.com/embed/O9cRytl2WUI" frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media;
           gyroscope; picture-in-picture" allowfullscreen></iframe>
-      - title: lorem-ipsum
+      - title: Jive
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
