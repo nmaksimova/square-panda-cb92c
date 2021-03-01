@@ -111,7 +111,7 @@ sections:
             no_follow: false
             type: action
           - label: Dances we teach
-            url: lorem-ipsum
+            url: /dances
             style: link
             has_icon: false
             icon: arrow-left
