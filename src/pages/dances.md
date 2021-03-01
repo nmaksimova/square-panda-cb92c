@@ -124,7 +124,6 @@ sections:
         type: feature
         image: images/Viennese_Waltz_2.png
       - title: Foxtrot
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
