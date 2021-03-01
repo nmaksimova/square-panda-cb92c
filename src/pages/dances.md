@@ -31,7 +31,7 @@ sections:
         media_width: fifty
         actions: []
         title: Samba
-      - title: Dances We Teach
+      - title: Rumba
         content: |
           We teach different **types of Latin and Ballroom Dance**.
 
