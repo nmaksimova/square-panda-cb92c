@@ -143,6 +143,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: images/Quickstep.jpg
   - type: grid_section
     title: Our Locations
     grid_items:
