@@ -112,7 +112,7 @@ sections:
             type: action
           - label: Dances we teach
             url: /dances
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
