@@ -49,7 +49,7 @@ sections:
           became based on the sound, drama, and movement of the Spanish and
           Portuguese bullfight.
         actions: []
-        image_alt: lorem-ipsum
+        image_alt: Pasodoble
         video_embed_html: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
