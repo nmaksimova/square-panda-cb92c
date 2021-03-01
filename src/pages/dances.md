@@ -118,7 +118,7 @@ sections:
           change steps to switch between the direction of rotation
         actions: []
         image_alt: Viennese Waltz
-        media_position: top
+        media_position: left
         media_width: fifty
         align: left
         type: feature
