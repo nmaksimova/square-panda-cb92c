@@ -90,17 +90,15 @@ sections:
         type: feature
         image: images/Waltz.jpg
       - title: Tango
-        content: >-
-          ## Lorem ipsum
+        content: >
+          **Tango** is a Ballroom Dance that branched away from its original
+          Argentine roots by allowing European, American, Hollywood, and
+          competitive influences into the style and execution of the dance.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          This is a dramatic dance style that is popular in the United States
+          and all over the world. It is characterized by sharp, staccato
+          movements and a passionate attitude.
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
