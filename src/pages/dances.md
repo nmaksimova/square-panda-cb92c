@@ -10,7 +10,7 @@ sections:
     title: Dances We Teach
   - type: features_section
     features:
-      - title: About Ilta Dance
+      - title: Cha Cha
         subtitle: ' '
         content: >
           At **ilta Dance Studio** we believe that everyone can dance and it's
