@@ -60,7 +60,6 @@ sections:
           allow="accelerometer; autoplay; clipboard-write; encrypted-media;
           gyroscope; picture-in-picture" allowfullscreen></iframe>
       - title: Jive
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
