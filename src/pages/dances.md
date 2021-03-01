@@ -26,7 +26,7 @@ sections:
           syncopated timing, bounce, rolling hip action and pelvic tilt and a
           great deal of rhythm is expressed throughout the torso.
         image: images/IMG_0699.jpg
-        image_alt: People in a conference room
+        image_alt: Samba
         media_position: left
         media_width: fifty
         actions: []
