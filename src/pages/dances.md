@@ -38,7 +38,7 @@ sections:
         media_position: right
         media_width: fifty
         actions: []
-      - title: lorem-ipsum
+      - title: Pasodoble
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
