@@ -1,5 +1,5 @@
 ---
-excerpt: lorem-ipsum
+excerpt: Dances We Teach
 sections:
   - type: hero_section
     align: center
