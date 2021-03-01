@@ -138,7 +138,7 @@ sections:
           with syncopation. The upbeat melodies that **Quickstep** is danced to
           make it suitable for both formal and informal events.
         actions: []
-        image_alt: lorem-ipsum
+        image_alt: Quickstep
         video_embed_html: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
