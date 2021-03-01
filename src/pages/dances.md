@@ -90,7 +90,6 @@ sections:
         type: feature
         image: images/Waltz.jpg
       - title: Tango
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
