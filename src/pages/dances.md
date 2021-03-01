@@ -127,9 +127,6 @@ sections:
         content: "**Foxtrot** is\_a smooth, progressive dance characterized by long, continuous flowing movements across the dance floor. It is danced to big band (usually vocal) music. The dance is similar in its look to Waltz, although the rhythm is in a 4/4 time signature instead of 3/4.\n"
         actions: []
         image_alt: Foxtrot
-        video_embed_html: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
         media_position: top
         media_width: fifty
         align: left
