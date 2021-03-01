@@ -133,17 +133,10 @@ sections:
         type: feature
         image: images/Foxtrot.jpg
       - title: Quickstep
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          The movement of the dance is fast and powerfully flowing, sprinkled
+          with syncopation. The upbeat melodies that **Quickstep** is danced to
+          make it suitable for both formal and informal events.
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
