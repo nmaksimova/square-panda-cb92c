@@ -16,7 +16,7 @@ sections:
           **Cha Cha** is a fast cheeky rhythmic ballroom dance of Latin American
           origin with a basic pattern of three steps and a shuffle.
         image: images/IMG_0697.jpg
-        image_alt: People in conve
+        image_alt: Cha Cha
         media_position: right
         media_width: fifty
         actions: []
