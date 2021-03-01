@@ -7,8 +7,7 @@ sections:
     subtitle: ' '
     align: center
     background_color: secondary
-    background_image: >-
-      images/stock-photo-wedding-couple-on-the-studio-wedding-day-happy-young-bride-and-groom-on-their-wedding-day-533859541.jpg
+    background_image: images/shutterstock_533859541.jpg
     background_image_position: center center
     background_image_opacity: 40
     content: ''
