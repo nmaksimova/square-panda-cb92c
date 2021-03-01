@@ -39,17 +39,15 @@ sections:
         media_width: fifty
         actions: []
       - title: Pasodoble
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          **Pasodoble** is a style of [ballroom
+          dancing](https://www.wikidancesport.com/wiki/1052/ballroom-dance)
+          included in
+          [DanceSport](https://www.wikidancesport.com/wiki/18/dancesport)
+          categories of competition that began in the 16th century in the
+          country of France. This dance became popular in Spain because it
+          became based on the sound, drama, and movement of the Spanish and
+          Portuguese bullfight.
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
