@@ -18,7 +18,7 @@ sections:
     type: hero_section
     title: '  Ilta Dance Schedule - Framingham'
     subtitle: '    '
-    background_image: images/successful-moon.png
+    background_image: images/great-whale.png
   - actions: []
     grid_items:
       - title_align: center
