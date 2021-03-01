@@ -111,7 +111,6 @@ sections:
         align: left
         type: feature
       - title: Viennese Waltz
-        subtitle: lorem-ipsum
         content: >
           **Viennese Waltz** is a rotary dance where the dancers are constantly
           turning either toward the leader's right (a natural turn) or toward
