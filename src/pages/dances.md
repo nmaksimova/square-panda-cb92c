@@ -78,7 +78,6 @@ sections:
         align: left
         type: feature
       - title: Waltz
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
