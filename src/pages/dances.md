@@ -6,7 +6,7 @@ sections:
     align: center
     background_color: secondary
     media_position: bottom
-    background_image: images/20180603-140523-Original.jpg
+    background_image: images/IMG_0704.jpg
     background_image_opacity: 50
     image: images/transparent2.png
   - type: features_section
