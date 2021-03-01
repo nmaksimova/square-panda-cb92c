@@ -54,7 +54,6 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: images/IMG_0700.jpg
   - type: grid_section
     title: Our Locations
     grid_items:
