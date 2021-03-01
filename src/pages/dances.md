@@ -13,19 +13,8 @@ sections:
       - title: Cha Cha
         subtitle: ' '
         content: >
-          At **ilta Dance Studio** we believe that everyone can dance and it's
-          never too late or too early to **start dancing**!
-
-
-          When you first enter our studios, you feel warm and family atmosphere
-          that encourages you to take first steps towards your dance goals.
-          Whether  you are a beginner or an experienced dancer, our instructors
-          will help you to find a program that is right just for you.
-
-
-          Ilta Dance Instructors are top teachers, innovative choreographers,
-          and champions in **Latin and Ballroom**. They care deeply for each
-          student and use individual approaches in all their dance programs.
+          **Cha Cha** is a fast cheeky rhythmic ballroom dance of Latin American
+          origin with a basic pattern of three steps and a shuffle.
         image: images/image_6483441 (4).JPG
         image_alt: People in conversation in the office lounge area
         media_position: right
