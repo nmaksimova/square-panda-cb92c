@@ -17,7 +17,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     title: Salem - Adult  Dance Schedule
-    background_image: images/marvelous-petunia.png
+    background_image: images/Start_dancing.png
   - title: Adult Classes
     actions: []
     grid_items:
