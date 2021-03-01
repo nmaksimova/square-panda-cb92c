@@ -110,6 +110,15 @@ sections:
             new_window: false
             no_follow: false
             type: action
+          - label: Dances we teach
+            url: /dances
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
   - type: grid_section
     title: Our Locations
     grid_items:

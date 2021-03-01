@@ -52,6 +52,17 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "Dances",
+                "url": "/dances",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
             }
         ],
         "has_secondary_nav": true,
@@ -115,6 +126,17 @@
             {
                 "label": "Testimonials (Not Ready Yet)",
                 "url": "/testimonials",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
+                "label": "Dances we teach",
+                "url": "/dances",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",

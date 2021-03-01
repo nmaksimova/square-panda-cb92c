@@ -71,7 +71,7 @@ sections:
           add more steps and patterns.
 
 
-          Dances we teach:
+          [Dances we teach](/dances):
 
 
           **Ballroom** - **Waltz**, **Tango**, **Foxtrot**, **Viennese Waltz**,
