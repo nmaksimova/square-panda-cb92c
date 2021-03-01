@@ -78,17 +78,10 @@ sections:
         align: left
         type: feature
       - title: Waltz
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          **Waltz** is a smooth, progressive ballroom and folk dance, normally
+          in about this sound triple time, performed primarily in closed
+          position.
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
