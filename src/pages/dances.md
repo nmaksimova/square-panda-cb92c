@@ -117,7 +117,7 @@ sections:
           the leader's left (a reverse turn), interspersed with non-rotating
           change steps to switch between the direction of rotation
         actions: []
-        image_alt: lorem-ipsum
+        image_alt: Viennese Waltz
         video_embed_html: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
