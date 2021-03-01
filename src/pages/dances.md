@@ -112,17 +112,11 @@ sections:
         type: feature
       - title: Viennese Waltz
         subtitle: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          **Viennese Waltz** is a rotary dance where the dancers are constantly
+          turning either toward the leader's right (a natural turn) or toward
+          the leader's left (a reverse turn), interspersed with non-rotating
+          change steps to switch between the direction of rotation
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
