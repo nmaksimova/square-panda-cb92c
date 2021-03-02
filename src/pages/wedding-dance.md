@@ -30,7 +30,7 @@ sections:
 
 
           Contact us to learn more about our **wedding program**.
-        image: images/shutterstock_578121634.jpg
+        image: images/oceanic-sloth.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
