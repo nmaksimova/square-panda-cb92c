@@ -16,7 +16,7 @@ sections:
     padding_top: large
     padding_bottom: small
     background_color: secondary
-    background_image: images/290952215-huge.jpg
+    background_image: images/290952215-huge_comp2.png
     background_image_opacity: 60
     background_image_size: cover
     background_image_position: center center
