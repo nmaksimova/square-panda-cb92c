@@ -115,7 +115,7 @@ sections:
       - title: Private Lessons
         subtitle: ''
         content: "Best way to receive personalized attention and faster learn dancing. Lessons may be for one or couple with any instructor. The Introductory 1/2 hour lesson is available at discounted rate. You will learn steps, step patterns, how to create combinations of steps and good leader / follower techniques as well as overview of the dances. \n\n**30\_minute COMPLIMENTARY lesson (adults only)**\n"
-        image: images/shutterstock_605501690.jpg
+        image: images/Adult_Private_Dance_Class.jpg
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
