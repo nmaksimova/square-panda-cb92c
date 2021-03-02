@@ -107,7 +107,7 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: right
-        image: images/shutterstock_186619055.jpg
+        image: images/festive-crane.jpg
         image_alt: Adult dance classes
         image_position: top
         image_align: center
