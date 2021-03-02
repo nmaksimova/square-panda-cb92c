@@ -16,7 +16,7 @@ sections:
     padding_top: large
     padding_bottom: small
     background_color: secondary
-    background_image: images/290952215-huge.jpg
+    background_image: images/Dance_Lesson.png
     background_image_opacity: 60
     background_image_size: cover
     background_image_position: center center
@@ -86,7 +86,7 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: right
-        image: images/shutterstock_10892038.jpg
+        image: images/caring-cedar.jpg
         image_alt: Section item 1 icon
         image_position: top
         image_align: center
@@ -107,7 +107,7 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: right
-        image: images/shutterstock_186619055.jpg
+        image: images/festive-crane.jpg
         image_alt: Adult dance classes
         image_position: top
         image_align: center
@@ -128,7 +128,7 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: right
-        image: images/shutterstock_1421123252.jpg
+        image: images/wedding_dance.jpg
         image_alt: Section item 3 icon
         image_position: top
         image_align: left
@@ -213,7 +213,7 @@ sections:
     background_image_position: left center
     background_image_repeat: no-repeat
     type: form_section
-    background_image: images/shutterstock_605499152.jpg
+    background_image: images/private_dance_class.jpg
   - type: grid_section
     title: Testimonials
     subtitle: ''
