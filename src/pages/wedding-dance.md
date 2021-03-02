@@ -7,7 +7,7 @@ sections:
     subtitle: ' '
     align: center
     background_color: secondary
-    background_image: images/First_dance.jpg
+    background_image: images/Wedding_dance_background.jpg
     background_image_position: center center
     background_image_opacity: 40
     content: ''
