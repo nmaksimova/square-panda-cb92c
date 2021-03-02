@@ -190,7 +190,7 @@ sections:
       **Fill out this short form and start your dance adventure with us!**
     actions:
       - label: Book your first class
-        url: /book_class
+        url: /book-class
         style: primary
         has_icon: false
     align: center
