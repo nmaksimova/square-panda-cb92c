@@ -198,7 +198,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: primary
-    background_image: images/modern-sage.jpg
+    background_image: images/Dance_Instructor.jpg
     background_image_opacity: 15
   - type: grid_section
     title: Our Locations
