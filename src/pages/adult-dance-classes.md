@@ -80,7 +80,7 @@ sections:
 
           **Latin - Cha Cha**, **Samba**, **Rumba**, **Paso Doble**, **Jive**,
           **Salsa**, **Swing**, **Bachata**.
-        image: images/shutterstock_1593172162.jpg
+        image: images/Adult_Dance_Group_Class.jpg
         image_alt: People in a conference room
         media_position: left
         media_width: fifty
