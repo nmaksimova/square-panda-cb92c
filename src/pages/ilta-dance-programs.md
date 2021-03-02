@@ -12,7 +12,7 @@ sections:
     padding_top: large
     padding_bottom: small
     background_color: secondary
-    background_image: images/clever-primrose.jpg
+    background_image: images/magical-oak.jpg
     background_image_opacity: 40
     background_image_size: cover
     background_image_position: center center
@@ -41,7 +41,7 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: right
-        image: images/fierce-ant.jpg
+        image: images/pleasant-mango.jpg
         image_alt: Section item 1 icon
         image_position: top
         image_align: center
@@ -62,7 +62,7 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: right
-        image: images/thoughtful-robin.jpg
+        image: images/modern-eggplant.jpg
         image_alt: Adult dance classes
         image_position: top
         image_align: center
@@ -83,7 +83,7 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: right
-        image: images/best-coriander.jpg
+        image: images/thoughtful-mahogany.jpg
         image_alt: Section item 3 icon
         image_position: top
         image_align: left
@@ -168,7 +168,7 @@ sections:
     background_image_position: left center
     background_image_repeat: no-repeat
     type: form_section
-    background_image: images/fierce-kangaroo.jpg
+    background_image: images/energetic-kale.jpg
   - type: grid_section
     title: Our Locations
     subtitle: ''

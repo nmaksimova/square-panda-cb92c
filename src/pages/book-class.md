@@ -76,7 +76,7 @@ sections:
     background_image_position: left center
     background_image_repeat: no-repeat
     type: form_section
-    background_image: images/graceful-neptune.jpg
+    background_image: images/energetic-mint.jpg
   - type: grid_section
     title: Our Locations
     subtitle: ''

@@ -7,7 +7,7 @@ sections:
     subtitle: ' '
     align: center
     background_color: secondary
-    background_image: images/shutterstock_533859541.jpg
+    background_image: images/Wedding_dance_background.jpg
     background_image_position: center center
     background_image_opacity: 40
     content: ''
@@ -30,7 +30,7 @@ sections:
 
 
           Contact us to learn more about our **wedding program**.
-        image: images/shutterstock_578121634.jpg
+        image: images/oceanic-sloth.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty

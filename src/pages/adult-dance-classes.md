@@ -7,7 +7,7 @@ sections:
     subtitle: 'Ilta Dance Studio offers adult ballroom and latin dance classes. '
     align: center
     background_color: secondary
-    background_image: images/shutterstock_1600581697.jpg
+    background_image: images/adult_dance_classes.jpg
     background_image_position: center center
     background_image_opacity: 40
     content: ''
@@ -52,7 +52,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-        image: images/Adult_dancing.png
+        image: images/curious-bee.png
       - title: 'Group Classes '
         subtitle: ''
         content: >
@@ -80,7 +80,7 @@ sections:
 
           **Latin - Cha Cha**, **Samba**, **Rumba**, **Paso Doble**, **Jive**,
           **Salsa**, **Swing**, **Bachata**.
-        image: images/shutterstock_1593172162.jpg
+        image: images/Adult_Dance_Group_Class.jpg
         image_alt: People in a conference room
         media_position: left
         media_width: fifty
@@ -115,7 +115,7 @@ sections:
       - title: Private Lessons
         subtitle: ''
         content: "Best way to receive personalized attention and faster learn dancing. Lessons may be for one or couple with any instructor. The Introductory 1/2 hour lesson is available at discounted rate. You will learn steps, step patterns, how to create combinations of steps and good leader / follower techniques as well as overview of the dances. \n\n**30\_minute COMPLIMENTARY lesson (adults only)**\n"
-        image: images/shutterstock_605501690.jpg
+        image: images/Adult_Private_Dance_Class.jpg
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
@@ -198,7 +198,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: primary
-    background_image: images/modern-sage.jpg
+    background_image: images/Dance_Instructor.jpg
     background_image_opacity: 15
   - type: grid_section
     title: Our Locations
