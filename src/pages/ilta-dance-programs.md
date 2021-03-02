@@ -168,7 +168,7 @@ sections:
     background_image_position: left center
     background_image_repeat: no-repeat
     type: form_section
-    background_image: images/fierce-kangaroo.jpg
+    background_image: images/energetic-kale.jpg
   - type: grid_section
     title: Our Locations
     subtitle: ''
