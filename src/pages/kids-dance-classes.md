@@ -142,7 +142,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: images/shutterstock_1779864599.jpg
+        image: images/kids_hip_hop.jpg
       - title: Online Classes
         subtitle: ''
         content: >
