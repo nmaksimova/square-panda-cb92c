@@ -100,7 +100,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: Registration Form Salem
+          - label: Form Salem
             url: >-
               https://square-panda-cb92c.netlify.app/images/ILTA-Marblehead-20.pdf
             style: secondary
