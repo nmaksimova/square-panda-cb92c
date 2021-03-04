@@ -101,7 +101,8 @@ sections:
             no_follow: false
             type: action
           - label: Registration Form Salem
-            url: lorem-ipsum
+            url: >-
+              https://square-panda-cb92c.netlify.app/images/ILTA-Registration-20.pdf
             style: link
             has_icon: false
             icon: arrow-left
