@@ -76,17 +76,14 @@ sections:
           step patterns, posture, dancing on beat and more.
 
 
-          Dances we teach:
+          [Dances we teach](/dances):
 
 
-          **Ballroom** - **Waltz**, **Tango**, **Foxtrot**, **Viennese Waltz**,
-          **Quickstep;**
+          Ballroom - Waltz, Tango, Foxtrot, Viennese Waltz, Quickstep;
 
 
-          **Latin - Cha Cha**, **Samba**, **Rumba**, **Paso Doble**, **Jive**,
-          **Salsa**, **Swing**, **Bachata**.
-
-
+          Latin - Cha Cha, Samba, Rumba, Paso Doble, Jive, Salsa, Swing,
+          Bachata.
 
 
           **To start, download kids registration form for Framingham or Salem
