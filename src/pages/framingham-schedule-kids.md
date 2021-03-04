@@ -154,7 +154,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-    background_image: images/happy-steel.jpg
+    background_image: images/friendly-mars.jpg
   - actions:
       - label: Back to Schedule
         url: /schedule
