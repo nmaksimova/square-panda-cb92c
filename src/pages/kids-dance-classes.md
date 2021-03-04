@@ -180,7 +180,7 @@ sections:
           #### **Please download Kids Registration Form for Framingham or Salem
           location, fill it out and email back to us.**
         actions:
-          - label: Download Registration Form
+          - label: Framingham Registration Form
             url: >-
               https://square-panda-cb92c.netlify.app/images/ILTA-Registration-20.pdf
             style: primary
