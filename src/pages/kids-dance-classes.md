@@ -63,12 +63,12 @@ sections:
       - title: Kids Group Classes
         subtitle: ''
         content: >
-          Our group classes designed for kids all ages and levels. 
+          Our group classes designed for kids all ages and levels.
 
 
           Group classes for our youngest dancers (starting from **3-4 years
           old**) focus on musicality and an easy start on rhythm and posture
-          using simple stretches, fun music and movement. 
+          using simple stretches, fun music and movement.
 
 
           In group classes for **older children and youth**, the focus is on
@@ -76,26 +76,39 @@ sections:
           step patterns, posture, dancing on beat and more.
 
 
-          Dances we teach:
+          [**Dances we teach**](/dances):
 
 
-          **Ballroom** - **Waltz**, **Tango**, **Foxtrot**, **Viennese Waltz**,
-          **Quickstep;**
+          Ballroom - Waltz, Tango, Foxtrot, Viennese Waltz, Quickstep;
 
 
-          **Latin - Cha Cha**, **Samba**, **Rumba**, **Paso Doble**, **Jive**,
-          **Salsa**, **Swing**, **Bachata**.
+          Latin - Cha Cha, Samba, Rumba, Paso Doble, Jive, Salsa, Swing,
+          Bachata.
+
+
+          **To start, download kids registration form for Framingham or Salem
+          location.**
         image: images/IMG_0522.jpg
         image_alt: People in a conference room
         media_position: left
         media_width: fifty
         actions:
-          - label: Kids Registration Form
+          - label: Form Framingham
             url: >-
               https://square-panda-cb92c.netlify.app/images/ILTA-Registration-20.pdf
             style: secondary
-            has_icon: true
+            has_icon: false
             icon: arrow-right
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+          - label: Form Salem
+            url: >-
+              https://square-panda-cb92c.netlify.app/images/ILTA-Marblehead-20.pdf
+            style: secondary
+            has_icon: false
+            icon: arrow-left
             icon_position: right
             new_window: false
             no_follow: false
@@ -164,12 +177,22 @@ sections:
       - title: ''
         subtitle: ''
         content: >
-          #### **Please download Kids Registration Form, fill it out and email
-          back to us.**
+          #### **Please download Kids Registration Form for Framingham or Salem
+          location, fill it out and email back to us.**
         actions:
-          - label: Download Registration Form
+          - label: Framingham Registration Form
             url: >-
               https://square-panda-cb92c.netlify.app/images/ILTA-Registration-20.pdf
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+          - label: Salem Registration Form
+            url: >-
+              https://square-panda-cb92c.netlify.app/images/ILTA-Marblehead-20.pdf
             style: primary
             has_icon: false
             icon: arrow-left
