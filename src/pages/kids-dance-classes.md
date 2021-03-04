@@ -100,6 +100,15 @@ sections:
             new_window: false
             no_follow: false
             type: action
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
           - label: Kids Schedule Framingham
             url: /framingham-schedule-kids
             style: primary
@@ -112,15 +121,6 @@ sections:
           - label: Kids Schedule Salem
             url: /salem-schedule-kids
             style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-          - label: lorem-ipsum
-            url: lorem-ipsum
-            style: link
             has_icon: false
             icon: arrow-left
             icon_position: right
