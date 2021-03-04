@@ -177,8 +177,8 @@ sections:
       - title: ''
         subtitle: ''
         content: >
-          #### **Please download Kids Registration Form, fill it out and email
-          back to us.**
+          #### **Please download Kids Registration Form for Framingham or Salem
+          location, fill it out and email back to us.**
         actions:
           - label: Download Registration Form
             url: >-
