@@ -62,13 +62,13 @@ sections:
             type: action
       - title: Kids Group Classes
         subtitle: ''
-        content: >
-          Our group classes designed for kids all ages and levels. 
+        content: >+
+          Our group classes designed for kids all ages and levels.
 
 
           Group classes for our youngest dancers (starting from **3-4 years
           old**) focus on musicality and an easy start on rhythm and posture
-          using simple stretches, fun music and movement. 
+          using simple stretches, fun music and movement.
 
 
           In group classes for **older children and youth**, the focus is on
@@ -85,6 +85,15 @@ sections:
 
           **Latin - Cha Cha**, **Samba**, **Rumba**, **Paso Doble**, **Jive**,
           **Salsa**, **Swing**, **Bachata**.
+
+
+
+
+          ##### To start, download kids registration form for Framingham or
+          Salem location.
+
+
+
         image: images/IMG_0522.jpg
         image_alt: People in a conference room
         media_position: left
