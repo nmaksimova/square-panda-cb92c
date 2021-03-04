@@ -76,7 +76,7 @@ sections:
           step patterns, posture, dancing on beat and more.
 
 
-          [Dances we teach](/dances):
+          [**Dances we teach**](/dances):
 
 
           Ballroom - Waltz, Tango, Foxtrot, Viennese Waltz, Quickstep;
