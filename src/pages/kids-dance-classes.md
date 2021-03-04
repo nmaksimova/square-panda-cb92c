@@ -62,7 +62,7 @@ sections:
             type: action
       - title: Kids Group Classes
         subtitle: ''
-        content: >+
+        content: >
           Our group classes designed for kids all ages and levels.
 
 
@@ -89,11 +89,8 @@ sections:
 
 
 
-          ##### To start, download kids registration form for Framingham or
-          Salem location.
-
-
-
+          **To start, download kids registration form for Framingham or Salem
+          location.**
         image: images/IMG_0522.jpg
         image_alt: People in a conference room
         media_position: left
