@@ -20,6 +20,11 @@ sections:
         media_position: right
         media_width: fifty
         actions: []
+        video_embed_html: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/vlGzXYEC_8g" frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+          gyroscope; picture-in-picture" allowfullscreen></iframe>
       - content: >
           **Samba** is a fun, upbeat, lively dance that progresses
           counter-clockwise around the floor. It is characterized by its
