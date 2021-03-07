@@ -139,7 +139,6 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: images/Foxtrot.jpg
       - title: Quickstep
         content: >
           The movement of the dance is fast and powerfully flowing, sprinkled
