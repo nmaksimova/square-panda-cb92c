@@ -92,6 +92,11 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        video_embed_html: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/_GH_DUKRhQc" frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+          gyroscope; picture-in-picture" allowfullscreen></iframe>
       - title: Tango
         content: >
           **Tango** is a Ballroom Dance that branched away from its original
