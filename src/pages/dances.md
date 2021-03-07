@@ -15,11 +15,15 @@ sections:
         content: >
           **Cha Cha** is a fast cheeky rhythmic ballroom dance of Latin American
           origin with a basic pattern of three steps and a shuffle.
-        image: images/Cha_Cha.jpg
         image_alt: Cha Cha
         media_position: right
         media_width: fifty
         actions: []
+        video_embed_html: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/vlGzXYEC_8g" frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+          gyroscope; picture-in-picture" allowfullscreen></iframe>
       - content: >
           **Samba** is a fun, upbeat, lively dance that progresses
           counter-clockwise around the floor. It is characterized by its
@@ -88,7 +92,11 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: images/Waltz.jpg
+        video_embed_html: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/_GH_DUKRhQc" frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+          gyroscope; picture-in-picture" allowfullscreen></iframe>
       - title: Tango
         content: >
           **Tango** is a Ballroom Dance that branched away from its original
@@ -131,7 +139,11 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: images/Foxtrot.jpg
+        video_embed_html: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/yU3gi-w41zU" frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+          gyroscope; picture-in-picture" allowfullscreen></iframe>
       - title: Quickstep
         content: >
           The movement of the dance is fast and powerfully flowing, sprinkled
@@ -143,7 +155,11 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: images/Quickstep.jpg
+        video_embed_html: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/BLZEUomoZgk" frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+          gyroscope; picture-in-picture" allowfullscreen></iframe>
   - type: grid_section
     title: Our Locations
     grid_items:
