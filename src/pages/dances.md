@@ -139,6 +139,11 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        video_embed_html: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/yU3gi-w41zU" frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+          gyroscope; picture-in-picture" allowfullscreen></iframe>
       - title: Quickstep
         content: >
           The movement of the dance is fast and powerfully flowing, sprinkled
