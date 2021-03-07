@@ -92,7 +92,6 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: images/Waltz.jpg
       - title: Tango
         content: >
           **Tango** is a Ballroom Dance that branched away from its original
