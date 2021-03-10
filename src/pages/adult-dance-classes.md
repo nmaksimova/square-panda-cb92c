@@ -11,6 +11,7 @@ sections:
     background_image_position: center center
     background_image_opacity: 40
     content: ''
+    image_alt: Adult couple dancing
   - type: features_section
     features:
       - title: Adult Ballroom and Latin Dance Classes
@@ -30,7 +31,7 @@ sections:
 
           Contact us to learn more about our **adult dance classes** or book
           your first complimentary private lesson.
-        image_alt: People in conversation in the office lounge area
+        image_alt: Adult couple dancing
         media_position: right
         media_width: fifty
         actions:
@@ -52,7 +53,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-        image: images/curious-bee.png
+        image: images/interesting-zebra.png
       - title: 'Group Classes '
         subtitle: ''
         content: >
@@ -140,7 +141,7 @@ sections:
           We teach **online zoom lessons** for any levels. **Private and group
           classes are available.**
         actions: []
-        image_alt: lorem-ipsum
+        image_alt: Online dance classes
         video_embed_html: ''
         media_position: left
         media_width: fifty

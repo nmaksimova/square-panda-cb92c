@@ -27,7 +27,7 @@ sections:
           and champions in **Latin and Ballroom**. They care deeply for each
           student and use individual approaches in all their dance programs.
         image: images/image_6483441 (4).JPG
-        image_alt: People in conversation in the office lounge area
+        image_alt: Dance competitions
         media_position: right
         media_width: fifty
         actions:
@@ -51,8 +51,8 @@ sections:
 
 
           Learn more about our **kids** and **adult** **dance programs**.
-        image: images/image_6483441.JPG
-        image_alt: People in a conference room
+        image: images/About-Ilta-Dance-2.jpeg
+        image_alt: Adult dancers
         media_position: left
         media_width: fifty
         actions:
@@ -97,7 +97,7 @@ sections:
 
           ##### **Book you first complimentary class with us (adult program)**
         image: images/IMG_0583.jpg
-        image_alt: Happy co-workers
+        image_alt: Foxtrot
         media_position: right
         media_width: fifty
         actions:

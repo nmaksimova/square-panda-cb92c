@@ -41,7 +41,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: images/successful-sunflower.jpg
+        image: images/Ilta-dance-studio-1.jpg
       - content: >
           Our students are finalists and winners of many competitions and
           National championships.
@@ -54,7 +54,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: images/image_6483441 (28).JPG
+        image: images/Ilta-dance-studio-2.jpeg
     feature_padding_vert: medium
     align: center
     padding_top: medium
@@ -87,7 +87,7 @@ sections:
             icon_position: right
         actions_align: right
         image: images/caring-cedar.jpg
-        image_alt: Section item 1 icon
+        image_alt: Kids dance classes
         image_position: top
         image_align: center
         image_has_padding: true
@@ -129,7 +129,7 @@ sections:
             icon_position: right
         actions_align: right
         image: images/wedding_dance.jpg
-        image_alt: Section item 3 icon
+        image_alt: Wedding dance
         image_position: top
         image_align: left
         image_has_padding: true
