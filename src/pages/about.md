@@ -97,7 +97,7 @@ sections:
 
           ##### **Book you first complimentary class with us (adult program)**
         image: images/IMG_0583.jpg
-        image_alt: Foxtr
+        image_alt: Foxtrot
         media_position: right
         media_width: fifty
         actions:
