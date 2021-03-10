@@ -18,7 +18,7 @@ sections:
     type: hero_section
     title: '  Ilta Dance Schedule - Salem'
     subtitle: '    '
-    background_image: images/remarkable-spinach.png
+    background_image: images/Start_dancing.png
   - actions: []
     grid_items:
       - title: 'Salem, MA'
