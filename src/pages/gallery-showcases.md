@@ -30,7 +30,7 @@ sections:
         image_align: center
         image_has_padding: false
         type: grid_item
-        image: images/incredible-sunflower.jpg
+        image: images/Ilta_Showcase.jpg
       - title_align: left
         content_align: left
         actions: []
@@ -186,7 +186,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/important-cabbage.jpg
+        image: images/FB-IMG-1528334249909-Original.jpg
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small

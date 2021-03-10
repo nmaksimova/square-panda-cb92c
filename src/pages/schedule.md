@@ -16,7 +16,7 @@ sections:
     type: hero_section
     title: '  Ilta Dance Schedule'
     subtitle: '    '
-    background_image: images/good-turmeric.png
+    background_image: images/Start_dancing.png
   - actions: []
     grid_items:
       - title_align: center

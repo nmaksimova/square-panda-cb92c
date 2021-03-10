@@ -42,7 +42,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/parallel-sun.jpeg
+        image: images/IMG_0500.jpeg
       - title_align: left
         content_align: left
         actions: []
@@ -90,7 +90,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/maroon-spinach.JPG
+        image: images/Ilta-gallery-1.jpeg
       - title_align: left
         content_align: left
         actions: []

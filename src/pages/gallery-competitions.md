@@ -42,7 +42,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/panoramic-elm.JPG
+        image: images/About-Ilta-Dance-1.jpeg
       - title_align: left
         content_align: left
         actions: []
@@ -78,7 +78,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/incredible-apple.jpg
+        image: images/IMG_0699.jpg
       - title_align: left
         content_align: left
         actions: []
@@ -174,7 +174,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/smart-sunflower.jpg
+        image: images/IMG_0583.jpg
       - title_align: left
         content_align: left
         actions: []
@@ -234,7 +234,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/magical-tomato.JPG
+        image: images/Foxtrot.jpg
       - title_align: left
         content_align: left
         actions: []
