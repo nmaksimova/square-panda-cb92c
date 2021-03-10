@@ -18,7 +18,7 @@ sections:
     type: hero_section
     title: '  Ilta Dance Schedule - Salem'
     subtitle: '    '
-    background_image: images/remarkable-spinach.png
+    background_image: images/Start_dancing.png
   - actions: []
     grid_items:
       - title: 'Salem, MA'
@@ -73,7 +73,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-    background_image: images/clever-avocado.jpg
+    background_image: images/Ilta-Salem-Location.jpg
   - title: Ilta Dance - Salem
     features:
       - content: |
