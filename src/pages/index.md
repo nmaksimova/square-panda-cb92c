@@ -41,7 +41,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: images/successful-sunflower.jpg
+        image: images/Ilta-dance-studio-1.jpg
       - content: >
           Our students are finalists and winners of many competitions and
           National championships.
