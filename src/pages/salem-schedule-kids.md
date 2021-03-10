@@ -18,7 +18,7 @@ sections:
     type: hero_section
     title: ' Salem Kids Dance Schedule'
     subtitle: '    '
-    background_image: images/maroon-potato.png
+    background_image: images/Start_dancing.png
   - title: Kids Ballroom and Latin Classes
     actions: []
     grid_items:
