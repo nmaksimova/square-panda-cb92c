@@ -87,7 +87,7 @@ sections:
             icon_position: right
         actions_align: right
         image: images/caring-cedar.jpg
-        image_alt: Section item 1 icon
+        image_alt: Kids
         image_position: top
         image_align: center
         image_has_padding: true
