@@ -51,7 +51,7 @@ sections:
 
 
           Learn more about our **kids** and **adult** **dance programs**.
-        image: images/image_6483441.JPG
+        image: images/About-Ilta-Dance-2.jpeg
         image_alt: People in a conference room
         media_position: left
         media_width: fifty
