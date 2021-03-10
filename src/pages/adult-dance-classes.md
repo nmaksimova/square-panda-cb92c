@@ -11,6 +11,7 @@ sections:
     background_image_position: center center
     background_image_opacity: 40
     content: ''
+    image_alt: Adult couple dancing
   - type: features_section
     features:
       - title: Adult Ballroom and Latin Dance Classes
