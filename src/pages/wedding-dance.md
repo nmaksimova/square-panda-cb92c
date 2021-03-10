@@ -30,8 +30,8 @@ sections:
 
 
           Contact us to learn more about our **wedding program**.
-        image: images/oceanic-sloth.jpg
-        image_alt: People in conversation in the office lounge area
+        image: images/good-squid.jpg
+        image_alt: Wedding dance
         media_position: right
         media_width: fifty
         actions:
