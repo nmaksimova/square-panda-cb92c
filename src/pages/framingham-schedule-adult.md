@@ -17,7 +17,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     title: ' Framingham - Adult  Dance Schedule'
-    background_image: images/marvelous-petunia.png
+    background_image: images/Start_dancing.png
   - title: Adult Classes
     actions: []
     grid_items:
@@ -107,7 +107,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-    background_image: images/thoughtful-owl.jpg
+    background_image: images/adult_dance_classes.jpg
   - actions:
       - label: Back to All Schedule
         url: /schedule

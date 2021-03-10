@@ -18,7 +18,7 @@ sections:
     type: hero_section
     title: ' Framingham Kids Dance Schedule'
     subtitle: '    '
-    background_image: images/smiling-aluminum.png
+    background_image: images/Start_dancing.png
   - title: Kids Ballroom and Latin Classes
     actions: []
     grid_items:
