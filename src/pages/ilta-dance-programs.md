@@ -12,7 +12,7 @@ sections:
     padding_top: large
     padding_bottom: small
     background_color: secondary
-    background_image: images/magical-oak.jpg
+    background_image: images/adult_dance_classes.jpg
     background_image_opacity: 40
     background_image_size: cover
     background_image_position: center center
