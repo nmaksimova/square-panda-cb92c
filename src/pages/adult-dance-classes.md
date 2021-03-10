@@ -52,7 +52,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-        image: images/curious-bee.png
+        image: images/interesting-zebra.png
       - title: 'Group Classes '
         subtitle: ''
         content: >
