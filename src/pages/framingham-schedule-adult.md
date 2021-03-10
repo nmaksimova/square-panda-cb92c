@@ -107,7 +107,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-    background_image: images/thoughtful-owl.jpg
+    background_image: images/adult_dance_classes.jpg
   - actions:
       - label: Back to All Schedule
         url: /schedule
