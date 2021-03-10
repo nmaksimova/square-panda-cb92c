@@ -141,7 +141,7 @@ sections:
           We teach **online zoom lessons** for any levels. **Private and group
           classes are available.**
         actions: []
-        image_alt: lorem-ipsum
+        image_alt: Online dance classes
         video_embed_html: ''
         media_position: left
         media_width: fifty
