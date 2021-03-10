@@ -62,7 +62,7 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: right
-        image: images/modern-eggplant.jpg
+        image: images/adults_dancing.jpg
         image_alt: Adult dance classes
         image_position: top
         image_align: center
