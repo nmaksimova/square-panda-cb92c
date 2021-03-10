@@ -83,7 +83,7 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: right
-        image: images/thoughtful-mahogany.jpg
+        image: images/wedding_dance.jpg
         image_alt: Section item 3 icon
         image_position: top
         image_align: left
