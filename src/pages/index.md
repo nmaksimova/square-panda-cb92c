@@ -129,7 +129,7 @@ sections:
             icon_position: right
         actions_align: right
         image: images/wedding_dance.jpg
-        image_alt: Section item 3 icon
+        image_alt: Wedding dance
         image_position: top
         image_align: left
         image_has_padding: true
