@@ -54,7 +54,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: images/image_6483441 (28).JPG
+        image: images/Ilta-dance-studio-2.jpeg
     feature_padding_vert: medium
     align: center
     padding_top: medium
