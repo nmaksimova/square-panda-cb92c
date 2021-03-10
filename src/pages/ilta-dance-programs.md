@@ -12,7 +12,7 @@ sections:
     padding_top: large
     padding_bottom: small
     background_color: secondary
-    background_image: images/magical-oak.jpg
+    background_image: images/adult_dance_classes.jpg
     background_image_opacity: 40
     background_image_size: cover
     background_image_position: center center
@@ -41,8 +41,8 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: right
-        image: images/pleasant-mango.jpg
-        image_alt: Section item 1 icon
+        image: images/kids_dancing.jpg
+        image_alt: Kids dance classes
         image_position: top
         image_align: center
         image_has_padding: true
@@ -62,7 +62,7 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: right
-        image: images/modern-eggplant.jpg
+        image: images/adults_dancing.jpg
         image_alt: Adult dance classes
         image_position: top
         image_align: center
@@ -83,8 +83,8 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: right
-        image: images/thoughtful-mahogany.jpg
-        image_alt: Section item 3 icon
+        image: images/wedding_dance.jpg
+        image_alt: Wedding dance
         image_position: top
         image_align: left
         image_has_padding: true
