@@ -27,7 +27,7 @@ sections:
           and champions in **Latin and Ballroom**. They care deeply for each
           student and use individual approaches in all their dance programs.
         image: images/image_6483441 (4).JPG
-        image_alt: People in conversation in the office lounge area
+        image_alt: People in conversation in t
         media_position: right
         media_width: fifty
         actions:
