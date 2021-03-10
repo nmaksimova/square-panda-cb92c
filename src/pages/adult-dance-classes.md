@@ -31,7 +31,7 @@ sections:
 
           Contact us to learn more about our **adult dance classes** or book
           your first complimentary private lesson.
-        image_alt: People in conversation in the office lounge area
+        image_alt: Adult couple dancing
         media_position: right
         media_width: fifty
         actions:
