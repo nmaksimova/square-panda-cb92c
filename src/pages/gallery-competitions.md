@@ -234,7 +234,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/magical-tomato.JPG
+        image: images/Foxtrot.jpg
       - title_align: left
         content_align: left
         actions: []
