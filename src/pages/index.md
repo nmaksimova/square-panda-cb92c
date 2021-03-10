@@ -87,7 +87,7 @@ sections:
             icon_position: right
         actions_align: right
         image: images/caring-cedar.jpg
-        image_alt: Kid
+        image_alt: Kids dance classes
         image_position: top
         image_align: center
         image_has_padding: true
