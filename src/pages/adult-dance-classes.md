@@ -158,7 +158,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: images/oceanic-squid.jpg
+        image: images/About-Ilta-3.jpg
       - title: ''
         subtitle: ''
         content: >
