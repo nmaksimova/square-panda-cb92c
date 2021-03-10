@@ -60,7 +60,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/kind-mint.JPG
+        image: images/About-Ilta-Dance-1.jpeg
       - title_align: left
         content_align: left
         actions:
