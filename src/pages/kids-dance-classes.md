@@ -52,7 +52,7 @@ sections:
         media_width: fifty
         actions:
           - label: Contact us
-            url: /contact-us
+            url: /contact
             style: primary
             has_icon: false
             icon: arrow-left
