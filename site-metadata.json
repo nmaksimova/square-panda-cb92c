@@ -69,7 +69,7 @@
         "secondary_nav_links": [
             {
                 "label": "Contact Us",
-                "url": "/contact-us",
+                "url": "/contact",
                 "style": "link"
             },
             {
