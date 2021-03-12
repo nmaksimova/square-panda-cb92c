@@ -124,7 +124,7 @@
                 "type": "action"
             },
             {
-                "label": "Testimonials (Not Ready Yet)",
+                "label": "Testimonials",
                 "url": "/testimonials",
                 "style": "link",
                 "has_icon": false,
