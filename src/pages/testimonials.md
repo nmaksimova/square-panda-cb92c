@@ -10,6 +10,7 @@ sections:
     background_image_opacity: 20
     background_image_size: cover
     background_image_position: center center
+    image: images/transparent.png
   - type: features_section
     features:
       - title: About Ilta Dance
