@@ -72,7 +72,7 @@ sections:
         media_position: right
         media_width: fifty
         actions: []
-  - title: lorem-ipsum
+  - title: Testi
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
