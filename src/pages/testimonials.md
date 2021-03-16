@@ -207,17 +207,18 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          > The best studio ever! The teachers created a wonderful and welcoming
+          atmosphere for students of all ages and all abilities. Your lessons
+          will be tailored to your needs, whether you want to show some smooth
+          moves at the next birthday party or want to compete on a national
+          level. No matter how stressed or tired I am, a lesson with Ilana or
+          Tamaz will make it all better.
+
+          >
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          **Tatiana Ivanov**
         content_align: left
         actions: []
         actions_align: left
