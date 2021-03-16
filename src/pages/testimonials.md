@@ -116,17 +116,21 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          > Incredible child and adult studio with one-of-a kind coaches! I've
+          been dancing at ILTA for 8.5 years - having had the privilege of
+          experiencing their private lessons, as well as their group classes-,
+          and I can't imagine being anywhere else. Whether your goal is social
+          dancing, preparing a number for a special event, or becoming a part of
+          the competitive world, ILTA will provide you with exactly what you're
+          looking for, and more. All of the teachers here adapt to their
+          students' learning styles, while providing the highest possible level
+          of coaching in a fun and engaging way. By choosing to become part of
+          the welcoming and caring ILTA community, you are sure to form new
+          friendships and to discover a love for dance!
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          **Valerie Abelis**
         content_align: left
         actions: []
         actions_align: left
