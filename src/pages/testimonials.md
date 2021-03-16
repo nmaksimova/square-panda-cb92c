@@ -231,7 +231,7 @@ sections:
         type: grid_item
       - title_align: left
         content: >
-          > I found **Ilta **by simply searching for dance studios in my area
+          > I found **Ilta** by simply searching for dance studios in my area
           and Ilta was one of the most highly reviewed/rated. They also offered
           a free intro class, so I was sold on them from the beginning. My wife
           and I went to our first class and had Ilana as our initial instructor.
