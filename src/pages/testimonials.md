@@ -12,6 +12,7 @@ sections:
     background_image_position: center center
     image: images/transparent.png
     title: Testimonials
+    subtitle: '  '
   - type: features_section
     features:
       - title: About Ilta Dance
