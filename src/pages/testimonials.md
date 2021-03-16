@@ -15,8 +15,7 @@ sections:
     subtitle: '  '
   - type: features_section
     features:
-      - title: About Ilta Dance
-        subtitle: ' '
+      - subtitle: ' '
         content: >
           At **ilta Dance Studio** we believe that everyone can dance and it's
           never too late or too early to **start dancing**!
