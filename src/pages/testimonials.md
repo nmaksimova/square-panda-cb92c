@@ -28,7 +28,6 @@ sections:
 
 
           **Tracey Robinson-Harris**
-        image: images/image_6483441 (4).JPG
         image_alt: Dance competitions
         media_position: right
         media_width: fifty
