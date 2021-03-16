@@ -144,17 +144,16 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >+
+          > We are so lucky to have found ILTA. Ilana has been teaching us and
+          another couple in private lessons and we've grown by leaps and bounds
+          in a short amount of time. Lessons are personalized, fun and the time
+          flies by! We are really inspired to practice and continue to learn
+          more and more. We highly recommend this studio!
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          **Sarah Bernadette**
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
         content_align: left
         actions: []
         actions_align: left
