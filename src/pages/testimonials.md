@@ -33,16 +33,21 @@ sections:
         media_width: fifty
         actions: []
       - content: >
-          At **Ilta** you will never be bored from doing the same routine over
-          and over again, because you will constantly challenge and push
-          yourselves to be the best dancer you can be!
+          > I have been a student of Tamaz’ now for over two years. I’ve danced
+          for over 20 years with a variety of teachers and none has been as
+          influential or as talented as Tamaz. Tamaz is an amazing dancer and
+          also an innovative choreographer. He has taught me so much about dance
+          and also about myself helping me gain the confidence to perform with a
+          partner and to compete as well.
 
 
-          Our students are finalists and winners of many competitions and
-          National championships.
-
-
-          Learn more about our **kids** and **adult** **dance programs**.
+          > Tamaz creates dance programs that are individually tailored and has
+          a keen ability to assess just how much pushing or nurturing students
+          need to challenge themselves and make them the best dancers they can
+          be. Tamaz cares deeply for each one of his students and it is truly a
+          pleasure taking lessons from him. He has my highest recommendation and
+          I personally look forward to many more years of learning from someone
+          who I believe to be one of the best in the business.
         image: images/About-Ilta-Dance-2.jpeg
         image_alt: Adult dancers
         media_position: left
