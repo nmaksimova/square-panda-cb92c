@@ -152,17 +152,19 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          > If you are looking for a great ballroom dance studio, look no
+          further. ILTA Dance Studio is a fabulous find! First impressions are
+          lasting impressions as the saying goes and I knew immediately that
+          ILTA Dance Studio would be a great place for me. From my first
+          conversations with Ilana and Tamaz I was impressed with their warmth
+          and genuine interest in my needs while articulating clearly what ILTA
+          had to offer.
+
+          >
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          **Bernadette Mc Cool**
         content_align: left
         actions: []
         actions_align: left
