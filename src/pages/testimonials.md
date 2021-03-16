@@ -142,7 +142,6 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         title_align: left
         content: >+
           > We are so lucky to have found ILTA. Ilana has been teaching us and
