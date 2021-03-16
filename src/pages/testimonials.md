@@ -231,25 +231,17 @@ sections:
         type: grid_item
       - title_align: left
         content: >
-          > I found 
-
-          >
-
-          > **Ilta**
-
-          >
-
-          >  by simply searching for dance studios in my area and Ilta was one
-          of the most highly reviewed/rated. They also offered a free intro
-          class, so I was sold on them from the beginning. My wife and I went to
-          our first class and had Ilana as our initial instructor. She showed us
-          the basic steps of the Foxtrot and Rhumba. We were there to learn some
-          dancing for our first dance, so Ilana also listened to our song
-          choices and advised us on what steps we could use for them. Before
-          starting private classes for our first dance at the wedding, we took a
-          6-week intro to ballroom dancing with Jenya as our instructor. After
-          the 6-week course, which was very reasonably priced, we started our
-          private instruction, again with Jenya as our instructor. Jenya is
+          > I found **Ilta **by simply searching for dance studios in my area
+          and Ilta was one of the most highly reviewed/rated. They also offered
+          a free intro class, so I was sold on them from the beginning. My wife
+          and I went to our first class and had Ilana as our initial instructor.
+          She showed us the basic steps of the Foxtrot and Rhumba. We were there
+          to learn some dancing for our first dance, so Ilana also listened to
+          our song choices and advised us on what steps we could use for them.
+          Before starting private classes for our first dance at the wedding, we
+          took a 6-week intro to ballroom dancing with Jenya as our instructor.
+          After the 6-week course, which was very reasonably priced, we started
+          our private instruction, again with Jenya as our instructor. Jenya is
           fantastic. Not only is she a great dancer in her own right, but she’s
           also a patient and great dance teacher as well. We ended up taking 10
           private classes with her and she helped us choreograph our whole song.
