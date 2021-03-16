@@ -73,15 +73,6 @@ sections:
         media_position: right
         media_width: fifty
         actions:
-          - label: Book Free Class
-            url: /book-class
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
           - label: Dances we teach
             url: /dances
             style: primary
