@@ -8,7 +8,6 @@ sections:
     media_position: bottom
     background_image: images/Testimonials.jpeg
     background_image_opacity: 20
-    image: images/transparent2.png
     background_image_size: cover
     background_image_position: center center
   - type: features_section
