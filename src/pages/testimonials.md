@@ -33,7 +33,7 @@ sections:
         media_width: fifty
         actions: []
       - content: |
-          > ****
+          > dfg
         image: images/About-Ilta-Dance-2.jpeg
         image_alt: Adult dancers
         media_position: left
