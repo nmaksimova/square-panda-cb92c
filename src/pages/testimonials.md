@@ -73,7 +73,6 @@ sections:
         media_width: fifty
         actions: []
   - title: Testimonials
-    subtitle: lorem-ipsum
     actions: []
     grid_items: []
     grid_cols: three
