@@ -290,7 +290,7 @@ sections:
     align: center
     background_color: secondary
     actions:
-      - label: lorem-ipsum
+      - label: Learn more
         url: lorem-ipsum
         style: link
         has_icon: false
