@@ -14,7 +14,7 @@ sections:
       ##### To get started, please download **Kids Registration Form**
     background_image_size: cover
     actions:
-      - label: Kids Registration Form
+      - label: Framingham Registration Form
         url: 'https://square-panda-cb92c.netlify.app/images/ILTA-Registration-20.pdf'
         style: primary
         has_icon: false
