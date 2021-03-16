@@ -75,8 +75,7 @@ sections:
   - title: Testimonials
     actions: []
     grid_items:
-      - title: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: >-
           ## Lorem ipsum
 
