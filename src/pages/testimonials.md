@@ -230,17 +230,42 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          > I found 
+
+          >
+
+          > **Ilta**
+
+          >
+
+          >  by simply searching for dance studios in my area and Ilta was one
+          of the most highly reviewed/rated. They also offered a free intro
+          class, so I was sold on them from the beginning. My wife and I went to
+          our first class and had Ilana as our initial instructor. She showed us
+          the basic steps of the Foxtrot and Rhumba. We were there to learn some
+          dancing for our first dance, so Ilana also listened to our song
+          choices and advised us on what steps we could use for them. Before
+          starting private classes for our first dance at the wedding, we took a
+          6-week intro to ballroom dancing with Jenya as our instructor. After
+          the 6-week course, which was very reasonably priced, we started our
+          private instruction, again with Jenya as our instructor. Jenya is
+          fantastic. Not only is she a great dancer in her own right, but she’s
+          also a patient and great dance teacher as well. We ended up taking 10
+          private classes with her and she helped us choreograph our whole song.
+          If I had to do it again, or if I ever need dance instruction again, I
+          will be sure to go to Jenya and Ilta. I also highly recommend asking
+          Jenya to try to distract you during your practice sessions. Practicing
+          home alone is easy; dancing in front of one person who is your
+          instructor and knows everything you do wrong can be intimidating, but
+          manageable; dancing in front of 100+ people at your wedding is
+          terrifying and learning to focus on the dance and not the people
+          watching you, I think, was a great help. Jenya is also hilarious with
+          her distractions and includes clapping, talking to no one, commenting
+          on phantom salads, and the occasional moonwalk (which got me).
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          **Michael Conboy**
         content_align: left
         actions: []
         actions_align: left
