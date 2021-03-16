@@ -130,17 +130,17 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          > ILTA Dance Studio is a truly rare find. The owners are not only
+          remarkable pro dancers, but they also possess a unique ability to
+          teach both children and adults the art of dancing. They are committed
+          and passionate teachers and also fun loving, amicable people.I never
+          imagined my husband on the dance floor, now, thanks to the skillful
+          work of ILTA, he searches the web for places to CHA CHA! Boston night
+          life has a whole new meaning.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          **Olga Golub**
         content_align: left
         actions: []
         actions_align: left
