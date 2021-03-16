@@ -17,19 +17,17 @@ sections:
     features:
       - subtitle: ' '
         content: >
-          At **ilta Dance Studio** we believe that everyone can dance and it's
-          never too late or too early to **start dancing**!
+          > As soon as I had my first lesson with Tamaz, I knew I would learn a
+          lot from him. His knowledge and experience, his skill as a dancer and
+          teacher left no doubt about it. As I continue to study with him, I
+          realize that his patience and creativity as a teacher, his confidence
+          in me, and the depth and breadth of his experience as a dancer are
+          making me a better dancer than I ever dreamed possible. Tamaz is the
+          best teacher I have ever had. He encourages me, and inspires me to
+          continue to learn and improve as a dancer.
 
 
-          When you first enter our studios, you feel warm and family atmosphere
-          that encourages you to take first steps towards your dance goals.
-          Whether  you are a beginner or an experienced dancer, our instructors
-          will help you to find a program that is right just for you.
-
-
-          Ilta Dance Instructors are top teachers, innovative choreographers,
-          and champions in **Latin and Ballroom**. They care deeply for each
-          student and use individual approaches in all their dance programs.
+          **Tracey Robinson-Harris**
         image: images/image_6483441 (4).JPG
         image_alt: Dance competitions
         media_position: right
