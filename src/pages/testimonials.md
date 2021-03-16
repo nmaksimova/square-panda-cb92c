@@ -68,7 +68,6 @@ sections:
 
 
           **Olga Golub**
-        image: images/IMG_0583.jpg
         image_alt: Foxtrot
         media_position: right
         media_width: fifty
