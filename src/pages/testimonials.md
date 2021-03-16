@@ -269,17 +269,29 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          > Excellence in every way!
+
+          > Beyond their evident love of dance, Tamaz and Ilana are gifted
+          dancers and uniquely gifted teachers. Success in their commitment to
+          impart and instill a love of dance in every student, however young or
+          old, with whatever goals, is testament to their ever generous effort,
+          talent and experience.
+
+          > The environment at ILTA is safe, nurturing and joyful and dance
+          instruction is highly professional, always purposeful and so much fun!
+          This is a studio that welcomes all to participate, through showcases,
+          practices and parties, in a friendly, respectful, inclusive dance
+          community.
+
+          > Tamaz is a wonderfully creative instructor. Encouraging, patient,
+          considerate and constructive, he has a unique ability to assess and
+          understand how and what I need to learn. Knowing that he expects my
+          best effort and trusting in his confidence in me, each lesson leaves
+          me inspired, eager to learn more, looking forward to the next!
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          **Nina DeLoge**
         content_align: left
         actions: []
         actions_align: left
