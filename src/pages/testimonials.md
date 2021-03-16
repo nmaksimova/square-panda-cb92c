@@ -163,17 +163,15 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          > We've been taking dance lessons here for a few years and highly
+          recommend this studio.  They have wonderful teachers for kids of and
+          adults of all ages.  Latin, ballroom, American, International - all
+          styles.   Friendly atmosphere and very individualized approach to
+          teaching.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          **Ilya Bass**
         content_align: left
         actions: []
         actions_align: left
