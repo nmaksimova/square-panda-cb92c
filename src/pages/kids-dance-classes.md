@@ -25,7 +25,7 @@ sections:
         type: action
       - label: Salem Registration Form
         url: 'https://square-panda-cb92c.netlify.app/images/ILTA-Marblehead-20.pdf'
-        style: link
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
