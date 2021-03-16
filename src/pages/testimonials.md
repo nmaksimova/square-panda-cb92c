@@ -184,17 +184,19 @@ sections:
         type: grid_item
       - subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >+
+          > The are no words to describe how much I love this place! I was in a
+          project in Boston and decided to take latin dance classes. Ilana and
+          Jenya are the most amazing instructors I've had in my life. They are
+          extremely dedicated to their students, caring and overall they are
+          looking to make you successful at dancing. I was there for about 20
+          classes and now that I'm away from Boston I realize how much I miss
+          them. Looking for the best dance studio in Boston? Look no further!
+          ILTA is the place to learn and have fun!
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          **Katherine Martine**
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
         content_align: left
         actions: []
         actions_align: left
