@@ -53,7 +53,6 @@ sections:
           >
 
           > **Kristy Klein**
-        image: images/About-Ilta-Dance-2.jpeg
         image_alt: Adult dancers
         media_position: left
         media_width: fifty
