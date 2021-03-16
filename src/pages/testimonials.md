@@ -99,17 +99,26 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          > I have been a student of Tamaz’ now for over two years. I’ve danced
+          for over 20 years with a variety of teachers and none has been as
+          influential or as talented as Tamaz. Tamaz is an amazing dancer and
+          also an innovative choreographer. He has taught me so much about dance
+          and also about myself helping me gain the confidence to perform with a
+          partner and to compete as well.
+
+          >
+
+          > Tamaz creates dance programs that are individually tailored and has
+          a keen ability to assess just how much pushing or nurturing students
+          need to challenge themselves and make them the best dancers they can
+          be. Tamaz cares deeply for each one of his students and it is truly a
+          pleasure taking lessons from him. He has my highest recommendation and
+          I personally look forward to many more years of learning from someone
+          who I believe to be one of the best in the business.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          **Kristy Klein**
         content_align: left
         actions: []
         actions_align: left
