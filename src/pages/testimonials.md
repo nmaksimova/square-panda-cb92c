@@ -57,8 +57,7 @@ sections:
         media_position: left
         media_width: fifty
         actions: []
-      - title: Dances We Teach
-        content: |
+      - content: |
           We teach different **types of Latin and Ballroom Dance**.
 
           **Latin**:
