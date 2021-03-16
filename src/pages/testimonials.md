@@ -72,7 +72,7 @@ sections:
         media_position: right
         media_width: fifty
         actions: []
-  - title: Testi
+  - title: Testimonials
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
