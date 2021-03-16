@@ -303,17 +303,16 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          > At ILTA studio I've learned a lot and still continue to improve my
+          Ballroom skills, thanks to their wonderful and professional staff.
+
+          > Tamaz, Ilana & Jenya are absolutely the best in this field.
+
+          > I highly recommend to anyone who likes dancing.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          **Simon Shendelman**
         content_align: left
         actions: []
         actions_align: left
