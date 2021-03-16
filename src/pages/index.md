@@ -291,7 +291,7 @@ sections:
     background_color: secondary
     actions:
       - label: Learn more
-        url: lorem-ipsum
+        url: /testimonials
         style: link
         has_icon: false
         icon: arrow-left
