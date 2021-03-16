@@ -1,5 +1,5 @@
 ---
-title: About
+title: Testimonials
 excerpt: lorem-ipsum
 sections:
   - type: hero_section
