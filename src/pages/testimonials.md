@@ -7,7 +7,7 @@ sections:
     background_color: secondary
     media_position: bottom
     background_image: images/Testimonials.jpeg
-    background_image_opacity: 50
+    background_image_opacity: 60
     image: images/transparent2.png
     background_image_size: cover
   - type: features_section
