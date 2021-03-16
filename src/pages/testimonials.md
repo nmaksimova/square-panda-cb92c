@@ -76,17 +76,18 @@ sections:
     actions: []
     grid_items:
       - title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          > As soon as I had my first lesson with Tamaz, I knew I would learn a
+          lot from him. His knowledge and experience, his skill as a dancer and
+          teacher left no doubt about it. As I continue to study with him, I
+          realize that his patience and creativity as a teacher, his confidence
+          in me, and the depth and breadth of his experience as a dancer are
+          making me a better dancer than I ever dreamed possible. Tamaz is the
+          best teacher I have ever had. He encourages me, and inspires me to
+          continue to learn and improve as a dancer.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          **Tracey Robinson-Harris**
         content_align: left
         actions: []
         actions_align: left
