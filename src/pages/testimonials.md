@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     align: center
     background_color: secondary
-    media_position: bottom
+    media_position: right
     background_image: images/Ilta-testimonials.jpeg
     background_image_opacity: 20
     background_image_size: cover
