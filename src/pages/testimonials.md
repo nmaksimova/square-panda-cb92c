@@ -52,16 +52,7 @@ sections:
         image_alt: Adult dancers
         media_position: left
         media_width: fifty
-        actions:
-          - label: Wedding Program
-            url: /wedding-dance
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
       - title: Dances We Teach
         content: |
           We teach different **types of Latin and Ballroom Dance**.
