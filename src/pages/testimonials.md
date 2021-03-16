@@ -9,6 +9,7 @@ sections:
     background_image: images/Testimonials.jpeg
     background_image_opacity: 50
     image: images/transparent2.png
+    background_image_size: cover
   - type: features_section
     features:
       - title: About Ilta Dance
