@@ -6,7 +6,7 @@ sections:
     align: center
     background_color: secondary
     media_position: bottom
-    background_image: images/Testimonials.jpeg
+    background_image: images/Ilta-testimonials.jpeg
     background_image_opacity: 20
     background_image_size: cover
     background_image_position: center center
