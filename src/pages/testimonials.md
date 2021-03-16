@@ -10,7 +10,7 @@ sections:
     background_image_opacity: 20
     background_image_size: cover
     background_image_position: center center
-    image: images/transparent.png
+    image: images/transparent4.png
     title: Testimonials
     subtitle: '  '
   - type: features_section
