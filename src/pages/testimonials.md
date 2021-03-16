@@ -182,8 +182,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: >+
           > The are no words to describe how much I love this place! I was in a
           project in Boston and decided to take latin dance classes. Ilana and
