@@ -57,18 +57,17 @@ sections:
         media_position: left
         media_width: fifty
         actions: []
-      - content: |
-          We teach different **types of Latin and Ballroom Dance**.
+      - content: >
+          > ILTA Dance Studio is a truly rare find. The owners are not only
+          remarkable pro dancers, but they also possess a unique ability to
+          teach both children and adults the art of dancing. They are committed
+          and passionate teachers and also fun loving, amicable people.I never
+          imagined my husband on the dance floor, now, thanks to the skillful
+          work of ILTA, he searches the web for places to CHA CHA! Boston night
+          life has a whole new meaning.
 
-          **Latin**:
 
-          Cha Cha, Samba, Rumba, Paso Doble, Jive, Salsa, Swing, Bachata
-
-          **Ballrom**:
-
-          Waltz, Tango, Foxtrot, Viennese Waltz, Quickstep
-
-          ##### **Book you first complimentary class with us (adult program)**
+          **Olga Golub**
         image: images/IMG_0583.jpg
         image_alt: Foxtrot
         media_position: right
