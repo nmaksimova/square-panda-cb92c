@@ -11,7 +11,6 @@ sections:
     background_image_size: cover
     background_image_position: center center
     image: images/transparent4.png
-    title: Testimonials
     subtitle: '  '
   - title: Testimonials
     actions: []
