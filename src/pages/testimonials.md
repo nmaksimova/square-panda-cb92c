@@ -53,15 +53,6 @@ sections:
         media_position: left
         media_width: fifty
         actions:
-          - label: Kids Classes
-            url: /kids-dance-classes
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
           - label: Adult Classes
             url: /adult-dance-classes
             style: primary
