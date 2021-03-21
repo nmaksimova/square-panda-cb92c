@@ -111,9 +111,10 @@ sections:
         image_alt: Tango
         video_embed_html: >-
           <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/73fDloikiaY" frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-          gyroscope; picture-in-picture" allowfullscreen></iframe>
+          src="https://www.youtube.com/embed/8enrFfItpF0" title="YouTube video
+          player" frameborder="0" allow="accelerometer; autoplay;
+          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
         media_position: right
         media_width: fifty
         align: left
