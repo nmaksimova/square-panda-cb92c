@@ -5,16 +5,6 @@ export default function HTML(props) {
   return (
     <html {...props.htmlAttributes}>
       <head>
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-WM8ST6HS6F"></script>
-        <script>
-         window.dataLayer = window.dataLayer || [];
-         function gtag(){dataLayer.push(arguments);}
-         gtag('js', new Date());
-
-         gtag('config', 'G-WM8ST6HS6F');
-        </script>
-  
         {props.headComponents}
       </head>
       <body {...props.bodyAttributes}>
