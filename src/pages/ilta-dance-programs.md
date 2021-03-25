@@ -3,22 +3,19 @@ title: Home
 excerpt: lorem-ipsum
 sections:
   - type: hero_section
-    subtitle: ''
-    actions: []
     image_alt: Ilta Dance Studio
     media_position: bottom
     media_width: sixty
-    align: left
-    padding_top: large
+    align: center
+    padding_top: medium
     padding_bottom: small
     background_color: secondary
     background_image: images/adult_dance_classes.jpg
     background_image_opacity: 40
     background_image_size: cover
-    background_image_position: center center
+    background_image_position: center
     has_border: true
     background_image_repeat: no-repeat
-    video_embed_html: ''
     image: images/festive-chestnut.png
     title: Ilta Dance Programs
   - type: grid_section

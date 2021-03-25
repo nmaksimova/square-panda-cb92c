@@ -2,7 +2,6 @@
 title: Home
 sections:
   - type: hero_section
-    subtitle: ''
     actions:
       - label: Complimentary Lesson
         url: /book-class
@@ -12,17 +11,16 @@ sections:
     image_alt: Ilta Dance Studio
     media_position: left
     media_width: sixty
-    align: right
+    align: center
     padding_top: large
     padding_bottom: small
     background_color: secondary
-    background_image: images/Dance_Lesson.png
+    background_image: images/Dance_Lesson_v2.jpg
     background_image_opacity: 60
     background_image_size: cover
-    background_image_position: center center
+    background_image_position: center
     has_border: true
     background_image_repeat: no-repeat
-    video_embed_html: ''
   - title: Welcome to Ilta Dance!
     features:
       - content: "We\_offer **dance group classes**, **private lessons**\_and other opportunities to help you learn the art\_of **Ballroom and Latin dancing**!\_Whether you are a novice or an experienced dancer,\_we have the right instructor to work with you!\_Our programs designed for kids and adult dancers.\n"
