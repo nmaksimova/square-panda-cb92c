@@ -13,7 +13,7 @@ sections:
     background_image: images/adult_dance_classes.jpg
     background_image_opacity: 40
     background_image_size: cover
-    background_image_position: center
+    background_image_position: center center
     has_border: true
     background_image_repeat: no-repeat
     image: images/festive-chestnut.png

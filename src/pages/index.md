@@ -18,7 +18,7 @@ sections:
     background_image: images/Dance_Lesson_v2.jpg
     background_image_opacity: 60
     background_image_size: cover
-    background_image_position: center
+    background_image_position: center center
     has_border: true
     background_image_repeat: no-repeat
   - title: Welcome to Ilta Dance!
