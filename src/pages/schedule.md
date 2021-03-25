@@ -4,7 +4,7 @@ sections:
     image_alt: lorem-ipsum
     media_position: top
     media_width: fifty
-    align: left
+    align: center
     padding_top: medium
     padding_bottom: medium
     has_border: false
@@ -14,8 +14,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    title: '  Ilta Dance Schedule'
-    subtitle: '    '
+    title: 'Ilta Dance Schedule'
     background_image: images/Start_dancing.png
   - actions: []
     grid_items:
