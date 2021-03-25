@@ -96,7 +96,7 @@ models:
         name: footer
         label: Footer configuration
         models:
-          - footer                   
+          - footer
   header:
     type: object
     label: Header configuration
@@ -348,7 +348,7 @@ models:
       - type: model
         name: seo
         models:
-          - stackbit_page_meta   
+          - stackbit_page_meta
   post:
     type: page
     urlPath: '/blog/{slug}'
@@ -431,7 +431,7 @@ models:
       - type: model
         name: seo
         models:
-          - stackbit_page_meta    
+          - stackbit_page_meta
   advanced:
     type: page
     label: Advanced page
@@ -453,7 +453,6 @@ models:
         description: Page sections
         items:
           type: model
-          labelField: title
           models:
             - hero_section
             - features_section
@@ -464,7 +463,7 @@ models:
       - type: model
         name: seo
         models:
-          - stackbit_page_meta      
+          - stackbit_page_meta
   hero_section:
     type: object
     label: Hero section
@@ -1596,7 +1595,6 @@ models:
         name: url
         label: URL
         required: true
-        widget: url
       - type: enum
         name: style
         label: Style
@@ -1670,7 +1668,6 @@ models:
           - noimageindex
           - notranslate
           - none
-        default: all
     - type: list
       name: extra
       label: Extra
@@ -1691,4 +1688,4 @@ models:
            name: keyName
            default: name
          - type: boolean
-           name: relativeUrl               
+           name: relativeUrl
