@@ -35,6 +35,12 @@ sections:
         media_width: fifty
         actions: []
         title: Samba
+        video_embed_html: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/ZUJrFlMpd_8" title="YouTube video
+          player" frameborder="0" allow="accelerometer; autoplay;
+          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
       - title: Rumba
         content: "**Rumba**\_is universally recognized as the dance of love. It is danced to slow, sensual music with a Latin beat and features a hip action known as “Cuban Motion”. Rumba is derived from the Afro-Caribbean dance “Son” and has been popular in this country as a ballroom dance since the 1930's.\n"
         image_alt: Rumba
