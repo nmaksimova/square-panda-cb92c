@@ -136,7 +136,6 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: images/Viennese_Waltz_2.png
         video_embed_html: >-
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/bMK0hXoqT9E" title="YouTube video
