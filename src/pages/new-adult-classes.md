@@ -40,7 +40,7 @@ sections:
   - title: We are offering 4 new classes
     actions: []
     grid_items: []
-    grid_cols: two
+    grid_cols: four
     grid_gap_vert: small
     grid_gap_horiz: small
     enable_cards: false
