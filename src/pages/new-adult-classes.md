@@ -60,6 +60,9 @@ sections:
       - title: Social dance (dance club)
         title_align: left
         content: >
+          ### Social dance (dance club)
+
+
           Learn basic dance moves that will help you to stand out on any dance
           floor, either you are on vacation, at a restaurant, nightclub, or a
           corporate event. Join our dance club and become more confident on a
