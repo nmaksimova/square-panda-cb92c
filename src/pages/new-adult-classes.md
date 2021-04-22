@@ -24,6 +24,12 @@ sections:
       video player" frameborder="0" allow="accelerometer; autoplay;
       clipboard-write; encrypted-media; gyroscope; picture-in-picture"
       allowfullscreen></iframe>
+    content: |
+      ## Registration is Open for New Adults Programs
+
+      (for singles and couples)
+
+      ##### **Classes will begin on May 10th, 2021**
 seo:
   title: ''
   description: ''
