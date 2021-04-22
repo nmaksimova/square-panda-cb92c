@@ -58,7 +58,6 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Social dance (dance club)
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
