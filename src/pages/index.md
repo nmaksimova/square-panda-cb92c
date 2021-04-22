@@ -8,7 +8,8 @@ sections:
         style: primary
         icon_position: right
       - label: Register for New Adults Lessons
-        url: lorem-ipsum
+        url: >-
+          https://docs.google.com/forms/d/e/1FAIpQLSfXsA6AmaM9s_xCkerPSd_ZV1r4di9Tv05gyhnPHDvzsGq7Lg/viewform?fbzx=-7853669134528690690
         style: primary
         has_icon: true
         icon: youtube
