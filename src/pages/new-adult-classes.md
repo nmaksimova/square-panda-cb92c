@@ -43,8 +43,10 @@ sections:
       - title: Latin Beginners
         title_align: left
         content: >
+
+
           During this class we will introduce you to basic moves of salsa and
-          bachata. 
+          bachata.
         content_align: left
         actions: []
         actions_align: left
