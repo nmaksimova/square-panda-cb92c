@@ -73,9 +73,7 @@ sections:
           and make new friends.
 
 
-
-
-          ##### **Tuesday at 6:45**
+          ##### **Tuesday at 6:45 pm**
         content_align: left
         actions: []
         actions_align: left
