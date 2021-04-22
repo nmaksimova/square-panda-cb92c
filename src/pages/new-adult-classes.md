@@ -72,6 +72,11 @@ sections:
           corporate event. Join our dance club and become more confident on a
           dance floor. Also, it’s a great opportunity to meet like-minded people
           and make new friends.
+
+
+
+
+          ##### **Tuesday at 6:45**
         content_align: left
         actions: []
         actions_align: left
