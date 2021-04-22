@@ -19,7 +19,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    title: Registration is Open for New Ad
+    title: Registration is Open for Adult Lessons
 seo:
   title: ''
   description: ''
