@@ -31,7 +31,6 @@ sections:
     has_border: true
     background_image_repeat: no-repeat
   - title: Registration is Open for New Adult Programs
-    subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
