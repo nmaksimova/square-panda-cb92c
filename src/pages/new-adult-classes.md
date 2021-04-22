@@ -40,8 +40,7 @@ sections:
   - title: We are offering 4 new classes
     actions: []
     grid_items:
-      - title: Latin Beginners
-        title_align: left
+      - title_align: left
         content: >
           ### Latin beginners
 
