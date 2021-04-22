@@ -2,8 +2,7 @@
 title: New Adult Dance Classes
 excerpt: New Adult Dance Classes
 sections:
-  - subtitle: lorem-ipsum
-    content: >-
+  - content: >-
       ## Lorem ipsum
 
 
