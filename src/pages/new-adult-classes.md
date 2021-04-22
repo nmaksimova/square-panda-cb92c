@@ -98,7 +98,7 @@ sections:
         type: grid_item
       - title_align: left
         content: >
-          ## Latin in-line choreography
+          ### Latin in-line choreography
 
 
           This class is designed for single beginner level dancers who wants to
