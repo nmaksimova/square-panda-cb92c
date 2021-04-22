@@ -155,7 +155,7 @@ sections:
   - actions:
       - label: Register
         url: lorem-ipsum
-        style: secondary
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
