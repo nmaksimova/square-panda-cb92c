@@ -153,7 +153,7 @@ sections:
     subtitle: Classes begin on the week of May 10th
     background_image: images/enthusiastic-birch.jpeg
   - actions:
-      - label: lorem-ipsum
+      - label: Register
         url: lorem-ipsum
         style: link
         has_icon: false
