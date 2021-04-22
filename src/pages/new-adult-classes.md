@@ -16,7 +16,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    title: Registration is Open for New Adult Programs
     video_embed_html: >-
       <iframe width="560" height="315"
       src="https://www.youtube.com/embed/ra9qUBdCBsQ?controls=0" title="YouTube
