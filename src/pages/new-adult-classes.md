@@ -96,6 +96,11 @@ sections:
           ballroom dances like American rumba, foxtrot, swing, tango. You can
           apply these dance skills at any event – weddings, corporate parties,
           date nights, etc.
+
+
+
+
+          ##### **Wednesday at 6:45**
         content_align: left
         actions: []
         actions_align: left
