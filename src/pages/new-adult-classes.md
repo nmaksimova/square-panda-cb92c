@@ -174,6 +174,8 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: cta_section
+    content: |
+      ###### **Registration is open till May 9th**
 seo:
   title: ''
   description: ''
