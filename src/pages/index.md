@@ -7,7 +7,7 @@ sections:
         url: /book-class
         style: primary
         icon_position: right
-      - label: New Adults Lessons
+      - label: Register for New Adults Lessons
         url: lorem-ipsum
         style: primary
         has_icon: true
