@@ -1,6 +1,6 @@
 ---
 title: New Adult Dance Classes
-excerpt: lorem-ipsum
+excerpt: New Adult Dance Classes
 sections: []
 seo:
   title: ''
