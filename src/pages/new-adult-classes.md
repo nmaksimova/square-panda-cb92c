@@ -20,7 +20,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     title: Registration is Open for Adult Lessons
-    background_image: images/Adult Dance Classes.jpeg
+    background_image: images/Adult Dance Classes 2.jpeg
 seo:
   title: ''
   description: ''
