@@ -180,4 +180,10 @@ sections:
     has_border: false
     background_color: secondary
 template: advanced
+seo:
+  title: ''
+  description: ''
+  robots: []
+  extra: []
+  type: stackbit_page_meta
 ---
