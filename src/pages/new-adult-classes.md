@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: New Adult
 excerpt: lorem-ipsum
 sections: []
 seo:
