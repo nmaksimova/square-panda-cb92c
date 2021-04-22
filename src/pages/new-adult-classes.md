@@ -16,7 +16,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    title: Registration is Open for New Adults Lessons
+    title: Registration is Open for New Adult Programs
     subtitle: 'Classes start on May 10th, 2021'
     video_embed_html: >-
       <iframe width="560" height="315"
