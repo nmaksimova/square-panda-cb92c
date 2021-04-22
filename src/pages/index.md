@@ -35,7 +35,7 @@ sections:
 
       (for singles and couples)
     actions:
-      - label: Leran more
+      - label: Learn more
         url: lorem-ipsum
         style: link
         has_icon: false
