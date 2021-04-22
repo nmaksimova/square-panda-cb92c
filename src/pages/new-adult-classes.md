@@ -1,5 +1,5 @@
 ---
-title: New Adult Dance C
+title: New Adult Dance Classes
 excerpt: lorem-ipsum
 sections: []
 seo:
