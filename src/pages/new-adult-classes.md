@@ -21,7 +21,7 @@ sections:
     type: hero_section
     title: Registration is Open for Adult Lessons
     background_image: images/Adult Dance Classes 2.jpeg
-    subtitle: 'Classes start on May 10th, 2'
+    subtitle: 'Classes start on May 10th, 2021'
 seo:
   title: ''
   description: ''
