@@ -37,7 +37,7 @@ sections:
       (for singles and couples)
 
       ##### **Classes will begin on May 10th, 2021**
-  - title: lorem-ipsum
+  - title: We are offering 4 new classes
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
