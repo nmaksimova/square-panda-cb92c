@@ -50,9 +50,7 @@ sections:
           bachata.
 
 
-
-
-          ##### **Monday at 6:45**
+          ##### **Monday at 6:45 pm**
         content_align: left
         actions: []
         actions_align: left
