@@ -152,8 +152,7 @@ sections:
     type: grid_section
     subtitle: Classes begin on the week of May 10th
     background_image: images/enthusiastic-birch.jpeg
-  - title: Register
-    actions: []
+  - actions: []
     actions_position: bottom
     actions_width: fourty
     align: left
