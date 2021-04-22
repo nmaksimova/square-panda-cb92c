@@ -59,17 +59,12 @@ sections:
         type: grid_item
       - title: Social dance (dance club)
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Learn basic dance moves that will help you to stand out on any dance
+          floor, either you are on vacation, at a restaurant, nightclub, or a
+          corporate event. Join our dance club and become more confident on a
+          dance floor. Also, it’s a great opportunity to meet like-minded people
+          and make new friends.
         content_align: left
         actions: []
         actions_align: left
