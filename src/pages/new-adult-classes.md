@@ -154,7 +154,8 @@ sections:
     background_image: images/enthusiastic-birch.jpeg
   - actions:
       - label: Register
-        url: lorem-ipsum
+        url: >-
+          https://docs.google.com/forms/d/e/1FAIpQLSfXsA6AmaM9s_xCkerPSd_ZV1r4di9Tv05gyhnPHDvzsGq7Lg/viewform?fbzx=-7853669134528690690
         style: primary
         has_icon: false
         icon: arrow-left
