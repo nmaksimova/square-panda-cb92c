@@ -37,7 +37,7 @@ sections:
 
       ##### **Classes will begin on May 10th, 2021**
     actions:
-      - label: Click here to Register
+      - label: Learn More
         url: /new-adult-classes
         style: primary
         has_icon: false
