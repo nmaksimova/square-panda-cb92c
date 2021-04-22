@@ -1,5 +1,5 @@
 ---
-title: New Adult
+title: New Adult Dance C
 excerpt: lorem-ipsum
 sections: []
 seo:
