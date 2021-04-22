@@ -78,17 +78,14 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ## Elegant dancing
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          At this class we are going to teach you how to dance the most romantic
+          ballroom dances like American rumba, foxtrot, swing, tango. You can
+          apply these dance skills at any event – weddings, corporate parties,
+          date nights, etc.
         content_align: left
         actions: []
         actions_align: left
