@@ -9,7 +9,7 @@ sections:
         icon_position: right
       - label: New Adults Lessons
         url: lorem-ipsum
-        style: link
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
