@@ -7,6 +7,15 @@ sections:
         url: /book-class
         style: primary
         icon_position: right
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
     image: images/ILTA_DANCE_LOGO.png
     image_alt: Ilta Dance Studio
     media_position: left
