@@ -19,6 +19,12 @@ sections:
     title: Registration is Open for Adult Lessons
     background_image: images/Adult Dance Classes 2.jpeg
     subtitle: 'Classes start on May 10th, 2021'
+    video_embed_html: >-
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/ra9qUBdCBsQ?controls=0" title="YouTube
+      video player" frameborder="0" allow="accelerometer; autoplay;
+      clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen></iframe>
 seo:
   title: ''
   description: ''
