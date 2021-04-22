@@ -45,7 +45,8 @@ sections:
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
-      https://app.stackbit.com/studio/600cb92cd30e8c0015c570b9?previewToken=7e7a593b-ab68-4d06-b83f-15f2bda11c3b
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
     media_position: top
     media_width: fifty
     align: left
