@@ -30,8 +30,7 @@ sections:
     background_image_position: center center
     has_border: true
     background_image_repeat: no-repeat
-  - title: Registration is Open for New Adult Programs
-    content: |
+  - content: |
       ## Registration is Open for New Adults Programs
 
       (for singles and couples)
