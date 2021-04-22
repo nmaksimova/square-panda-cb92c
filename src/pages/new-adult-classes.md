@@ -43,6 +43,7 @@ sections:
       - title: Latin Beginners
         title_align: left
         content: >
+          ### Latin beginners
 
 
           During this class we will introduce you to basic moves of salsa and
