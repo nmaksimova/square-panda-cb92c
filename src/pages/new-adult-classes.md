@@ -152,7 +152,7 @@ sections:
     type: grid_section
     subtitle: Classes begin on the week of May 10th
     background_image: images/enthusiastic-birch.jpeg
-  - title: lorem-ipsum
+  - title: Register
     content: >-
       ## Lorem ipsum
 
