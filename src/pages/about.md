@@ -182,7 +182,9 @@ sections:
 template: advanced
 seo:
   title: Ilta Dance Studio
-  description: ''
+  description: >-
+    We teach how to dance all ages. Check out our Latin, Ballroom, Social
+    dancing, wedding programs or book your first free class.
   robots: []
   extra: []
   type: stackbit_page_meta
