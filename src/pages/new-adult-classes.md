@@ -38,7 +38,7 @@ sections:
 
       ##### **Classes will begin on May 10th, 2021**
   - title: We are offering 4 new classes
-    subtitle: lorem-ipsum
+    subtitle: l
     actions: []
     grid_items: []
     grid_cols: three
