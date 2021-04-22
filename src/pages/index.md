@@ -31,17 +31,10 @@ sections:
     has_border: true
     background_image_repeat: no-repeat
   - title: Registration is Open for New Adult Programs
-    content: >-
-      ## Lorem ipsum
+    content: |
+      ## Registration is Open for New Adults Programs
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      (for singles and couples)
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
