@@ -47,6 +47,11 @@ sections:
 
           During this class we will introduce you to basic moves of salsa and
           bachata.
+
+
+
+
+          ##### **Monday at 6:45**
         content_align: left
         actions: []
         actions_align: left
