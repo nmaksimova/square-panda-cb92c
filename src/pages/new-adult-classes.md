@@ -37,7 +37,7 @@ sections:
       (for singles and couples)
 
       ##### **Classes will begin on May 10th, 2021**
-  - title: We are offering 4 new classes
+  - title: We are opening 4 new classes
     actions: []
     grid_items:
       - title_align: left
