@@ -3,7 +3,7 @@ title: New Adult Dance Classes
 excerpt: New Adult Dance Classes
 sections:
   - actions:
-      - label: lorem-ipsum
+      - label: Click here to Register
         url: lorem-ipsum
         style: link
         has_icon: false
