@@ -57,8 +57,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Social dance (dance club)
-        title_align: left
+      - title_align: left
         content: >
           ### Social dance (dance club)
 
