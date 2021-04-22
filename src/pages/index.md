@@ -34,6 +34,8 @@ sections:
       ## Registration is Open for New Adults Programs
 
       (for singles and couples)
+
+      ##### **Classes will begin on May 10th, 2021**
     actions:
       - label: Click here to Register
         url: lorem-ipsum
