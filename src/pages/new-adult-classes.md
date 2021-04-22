@@ -95,9 +95,7 @@ sections:
           date nights, etc.
 
 
-
-
-          ##### **Wednesday at 6:45**
+          ##### **Wednesday at 6:45 pm**
         content_align: left
         actions: []
         actions_align: left
