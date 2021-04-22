@@ -10,7 +10,7 @@ sections:
       - label: New Adults Lessons
         url: lorem-ipsum
         style: primary
-        has_icon: false
+        has_icon: true
         icon: youtube
         icon_position: right
         new_window: false
