@@ -181,7 +181,7 @@ sections:
     background_color: secondary
 template: advanced
 seo:
-  title: ''
+  title: Ilta Dance Studio
   description: ''
   robots: []
   extra: []
