@@ -38,7 +38,7 @@ sections:
       ##### **Classes will begin on May 10th, 2021**
     actions:
       - label: Click here to Register
-        url: lorem-ipsum
+        url: /new-adult-classes
         style: primary
         has_icon: false
         icon: arrow-left
