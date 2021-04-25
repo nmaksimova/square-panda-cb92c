@@ -147,7 +147,6 @@ sections:
           fun after a long day at work.
 
 
-          ![](/images/clever-rabbit.png)
 
 
           ##### **Day and time is TBD**
