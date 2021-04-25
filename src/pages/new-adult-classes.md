@@ -116,11 +116,6 @@ sections:
 
 
           *   $120 per session
-
-
-
-
-          ****
         content_align: left
         actions: []
         actions_align: left
