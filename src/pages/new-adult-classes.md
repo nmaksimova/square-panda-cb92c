@@ -47,13 +47,7 @@ sections:
 
 
           During this class we will introduce you to basic moves of salsa and
-          bachata.
-
-
-          ***
-
-
-          ***
+          bachata
 
 
           ***
