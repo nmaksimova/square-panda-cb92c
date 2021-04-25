@@ -182,7 +182,7 @@ sections:
         type: grid_item
       - title_align: left
         content: |
-          #### **Tuesday at 6:45 pm**
+          ##### **Tuesday at 6:45 pm**
 
           *   Session is 6 week long
 
