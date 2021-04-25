@@ -47,22 +47,7 @@ sections:
 
 
           During this class we will introduce you to basic moves of salsa and
-          bachata
-
-
-          ![](/images/festive-chestnut.png)
-
-
-          ![](/images/tr\_3.png)
-
-
-          **Monday at 6:45 pm**
-
-
-          *   Session is 6 week long
-
-
-          *   120$ for session
+          bachata.
         content_align: left
         actions: []
         actions_align: left
