@@ -115,7 +115,7 @@ sections:
           ![](/images/tr\_2.png)
 
 
-          ##### ****![](/images/incredible-neptune.png)
+          ##### ![](/images/incredible-neptune.png)
 
 
           **Wednesday at 6:45 pm**
