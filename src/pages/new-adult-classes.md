@@ -147,7 +147,7 @@ sections:
           fun after a long day at work.
 
 
-          ![](/images/marvelous-spinach.png)
+          ![](/images/clever-rabbit.png)
 
 
           ##### **Day and time is TBD**
