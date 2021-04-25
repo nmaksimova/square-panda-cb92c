@@ -50,6 +50,9 @@ sections:
           bachata
 
 
+          ![](/images/festive-chestnut.png)
+
+
           **Monday at 6:45 pm**
 
 
