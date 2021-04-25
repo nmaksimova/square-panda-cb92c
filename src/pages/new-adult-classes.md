@@ -50,7 +50,7 @@ sections:
           bachata.
 
 
-          ****
+          ***
 
 
           ****
