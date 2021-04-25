@@ -53,7 +53,7 @@ sections:
           ![](/images/festive-chestnut.png)
 
 
-          ![](/images/perpetual-coriander.png)
+          ![](/images/tr\_3.png)
 
 
           **Monday at 6:45 pm**
