@@ -109,6 +109,9 @@ sections:
           date nights, etc.
 
 
+          ![](/images/tr\_2.png)
+
+
           ##### **Wednesday at 6:45 pm**
 
 
