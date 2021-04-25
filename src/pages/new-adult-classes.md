@@ -51,6 +51,12 @@ sections:
 
 
           **Monday at 6:45 pm**
+
+
+          *   Session is 6 week long
+
+
+          *   Price: 120$ for 6 weeks
         content_align: left
         actions: []
         actions_align: left
