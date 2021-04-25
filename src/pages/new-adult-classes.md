@@ -198,17 +198,12 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: |
+          ##### **Wednesday at 6:45 pm**
 
+          *   Session is 6 week long
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   $120 per session
         content_align: left
         actions: []
         actions_align: left
