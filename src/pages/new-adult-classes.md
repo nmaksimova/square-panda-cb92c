@@ -115,7 +115,10 @@ sections:
           ![](/images/tr\_2.png)
 
 
-          ##### **Wednesday at 6:45 pm**
+          ##### ****![](/images/incredible-neptune.png)
+
+
+          **Wednesday at 6:45 pm**
 
 
           *   Session is 6 week long
