@@ -123,7 +123,7 @@ sections:
 
           *   Session is 6 week long
 
-          *   120$ for session
+          *   $120 per session
         content_align: left
         actions: []
         actions_align: left
