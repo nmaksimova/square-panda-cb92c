@@ -159,7 +159,7 @@ sections:
 
           *   $120 per session
 
-          *   Teacher - **Jenya Didenko**
+          *   Teacher - **Jenya**
         content_align: left
         actions: []
         actions_align: left
