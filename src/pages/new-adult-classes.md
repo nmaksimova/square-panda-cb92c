@@ -170,11 +170,13 @@ sections:
         type: grid_item
       - title_align: left
         content: |
-          ##### **Day and time is TBD**
+          ##### **Monday at 7:30 pm**
 
           *   Session is 6 week long
 
           *   $120 per session
+
+          *   Teacher - **Tamaz**
         content_align: left
         actions: []
         actions_align: left
