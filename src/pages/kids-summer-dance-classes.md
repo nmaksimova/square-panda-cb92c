@@ -37,14 +37,11 @@ sections:
     actions: []
     grid_items:
       - title_align: left
-        content: |
+        content: |+
           ### Kids Ages 3-4
 
           ##### **Tuesday 4:15 pm**
 
-          ****
-
-          ![](/images/IMG\_0500.jpeg)
         content_align: left
         actions: []
         actions_align: left
