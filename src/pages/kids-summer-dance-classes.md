@@ -33,7 +33,7 @@ sections:
 
       ##### **Classes will run from July 6th - August 13th, 2021**
     image: images/important-tortoise.JPG
-  - title: Register for Summer Classes
+  - title: Summer Classes Schedule
     actions: []
     grid_items:
       - title_align: left
