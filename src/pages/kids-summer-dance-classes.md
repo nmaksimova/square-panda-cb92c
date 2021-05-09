@@ -89,15 +89,12 @@ sections:
         type: grid_item
         image: images/IMG-3131.jpg
       - title_align: left
-        content: >
-          ### Latin in-line choreography
+        content: |
+          ### Kids Ages 10-12
 
+          *   **Monday 6:00 pm**
 
-          This class is designed for single beginner level dancers who wants to
-          learn basic steps of Latin dances, improve body flexibility, work on
-          their balance, coordination and posture. We will introduce you to
-          cha-cha, samba, rumba and jive. Also, it’s a great way to do something
-          fun after a long day at work.
+          *   **Wednesday 6:00 pm**
         content_align: left
         actions: []
         actions_align: left
