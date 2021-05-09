@@ -102,7 +102,7 @@ sections:
           - label: Register
             url: >-
               https://docs.google.com/forms/d/e/1FAIpQLSdHbFYLwSgjpAMBNA7V-7f2I1cQMft93XCVClW-ti7HkbRr5g/viewform
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
