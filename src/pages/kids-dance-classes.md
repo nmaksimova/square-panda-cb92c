@@ -37,7 +37,7 @@ sections:
 
       ##### **Session Duration: July 6th - August 13th, 2021**
     actions: []
-    image_alt: lorem-ipsum
+    image_alt: kids dancing
     media_position: top
     media_width: fifty
     align: center
