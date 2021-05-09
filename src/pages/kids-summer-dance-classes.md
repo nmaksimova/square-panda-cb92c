@@ -56,14 +56,13 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: |
+        content: |+
           ### Kids Ages 5-6
 
           ##### **Tuesday 5:00 pm**
 
           ##### **Friday 5:00 pm**
 
-          ![](/images/IMG\_0587.jpg)
         content_align: left
         actions: []
         actions_align: left
