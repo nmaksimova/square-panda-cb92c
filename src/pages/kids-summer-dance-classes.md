@@ -154,7 +154,6 @@ sections:
         content_align: left
         actions:
           - label: Register
-            url: lorem-ipsum
             style: link
             has_icon: false
             icon: arrow-left
