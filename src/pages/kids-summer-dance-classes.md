@@ -42,7 +42,7 @@ sections:
 
           ##### **Tuesday 4:15 pm**
 
-          ****![](/images/IMG\_0500.jpeg)
+          ![](/images/IMG\_0500.jpeg)
         content_align: left
         actions: []
         actions_align: left
