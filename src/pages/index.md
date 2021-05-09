@@ -71,7 +71,7 @@ sections:
       ##### **Session Duration: July 6th - August 13th, 2021**
     actions:
       - label: Learn More
-        url: kids-summer-dance-classes
+        url: /kids-summer-dance-classes
         style: primary
         has_icon: false
         icon: arrow-left
