@@ -37,7 +37,7 @@ sections:
 
       ##### **Session Duration: July 6th - August 13th, 2021**
     actions:
-      - label: lorem-ipsum
+      - label: Register
         url: lorem-ipsum
         style: link
         has_icon: false
