@@ -33,11 +33,11 @@ sections:
       clipboard-write; encrypted-media; gyroscope; picture-in-picture"
       allowfullscreen></iframe>
     content: |
-      ## Registration is Open for New Adults Programs
+      ## Registration is Open for Summer Kids Dance Classes
 
-      (for singles and couples)
 
-      ##### **Classes will begin on May 10th, 2021**
+
+      ##### **Classes will run from July 6th - August 13th, 2021**
   - title: We are opening 4 new classes
     actions: []
     grid_items:
