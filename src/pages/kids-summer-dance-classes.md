@@ -61,7 +61,7 @@ sections:
 
           ##### **Friday 5:00 pm**
 
-          ****![](/images/IMG\_0587.jpg)
+          ![](/images/IMG\_0587.jpg)
         content_align: left
         actions: []
         actions_align: left
