@@ -121,6 +121,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/HipHop.jpg
       - title_align: left
         content: |
           ##### **Tuesday at 6:45 pm**
