@@ -42,6 +42,8 @@ sections:
 
           ##### **Tuesday 4:15 pm**
 
+          ****
+
           ![](/images/IMG\_0500.jpeg)
         content_align: left
         actions: []
