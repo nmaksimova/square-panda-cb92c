@@ -53,13 +53,12 @@ sections:
         type: grid_item
         image: images/IMG_0500.jpeg
       - title_align: left
-        content: |+
+        content: |
           ### Kids Ages 5-6
 
-          ##### **Tuesday 5:00 pm**
+          *   **Tuesday 5:00 pm**
 
-          ##### **Friday 5:00 pm**
-
+          *   **Friday 5:00 pm**
         content_align: left
         actions: []
         actions_align: left
