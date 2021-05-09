@@ -163,7 +163,7 @@ sections:
             type: action
             url: >-
               https://docs.google.com/forms/d/e/1FAIpQLSdHbFYLwSgjpAMBNA7V-7f2I1cQMft93XCVClW-ti7HkbRr5g/viewform
-        actions_align: left
+        actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
         image_position: bottom
