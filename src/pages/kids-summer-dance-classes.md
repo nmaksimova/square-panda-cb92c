@@ -108,13 +108,9 @@ sections:
         image: images/IMG_0704.jpg
       - title_align: left
         content: |
-          ##### **Monday at 6:45 pm**
+          ### Hip Hop Beginners, age 7+
 
-          *   Session is 6 week long
-
-          *   $120 per session
-
-          *   Teacher - **Jenya**
+          *   **Tuesday 6:45 pm**
         content_align: left
         actions: []
         actions_align: left
