@@ -54,15 +54,14 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: >
-          ### Social dance (dance club)
+        content: |
+          ### Kids Ages 5-6
 
+          ##### **Tuesday 5:00 pm**
 
-          Learn basic dance moves that will help you to stand out on any dance
-          floor, either you are on vacation, at a restaurant, nightclub, or a
-          corporate event. Join our dance club and become more confident on a
-          dance floor. Also, it’s a great opportunity to meet like-minded people
-          and make new friends.
+          ##### **Friday 5:00 pm**
+
+          ****![](/images/IMG\_0587.jpg)
         content_align: left
         actions: []
         actions_align: left
