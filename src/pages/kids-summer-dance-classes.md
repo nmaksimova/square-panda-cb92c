@@ -32,6 +32,7 @@ sections:
 
 
       ##### **Classes will run from July 6th - August 13th, 2021**
+    image: images/important-tortoise.JPG
   - title: We are opening 4 new classes
     actions: []
     grid_items:
