@@ -71,14 +71,12 @@ sections:
         type: grid_item
         image: images/IMG_0587.jpg
       - title_align: left
-        content: >
-          ### Elegant dancing
+        content: |
+          ### Kids Ages 7-9
 
+          *   **Monday 5:00 pm**
 
-          At this class we are going to teach you how to dance the most romantic
-          ballroom dances like American rumba, foxtrot, swing, tango. You can
-          apply these dance skills at any event – weddings, corporate parties,
-          date nights, etc.
+          *   **Wednesday 5:00 pm**
         content_align: left
         actions: []
         actions_align: left
