@@ -74,6 +74,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/IMG_0587.jpg
       - title_align: left
         content: >
           ### Elegant dancing
