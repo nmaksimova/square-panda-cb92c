@@ -50,6 +50,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    image: images/IMG_0704.jpg
   - type: features_section
     features:
       - title: Kids Programs
