@@ -154,7 +154,7 @@ sections:
         content_align: left
         actions:
           - label: Register
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
