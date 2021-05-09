@@ -4,7 +4,8 @@ excerpt: New Adult Dance Classes
 sections:
   - actions:
       - label: Click here to Register
-        url: hnPHDvzsGq7Lg/viewform?fbzx=-7853669134528690690
+        url: >-
+          https://docs.google.com/forms/d/e/1FAIpQLSdHbFYLwSgjpAMBNA7V-7f2I1cQMft93XCVClW-ti7HkbRr5g/viewform
         style: primary
         has_icon: false
         icon: arrow-left
