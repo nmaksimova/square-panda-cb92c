@@ -37,12 +37,12 @@ sections:
     actions: []
     grid_items:
       - title_align: left
-        content: >
-          ### Latin beginners
+        content: |
+          ### Kids Ages 3-4
 
+          ##### **Tuesday 4:15 pm**
 
-          During this class we will introduce you to basic moves of salsa and
-          bachata.
+          ****![](/images/IMG\_0500.jpeg)
         content_align: left
         actions: []
         actions_align: left
