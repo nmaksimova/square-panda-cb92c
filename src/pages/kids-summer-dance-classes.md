@@ -34,7 +34,7 @@ sections:
       **5 week course**
     image: images/important-tortoise.JPG
   - title: Summer Classes Schedule
-    subtitle: lorem-ipsum
+    subtitle: Classes begin June 28th
     features: []
     feature_padding_vert: medium
     align: center
