@@ -148,7 +148,7 @@ sections:
         image: images/IMG_0704.jpg
       - title_align: left
         content: |
-          ### Hip Hop Beginners, age 7+
+          ### Hip Hop Beginners, age 4+
 
           *   **Tuesday 6:45 pm**
         content_align: left
