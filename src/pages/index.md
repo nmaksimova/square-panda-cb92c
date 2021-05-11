@@ -72,7 +72,9 @@ sections:
   - content: |
       ## Register for Summer Kids Dance Programs
 
-      ##### **Session Duration: June 28th - July 30th, 2021**
+      ##### **Session Duration: June 28 - July 30, 2021**
+
+      **5 week course**
     actions:
       - label: Learn More
         url: /kids-summer-dance-classes
