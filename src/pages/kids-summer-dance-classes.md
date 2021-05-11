@@ -46,9 +46,9 @@ sections:
       - title: Hip Hop Ages 4+
         title_align: center
         content: |
-          *   Tuesday 5 pm
+          *   Tuesday 5:00 pm
 
-          *   Thursday 5 pm
+          *   Thursday 5:00 pm
         content_align: left
         actions: []
         actions_align: left
