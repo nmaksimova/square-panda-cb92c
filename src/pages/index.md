@@ -35,7 +35,11 @@ sections:
 
       (for singles and couples)
 
-      ##### **Classes will begin on May 10th, 2021**
+
+
+      **Latin Beginners Classes begin on May 10th, 2021**
+
+      ##### **Argentine Tango and Social Dance club begin on May 24th, 2021**
     actions:
       - label: Learn More
         url: /new-adult-classes
