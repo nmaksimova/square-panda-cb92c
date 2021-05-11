@@ -33,7 +33,7 @@ sections:
 
       **5 week course**
     image: images/important-tortoise.JPG
-  - title: lorem-ipsum
+  - title: Summer Classes Schedule
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
