@@ -80,7 +80,7 @@ sections:
         type: grid_item
       - title_align: left
         content: >
-          ### Elegant dancing
+          ### Argentine Tango
 
 
           At this class we are going to teach you how to dance the most romantic
