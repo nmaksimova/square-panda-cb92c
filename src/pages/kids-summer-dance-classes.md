@@ -76,7 +76,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Hip Hop Teens
-        title_align: left
+        title_align: center
         content: |
           *   Tuesday 6:45 pm
 
