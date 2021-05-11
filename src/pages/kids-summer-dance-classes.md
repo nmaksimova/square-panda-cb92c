@@ -106,8 +106,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     background_image: images/friendly-mars.jpg
-  - title: Summer Classes Schedule
-    actions: []
+  - actions: []
     grid_items:
       - title_align: left
         content: |
