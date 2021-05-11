@@ -61,17 +61,10 @@ sections:
         type: grid_item
       - title: Hip Hop Ages 7+
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: |
+          *   Tuesday 6:00 pm
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   Thursday 6:00 pm
         content_align: left
         actions: []
         actions_align: left
