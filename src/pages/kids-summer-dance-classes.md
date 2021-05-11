@@ -31,7 +31,13 @@ sections:
 
       ##### **Classes will run from June 28 - July 30, 2021**
 
-      **5 week course**
+      **(5 week course)**
+
+      You can choose two options - **once** a week or **twice** a week.
+
+      *   Once a week - **$100** per session (June 28 - July 30, 2021)
+
+      *   Twice a week - **$185** per session (June 28 - July 30, 2021)
     image: images/important-tortoise.JPG
   - title: Summer Classes Schedule
     subtitle: 'Classes will run June 28th - July 30th, 2021'
