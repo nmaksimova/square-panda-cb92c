@@ -38,7 +38,7 @@ sections:
     content: |
       You can choose two options - **once** a week or **twice** a week.
 
-      *   Once a week - **$100 **per session (June 28 - July 30, 2021)
+      *   Once a week - **$100** per session (June 28 - July 30, 2021)
       *   Twice a week - **$185** per session (June 28 - July 30, 2021)
     actions: []
     image_alt: lorem-ipsum
