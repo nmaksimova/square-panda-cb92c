@@ -167,7 +167,7 @@ sections:
         title: Latin/Ballroom Ages 5-6
       - title_align: left
         content: |
-          ### Kids Ages 7-9
+
 
           *   **Monday 6:00 pm**
 
