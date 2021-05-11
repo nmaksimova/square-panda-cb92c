@@ -40,7 +40,7 @@ sections:
       *   Twice a week - **$185** per session (June 28 - July 30, 2021)
     image: images/important-tortoise.JPG
   - title: Summer Classes Schedule
-    subtitle: Classes begin June 28th
+    subtitle: 'Classes begin June 28th, 2021'
     actions: []
     grid_items: []
     grid_cols: three
