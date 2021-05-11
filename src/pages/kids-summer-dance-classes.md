@@ -193,7 +193,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/IMG-3131.jpg
-        title: Latin/Ballroom Ages
+        title: Latin/Ballroom Ages 7-9
       - title_align: left
         content: |
           ### Kids Ages 10-12
