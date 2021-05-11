@@ -134,17 +134,7 @@ sections:
 
           *   **Wednesday 5:00 pm**
         content_align: left
-        actions:
-          - label: Register
-            url: >-
-              https://docs.google.com/forms/d/e/1FAIpQLSdHbFYLwSgjpAMBNA7V-7f2I1cQMft93XCVClW-ti7HkbRr5g/viewform
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: center
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
         actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
