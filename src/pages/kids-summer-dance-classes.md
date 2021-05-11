@@ -44,7 +44,7 @@ sections:
     actions: []
     grid_items:
       - title: Hip Hop Ages 4+
-        title_align: left
+        title_align: center
         content: >-
           ## Lorem ipsum
 
