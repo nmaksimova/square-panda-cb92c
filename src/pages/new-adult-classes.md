@@ -234,7 +234,7 @@ sections:
     background_image_repeat: no-repeat
     type: cta_section
     content: |
-      ###### **Registration is open till May 9th**
+      ###### **Registration is open till May 16th**
 seo:
   title: ''
   description: ''
