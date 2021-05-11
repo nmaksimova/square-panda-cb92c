@@ -83,10 +83,11 @@ sections:
           ### Argentine Tango
 
 
-          At this class we are going to teach you how to dance the most romantic
-          ballroom dances like American rumba, foxtrot, swing, tango. You can
-          apply these dance skills at any event – weddings, corporate parties,
-          date nights, etc.
+          The Argentine tango is a passionate ballroom dance that involves
+          quick, graceful and playful movements. At this class you will develop
+          a good sense of balance and coordination. You will also learn how to
+          lead and follow your partner. Learn how to dance the Argentine tango
+          at our class, which is great for beginners! 
         content_align: left
         actions: []
         actions_align: left
