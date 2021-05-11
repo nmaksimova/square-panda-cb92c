@@ -40,27 +40,6 @@ sections:
       *   Twice a week - **$185** per session (June 28 - July 30, 2021)
     image: images/important-tortoise.JPG
   - title: Summer Classes Schedule
-    subtitle: 'Classes will run June 28th - July 30th, 2021'
-    content: |
-      You can choose two options - **once** a week or **twice** a week.
-
-      *   Once a week - **$100** per session (June 28 - July 30, 2021)
-      *   Twice a week - **$185** per session (June 28 - July 30, 2021)
-    actions: []
-    image_alt: lorem-ipsum
-    media_position: top
-    media_width: fifty
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
-  - title: Summer Classes Schedule
     actions: []
     grid_items:
       - title_align: left
