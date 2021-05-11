@@ -222,6 +222,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/IMG_0704.jpg
+        title: Latin/Ballroom Ages 10-12
       - title_align: left
         content: |
           ### Hip Hop Beginners, age 4+
