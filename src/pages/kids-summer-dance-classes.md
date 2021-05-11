@@ -29,9 +29,7 @@ sections:
     content: |
       ## Registration is Open for Summer Kids Dance Classes
 
-
-
-      ##### **Classes will run from July 6th - August 13th, 2021**
+      ##### **Classes will run from June 28 - July 30, 2021**
     image: images/important-tortoise.JPG
   - title: Summer Classes Schedule
     actions: []
