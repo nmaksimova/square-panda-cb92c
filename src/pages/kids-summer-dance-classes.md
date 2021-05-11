@@ -34,7 +34,7 @@ sections:
       **5 week course**
     image: images/important-tortoise.JPG
   - title: Summer Classes Schedule
-    subtitle: Classes begin June 28
+    subtitle: Classes will run June 28th - July 30th
     content: >-
       ## Lorem ipsum
 
