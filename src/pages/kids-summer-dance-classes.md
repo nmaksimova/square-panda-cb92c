@@ -135,7 +135,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/IMG_0500.jpeg
-        title: 'Latin/Ballroom '
+        title: Latin/Ballroom Ages 3-4
       - title_align: left
         content: |
           ### Kids Ages 5-6
