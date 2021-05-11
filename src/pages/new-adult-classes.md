@@ -210,7 +210,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-    subtitle: Classes begin on the week of May 10th
     background_image: images/enthusiastic-birch.jpeg
   - actions:
       - label: Register
