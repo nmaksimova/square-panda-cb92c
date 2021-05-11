@@ -139,7 +139,7 @@ sections:
         content: |
           ### Kids Ages 5-6
 
-          *   **Monday 5:00 pm **
+          *   **Monday 5:00 pm**
 
           *   **Wednesday 5:00 pm**
         content_align: left
