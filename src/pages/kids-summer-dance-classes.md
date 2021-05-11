@@ -60,7 +60,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Hip Hop Ages 7+
-        title_align: left
+        title_align: center
         content: |
           *   Tuesday 6:00 pm
 
