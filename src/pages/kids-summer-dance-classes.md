@@ -35,17 +35,11 @@ sections:
     image: images/important-tortoise.JPG
   - title: Summer Classes Schedule
     subtitle: 'Classes will run June 28th - July 30th, 2021'
-    content: >-
-      ## Lorem ipsum
+    content: |
+      You can choose two options - **once** a week or **twice** a week.
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      *   Once a week - **$100 **per session (June 28 - July 30, 2021)
+      *   Twice a week - **$185** per session (June 28 - July 30, 2021)
     actions: []
     image_alt: lorem-ipsum
     media_position: top
