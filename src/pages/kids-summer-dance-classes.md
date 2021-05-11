@@ -223,7 +223,7 @@ sections:
         type: grid_item
         image: images/IMG_0704.jpg
         title: Latin/Ballroom Ages 10-12
-    grid_cols: three
+    grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
     enable_cards: true
