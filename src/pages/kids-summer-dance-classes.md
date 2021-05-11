@@ -186,7 +186,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-    subtitle: Classes begin July 6th
+    subtitle: Classes begin June 28th
     background_image: images/marvelous-turtle.JPG
   - actions:
       - label: Register
