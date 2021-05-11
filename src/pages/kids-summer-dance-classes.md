@@ -223,32 +223,6 @@ sections:
         type: grid_item
         image: images/IMG_0704.jpg
         title: Latin/Ballroom Ages 10-12
-      - title_align: left
-        content: |
-          ### Hip Hop Beginners, age 4+
-
-          *   **Tuesday 6:45 pm**
-        content_align: left
-        actions:
-          - label: Register
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-            url: >-
-              https://docs.google.com/forms/d/e/1FAIpQLSdHbFYLwSgjpAMBNA7V-7f2I1cQMft93XCVClW-ti7HkbRr5g/viewform
-        actions_align: center
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: bottom
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        image: images/HipHop.jpg
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
