@@ -110,7 +110,7 @@ sections:
     grid_items:
       - title_align: left
         content: |
-          ### Kids Ages 3-4
+
 
           *   **Monday 5:00 pm**
           *   **Wednesday 5:00 pm**
