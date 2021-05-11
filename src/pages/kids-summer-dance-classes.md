@@ -1,6 +1,6 @@
 ---
 title: Kids Summer Dance Classes
-excerpt: New Adult Dance Classes
+excerpt: Kids Summer Dance Classes
 sections:
   - actions:
       - label: Click here to Register
