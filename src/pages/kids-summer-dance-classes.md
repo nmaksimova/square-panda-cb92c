@@ -1,5 +1,5 @@
 ---
-title: New Adult Dance Classes
+title: Kids Summer Dance Classes
 excerpt: New Adult Dance Classes
 sections:
   - actions:
