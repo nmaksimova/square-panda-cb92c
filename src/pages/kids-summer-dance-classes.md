@@ -43,7 +43,7 @@ sections:
     subtitle: 'Classes begin June 28th, 2021'
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Hip Hop Ages 4+
         subtitle: lorem-ipsum
         title_align: left
         content: >-
