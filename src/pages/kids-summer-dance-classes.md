@@ -112,7 +112,8 @@ sections:
         content: |
           ### Kids Ages 3-4
 
-          *   **Tuesday 4:15 pm**
+          *   **Monday 5:00 pm**
+          *   **Wednesday 5:00 pm**
         content_align: left
         actions:
           - label: Register
