@@ -45,17 +45,10 @@ sections:
     grid_items:
       - title: Hip Hop Ages 4+
         title_align: center
-        content: >-
-          ## Lorem ipsum
+        content: |
+          *   Tuesday 5 pm
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   Thursday 5 pm
         content_align: left
         actions: []
         actions_align: left
