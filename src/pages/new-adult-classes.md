@@ -239,7 +239,7 @@ sections:
     background_image_repeat: no-repeat
     type: cta_section
     content: |
-      ###### **Registration is open till May 16th**
+      ###### **Registration is open till May 28th**
 seo:
   title: ''
   description: ''
