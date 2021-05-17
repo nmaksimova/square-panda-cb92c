@@ -193,25 +193,6 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title_align: left
-        content: |
-          ##### **Tuesday at 6:45 pm**
-
-          *   Session is 6 week long
-
-          *   $120 per session
-
-          *   Teacher - **Jenya**
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
     grid_cols: four
     grid_gap_vert: small
     grid_gap_horiz: small
