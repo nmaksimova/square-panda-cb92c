@@ -119,7 +119,19 @@ sections:
           quick, graceful and playful movements. At this class you will develop
           a good sense of balance and coordination. You will also learn how to
           lead and follow your partner. Learn how to dance the Argentine tango
-          at our class, which is great for beginners! 
+          at our class, which is great for beginners!
+
+
+          ##### **Wednesday at 6:45 pm**
+
+
+          *   Session is 6 week long
+
+
+          *   $120 per session
+
+
+          *   Teacher - **Jenya**
         content_align: left
         actions: []
         actions_align: left
