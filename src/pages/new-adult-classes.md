@@ -152,6 +152,18 @@ sections:
           their balance, coordination and posture. We will introduce you to
           cha-cha, samba, rumba and jive. Also, it’s a great way to do something
           fun after a long day at work.
+
+
+          ##### **Monday at 7:30 pm**
+
+
+          *   Session is 6 week long
+
+
+          *   $120 per session
+
+
+          *   Teacher - **Tamaz**
         content_align: left
         actions: []
         actions_align: left
