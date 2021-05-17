@@ -40,7 +40,7 @@ sections:
       **Latin Beginners Classes begin on May 10th, 2021**
 
 
-      ##### **Argentine Tango, Social Dance club and Latin in-line choreography
+      ###### **Argentine Tango, Social Dance club and Latin in-line choreography
       begin on May 31st, 2021**
     actions:
       - label: Learn More
