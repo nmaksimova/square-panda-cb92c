@@ -32,33 +32,14 @@ sections:
       video player" frameborder="0" allow="accelerometer; autoplay;
       clipboard-write; encrypted-media; gyroscope; picture-in-picture"
       allowfullscreen></iframe>
-    content: >
+    content: |
       ## Registration is Open for New Adults Programs
-
 
       (for singles and couples)
 
-
       ##### **Latin Beginners Classes begin on May 10th, 2021**
 
-
       ###### **Other classes begin on May 31st, 2021**
-
-
-      **Cost is $120 for 6 weeks session.**
-
-
-      **Options to pay:**
-
-
-      *   **Zelle** -dance@iltadance.com
-
-
-      *   **PayPal** - tailshese@gmail.com
-
-
-      *   Send **Checks **to Ilta Dance: 1255 Worcester Road, Framingham, MA,
-      01701
   - title: Registration is open for adult classes
     actions: []
     grid_items:
