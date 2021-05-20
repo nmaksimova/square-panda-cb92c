@@ -40,8 +40,7 @@ sections:
       ##### **Latin Beginners Classes begin on May 10th, 2021**
 
       ###### **Other classes begin on May 31st, 2021**
-  - title: lorem-ipsum
-    content: >-
+  - content: >-
       ## Lorem ipsum
 
 
