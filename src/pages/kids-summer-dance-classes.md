@@ -223,17 +223,21 @@ sections:
     type: cta_section
     content: |
       ###### **Registration is open till June 15th**
-  - content: >-
-      ## Lorem ipsum
+  - content: >
+      Please pay for your session after you register.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      **Options to pay:**
 
 
-      - Lorem ipsum
+      *   **Zelle** -dance@iltadance.com
 
-      - dolor sit amet
+
+      *   **PayPal** - tailshese@gmail.com
+
+
+      *   Send **Checks** to Ilta Dance: 1255 Worcester Road, Framingham, MA,
+      01701
     actions: []
     actions_position: bottom
     actions_width: fourty
