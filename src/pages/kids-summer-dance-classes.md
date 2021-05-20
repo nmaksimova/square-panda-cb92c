@@ -223,8 +223,7 @@ sections:
     type: cta_section
     content: |
       ###### **Registration is open till June 15th**
-  - title: lorem-ipsum
-    content: >-
+  - content: >-
       ## Lorem ipsum
 
 
