@@ -42,8 +42,7 @@ sections:
       ##### **Latin Beginners Classes begin on May 10th, 2021**
 
 
-      ###### **Argentine Tango, Social Dance club and Latin in-line choreography
-      begin on May 31st, 2021**
+      ###### **Other classes begin on May 31st, 2021**
 
 
       **Cost is $120 for 6 weeks session.**
@@ -52,13 +51,13 @@ sections:
       **Options to pay:**
 
 
-      *   **Zelle - **dance@iltadance.com
+      *   **Zelle** -dance@iltadance.com
 
 
-      *   **PayPal - **tailshese@gmail.com
+      *   **PayPal** - tailshese@gmail.com
 
 
-      *   **Send Checks to Ilta Dance: **1255 Worcester Road, Framingham, MA,
+      *   Send **Checks **to Ilta Dance: 1255 Worcester Road, Framingham, MA,
       01701
   - title: Registration is open for adult classes
     actions: []
