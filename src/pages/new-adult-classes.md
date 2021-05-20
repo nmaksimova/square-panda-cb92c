@@ -40,34 +40,6 @@ sections:
       ##### **Latin Beginners Classes begin on May 10th, 2021**
 
       ###### **Other classes begin on May 31st, 2021**
-  - content: >
-      **Cost is $120 for 6 weeks session.**
-
-
-      **Options to pay:**
-
-
-      *   **Zelle** -dance@iltadance.com
-
-
-      *   **PayPal** - tailshese@gmail.com
-
-
-      *   Send **Checks** to Ilta Dance: 1255 Worcester Road, Framingham, MA,
-      01701
-    actions: []
-    actions_position: bottom
-    actions_width: fourty
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: cta_section
   - title: Registration is open for adult classes
     actions: []
     grid_items:
@@ -238,6 +210,34 @@ sections:
     type: cta_section
     content: |
       ###### **Registration is open till May 28th**
+  - content: >
+      **Cost is $120 for 6 weeks session.**
+
+
+      **Options to pay:**
+
+
+      *   **Zelle** -dance@iltadance.com
+
+
+      *   **PayPal** - tailshese@gmail.com
+
+
+      *   Send **Checks** to Ilta Dance: 1255 Worcester Road, Framingham, MA,
+      01701
+    actions: []
+    actions_position: bottom
+    actions_width: fourty
+    align: left
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: cta_section
 seo:
   title: ''
   description: ''
