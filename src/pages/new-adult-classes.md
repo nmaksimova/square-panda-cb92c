@@ -52,17 +52,14 @@ sections:
       **Options to pay:**
 
 
-      *   **Zelle - dance@iltadance.com**
+      *   **Zelle - **dance@iltadance.com
 
 
-      *   **PayPal - tailshese@gmail.com**
+      *   **PayPal - **tailshese@gmail.com
 
 
-      *   **Send Checks to Ilta Dance: 1255 Worcester Road, Framingham, MA,
-      01701**
-
-
-      ****
+      *   **Send Checks to Ilta Dance: **1255 Worcester Road, Framingham, MA,
+      01701
   - title: Registration is open for adult classes
     actions: []
     grid_items:
