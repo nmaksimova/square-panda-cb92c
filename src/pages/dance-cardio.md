@@ -1,6 +1,6 @@
 ---
 title: Dance Cardio Classes
-excerpt: Kids Summer Dance Classes
+excerpt: Dance Cardio Classes
 sections:
   - actions:
       - label: Click here to Register
