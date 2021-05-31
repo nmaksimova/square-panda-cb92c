@@ -1,5 +1,5 @@
 ---
-title: Kids Summer Dance Classes
+title: Dance Classes
 excerpt: Kids Summer Dance Classes
 sections:
   - actions:
