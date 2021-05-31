@@ -31,7 +31,7 @@ sections:
     has_border: true
     background_image_repeat: no-repeat
   - content: >
-      ## Registration is Open for New Adults Programs
+      ## Registration is Open for Adults Programs
 
 
       (for singles and couples)
