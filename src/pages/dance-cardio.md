@@ -134,11 +134,7 @@ sections:
     background_image_repeat: no-repeat
     type: cta_section
     content: |
-      ***
-
-      ***
-
-      #### sd
+      sd
   - content: >
       Please pay for your session after you register.
 
