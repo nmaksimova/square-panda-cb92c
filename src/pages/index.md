@@ -89,8 +89,7 @@ sections:
 
     actions:
       - label: Learn More
-        url: >-
-          https://docs.google.com/forms/d/e/1FAIpQLSfg15Rug6q1dFEB_ilSpBLQW4Xb1cmavvxcFcxOjtBKiC2pjg/viewform
+        url: oidrac-ecnad
         style: primary
         has_icon: false
         icon: arrow-left
