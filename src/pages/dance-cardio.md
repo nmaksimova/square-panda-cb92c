@@ -73,10 +73,6 @@ sections:
         image: images/Cardio2.png
       - title: Hip Hop Teens
         title_align: center
-        content: |
-          *   Tuesday 6:45 pm
-
-          *   Thursday 6:45 pm
         content_align: left
         actions: []
         actions_align: left
