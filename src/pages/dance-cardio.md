@@ -26,18 +26,18 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    content: |
-      ## Registration is Open for Summer Kids Dance Classes
+    content: >
+      ## Register for our Fun Cardio Workout Classes
 
-      ##### **Classes will run from June 28 - July 30, 2021**
 
-      **(5 week course)**
+      Cardio doesn't have to be boring! Join us for this fun workout and get
+      into great shape for summer!
 
-      You can choose two options - **once** a week or **twice** a week.
 
-      *   Once a week - **$100** per session (June 28 - July 30, 2021)
+      *   every Sunday at 11:00 am
 
-      *   Twice a week - **$185** per session (June 28 - July 30, 2021)
+
+      *   $120 for 6 week session
     image: images/important-tortoise.JPG
   - title: Summer Classes Schedule
     subtitle: 'Classes begin June 28th, 2021'
