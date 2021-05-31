@@ -1,5 +1,5 @@
 ---
-title: Dance Classes
+title: Dance Cardio Classes
 excerpt: Kids Summer Dance Classes
 sections:
   - actions:
