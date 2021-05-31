@@ -61,10 +61,6 @@ sections:
         image: images/Cardio1.png
       - title: Hip Hop Ages 7+
         title_align: center
-        content: |
-          *   Tuesday 6:00 pm
-
-          *   Thursday 6:00 pm
         content_align: left
         actions: []
         actions_align: left
