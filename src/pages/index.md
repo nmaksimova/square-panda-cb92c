@@ -71,17 +71,22 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - content: >-
-      ## Lorem ipsum
+  - content: >+
+      ## Register for Cardio Dance Class!
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Fun dance cardio workout perfect for the summer and to stay in shape!! Fun
+      dance moves to amazing music surrounded by a great community of people!
 
 
-      - Lorem ipsum
+      **Everybody is welcome!**
 
-      - dolor sit amet
+
+      *   Every Sunday at 11:00 am
+
+
+      *   $120 for 6 week session
+
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
