@@ -44,6 +44,7 @@ sections:
       src="https://www.youtube.com/embed/djMM_lcmjhQ" title="YouTube video
       player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    subtitle: 'Register for out '
   - title: Summer Classes Schedule
     subtitle: 'Classes begin June 28th, 2021'
     actions: []
