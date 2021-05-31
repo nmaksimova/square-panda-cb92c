@@ -96,7 +96,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-        url: dance-cardio
+        url: /dance-cardio
     image_alt: lorem-ipsum
     video_embed_html: >-
       <iframe width="560" height="315"
