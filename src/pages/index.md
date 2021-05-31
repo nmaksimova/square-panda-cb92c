@@ -88,7 +88,7 @@ sections:
       *   $120 for 6 week session
 
     actions:
-      - label: lorem-ipsum
+      - label: Learn More
         url: lorem-ipsum
         style: link
         has_icon: false
