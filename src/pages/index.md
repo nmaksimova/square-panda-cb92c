@@ -89,7 +89,7 @@ sections:
 
     actions:
       - label: Learn More
-        url: oidrac-ecnad
+        url: ecnad
         style: primary
         has_icon: false
         icon: arrow-left
