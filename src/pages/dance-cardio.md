@@ -135,6 +135,8 @@ sections:
     type: cta_section
     content: |
       ***
+
+      ***
   - content: >
       Please pay for your session after you register.
 
