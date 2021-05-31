@@ -71,8 +71,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/Cardio2.png
-      - title: Hip Hop Teens
-        title_align: center
+      - title_align: center
         content_align: left
         actions: []
         actions_align: left
