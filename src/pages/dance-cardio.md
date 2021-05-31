@@ -109,7 +109,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-    background_image: images/friendly-mars.jpg
+    background_image: images/Cardio-background.png
   - actions:
       - label: Register
         url: >-
