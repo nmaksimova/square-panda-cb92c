@@ -45,7 +45,6 @@ sections:
       player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   - title: Dance Cardio Classes
-    subtitle: 'Classes begin June 28th, 2021'
     actions: []
     grid_items:
       - title: Hip Hop Ages 4+
