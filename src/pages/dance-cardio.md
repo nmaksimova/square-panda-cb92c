@@ -47,8 +47,7 @@ sections:
   - title: Dance Cardio Classes
     actions: []
     grid_items:
-      - title: Hip Hop Ages 4+
-        title_align: center
+      - title_align: center
         content: |
           *   Tuesday 5:00 pm
 
