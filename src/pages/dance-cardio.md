@@ -133,8 +133,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: cta_section
-    content: |
-      sd
   - content: >
       Please pay for your session after you register.
 
