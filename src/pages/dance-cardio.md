@@ -58,6 +58,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/Cardio1.png
       - title: Hip Hop Ages 7+
         title_align: center
         content: |
