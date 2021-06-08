@@ -36,10 +36,6 @@ sections:
       ## Registration is Open for New Adults Programs
 
       (for singles and couples)
-
-      ##### **Latin Beginners Classes begin on May 10th, 2021**
-
-      ###### **Other classes begin on May 31st, 2021**
   - title: Registration is open for adult classes
     actions: []
     grid_items:
