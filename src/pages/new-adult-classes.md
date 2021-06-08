@@ -144,7 +144,7 @@ sections:
           fun after a long day at work.
 
 
-          ##### **Monday at 7:30 pm**
+          ##### **Monday 7:30 pm**
 
 
           *   Session is 6 week long
