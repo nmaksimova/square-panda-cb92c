@@ -215,8 +215,8 @@ sections:
       *   **PayPal** - tailshese@gmail.com
 
 
-      *   Send **Checks** to Ilta Dance: 1255 Worcester Road, Framingham, MA,
-      01701
+      *   or Send a **Check** to Ilta Dance: 1255 Worcester Road, Framingham,
+      MA, 01701
     actions: []
     actions_position: bottom
     actions_width: fourty
