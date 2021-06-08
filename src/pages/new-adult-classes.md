@@ -80,7 +80,7 @@ sections:
           and make new friends.
 
 
-          ##### **Tuesday at 6:45 pm**
+          ##### **Tuesday 6:45 pm**
 
 
           *   Session is 6 week long
