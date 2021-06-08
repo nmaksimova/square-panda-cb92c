@@ -30,18 +30,16 @@ sections:
     background_image_position: center center
     has_border: true
     background_image_repeat: no-repeat
-  - content: >
+  - content: |
       ## Registration is Open for Adults Programs
-
 
       (for singles and couples)
 
+      *   **Argentine Tango**
 
-      **Latin Beginners Classes begin on May 10th, 2021**
+      *   **Social Dance club**
 
-
-      ###### **Argentine Tango, Social Dance club and Latin in-line choreography
-      begin on May 31st, 2021**
+      *   **Latin in-line choreography**
     actions:
       - label: Learn More
         url: /new-adult-classes
