@@ -48,9 +48,7 @@ sections:
           bachata.
 
 
-
-
-          ##### **Monday at 6:45 pm**
+          ##### **Monday 6:45 pm**
 
 
           *   Session is 6 week long
