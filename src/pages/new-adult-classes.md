@@ -203,7 +203,7 @@ sections:
     background_image_repeat: no-repeat
     type: cta_section
   - content: >
-      **Cost is $120 for 6 weeks session.**
+      **$120 for 6 weeks session.**
 
 
       **Options to pay:**
