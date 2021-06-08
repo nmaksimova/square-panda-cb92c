@@ -112,7 +112,7 @@ sections:
           at our class, which is great for beginners!
 
 
-          ##### **Wednesday at 6:45 pm**
+          ##### **Wednesday 6:45 pm**
 
 
           *   Session is 6 week long
