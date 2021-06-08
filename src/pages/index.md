@@ -35,11 +35,11 @@ sections:
 
       (for singles and couples)
 
-      *   **Argentine Tango**
+      *   Argentine Tango
 
-      *   **Social Dance club**
+      *   Social Dance club
 
-      *   **Latin in-line choreography**
+      *   Latin in-line choreography
     actions:
       - label: Learn More
         url: /new-adult-classes
