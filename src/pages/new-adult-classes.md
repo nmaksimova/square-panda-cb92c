@@ -33,7 +33,7 @@ sections:
       clipboard-write; encrypted-media; gyroscope; picture-in-picture"
       allowfullscreen></iframe>
     content: |
-      ## Registration is Open for New Adults Programs
+      ## Registration is Open for Adults Programs
 
       (for singles and couples)
   - title: Registration is open for adult classes
