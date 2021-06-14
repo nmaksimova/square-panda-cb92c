@@ -166,7 +166,7 @@ sections:
           back to us.
         actions:
           - label: Download Registration Form
-            url: 'https://square-panda-cb92c.netlify.app/images/ILTA-Adults-2020.pdf'
+            url: 'https://square-panda-cb92c.netlify.app/images/ILTA-adults-2020.pdf'
             style: primary
             has_icon: false
             icon: arrow-left
