@@ -15,7 +15,8 @@ sections:
     background_image_size: cover
     actions:
       - label: Framingham Registration Form
-        url: 'https://square-panda-cb92c.netlify.app/images/ILTA-Registration-20.pdf'
+        url: >-
+          https://square-panda-cb92c.netlify.app/images/ILTA-Fram-Registration-21.pdf
         style: primary
         has_icon: false
         icon: arrow-left
@@ -24,7 +25,7 @@ sections:
         no_follow: false
         type: action
       - label: Salem Registration Form
-        url: 'https://square-panda-cb92c.netlify.app/images/ILTA-Marblehead-20.pdf'
+        url: 'https://square-panda-cb92c.netlify.app/images/ILTA-Marblehead-21.pdf'
         style: primary
         has_icon: false
         icon: arrow-left
@@ -133,7 +134,7 @@ sections:
         actions:
           - label: Form Framingham
             url: >-
-              https://square-panda-cb92c.netlify.app/images/ILTA-Registration-20.pdf
+              https://square-panda-cb92c.netlify.app/images/ILTA-Fram-Registration-21.pdf
             style: secondary
             has_icon: false
             icon: arrow-right
@@ -143,7 +144,7 @@ sections:
             type: action
           - label: Form Salem
             url: >-
-              https://square-panda-cb92c.netlify.app/images/ILTA-Marblehead-20.pdf
+              https://square-panda-cb92c.netlify.app/images/ILTA-Marblehead-21.pdf
             style: secondary
             has_icon: false
             icon: arrow-left
@@ -220,7 +221,7 @@ sections:
         actions:
           - label: Framingham Registration Form
             url: >-
-              https://square-panda-cb92c.netlify.app/images/ILTA-Registration-20.pdf
+              https://square-panda-cb92c.netlify.app/images/ILTA-Fram-Registration-21.pdf
             style: primary
             has_icon: false
             icon: arrow-left
@@ -230,7 +231,7 @@ sections:
             type: action
           - label: Salem Registration Form
             url: >-
-              https://square-panda-cb92c.netlify.app/images/ILTA-Marblehead-20.pdf
+              https://square-panda-cb92c.netlify.app/images/ILTA-Marblehead-21.pdf
             style: primary
             has_icon: false
             icon: arrow-left
