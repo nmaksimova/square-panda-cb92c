@@ -15,7 +15,8 @@ sections:
     background_image_size: cover
     actions:
       - label: Framingham Registration Form
-        url: 'https://square-panda-cb92c.netlify.app/images/ILTA-Registration-20.pdf'
+        url: >-
+          https://square-panda-cb92c.netlify.app/images/ILTA-FramRegistration-20.pdf
         style: primary
         has_icon: false
         icon: arrow-left
