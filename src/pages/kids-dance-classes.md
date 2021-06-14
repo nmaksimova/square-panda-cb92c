@@ -134,7 +134,7 @@ sections:
         actions:
           - label: Form Framingham
             url: >-
-              https://square-panda-cb92c.netlify.app/images/ILTA-Registration-20.pdf
+              https://square-panda-cb92c.netlify.app/images/ILTA-Fram-Registration-20.pdf
             style: secondary
             has_icon: false
             icon: arrow-right
