@@ -10,7 +10,7 @@ sections:
       - label: Kids Registration Forms 2021-2022
         url: /kids-dance-classes
         style: primary
-        has_icon: true
+        has_icon: false
         icon: youtube
         icon_position: right
         new_window: false
