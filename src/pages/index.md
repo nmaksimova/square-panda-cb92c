@@ -7,7 +7,7 @@ sections:
         url: /book-class
         style: primary
         icon_position: right
-      - label: Kids Registration Forms 2021-22
+      - label: Kids Registration Forms 2021-2022
         url: /new-adult-classes
         style: primary
         has_icon: true
