@@ -7,7 +7,7 @@ sections:
         url: /book-class
         style: primary
         icon_position: right
-      - label: Register for New Adults Lessons
+      - label: Kids Registration Forms 21-22
         url: /new-adult-classes
         style: primary
         has_icon: true
