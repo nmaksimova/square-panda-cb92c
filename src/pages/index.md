@@ -8,7 +8,7 @@ sections:
         style: primary
         icon_position: right
       - label: Kids Registration Forms 2021-2022
-        url: /new-adult-classes
+        url: /kids-dance-classes
         style: primary
         has_icon: true
         icon: youtube
