@@ -70,7 +70,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-      - subtitle: Tue - Thu
+      - subtitle: Tue - Thu class Samba
         content: >-
           ## Lorem ipsum
 
