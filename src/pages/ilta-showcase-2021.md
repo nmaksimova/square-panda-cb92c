@@ -215,7 +215,7 @@ sections:
           clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe>
         media_position: top
-        media_width: fifty
+        media_width: sixty
         align: center
         type: feature
     feature_padding_vert: medium
