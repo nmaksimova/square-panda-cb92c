@@ -31,7 +31,7 @@ sections:
         media_width: sixty
         align: left
         type: feature
-      - subtitle: lorem-ipsum
+      - subtitle: 'Mon - Wed 5:00 pm class (Age 7-9) - Cha cha cha'
         content: >-
           ## Lorem ipsum
 
