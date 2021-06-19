@@ -31,7 +31,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/Ilta_Showcase.jpg
-        subtitle: 'Mon - Wed 5:00 pm class (Age 7-9) - Cha Cha Cha'
+        subtitle: 'Mon - Wed 5:00 pm class (Age 7-9) - Cha cha Cha'
       - title_align: left
         content_align: left
         actions: []
