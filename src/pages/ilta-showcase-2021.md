@@ -84,7 +84,7 @@ sections:
 
           - dolor sit amet
         actions: []
-        image_alt: lorem-ipsum
+        image_alt: Samba
         video_embed_html: >-
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/NQ_YMh4SQ_g" title="YouTube video
