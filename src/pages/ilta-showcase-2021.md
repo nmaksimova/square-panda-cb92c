@@ -44,7 +44,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-      - subtitle: lorem-ipsum
+      - subtitle: 'Mon - Wed 5:00 pm class (Age 7-9) - Jive'
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
