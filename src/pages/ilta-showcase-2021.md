@@ -2,7 +2,7 @@
 title: Gallery- Ilta Dance
 excerpt: Gallery - Ilta Dance
 sections:
-  - title: Gallery - Ilta Showcases
+  - title: Ilta Showcase 2021
     actions: []
     image_alt: lorem-ipsum
     media_position: top
