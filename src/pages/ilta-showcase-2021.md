@@ -70,7 +70,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-      - subtitle: Tue - Th
+      - subtitle: Tue - Thu
         content: >-
           ## Lorem ipsum
 
