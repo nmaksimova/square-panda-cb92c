@@ -71,17 +71,6 @@ sections:
         align: left
         type: feature
       - subtitle: Tue - Thu class Samba
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         actions: []
         image_alt: Samba
         video_embed_html: >-
