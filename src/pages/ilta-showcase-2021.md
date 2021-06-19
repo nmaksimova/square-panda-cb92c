@@ -216,7 +216,7 @@ sections:
           allowfullscreen></iframe>
         media_position: top
         media_width: sixty
-        align: center
+        align: left
         type: feature
     feature_padding_vert: medium
     align: center
