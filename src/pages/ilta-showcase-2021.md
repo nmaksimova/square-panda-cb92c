@@ -57,7 +57,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-      - subtitle: lorem-ipsum
+      - subtitle: Tue - Thu class - Rumba
         content: >-
           ## Lorem ipsum
 
