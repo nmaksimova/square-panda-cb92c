@@ -207,7 +207,7 @@ sections:
     features:
       - subtitle: 'Mon - Wed 5:00 pm class (Age 7-9) - Cha cha cha'
         actions: []
-        image_alt: cha-cha-cha-kids
+        image_alt: cha-cha-cha-kids-dancing
         video_embed_html: >-
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/AmCYVq8s61Q" title="YouTube video
