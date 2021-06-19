@@ -17,8 +17,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     features:
       - subtitle: 'Mon - Wed 5:00 pm class (Age 7-9) - Cha cha cha'
         actions: []
