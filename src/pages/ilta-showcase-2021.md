@@ -148,7 +148,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-      - subtitle: 'Sat 10:15 class - Samba'
+      - subtitle: 'Saturday 10:15 class - Samba'
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
