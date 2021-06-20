@@ -83,7 +83,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-      - subtitle: Tue - Thu - Cha cha cha
+      - subtitle: Tue - Thu class - Cha cha cha
         actions: []
         image_alt: cha-cha-cha
         media_position: bottom
