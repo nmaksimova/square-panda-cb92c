@@ -85,7 +85,7 @@ sections:
         type: feature
       - subtitle: Tue - Thu - Cha cha cha
         actions: []
-        image_alt: lorem-ipsum
+        image_alt: cha-cha-cha
         media_position: top
         media_width: fifty
         align: left
