@@ -174,7 +174,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-      - subtitle: lorem-ipsum
+      - subtitle: 'Saturday 11:15 class - Cha cha cha'
         content: >-
           ## Lorem ipsum
 
