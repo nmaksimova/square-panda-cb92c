@@ -256,6 +256,14 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: cta_section
+    content: |
+      To register:
+
+      1.  Download Registration form
+
+      2.  Fill it out
+
+      3.  Bring it back to the studio or mail to us
 seo:
   title: ''
   description: ''
