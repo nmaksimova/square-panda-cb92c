@@ -5,7 +5,8 @@ sections:
   - title: Ilta Showcase 2021
     actions:
       - label: Framingham Registration Form
-        url: lorem-ipsum
+        url: >-
+          https://square-panda-cb92c.netlify.app/images/ILTA-Fram-Registration-21.pdf
         style: primary
         has_icon: false
         icon: arrow-left
