@@ -97,7 +97,7 @@ sections:
           clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe>
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
+        subtitle: Tue - Thu class - Jive
         content: >-
           ## Lorem ipsum
 
