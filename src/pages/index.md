@@ -31,7 +31,6 @@ sections:
     has_border: true
     background_image_repeat: no-repeat
   - title: Ilta Showcase 2021
-    subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
