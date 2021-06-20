@@ -1,5 +1,5 @@
 ---
-title: Gallery- Ilta Dance
+title: Ilta Showcase 2021
 excerpt: Gallery - Ilta Dance
 sections:
   - title: Ilta Showcase 2021
