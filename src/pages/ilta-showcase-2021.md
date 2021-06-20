@@ -226,7 +226,7 @@ sections:
     type: features_section
   - title: Registration is Open for 2021-22 school year
     actions:
-      - label: lorem-ipsum
+      - label: Framingham Registration
         url: lorem-ipsum
         style: link
         has_icon: false
