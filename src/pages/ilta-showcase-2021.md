@@ -1,6 +1,6 @@
 ---
 title: Ilta Showcase 2021
-excerpt: Gallery - Ilta Dance
+excerpt: Ilta Showcase 2021
 sections:
   - title: Ilta Showcase 2021
     actions: []
