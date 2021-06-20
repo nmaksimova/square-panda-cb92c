@@ -33,7 +33,7 @@ sections:
   - title: Ilta Showcase 2021
     actions:
       - label: Showcase Videos
-        url: lorem-ipsum
+        url: /ilta-showcase-2021
         style: primary
         has_icon: false
         icon: arrow-left
