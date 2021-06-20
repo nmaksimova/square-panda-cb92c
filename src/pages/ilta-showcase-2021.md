@@ -86,7 +86,7 @@ sections:
       - subtitle: Tue - Thu - Cha cha cha
         actions: []
         image_alt: cha-cha-cha
-        media_position: top
+        media_position: bottom
         media_width: fifty
         align: left
         type: feature
