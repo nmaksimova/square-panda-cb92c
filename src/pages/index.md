@@ -48,6 +48,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    image: images/Ilta_showcase_21.jpg
   - content: |
       ## Registration is Open for Adults Programs
 
