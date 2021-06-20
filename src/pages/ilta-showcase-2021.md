@@ -187,8 +187,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-      - title: lorem-ipsum
-        subtitle: "Saturday\_11:15\_class - Disco washing dance"
+      - subtitle: "Saturday\_11:15\_class - Disco washing dance"
         content: >-
           ## Lorem ipsum
 
