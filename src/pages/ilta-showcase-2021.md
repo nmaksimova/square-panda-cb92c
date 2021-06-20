@@ -135,7 +135,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-      - subtitle: lorem-ipsum
+      - subtitle: Henry & Mattie Cha cha cha Disco
         content: >-
           ## Lorem ipsum
 
