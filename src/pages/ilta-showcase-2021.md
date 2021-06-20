@@ -148,8 +148,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-      - title: lorem-ipsum
-        subtitle: 'Sat 10:15 class - Samba'
+      - subtitle: 'Sat 10:15 class - Samba'
         content: >-
           ## Lorem ipsum
 
