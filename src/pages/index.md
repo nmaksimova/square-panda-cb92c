@@ -30,7 +30,7 @@ sections:
     background_image_position: center center
     has_border: true
     background_image_repeat: no-repeat
-  - title: lorem-ipsum
+  - title: O;ta Showcase 2021
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
