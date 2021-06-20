@@ -83,8 +83,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-      - title: lorem-ipsum
-        subtitle: Tue - Thu - Cha cha cha
+      - subtitle: Tue - Thu - Cha cha cha
         content: >-
           ## Lorem ipsum
 
