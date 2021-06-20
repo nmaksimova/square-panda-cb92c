@@ -227,7 +227,8 @@ sections:
   - title: Registration is Open for 2021-22 school year
     actions:
       - label: Framingham Registration
-        url: lorem-ipsum
+        url: >-
+          https://square-panda-cb92c.netlify.app/images/ILTA-Fram-Registration-21.pdf
         style: primary
         has_icon: false
         icon: arrow-left
