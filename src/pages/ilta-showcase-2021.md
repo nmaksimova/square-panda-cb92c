@@ -4,7 +4,7 @@ excerpt: Ilta Showcase 2021
 sections:
   - title: Ilta Showcase 2021
     actions:
-      - label: 'Framingham Registration '
+      - label: Framingham Registration Form
         url: lorem-ipsum
         style: link
         has_icon: false
