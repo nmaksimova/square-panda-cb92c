@@ -32,7 +32,7 @@ sections:
     background_image_repeat: no-repeat
   - title: Ilta Showcase 2021
     actions:
-      - label: lorem-ipsum
+      - label: Showcase Videos
         url: lorem-ipsum
         style: link
         has_icon: false
