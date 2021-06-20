@@ -200,8 +200,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-      - title: lorem-ipsum
-        subtitle: 'Saturday 11:15 class - Polka'
+      - subtitle: 'Saturday 11:15 class - Polka'
         content: >-
           ## Lorem ipsum
 
