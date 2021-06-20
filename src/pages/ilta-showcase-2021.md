@@ -201,7 +201,7 @@ sections:
         align: left
         type: feature
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
+        subtitle: 'Saturday 11:15 class - Polka'
         content: >-
           ## Lorem ipsum
 
