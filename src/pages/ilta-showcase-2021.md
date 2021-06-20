@@ -137,7 +137,7 @@ sections:
         type: feature
       - subtitle: Henry & Mattie Cha cha cha Disco
         actions: []
-        image_alt: Cha
+        image_alt: Cha cha cha disco
         video_embed_html: >-
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/D8yhDGcU0Ls" title="YouTube video
