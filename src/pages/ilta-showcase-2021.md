@@ -225,7 +225,16 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
   - title: Registration is Open for 2021-22 school year
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
     actions_position: bottom
     actions_width: fourty
     align: center
