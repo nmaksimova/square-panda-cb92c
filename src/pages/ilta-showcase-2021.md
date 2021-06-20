@@ -90,6 +90,12 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        video_embed_html: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/i-qv-hZASGA" title="YouTube video
+          player" frameborder="0" allow="accelerometer; autoplay;
+          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
     feature_padding_vert: medium
     align: center
     padding_top: medium
