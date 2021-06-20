@@ -109,7 +109,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-      - subtitle: lorem-ipsum
+      - subtitle: 'Wed 6:00 pm class'
         content: >-
           ## Lorem ipsum
 
