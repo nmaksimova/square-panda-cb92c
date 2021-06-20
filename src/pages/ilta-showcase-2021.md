@@ -161,8 +161,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-      - title: lorem-ipsum
-        subtitle: Sat class - Hip hop
+      - subtitle: Sat class - Hip hop
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
