@@ -109,7 +109,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-      - subtitle: 'Wed 6:00 pm class'
+      - subtitle: 'Wed 6:00 pm class - Cha cha cha Disco style'
         content: >-
           ## Lorem ipsum
 
