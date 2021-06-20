@@ -161,7 +161,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-      - subtitle: Sat class - Hip hop
+      - subtitle: Saturday class - Hip hop
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
