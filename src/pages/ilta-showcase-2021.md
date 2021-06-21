@@ -50,19 +50,6 @@ sections:
         media_width: fifty
         align: left
         type: feature
-      - subtitle: 'Mon - Wed 5:00 pm class (Age 7-9) - Cha cha cha'
-        actions: []
-        image_alt: cha-cha-cha-kids-dancing
-        video_embed_html: >-
-          <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/AmCYVq8s61Q" title="YouTube video
-          player" frameborder="0" allow="accelerometer; autoplay;
-          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen></iframe>
-        media_position: bottom
-        media_width: sixty
-        align: left
-        type: feature
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         content: >-
@@ -83,6 +70,19 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         media_position: top
         media_width: fifty
+        align: left
+        type: feature
+      - subtitle: 'Mon - Wed 5:00 pm class (Age 7-9) - Cha cha cha'
+        actions: []
+        image_alt: cha-cha-cha-kids-dancing
+        video_embed_html: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/AmCYVq8s61Q" title="YouTube video
+          player" frameborder="0" allow="accelerometer; autoplay;
+          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
+        media_position: bottom
+        media_width: sixty
         align: left
         type: feature
       - subtitle: 'Mon - Wed 5:00 pm class (Age 7-9) - Rumba'
