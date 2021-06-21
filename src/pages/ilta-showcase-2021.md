@@ -63,7 +63,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-      - subtitle: lorem-ipsum
+      - subtitle: "Tue\_5:45\_class - Samba solo"
         content: >-
           ## Lorem ipsum
 
