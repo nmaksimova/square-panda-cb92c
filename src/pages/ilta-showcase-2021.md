@@ -271,7 +271,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-      - subtitle: lorem-ipsum
+      - subtitle: "Sat\_10:15\_class Rumba"
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
