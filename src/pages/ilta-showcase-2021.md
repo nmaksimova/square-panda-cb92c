@@ -271,6 +271,32 @@ sections:
         media_width: fifty
         align: left
         type: feature
+      - subtitle: "Sat\_10:15\_class - Rumba"
+        actions: []
+        image_alt: lorem-ipsum
+        video_embed_html: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/Qp0A9iJox4s" title="YouTube video
+          player" frameborder="0" allow="accelerometer; autoplay;
+          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
+        media_position: bottom
+        media_width: fifty
+        align: left
+        type: feature
+      - subtitle: "Sat\_10:15\_class - Cha cha cha"
+        actions: []
+        image_alt: lorem-ipsum
+        video_embed_html: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/m6JN_hMuW7Y" title="YouTube video
+          player" frameborder="0" allow="accelerometer; autoplay;
+          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
+        media_position: bottom
+        media_width: fifty
+        align: left
+        type: feature
     feature_padding_vert: medium
     align: center
     padding_top: medium
