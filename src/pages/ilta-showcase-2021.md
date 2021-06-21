@@ -284,7 +284,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-      - subtitle: "Sat\_10:15\_class Cha cha cha"
+      - subtitle: "Sat\_10:15\_class - Cha cha cha"
         content: >-
           ## Lorem ipsum
 
