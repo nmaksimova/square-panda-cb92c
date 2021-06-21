@@ -37,6 +37,45 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - features:
+      - subtitle: "Tue\_5:45\_class - Cha cha cha Solo"
+        actions: []
+        image_alt: lorem-ipsum
+        video_embed_html: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/bmehokG3r60" title="YouTube video
+          player" frameborder="0" allow="accelerometer; autoplay;
+          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
+        media_position: bottom
+        media_width: fifty
+        align: left
+        type: feature
+      - subtitle: Ema - Rumba Solo
+        actions: []
+        image_alt: lorem-ipsum
+        video_embed_html: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/k_fGpRPqWas" title="YouTube video
+          player" frameborder="0" allow="accelerometer; autoplay;
+          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
+        media_position: bottom
+        media_width: fifty
+        align: left
+        type: feature
+      - subtitle: "Tue\_5:45\_class - Samba solo"
+        actions: []
+        image_alt: lorem-ipsum
+        video_embed_html: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/UUSXcwHX6oA" title="YouTube video
+          player" frameborder="0" allow="accelerometer; autoplay;
+          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
+        media_position: bottom
+        media_width: fifty
+        align: left
+        type: feature
       - subtitle: 'Mon - Wed 5:00 pm class (Age 7-9) - Cha cha cha'
         actions: []
         image_alt: cha-cha-cha-kids-dancing
