@@ -50,7 +50,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-      - subtitle: lorem-ipsum
+      - subtitle: Ema - Rumba Solo
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
