@@ -38,7 +38,7 @@ sections:
     type: hero_section
   - features:
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
+        subtitle: "Tue\_5:45\_class - Cha cha cha Solo"
         content: >-
           ## Lorem ipsum
 
