@@ -44,7 +44,7 @@ sections:
           ### Latin beginners
 
 
-          Class starts on June 30, 2021
+          **Class starts on June 30, 2021**
 
 
           During this class we will introduce you to basic moves of salsa and
