@@ -44,11 +44,14 @@ sections:
           ### Latin beginners
 
 
+          **Class starts on June 30, 2021**
+
+
           During this class we will introduce you to basic moves of salsa and
           bachata.
 
 
-          ##### **Monday 6:45 pm**
+          ##### **Wednesday 6:45 pm**
 
 
           *   Session is 6 week long
