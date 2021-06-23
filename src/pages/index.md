@@ -60,6 +60,8 @@ sections:
 
       (for singles and couples)
 
+      *   **Latin Beginners** class is starting on June 30!
+
       *   **Argentine Tango**
 
       *   **Social Dance club**
