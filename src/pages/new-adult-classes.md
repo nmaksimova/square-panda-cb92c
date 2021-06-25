@@ -37,7 +37,7 @@ sections:
 
       (for singles and couples)
   - actions:
-      - label: lorem-ipsum
+      - label: Register
         url: lorem-ipsum
         style: link
         has_icon: false
