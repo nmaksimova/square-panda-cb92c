@@ -36,8 +36,7 @@ sections:
       ## Registration is Open for Adults Programs
 
       (for singles and couples)
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
