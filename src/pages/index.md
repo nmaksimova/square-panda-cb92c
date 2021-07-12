@@ -96,7 +96,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - content: >+
+  - content: >
       ## Register for Cardio Dance Class!
 
 
@@ -107,11 +107,10 @@ sections:
       **Everybody is welcome!**
 
 
-      *   Every Sunday at 11:00 am
+      *   Every Thursday at 6:00 pm
 
 
       *   $120 for 6 week session
-
     actions:
       - label: Learn More
         style: primary

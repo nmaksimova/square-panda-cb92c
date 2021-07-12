@@ -34,7 +34,7 @@ sections:
       into great shape for summer!
 
 
-      *   every Sunday at 11:00 am
+      *   every Thursday at 6:00 pm
 
 
       *   $120 for 6 week session
