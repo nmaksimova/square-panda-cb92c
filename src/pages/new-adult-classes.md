@@ -98,7 +98,7 @@ sections:
         type: grid_item
       - title_align: left
         content: >
-          ### Social dance (dance club)
+          ### Social dance
 
 
           Learn basic dance moves that will help you to stand out on any dance

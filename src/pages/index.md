@@ -64,7 +64,7 @@ sections:
 
       *   **Argentine Tango**
 
-      *   **Social Dance club**
+      *   **Social Dance**
 
       *   **Latin in-line choreography**
     actions:
