@@ -76,6 +76,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        subtitle: Wedding Dance Preparation
   - type: grid_section
     title: Our Locations
     grid_items:
