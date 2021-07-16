@@ -53,8 +53,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-      - subtitle: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
