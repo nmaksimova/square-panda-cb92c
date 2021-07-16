@@ -53,6 +53,59 @@ sections:
             new_window: false
             no_follow: false
             type: action
+      - actions: []
+        image_alt: wedding dance preparation
+        video_embed_html: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/f_lYJCdzQAM" title="YouTube video
+          player" frameborder="0" allow="accelerometer; autoplay;
+          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
+        media_position: left
+        media_width: fifty
+        align: left
+        type: feature
+        subtitle: Wedding Dance Preparation
+  - actions: []
+    grid_items:
+      - title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: wedding dance
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        image: images/IMG_3480.jpg
+      - title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        image: images/IMG_3481.jpg
+    grid_cols: two
+    grid_gap_vert: small
+    grid_gap_horiz: small
+    enable_cards: true
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: grid_section
   - type: grid_section
     title: Our Locations
     grid_items:
