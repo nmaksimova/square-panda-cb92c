@@ -66,8 +66,7 @@ sections:
         align: left
         type: feature
         subtitle: Wedding Dance Preparation
-  - subtitle: lorem-ipsum
-    actions: []
+  - actions: []
     grid_items: []
     grid_cols: three
     grid_gap_vert: small
