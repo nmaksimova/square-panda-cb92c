@@ -54,7 +54,7 @@ sections:
             no_follow: false
             type: action
       - actions: []
-        image_alt: lorem-ipsum
+        image_alt: wedding dance preparation
         video_embed_html: >-
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/f_lYJCdzQAM" title="YouTube video
