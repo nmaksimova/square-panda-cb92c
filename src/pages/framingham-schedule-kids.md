@@ -124,7 +124,7 @@ sections:
 
           *   Tuesday - 5:45 pm - 7:15 pm
           *   Thursday - 5:15 pm - 6:45 pm
-        content_align: center
+        content_align: left
         actions: []
         actions_align: left
         actions_width: auto
