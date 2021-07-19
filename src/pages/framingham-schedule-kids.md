@@ -99,7 +99,7 @@ sections:
         type: grid_item
         subtitle: 'Teachers: Jenya and Tamaz'
       - title: 'Ballroom, Latin: Teens'
-        title_align: left
+        title_align: center
         content: |+
 
 
