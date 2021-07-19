@@ -56,7 +56,7 @@ sections:
         image_has_padding: false
         type: grid_item
         content: |
-          Lessons are 45 minutes
+          45 minutes lessons
 
           *   Friday - 5:00 pm
 
