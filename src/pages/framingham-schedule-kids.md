@@ -154,7 +154,7 @@ sections:
       - title: 'Hip Hop: 6+ kids group'
         title_align: center
         content: |
-          ##### ****
+
 
           *   Tuesday - 6:00 pm
           *   Thursday - 6:00 pm
