@@ -84,9 +84,9 @@ sections:
       - title: Rising Stars Competing Team
         title_align: center
         content: |
-
-
-          *   Thursday - 5:15 pm
+          *   Monday - 5:00 pm - 6:00 pm
+          *   Wednesday - 5:00 pm - 6:00 pm
+          *   Friday - 5:00 pm - 6:00 pm
         content_align: left
         actions: []
         actions_align: left
