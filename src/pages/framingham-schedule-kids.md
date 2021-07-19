@@ -56,7 +56,7 @@ sections:
         image_has_padding: false
         type: grid_item
         content: |
-          ##### **5 - 7 years old:**
+          ##### Lessons are 45 minutes
 
           *   Friday - 5:00 pm
 
