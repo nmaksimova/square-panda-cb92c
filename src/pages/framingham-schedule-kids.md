@@ -37,7 +37,7 @@ sections:
         content: |
           ##### **3 -5 years old:**
 
-          Dance Mix Styles (Ballroom, Latin, Hip Hop)
+          Mix Dance Styles (Ballroom, Latin, Hip Hop)
 
           *   Tuesday - 5:00 pm
 
