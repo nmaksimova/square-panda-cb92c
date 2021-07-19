@@ -58,7 +58,9 @@ sections:
         content: |
           45 minutes lessons
 
-          *   Friday - 5:00 pm
+          *   Monday - 5:00 pm
+
+          *   Wednesday - 5:00 pm
 
           *   Saturday -10:30 pm
       - title: 'Ballroom, Latin: 8-10 y. o.'
