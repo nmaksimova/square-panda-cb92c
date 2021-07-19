@@ -98,7 +98,7 @@ sections:
         image_has_padding: false
         type: grid_item
         subtitle: 'Teachers: Jenya and Tamaz'
-      - title: lorem-ipsum
+      - title: 'Ballroom, Latin: Teens'
         subtitle: lorem-ipsum
         title_align: left
         content: >-
