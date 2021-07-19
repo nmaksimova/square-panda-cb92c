@@ -99,7 +99,6 @@ sections:
         type: grid_item
         subtitle: 'Teachers: Jenya and Tamaz'
       - title: 'Ballroom, Latin: Teens'
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
