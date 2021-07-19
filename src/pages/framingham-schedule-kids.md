@@ -119,17 +119,11 @@ sections:
       - title: Advance Teens Class
         subtitle: 'Teacher: Tamaz'
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: |
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   Tuesday - 5:45 pm - 7:15 pm
+          *   Thursday - 5:15 pm - 6:45 pm
         content_align: left
         actions: []
         actions_align: left
