@@ -100,12 +100,11 @@ sections:
         subtitle: 'Teachers: Jenya and Tamaz'
       - title: 'Ballroom, Latin: Teens'
         title_align: center
-        content: |+
-
+        content: |
+          test
 
           *   Tuesday - 6:45 pm
           *   Thursday - 6:45 pm
-
         content_align: left
         actions: []
         actions_align: left
