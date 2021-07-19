@@ -81,7 +81,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Champ Level Youth
+      - title: Rising Stars Competing Team
         title_align: center
         content: |
 
