@@ -118,7 +118,7 @@ sections:
         type: grid_item
       - title: Advance Teens Class
         subtitle: 'Teacher: Tamaz'
-        title_align: left
+        title_align: center
         content: |
 
 
