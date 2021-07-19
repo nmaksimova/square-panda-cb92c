@@ -117,7 +117,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Advance Teens Class
-        subtitle: lorem-ipsum
+        subtitle: 'Teacher: Tamaz'
         title_align: left
         content: >-
           ## Lorem ipsum
