@@ -100,17 +100,12 @@ sections:
         subtitle: 'Teachers: Jenya and Tamaz'
       - title: 'Ballroom, Latin: Teens'
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: |+
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   Tuesday - 6:45 pm
+          *   Thursday - 6:45 pm
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
         content_align: left
         actions: []
         actions_align: left
