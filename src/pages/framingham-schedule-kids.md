@@ -151,7 +151,7 @@ sections:
   - title: Kids Hip Hop Classes
     actions: []
     grid_items:
-      - title: Beginners
+      - title: 'Hip Hop: 6+ kids group'
         title_align: center
         content: |
           ##### **8+ years old**
