@@ -35,16 +35,15 @@ sections:
         type: grid_item
         title: Beginners
         content: |
-          ##### **3 - 4 years old:**
+          ##### **3 -5 years old:**
+
+          Dance Mix Styles (Ballroom, Latin, Hip Hop)
+
+          *   Tuesday - 5:00 pm
+
+          *   Thursday - 5:00 pm
 
           *   Saturday - 11:15 am
-
-          ##### **5 - 6 years old:**
-
-          *   Monday - 5:00 pm
-
-
-          *   Saturday - 10:15 am
         subtitle: Lessons are 45 minutes
       - title: Intermediate
         title_align: center
