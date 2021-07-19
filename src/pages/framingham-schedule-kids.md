@@ -44,7 +44,7 @@ sections:
           *   Thursday - 5:00 pm
 
           *   Saturday - 11:15 am
-        subtitle: Lessons are 45 minutes
+        subtitle: 'Mix Dance Styles (Ballroom, Latin, Hip Hop)'
       - title: 'Ballroom, Latin'
         title_align: center
         content_align: left
