@@ -35,9 +35,7 @@ sections:
         type: grid_item
         title: 'Beginners: 3-5 years old'
         content: |
-          ##### **3 -5 years old:**
-
-          Mix Dance Styles (Ballroom, Latin, Hip Hop)
+          Lessons are 45 minutes
 
           *   Tuesday - 5:00 pm
 
