@@ -61,7 +61,7 @@ sections:
           *   Friday - 5:00 pm
 
           *   Saturday -10:30 pm
-      - title: Advanced
+      - title: 'Ballroom, Latin: 8-10 y. o.'
         title_align: center
         content: |
           ##### **Teens:**
