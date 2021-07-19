@@ -58,19 +58,11 @@ sections:
         image_has_padding: false
         type: grid_item
         content: |
-          ##### **7 - 9 years old:**
+          ##### **5 - 7 years old:**
 
-          *   Monday - 5:00 pm
+          *   Friday - 5:00 pm
 
-
-          *   Wednesday - 5:00 pm
-
-          ##### **10 - 11 years old:**
-
-          *   Wednesday - 6:00 pm
-
-
-          *   Sunday - 10:00 am
+          *   Saturday -10:30 pm
       - title: Advanced
         title_align: center
         content: |
