@@ -33,7 +33,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        title: 'Beginners: 3-5 years old'
+        title: 'Beginners: 3-5 y. o.'
         content: |
           Lessons are 45 minutes
 
