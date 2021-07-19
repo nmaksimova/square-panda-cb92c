@@ -64,11 +64,13 @@ sections:
       - title: 'Ballroom, Latin: 8-10 y. o.'
         title_align: center
         content: |
-          ##### **Teens:**
+          45 minutes lessons
 
-          *   Tuesday - 5:45 pm
+          *   Monday - 6:00 pm
 
-          *   Thursday - 5:45 pm
+          *   Wednesday - 6:00 pm
+
+          *   Saturday - 1:00 pm
         content_align: left
         actions: []
         actions_align: left
