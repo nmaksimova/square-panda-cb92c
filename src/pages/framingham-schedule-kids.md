@@ -33,20 +33,17 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        title: Beginners
+        title: 'Beginners: 3-5 y. o.'
         content: |
-          ##### **3 - 4 years old:**
+          45 minutes lessons
+
+          *   Tuesday - 5:00 pm
+
+          *   Thursday - 5:00 pm
 
           *   Saturday - 11:15 am
-
-          ##### **5 - 6 years old:**
-
-          *   Monday - 5:00 pm
-
-
-          *   Saturday - 10:15 am
-        subtitle: Lessons are 45 minutes
-      - title: Intermediate
+        subtitle: 'Mix Dance Styles (Ballroom, Latin, Hip Hop)'
+      - title: 'Ballroom, Latin: 5-7 y. o.'
         title_align: center
         content_align: left
         actions: []
@@ -59,27 +56,21 @@ sections:
         image_has_padding: false
         type: grid_item
         content: |
-          ##### **7 - 9 years old:**
+          45 minutes lessons
 
-          *   Monday - 5:00 pm
+          *   Friday - 5:00 pm
 
+          *   Saturday -10:30 pm
+      - title: 'Ballroom, Latin: 8-10 y. o.'
+        title_align: center
+        content: |
+          45 minutes lessons
 
-          *   Wednesday - 5:00 pm
-
-          ##### **10 - 11 years old:**
+          *   Monday - 6:00 pm
 
           *   Wednesday - 6:00 pm
 
-
-          *   Sunday - 10:00 am
-      - title: Advanced
-        title_align: center
-        content: |
-          ##### **Teens:**
-
-          *   Tuesday - 5:45 pm
-
-          *   Thursday - 5:45 pm
+          *   Saturday - 1:00 pm
         content_align: left
         actions: []
         actions_align: left
@@ -90,12 +81,12 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Champ Level Youth
+      - title: Rising Stars Competing Team
         title_align: center
         content: |
-
-
-          *   Thursday - 5:15 pm
+          *   Monday - 5:00 pm - 6:00 pm
+          *   Wednesday - 5:00 pm - 6:00 pm
+          *   Friday - 5:00 pm - 6:00 pm
         content_align: left
         actions: []
         actions_align: left
@@ -106,7 +97,43 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-    grid_cols: four
+        subtitle: 'Teachers: Jenya and Tamaz'
+      - title: 'Ballroom, Latin: Teens'
+        title_align: center
+        content: |
+
+
+          *   Tuesday - 6:45 pm
+          *   Thursday - 6:45 pm
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+      - title: Advance Teens Class
+        subtitle: 'Teacher: Tamaz'
+        title_align: center
+        content: |
+
+
+          *   Tuesday - 5:45 pm - 7:15 pm
+          *   Thursday - 5:15 pm - 6:45 pm
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+    grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
     enable_cards: true
@@ -124,12 +151,31 @@ sections:
   - title: Kids Hip Hop Classes
     actions: []
     grid_items:
-      - title: Beginners
+      - title: 'Hip Hop: 6+ kids group'
         title_align: center
         content: |
-          ##### **8+ years old**
 
-          *   Saturday - 12:00pm
+
+          *   Tuesday - 6:00 pm
+          *   Thursday - 6:00 pm
+          *   Saturday - 12:00 pm
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+      - title: 'Hip Hop: Teens'
+        title_align: left
+        content: |
+
+
+          *   Monday - 6:45 pm
+          *   Wednesday - 6:45 pm
         content_align: left
         actions: []
         actions_align: left
