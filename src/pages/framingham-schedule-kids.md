@@ -101,7 +101,7 @@ sections:
       - title: 'Ballroom, Latin: Teens'
         title_align: center
         content: |
-          test
+
 
           *   Tuesday - 6:45 pm
           *   Thursday - 6:45 pm
