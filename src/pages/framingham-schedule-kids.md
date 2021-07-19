@@ -35,7 +35,7 @@ sections:
         type: grid_item
         title: 'Beginners: 3-5 y. o.'
         content: |
-          Lessons are 45 minutes
+          45 minutes lessons
 
           *   Tuesday - 5:00 pm
 
