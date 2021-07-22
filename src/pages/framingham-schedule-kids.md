@@ -167,7 +167,7 @@ sections:
         image_has_padding: false
         type: grid_item
         subtitle: 'Teachers: Jenya and Tamaz'
-      - title: Advance Teens Class
+      - title: Advanced Teens Class
         subtitle: 'Teacher: Tamaz'
         title_align: center
         content: |
