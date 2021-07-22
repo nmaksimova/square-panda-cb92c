@@ -83,23 +83,6 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Rising Stars Competing Team
-        title_align: center
-        content: |
-          *   Monday - 5:00 pm - 6:00 pm
-          *   Wednesday - 5:00 pm - 6:00 pm
-          *   Friday - 5:00 pm - 6:00 pm
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        subtitle: 'Teachers: Jenya and Tamaz'
       - title: 'Beginners: Teens'
         title_align: center
         content: |
@@ -117,6 +100,23 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+      - title: Rising Stars Competing Team
+        title_align: center
+        content: |
+          *   Monday - 5:00 pm - 6:00 pm
+          *   Wednesday - 5:00 pm - 6:00 pm
+          *   Friday - 5:00 pm - 6:00 pm
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        subtitle: 'Teachers: Jenya and Tamaz'
       - title: Advance Teens Class
         subtitle: 'Teacher: Tamaz'
         title_align: center
