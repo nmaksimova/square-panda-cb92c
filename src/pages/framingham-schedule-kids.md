@@ -96,7 +96,8 @@ sections:
         content_align: left
         actions:
           - label: Register
-            url: lorem-ipsum
+            url: >-
+              https://docs.google.com/forms/d/e/1FAIpQLSdbJnJTk6zByh2nIgAlkfztjKsa-Bx4pVBWQJVx6MfUf_QNYg/viewform
             style: link
             has_icon: false
             icon: arrow-left
