@@ -87,7 +87,7 @@ sections:
         url: /dance-cardio
       - label: Framingham Schedule
         url: /framingham-schedule-kids
-        style: link
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
