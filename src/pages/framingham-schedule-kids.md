@@ -72,7 +72,7 @@ sections:
 
           *   Wednesday - 5:00 pm
 
-          *   Saturday -10:30 pm
+          *   Saturday -10:30 am
       - title: 'Beginners: 8-10 y. o.'
         title_align: center
         content: |
