@@ -17,7 +17,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     title: ' Framingham Kids Dance Schedule'
-    subtitle: '    '
+    subtitle: '    To get started'
     background_image: images/Start_dancing.png
   - title: Kids Ballroom and Latin Classes
     actions: []
