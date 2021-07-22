@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     actions:
-      - label: Complimentary Lesson 1
+      - label: Complimentary Lesson
         url: /book-class
         style: primary
         icon_position: right
