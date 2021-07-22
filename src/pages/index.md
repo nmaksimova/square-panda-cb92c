@@ -85,6 +85,15 @@ sections:
         no_follow: false
         type: action
         url: /dance-cardio
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
     image_alt: kids dance schedule
     media_position: left
     media_width: fifty
