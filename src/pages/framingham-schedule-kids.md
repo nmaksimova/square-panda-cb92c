@@ -176,7 +176,16 @@ sections:
           *   Tuesday - 5:45 pm - 7:15 pm
           *   Thursday - 5:15 pm - 6:45 pm
         content_align: left
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
         actions_align: left
         actions_width: auto
         image_alt: lorem-ipsum
