@@ -24,7 +24,17 @@ sections:
     grid_items:
       - title_align: center
         content_align: left
-        actions: []
+        actions:
+          - label: Register
+            url: >-
+              https://docs.google.com/forms/d/e/1FAIpQLSelSoZoIkzWjUYy81oItwqJto-Oj6vEkuy6eMsJtzioKjAINA/viewform
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: true
+            no_follow: false
+            type: action
         actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
@@ -46,7 +56,17 @@ sections:
       - title: 'Beginners: 5-7 y. o.'
         title_align: center
         content_align: left
-        actions: []
+        actions:
+          - label: Register
+            url: >-
+              https://docs.google.com/forms/d/e/1FAIpQLSdxqWNWhk0yKReb69GoZvyyro6QvSJt73waIaEtOtH5gMk90w/viewform
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
         actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
@@ -62,7 +82,7 @@ sections:
 
           *   Wednesday - 5:00 pm
 
-          *   Saturday -10:30 pm
+          *   Saturday -10:30 am
       - title: 'Beginners: 8-10 y. o.'
         title_align: center
         content: |
@@ -74,8 +94,18 @@ sections:
 
           *   Saturday - 1:00 pm
         content_align: left
-        actions: []
-        actions_align: left
+        actions:
+          - label: Register
+            url: >-
+              https://docs.google.com/forms/d/e/1FAIpQLSdbJnJTk6zByh2nIgAlkfztjKsa-Bx4pVBWQJVx6MfUf_QNYg/viewform
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: true
+            no_follow: false
+            type: action
+        actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
         image_position: top
@@ -91,8 +121,18 @@ sections:
           *   Tuesday - 6:45 pm
           *   Thursday - 6:45 pm
         content_align: left
-        actions: []
-        actions_align: left
+        actions:
+          - label: Register
+            url: >-
+              https://docs.google.com/forms/d/e/1FAIpQLSebUA1y1-fJyfjfNsYPNu5zxpXdEQHWZPKUpGUqflVrVzQIVA/viewform
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+        actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
         image_position: top
@@ -107,8 +147,18 @@ sections:
           *   Wednesday - 5:00 pm - 6:00 pm
           *   Friday - 5:00 pm - 6:00 pm
         content_align: left
-        actions: []
-        actions_align: left
+        actions:
+          - label: Register
+            url: >-
+              https://docs.google.com/forms/d/e/1FAIpQLSfTeZdkvXIveOK0DWOQ3uyFsE-zY4HNsU7Z8zVI1ZI__iEyDw/viewform
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+        actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
         image_position: top
@@ -117,7 +167,7 @@ sections:
         image_has_padding: false
         type: grid_item
         subtitle: 'Teachers: Jenya and Tamaz'
-      - title: Advance Teens Class
+      - title: Advanced Teens Class
         subtitle: 'Teacher: Tamaz'
         title_align: center
         content: |
@@ -126,8 +176,18 @@ sections:
           *   Tuesday - 5:45 pm - 7:15 pm
           *   Thursday - 5:15 pm - 6:45 pm
         content_align: left
-        actions: []
-        actions_align: left
+        actions:
+          - label: Register
+            url: >-
+              https://docs.google.com/forms/d/e/1FAIpQLSdC7g9YkRlegX2ahbDub985Fmbt4ubRkBM96IHzdz8A51T-tg/viewform
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: true
+            no_follow: false
+            type: action
+        actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
         image_position: top
@@ -162,8 +222,18 @@ sections:
           *   Thursday - 6:00 pm
           *   Saturday - 12:00 pm
         content_align: left
-        actions: []
-        actions_align: left
+        actions:
+          - label: Register
+            url: >-
+              https://docs.google.com/forms/d/e/1FAIpQLSfYjCbGomiMP9lwfJ-t1RnrmoxsOTUYnLFvAckqnR5RM-z4hA/viewform
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: true
+            no_follow: false
+            type: action
+        actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
         image_position: top
@@ -179,8 +249,18 @@ sections:
           *   Monday - 6:45 pm
           *   Wednesday - 6:45 pm
         content_align: left
-        actions: []
-        actions_align: left
+        actions:
+          - label: Register
+            url: >-
+              https://docs.google.com/forms/d/e/1FAIpQLSd_KfFrU1xpt9LjA_ac5te1CMRpEfWcmfS6_0Qp6MXKLT6DoQ/viewform
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: true
+            no_follow: false
+            type: action
+        actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
         image_position: top
