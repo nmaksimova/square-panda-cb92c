@@ -100,7 +100,7 @@ sections:
         image_has_padding: false
         type: grid_item
         subtitle: 'Teachers: Jenya and Tamaz'
-      - title: 'Ballroom, Latin: Teens'
+      - title: 'Beginners: Teens'
         title_align: center
         content: |
 
