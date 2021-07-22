@@ -3,7 +3,7 @@ title: 'Dance Group Classes Schedule, Framingham, MA'
 excerpt: Dance Schedule
 sections:
   - actions:
-      - label: lorem-ipsum
+      - label: Framingham Registration Form
         url: lorem-ipsum
         style: link
         has_icon: false
