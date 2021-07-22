@@ -34,9 +34,9 @@ sections:
         no_follow: false
         type: action
   - content: |
-      ## Register for Summer Kids Dance Programs
+      ## New Schedule for 2021-2022 school year
 
-      ##### **Session Duration: July 6th - August 13th, 2021**
+      ##### **Framingham Location**
     actions:
       - label: Register
         url: >-
