@@ -1,35 +1,6 @@
 ---
 title: Home
 sections:
-  - type: hero_section
-    actions:
-      - label: Complimentary Lesson
-        url: /book-class
-        style: primary
-        icon_position: right
-      - label: Kids Registration Forms 2021-2022
-        url: /kids-dance-classes
-        style: primary
-        has_icon: false
-        icon: youtube
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
-    image: images/ILTA_DANCE_LOGO.png
-    image_alt: Ilta Dance Studio
-    media_position: left
-    media_width: sixty
-    align: center
-    padding_top: large
-    padding_bottom: small
-    background_color: secondary
-    background_image: images/Dance_Lesson_v2.jpg
-    background_image_opacity: 60
-    background_image_size: cover
-    background_image_position: center center
-    has_border: true
-    background_image_repeat: no-repeat
   - content: |
       ## Registration is Open for Adults Programs
 
@@ -71,6 +42,35 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+  - type: hero_section
+    actions:
+      - label: Complimentary Lesson
+        url: /book-class
+        style: primary
+        icon_position: right
+      - label: Kids Registration Forms 2021-2022
+        url: /kids-dance-classes
+        style: primary
+        has_icon: false
+        icon: youtube
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
+    image: images/ILTA_DANCE_LOGO.png
+    image_alt: Ilta Dance Studio
+    media_position: left
+    media_width: sixty
+    align: center
+    padding_top: large
+    padding_bottom: small
+    background_color: secondary
+    background_image: images/Dance_Lesson_v2.jpg
+    background_image_opacity: 60
+    background_image_size: cover
+    background_image_position: center center
+    has_border: true
+    background_image_repeat: no-repeat
   - content: |
       ## Kids Dance Classes Schedule 2021-22
 
