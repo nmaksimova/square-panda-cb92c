@@ -83,7 +83,7 @@ sections:
         content_align: left
         actions:
           - label: Learn More
-            url: lorem-ipsum
+            url: /dance-cardio
             style: link
             has_icon: false
             icon: arrow-left
