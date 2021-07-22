@@ -122,7 +122,7 @@ sections:
           *   Thursday - 6:45 pm
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Re
             url: lorem-ipsum
             style: link
             has_icon: false
