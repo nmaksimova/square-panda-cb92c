@@ -76,7 +76,7 @@ sections:
 
       **Dance classes for all ages and levels!**
     actions:
-      - label: Kids Registration Form
+      - label: Kids Registration Forms
         style: primary
         has_icon: false
         icon: arrow-left
