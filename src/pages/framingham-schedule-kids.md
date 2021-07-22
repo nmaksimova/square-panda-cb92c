@@ -180,7 +180,7 @@ sections:
           - label: Register
             url: >-
               https://docs.google.com/forms/d/e/1FAIpQLSdC7g9YkRlegX2ahbDub985Fmbt4ubRkBM96IHzdz8A51T-tg/viewform
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
