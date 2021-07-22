@@ -30,10 +30,12 @@ sections:
     background_image_position: center center
     has_border: true
     background_image_repeat: no-repeat
-  - title: Ilta Showcase 2021
+  - content: |
+      ## Kids Dance Classes Schedule 2021-22
+
+      **Dance classes for all ages and levels!**
     actions:
-      - label: Showcase Videos
-        url: /ilta-showcase-2021
+      - label: Kids Registration Forms
         style: primary
         has_icon: false
         icon: arrow-left
@@ -41,20 +43,30 @@ sections:
         new_window: false
         no_follow: false
         type: action
-    image_alt: lorem-ipsum
+        url: /kids-dance-classes/
+      - label: Framingham Schedule
+        url: /framingham-schedule-kids
+        style: primary
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
+    image_alt: kids dance schedule
     media_position: left
     media_width: fifty
     align: left
-    padding_top: medium
-    padding_bottom: medium
+    padding_top: small
+    padding_bottom: small
     has_border: false
-    background_color: none
+    background_color: secondary
     background_image_opacity: 0
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/Ilta_showcase_21.jpg
+    image: images/New Kids Schedule.jpg
   - content: |
       ## Registration is Open for Adults Programs
 
@@ -91,49 +103,6 @@ sections:
     padding_bottom: small
     has_border: false
     background_color: primary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
-  - content: >
-      ## Register for Cardio Dance Class!
-
-
-      Fun dance cardio workout perfect for the summer and to stay in shape!! Fun
-      dance moves to amazing music surrounded by a great community of people!
-
-
-      **Everybody is welcome!**
-
-
-      *   Every Thursday at 6:00 pm
-
-
-      *   $120 for 6 week session
-    actions:
-      - label: Learn More
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
-        url: /dance-cardio
-    image_alt: lorem-ipsum
-    video_embed_html: >-
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/djMM_lcmjhQ" title="YouTube video
-      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    media_position: left
-    media_width: fifty
-    align: left
-    padding_top: small
-    padding_bottom: small
-    has_border: false
-    background_color: secondary
     background_image_opacity: 0
     background_image_size: cover
     background_image_position: center center
@@ -415,6 +384,31 @@ sections:
         new_window: false
         no_follow: false
         type: action
+  - title: Ilta Showcase 2021
+    actions:
+      - label: Showcase Videos
+        url: /ilta-showcase-2021
+        style: primary
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
+    image_alt: lorem-ipsum
+    media_position: left
+    media_width: fifty
+    align: left
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: hero_section
+    image: images/Ilta_showcase_21.jpg
   - type: grid_section
     title: Our Locations
     subtitle: ''

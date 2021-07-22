@@ -81,8 +81,17 @@ sections:
 
           *   Sunday - **12:00 pm**
         content_align: left
-        actions: []
-        actions_align: left
+        actions:
+          - label: Learn More
+            url: /dance-cardio
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: center
+            new_window: false
+            no_follow: false
+            type: action
+        actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
         image_position: top

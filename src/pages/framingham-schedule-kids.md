@@ -2,7 +2,17 @@
 title: 'Dance Group Classes Schedule, Framingham, MA'
 excerpt: Dance Schedule
 sections:
-  - actions: []
+  - actions:
+      - label: Framingham Registration Form
+        url: >-
+          https://square-panda-cb92c.netlify.app/images/ILTA-Fram-Registration-21.pdf
+        style: primary
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
     image_alt: lorem-ipsum
     media_position: top
     media_width: fifty
@@ -17,7 +27,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     title: ' Framingham Kids Dance Schedule'
-    subtitle: '    '
+    subtitle: '   To get started, please download Kids Registration Form'
     background_image: images/Start_dancing.png
   - title: Kids Ballroom and Latin Classes
     actions: []
