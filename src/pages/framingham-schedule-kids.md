@@ -43,7 +43,7 @@ sections:
 
           *   Saturday - 11:15 am
         subtitle: 'Mix Dance Styles (Ballroom, Latin, Hip Hop)'
-      - title: 'Ballroom, Latin: 5-7 y. o.'
+      - title: 'Beginners: 5-7 y. o.'
         title_align: center
         content_align: left
         actions: []
