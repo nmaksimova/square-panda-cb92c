@@ -84,7 +84,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-        url: /dance-cardio
+        url: /kids-dance-classes/
       - label: Framingham Schedule
         url: /framingham-schedule-kids
         style: primary
