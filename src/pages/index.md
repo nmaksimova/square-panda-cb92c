@@ -71,21 +71,10 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - content: >
-      ## Register for Cardio Dance Class!
+  - content: |
+      ## Kids Dance Classes Schedule 2021-22
 
-
-      Fun dance cardio workout perfect for the summer and to stay in shape!! Fun
-      dance moves to amazing music surrounded by a great community of people!
-
-
-      **Everybody is welcome!**
-
-
-      *   Every Thursday at 6:00 pm
-
-
-      *   $120 for 6 week session
+      **Dance classes for all ages and levels!**
     actions:
       - label: Learn More
         style: primary
