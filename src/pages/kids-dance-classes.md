@@ -38,7 +38,7 @@ sections:
 
       ##### **Framingham Location**
     actions:
-      - label: Register
+      - label: Schedule
         url: >-
           https://docs.google.com/forms/d/e/1FAIpQLSdHbFYLwSgjpAMBNA7V-7f2I1cQMft93XCVClW-ti7HkbRr5g/viewform
         style: primary
