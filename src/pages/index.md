@@ -86,7 +86,7 @@ sections:
         type: action
         url: /dance-cardio
       - label: Framingham Schedule
-        url: lorem-ipsum
+        url: /framingham-schedule-kids
         style: link
         has_icon: false
         icon: arrow-left
