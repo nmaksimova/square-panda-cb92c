@@ -85,7 +85,7 @@ sections:
         no_follow: false
         type: action
         url: /dance-cardio
-      - label: lorem-ipsum
+      - label: Framingham Schedule
         url: lorem-ipsum
         style: link
         has_icon: false
