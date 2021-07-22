@@ -253,7 +253,7 @@ sections:
           - label: Register
             url: >-
               https://docs.google.com/forms/d/e/1FAIpQLSd_KfFrU1xpt9LjA_ac5te1CMRpEfWcmfS6_0Qp6MXKLT6DoQ/viewform
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
