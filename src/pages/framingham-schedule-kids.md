@@ -98,7 +98,7 @@ sections:
           - label: Register
             url: >-
               https://docs.google.com/forms/d/e/1FAIpQLSdbJnJTk6zByh2nIgAlkfztjKsa-Bx4pVBWQJVx6MfUf_QNYg/viewform
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
