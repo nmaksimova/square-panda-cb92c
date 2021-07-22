@@ -125,7 +125,7 @@ sections:
           - label: Register
             url: >-
               https://docs.google.com/forms/d/e/1FAIpQLSebUA1y1-fJyfjfNsYPNu5zxpXdEQHWZPKUpGUqflVrVzQIVA/viewform
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
