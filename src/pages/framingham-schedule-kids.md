@@ -151,7 +151,7 @@ sections:
           - label: Register
             url: >-
               https://docs.google.com/forms/d/e/1FAIpQLSfTeZdkvXIveOK0DWOQ3uyFsE-zY4HNsU7Z8zVI1ZI__iEyDw/viewform
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
