@@ -226,7 +226,7 @@ sections:
           - label: Register
             url: >-
               https://docs.google.com/forms/d/e/1FAIpQLSfYjCbGomiMP9lwfJ-t1RnrmoxsOTUYnLFvAckqnR5RM-z4hA/viewform
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
