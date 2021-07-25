@@ -90,7 +90,7 @@
             }
         ],
         "has_anncmnt": true,
-        "anncmnt_content": "New adult class **Latin Beginners, **every Wednesday at 6:45!\n",
+        "anncmnt_content": "New adult class **Latin Beginners**, every Wednesday at 6:45!\n",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
