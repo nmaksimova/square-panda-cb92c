@@ -60,7 +60,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/Latin Beginners_site_promo.jpg
+    image: images/Ilta Dance Studio.png
   - title: Registration is open for adult classes
     actions: []
     grid_items:
