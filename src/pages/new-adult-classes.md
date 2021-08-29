@@ -30,6 +30,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    image: images/Ilta Dance Studio_site-89ceb551.png
   - actions:
       - label: Register
         url: >-
