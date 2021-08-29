@@ -18,7 +18,7 @@ sections:
         no_follow: false
         type: action
     image_alt: Dance couple tango
-    media_position: top
+    media_position: bottom
     media_width: fifty
     align: center
     padding_top: small
