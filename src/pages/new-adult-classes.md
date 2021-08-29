@@ -43,7 +43,6 @@ sections:
         type: action
     grid_items:
       - title: September 9th
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
