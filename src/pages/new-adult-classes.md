@@ -7,7 +7,7 @@ sections:
     content: |
       ## Start your dancing journey with us!
     actions:
-      - label: lorem-ipsum
+      - label: Register
         url: lorem-ipsum
         style: link
         has_icon: false
