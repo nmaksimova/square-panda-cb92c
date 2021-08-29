@@ -17,7 +17,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-    image_alt: lorem-ipsum
+    image_alt: Dance couple tango
     media_position: top
     media_width: fifty
     align: center
