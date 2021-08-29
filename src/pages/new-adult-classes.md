@@ -14,7 +14,7 @@ sections:
         no_follow: false
         type: action
     image_alt: adult dancers tango
-    media_position: right
+    media_position: top
     media_width: fifty
     align: center
     padding_top: medium
