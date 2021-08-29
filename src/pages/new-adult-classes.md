@@ -43,7 +43,7 @@ sections:
         type: action
     grid_items:
       - title: September 9th
-        title_align: left
+        title_align: center
         content: |
 
 
