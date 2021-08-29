@@ -2,7 +2,7 @@
 title: New Adult Dance Classes
 excerpt: New Adult Dance Classes
 sections:
-  - title: lorem-ipsum
+  - title: Fall Special for Adults
     subtitle: lorem-ipsum
     content: |
       ## Start your dancing journey with us!
