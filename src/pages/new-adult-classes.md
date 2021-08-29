@@ -79,7 +79,7 @@ sections:
         type: grid_item
         title: September 23rd
       - title: September 30th
-        subtitle: lorem-ipsum
+        subtitle: '6:45 pm'
         title_align: left
         content: >-
           ## Lorem ipsum
