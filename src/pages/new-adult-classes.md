@@ -27,7 +27,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/Ilta Dance Studio_site-2f209b2b.png
-    title: Fakk Special Offer
+    title: Fall Special Offer
   - actions:
       - label: Click here to Register
         url: >-
