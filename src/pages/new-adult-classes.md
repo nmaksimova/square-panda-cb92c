@@ -2,7 +2,11 @@
 title: New Adult Dance Classes
 excerpt: New Adult Dance Classes
 sections:
-  - actions:
+  - title: Fall Special for Adults
+    subtitle: Try different dance styles in a 4-week session
+    content: |
+      ## Start your dancing journey with us!
+    actions:
       - label: Register
         url: >-
           https://docs.google.com/forms/d/e/1FAIpQLScWy8KddhyDNpAae3AQR-fgaqpBSN4F34Y6jAK_djmHpIpDdA/viewform
@@ -13,22 +17,20 @@ sections:
         new_window: false
         no_follow: false
         type: action
-    image_alt: adult dancers tango
+    image_alt: Dance couple tango
     media_position: bottom
     media_width: fifty
     align: center
-    padding_top: medium
-    padding_bottom: medium
+    padding_top: small
+    padding_bottom: small
     has_border: false
     background_color: none
     background_image_opacity: 0
-    background_image_size: contain
+    background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/Ilta Dance Studio_site-2f209b2b.png
-    title: Fall Special for Adults
-    subtitle: Try different dance styles in a 4-week session
+    image: images/Ilta Dance Studio_site-89ceb551.png
   - title: Fall Special Program Starts 9/9/2021
     actions:
       - label: Register
