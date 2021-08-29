@@ -26,7 +26,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/Ilta Dance Studio_site.png
     background_image: images/Ilta Dance Studio_site-82699588.png
   - actions:
       - label: Click here to Register
