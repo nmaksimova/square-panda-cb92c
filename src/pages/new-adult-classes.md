@@ -30,7 +30,7 @@ sections:
     title: Fall Special for Adults
     subtitle: Try different dance styles in a 4-week session
   - title: Fall Special Program Starts September 9th
-    subtitle: lorem-ipsum
+    subtitle: 'Fall Special Program Starts '
     actions: []
     grid_items: []
     grid_cols: three
