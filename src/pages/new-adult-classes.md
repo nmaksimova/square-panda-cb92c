@@ -31,7 +31,7 @@ sections:
     subtitle: Try different dance styles in a 4-week session
   - title: Fall Special Program Starts 9/9/2021
     actions:
-      - label: lorem-ipsum
+      - label: Register
         url: lorem-ipsum
         style: link
         has_icon: false
