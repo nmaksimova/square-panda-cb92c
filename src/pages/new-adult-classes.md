@@ -32,7 +32,8 @@ sections:
   - title: Fall Special Program Starts 9/9/2021
     actions:
       - label: Register
-        url: lorem-ipsum
+        url: >-
+          https://docs.google.com/forms/d/e/1FAIpQLScWy8KddhyDNpAae3AQR-fgaqpBSN4F34Y6jAK_djmHpIpDdA/viewform
         style: primary
         has_icon: false
         icon: arrow-left
