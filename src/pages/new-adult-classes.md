@@ -80,7 +80,7 @@ sections:
         title: September 23rd
       - title: September 30th
         subtitle: '6:45 pm'
-        title_align: left
+        title_align: center
         content: >-
           ## Lorem ipsum
 
