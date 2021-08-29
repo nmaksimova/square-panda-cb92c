@@ -97,7 +97,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: October 7th
-        subtitle: lorem-ipsum
+        subtitle: '6:45 pm'
         title_align: left
         content: >-
           ## Lorem ipsum
