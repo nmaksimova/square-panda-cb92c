@@ -66,7 +66,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/Kids_dancing.jpg
+    image: images/Kids_dancing-e2ac3a15.jpg
   - content: |
       ## Registration is Open for Adults Programs
 
