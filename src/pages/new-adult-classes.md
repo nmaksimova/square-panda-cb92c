@@ -99,17 +99,10 @@ sections:
       - title: October 7th
         subtitle: '6:45 pm'
         title_align: center
-        content: >-
-          ## Lorem ipsum
+        content: |
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   Mix dance styles cardio
         content_align: left
         actions: []
         actions_align: left
