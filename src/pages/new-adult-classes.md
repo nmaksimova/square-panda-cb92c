@@ -98,7 +98,7 @@ sections:
         type: grid_item
       - title: October 7th
         subtitle: '6:45 pm'
-        title_align: left
+        title_align: center
         content: >-
           ## Lorem ipsum
 
