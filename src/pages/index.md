@@ -31,7 +31,7 @@ sections:
     has_border: true
     background_image_repeat: no-repeat
   - content: |
-      ## Kids Dance Classes Schedule 2021-22
+      ## Kids Dance Classes Schedule 2021-2022
 
       **Dance classes for all ages and levels!**
     actions:
