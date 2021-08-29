@@ -45,7 +45,7 @@ sections:
     grid_cols: four
     grid_gap_vert: small
     grid_gap_horiz: small
-    enable_cards: false
+    enable_cards: true
     align: center
     padding_top: medium
     padding_bottom: medium
