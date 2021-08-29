@@ -59,6 +59,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        subtitle: '6:45 pm'
     grid_cols: four
     grid_gap_vert: small
     grid_gap_horiz: small
