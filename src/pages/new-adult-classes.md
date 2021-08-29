@@ -127,7 +127,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-    subtitle: '4 classes for $40 '
+    subtitle: '4 classes for $40! '
   - actions:
       - label: Click here to Register
         url: >-
