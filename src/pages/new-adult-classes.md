@@ -29,7 +29,7 @@ sections:
     image: images/Ilta Dance Studio_site-2f209b2b.png
     title: Fall Special for Adults
     subtitle: Try different dance styles in a 4-week session
-  - title: Fall Special Program Starts Sept. 9th
+  - title: Fall Special Program Starts 9/
     actions: []
     grid_items: []
     grid_cols: three
