@@ -61,7 +61,7 @@ sections:
         type: grid_item
         subtitle: '6:45 pm'
       - subtitle: '6:45 pm'
-        title_align: left
+        title_align: center
         content: >-
           ## Lorem ipsum
 
