@@ -28,7 +28,7 @@ sections:
     type: hero_section
     image: images/Ilta Dance Studio_site-2f209b2b.png
     title: Fall Special Offer for Adults!
-    subtitle: Try different dance styles in 4-week session
+    subtitle: Try different dance styles in a 4-week session
   - actions:
       - label: Click here to Register
         url: >-
