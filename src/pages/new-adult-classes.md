@@ -5,7 +5,7 @@ sections:
   - actions:
       - label: Register
         url: >-
-          https://docs.google.com/forms/d/e/1FAIpQLSfXsA6AmaM9s_xCkerPSd_ZV1r4di9Tv05gyhnPHDvzsGq7Lg/viewform?fbzx=-7853669134528690690
+          https://docs.google.com/forms/d/e/1FAIpQLScWy8KddhyDNpAae3AQR-fgaqpBSN4F34Y6jAK_djmHpIpDdA/viewform
         style: primary
         has_icon: false
         icon: arrow-left
