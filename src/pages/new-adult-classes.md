@@ -13,7 +13,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-    image_alt: lorem-ipsum
+    image_alt: adult dancers tango
     media_position: bottom
     media_width: fifty
     align: center
