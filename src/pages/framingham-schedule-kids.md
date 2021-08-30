@@ -220,6 +220,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     background_image: images/image_6483441 (6).JPG
+    subtitle: Kids group classes start after Labor day (September 7th)
   - title: Kids Hip Hop Classes
     actions: []
     grid_items:
