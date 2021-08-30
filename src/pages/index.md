@@ -35,8 +35,6 @@ sections:
 
       **Dance classes for all ages and levels!**
 
-      ****
-
       **Kids group classes start after Labor Day**
     actions:
       - label: Kids Registration Forms
