@@ -30,7 +30,6 @@ sections:
     subtitle: '   To get started, please download Kids Registration Form'
     background_image: images/Start_dancing.png
   - title: September 2021 Calendar
-    subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
