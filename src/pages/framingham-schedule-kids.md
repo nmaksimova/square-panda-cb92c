@@ -44,6 +44,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     background_image: images/September Kids copy.jpg
+    image: images/transparent_square-6d1c4c2e.png
   - title: Kids Ballroom and Latin Classes
     actions: []
     grid_items:
