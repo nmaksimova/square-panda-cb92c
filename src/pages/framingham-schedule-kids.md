@@ -29,22 +29,6 @@ sections:
     title: ' Framingham Kids Dance Schedule'
     subtitle: '   To get started, please download Kids Registration Form'
     background_image: images/Start_dancing.png
-  - actions: []
-    image_alt: lorem-ipsum
-    media_position: top
-    media_width: fifty
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
-    background_image: images/September Kids copy.jpg
-    image: images/transparent_square-6d1c4c2e.png
   - title: Kids Ballroom and Latin Classes
     actions: []
     grid_items:
