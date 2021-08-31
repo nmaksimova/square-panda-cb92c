@@ -18,18 +18,7 @@ sections:
     type: hero_section
     title: ' Framingham - Adult  Dance Schedule'
     background_image: images/Start_dancing.png
-  - content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    actions: []
+  - actions: []
     image_alt: lorem-ipsum
     media_position: top
     media_width: fifty
