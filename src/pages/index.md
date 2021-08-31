@@ -42,7 +42,7 @@ sections:
       *   Swing, tango
       *   Mix dance styles cardio
     actions:
-      - label: lorem-ipsum
+      - label: Learn More
         url: lorem-ipsum
         style: link
         has_icon: false
