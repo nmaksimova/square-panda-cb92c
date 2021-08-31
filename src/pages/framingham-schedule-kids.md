@@ -29,8 +29,7 @@ sections:
     title: ' Framingham Kids Dance Schedule'
     subtitle: '   To get started, please download Kids Registration Form'
     background_image: images/Start_dancing.png
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
