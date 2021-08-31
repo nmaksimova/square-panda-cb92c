@@ -30,7 +30,7 @@ sections:
     background_image_position: center center
     has_border: true
     background_image_repeat: no-repeat
-  - title: Fall Special - 4 classes for $40!
+  - title: Fall Special for Adults
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
