@@ -32,17 +32,15 @@ sections:
     background_image_repeat: no-repeat
   - title: Fall Special!
     subtitle: Adults Program for Beginners
-    content: >-
-      ## Lorem ipsum
+    content: |
+      ## 4 dance classes for $40! 
 
+      Try different dance styles each week
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      *   Salsa, bachata
+      *   American rumba, foxtrot
+      *   Swing, tango
+      *   Mix dance styles cardio
     actions: []
     image_alt: lorem-ipsum
     media_position: left
