@@ -30,7 +30,7 @@ sections:
     background_image_position: center center
     has_border: true
     background_image_repeat: no-repeat
-  - title: Fall Special for Adults
+  - title: Fall Special!
     subtitle: Adults Program for Beginners
     content: >-
       ## Lorem ipsum
