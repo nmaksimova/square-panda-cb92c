@@ -44,7 +44,7 @@ sections:
     actions:
       - label: Learn More
         url: /new-adult-classes
-        style: link
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
