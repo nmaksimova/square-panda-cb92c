@@ -31,7 +31,7 @@ sections:
     has_border: true
     background_image_repeat: no-repeat
   - title: Fall Special for Adults
-    subtitle: lorem-ipsum
+    subtitle: Adults Program for Beginners
     content: >-
       ## Lorem ipsum
 
