@@ -43,7 +43,7 @@ sections:
       *   Mix dance styles cardio
     actions:
       - label: Learn More
-        url: lorem-ipsum
+        url: /new-adult-classes
         style: link
         has_icon: false
         icon: arrow-left
