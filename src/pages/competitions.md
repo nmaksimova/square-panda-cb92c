@@ -3,7 +3,7 @@ title: Competitions
 excerpt: Competitions
 sections:
   - type: hero_section
-    subtitle: ''
+    subtitle: 2021-2022
     actions: []
     image_alt: Ilta Dance Studio
     media_position: left
