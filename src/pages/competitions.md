@@ -18,6 +18,7 @@ sections:
     has_border: true
     background_image_repeat: no-repeat
     video_embed_html: ''
+    title: Upcoming competitions 2021-2022
   - type: grid_section
     subtitle: ''
     align: center
