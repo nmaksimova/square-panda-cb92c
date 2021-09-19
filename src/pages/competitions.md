@@ -1,6 +1,6 @@
 ---
 title: Competitions
-excerpt: lorem-ipsum
+excerpt: Competitions
 sections:
   - type: hero_section
     subtitle: ''
