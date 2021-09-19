@@ -13,7 +13,7 @@ sections:
     padding_bottom: small
     background_color: secondary
     background_image_opacity: 60
-    background_image_size: contain
+    background_image_size: cover
     background_image_position: center top
     has_border: true
     background_image_repeat: no-repeat
