@@ -20,8 +20,7 @@ sections:
     video_embed_html: ''
     title: Upcoming competitions
     background_image: images/Competitions.jpg
-  - subtitle: lorem-ipsum
-    content: >-
+  - content: >-
       ## Lorem ipsum
 
 
