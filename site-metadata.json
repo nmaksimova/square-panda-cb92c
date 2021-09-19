@@ -66,7 +66,7 @@
             },
             {
                 "label": "Competitions",
-                "url": "lorem-ipsum",
+                "url": "/competitions",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
