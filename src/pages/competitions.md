@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Upcoming competitions 2021-2022
 excerpt: lorem-ipsum
 seo:
   title: ''
