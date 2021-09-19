@@ -19,6 +19,7 @@ sections:
     background_image_repeat: no-repeat
     video_embed_html: ''
     title: Upcoming competitions
+    background_image: images/teens_advanced.jpeg
   - type: grid_section
     subtitle: ''
     align: center
