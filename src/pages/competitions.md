@@ -1,6 +1,6 @@
 ---
 title: Upcoming competitions 2021-2022
-excerpt: lorem-ipsum
+excerpt: Competitions
 seo:
   title: ''
   description: ''
