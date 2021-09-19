@@ -80,7 +80,8 @@
             {
                 "label": "Contact Us",
                 "url": "/contact",
-                "style": "link"
+                "style": "link",
+                "icon_position": "center"
             },
             {
                 "label": "Framingham",
