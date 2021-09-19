@@ -55,7 +55,7 @@
             },
             {
                 "label": "Dances",
-                "url": "/ilta-dance-programs/dances",
+                "url": "/dances",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
