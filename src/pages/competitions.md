@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Competitions
 excerpt: lorem-ipsum
 sections:
   - type: hero_section
