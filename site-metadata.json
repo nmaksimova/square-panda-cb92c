@@ -63,6 +63,16 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "Competitions",
+                "url": "/competitions",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false
             }
         ],
         "has_secondary_nav": true,
@@ -70,7 +80,8 @@
             {
                 "label": "Contact Us",
                 "url": "/contact",
-                "style": "link"
+                "style": "link",
+                "icon_position": "center"
             },
             {
                 "label": "Framingham",
@@ -90,7 +101,7 @@
             }
         ],
         "has_anncmnt": true,
-        "anncmnt_content": "New adult class **Latin Beginners**, every Wednesday at 6:45 pm!\n",
+        "anncmnt_content": "Fall special program for adults - **4 classes for $40! **Thursday at 6:45 pm\n",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
@@ -144,6 +155,16 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "Competitions",
+                "url": "/competitions",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false
             }
         ],
         "has_secondary_nav": true,
