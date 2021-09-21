@@ -78,7 +78,7 @@ sections:
 
           ##### **Stretch Class**
 
-          *   Thursday - **07:30 pm**
+          *   Thursday - **7:30 pm**
         content_align: left
         actions:
           - label: Learn More
