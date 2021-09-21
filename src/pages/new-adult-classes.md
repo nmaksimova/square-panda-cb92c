@@ -31,7 +31,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/Ilta Dance Studio_site-89ceb551.png
-  - title: Fall Special Program Starts 9/9/2021
+  - title: Fall Special Program Starts in October 2021
     actions:
       - label: Register
         url: >-
