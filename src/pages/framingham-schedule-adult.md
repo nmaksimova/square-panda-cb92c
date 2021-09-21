@@ -74,12 +74,11 @@ sections:
         content: |
           ##### **Latin Cardio**
 
-          *   Sunday - **11:00 am**
-
+          *   Thursday - **6:45 pm**
 
           ##### **Stretch Class**
 
-          *   Sunday - **12:00 pm**
+          *   Thursday - **7:30 pm**
         content_align: left
         actions:
           - label: Learn More
