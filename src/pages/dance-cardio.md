@@ -31,10 +31,10 @@ sections:
 
 
       Cardio doesn't have to be boring! Join us for this fun workout and get
-      into great shape for summer!
+      into a great shape!
 
 
-      *   every Thursday at 6:00 pm
+      *   every Thursday at 6:45 pm
 
 
       *   $120 for 6 week session
