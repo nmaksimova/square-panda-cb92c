@@ -79,7 +79,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        title: September 23rd
+        title: October 14th
       - title: September 30th
         subtitle: '6:45 pm'
         title_align: center
