@@ -98,7 +98,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: October 28th
+      - title: November 2
         subtitle: '6:45 pm'
         title_align: center
         content: |
