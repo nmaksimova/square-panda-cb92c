@@ -62,7 +62,7 @@ sections:
         image_has_padding: false
         type: grid_item
         subtitle: '7:30 pm'
-      - subtitle: '6:45 pm'
+      - subtitle: '7:30 pm'
         title_align: center
         content: |
 
