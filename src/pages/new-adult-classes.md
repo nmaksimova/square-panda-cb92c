@@ -44,7 +44,7 @@ sections:
         no_follow: false
         type: action
     grid_items:
-      - title: October 7th
+      - title: October 12th
         title_align: center
         content: |
 
