@@ -81,7 +81,7 @@ sections:
         type: grid_item
         title: October 19
       - title: October 26
-        subtitle: '6:45 pm'
+        subtitle: '7:30 pm'
         title_align: center
         content: |
 
