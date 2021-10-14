@@ -30,8 +30,7 @@ sections:
     background_image_position: center center
     has_border: true
     background_image_repeat: no-repeat
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
