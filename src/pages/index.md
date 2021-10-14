@@ -30,28 +30,8 @@ sections:
     background_image_position: center center
     has_border: true
     background_image_repeat: no-repeat
-  - title: Fall Special!
-    subtitle: Adults Program for Beginners
-    content: |
-      ## 4 dance classes for $40! 
-
-      Try different dance styles each week
-
-      *   Salsa, bachata
-      *   American rumba, foxtrot
-      *   Swing, tango
-      *   Mix dance styles cardio
-    actions:
-      - label: Learn More
-        url: /new-adult-classes
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
-    image_alt: lorem-ipsum
+  - actions: []
+    image_alt: Halloween-dance-party
     media_position: left
     media_width: fifty
     align: left
@@ -64,7 +44,9 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/October Special V2.jpg
+    image: images/Halloween_Party.jpg
+    content: |
+      ### **Join us for a Halloween Party on October 30th at 6:00 pm**
   - content: |
       ## Kids Dance Classes Schedule 2021-2022
 
