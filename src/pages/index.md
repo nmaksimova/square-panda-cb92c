@@ -32,7 +32,7 @@ sections:
     background_image_repeat: no-repeat
   - actions: []
     image_alt: Halloween-dance-party
-    media_position: top
+    media_position: left
     media_width: fifty
     align: left
     padding_top: medium
