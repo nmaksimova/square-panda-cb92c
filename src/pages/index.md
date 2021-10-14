@@ -45,7 +45,6 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/Halloween_Party.jpg
-    subtitle: 'Join us for a Halloween Kids Party on October 30th at 6:00 pm'
     content: |
       ### **Join us for a Halloween Party on October 30th at 6:00 pm**
   - content: |
