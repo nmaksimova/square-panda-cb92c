@@ -45,7 +45,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/Halloween_Party.jpg
-    subtitle: 'Join us for a Halloween Kids '
+    subtitle: Join us for a Halloween Kids Party on October 30th at 6
   - content: |
       ## Kids Dance Classes Schedule 2021-2022
 
