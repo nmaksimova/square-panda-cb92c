@@ -2,7 +2,7 @@
 title: New Adult Dance Classes
 excerpt: New Adult Dance Classes
 sections:
-  - title: Fall Special for Adults
+  - title: Latin Beginners Class for Adults
     subtitle: Try different dance styles in a 4-week session
     content: |
       ## Start your dancing journey with us!
