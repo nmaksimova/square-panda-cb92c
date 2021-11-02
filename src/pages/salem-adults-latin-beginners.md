@@ -42,7 +42,7 @@ sections:
     type: hero_section
     image: images/Latin beginners program for adults.jpg
   - content: >
-      **$120 for 6 weeks session.**
+      **$150 for 6 weeks session.**
 
 
       **Options to pay:**
@@ -51,7 +51,7 @@ sections:
       *   **Zelle** -dance@iltadance.com
 
 
-      *   **PayPal** - tailshese@gmail.com
+      <!---->
 
 
       *   or Send a **Check** to Ilta Dance: 1255 Worcester Road, Framingham,
