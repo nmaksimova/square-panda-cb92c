@@ -3,7 +3,7 @@ title: New Adult Dance Classes
 excerpt: New Adult Dance Classes
 sections:
   - title: Latin Beginners Class for Adults
-    subtitle: 'Salem, MA Location'
+    subtitle: at our Salem Location
     content: |
       ## Start your dancing journey with us!
     actions:
