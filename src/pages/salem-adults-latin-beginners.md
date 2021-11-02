@@ -5,7 +5,17 @@ sections:
   - title: Latin Beginners Class for Adults
     subtitle: at our Salem Location
     content: |
-      ## Start your dancing journey with us!
+      ### Start your dancing journey with us!
+
+      **6 weeks session for $150**
+
+      **Friday at 7:30 pm, starting November 12th**
+
+      Performing Arts Academy
+
+      96 Swampscott Rd #6
+
+      Salem, MA
     actions:
       - label: Register
         url: >-
