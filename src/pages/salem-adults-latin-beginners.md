@@ -7,7 +7,7 @@ sections:
     content: |
       ### Start your dancing journey with us!
 
-      **6 weeks session for $150**
+      **6 week session for $150**
 
       **Friday at 7:30 pm, starting November 12th**
 
