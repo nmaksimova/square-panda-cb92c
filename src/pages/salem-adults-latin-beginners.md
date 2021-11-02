@@ -40,7 +40,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/October Special Site.png
+    image: images/Latin beginners program for adults.jpg
   - title: Fall Special Program Starts in October 2021
     actions:
       - label: Register
