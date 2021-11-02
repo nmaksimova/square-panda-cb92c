@@ -75,29 +75,6 @@ sections:
       ## Registration is Open for Adults Programs
 
       (for singles and couples)
-  - actions:
-      - label: Register
-        url: >-
-          https://docs.google.com/forms/d/e/1FAIpQLSfXsA6AmaM9s_xCkerPSd_ZV1r4di9Tv05gyhnPHDvzsGq7Lg/viewform?fbzx=-7853669134528690690
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
-    actions_position: bottom
-    actions_width: fourty
-    align: center
-    padding_top: small
-    padding_bottom: none
-    has_border: false
-    background_color: primary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: cta_section
   - content: >
       **$120 for 6 weeks session.**
 
