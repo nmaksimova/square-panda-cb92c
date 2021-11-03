@@ -12,7 +12,7 @@ sections:
       **Friday at 7:30 pm, starting November 12th**
     actions: []
     image_alt: Dance classes for adults
-    media_position: top
+    media_position: left
     media_width: fifty
     align: center
     padding_top: small
