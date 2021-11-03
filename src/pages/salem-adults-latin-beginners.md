@@ -7,6 +7,10 @@ sections:
     content: |
       ### Start your dancing journey with us!
 
+      SALSA, BACHATA, RUMBA, SWING, TANGO, FOXTROT, CHA CHA
+
+
+
       **6 week session for $150**
 
       **Friday at 7:30 pm, starting November 12th**
