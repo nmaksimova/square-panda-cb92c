@@ -38,7 +38,7 @@ sections:
         content_align: left
         actions:
           - label: Register
-            url: lorem-ipsum
+            url: /salem-adults-latin-beginners
             style: link
             has_icon: false
             icon: arrow-left
