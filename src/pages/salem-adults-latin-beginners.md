@@ -33,17 +33,14 @@ sections:
     image: images/Latin beginners program for adults-8a517c9c.jpg
   - title: Registration is open
     title_align: center
-    content: >-
-      ## Lorem ipsum
+    content: |
+      #### Salem Location:
 
+      Performing Arts Academy
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      96 Swampscott Rd #6
 
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Salem, MA
     content_align: left
     form_position: bottom
     form_width: fifty
