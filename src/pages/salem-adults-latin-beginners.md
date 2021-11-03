@@ -42,7 +42,7 @@ sections:
     type: hero_section
     image: images/Latin beginners program for adults-8a517c9c.jpg
   - title: Register for Beginners Latin Class
-    title_align: left
+    title_align: center
     content: >-
       ## Lorem ipsum
 
