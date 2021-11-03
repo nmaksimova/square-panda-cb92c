@@ -45,7 +45,7 @@ sections:
     form_layout: stacked
     enable_card: true
     form_id: Salem Adults Registration
-    form_action: Register
+    form_action: /thank-you
     form_fields:
       - input_type: text
         name: First Name
