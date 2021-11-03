@@ -28,12 +28,13 @@ sections:
 
           *   Friday - **6:45 pm**
 
+          ##### **Latin Dance for Beginners**
 
-          ##### **Social Dance Latin**
-
-          *(Beginner Level)*
+          *(Salsa, Bachata, Rumba, Swing, Tango)*
 
           *   Friday - **7:30 pm**
+
+          [**Register**](/salem-adults-latin-beginners)
         content_align: left
         actions: []
         actions_align: left
