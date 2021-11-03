@@ -1,5 +1,5 @@
 ---
-title: New Adult Dance Classes
+title: 'Salem '
 excerpt: New Adult Dance Classes
 sections:
   - title: Latin Beginners Class for Adults
