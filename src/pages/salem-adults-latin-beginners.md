@@ -88,7 +88,7 @@ sections:
         is_required: false
     submit_label: Register
     align_vert: top
-    padding_top: medium
+    padding_top: small
     padding_bottom: medium
     has_border: false
     background_color: none
