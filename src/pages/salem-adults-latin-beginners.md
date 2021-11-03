@@ -69,7 +69,7 @@ sections:
         is_required: false
       - input_type: text
         name: Comments
-        label: lorem-ipsum
+        label: Comments
         default_value: lorem-ipsum
         options: []
         is_required: false
