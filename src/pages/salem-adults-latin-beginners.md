@@ -81,7 +81,7 @@ sections:
         options: []
         is_required: true
       - input_type: checkbox
-        name: lorem-ipsum
+        name: Register me
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
