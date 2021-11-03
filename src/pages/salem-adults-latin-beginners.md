@@ -16,17 +16,7 @@ sections:
       96 Swampscott Rd #6
 
       Salem, MA
-    actions:
-      - label: Register
-        url: >-
-          https://docs.google.com/forms/d/e/1FAIpQLScWy8KddhyDNpAae3AQR-fgaqpBSN4F34Y6jAK_djmHpIpDdA/viewform
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
     image_alt: Dance classes for adults
     media_position: top
     media_width: fifty
