@@ -23,7 +23,7 @@ sections:
     grid_items:
       - title: Adult Latin Classes
         title_align: center
-        content: |
+        content: |+
           ##### **Adult Cardio Choreography**
 
           *   Friday - **6:45 pm**
@@ -34,7 +34,6 @@ sections:
 
           *   Friday - **7:30 pm**
 
-          [**Register**](/salem-adults-latin-beginners)
         content_align: left
         actions:
           - label: Register
