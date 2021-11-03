@@ -27,7 +27,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-    image_alt: Dance couple tango
+    image_alt: Dance classes for adults
     media_position: bottom
     media_width: fifty
     align: center
