@@ -82,7 +82,7 @@ sections:
         is_required: true
       - input_type: checkbox
         name: Register me
-        label: 'Register me for '
+        label: Register me for Latin Class for Beginners
         default_value: lorem-ipsum
         options: []
         is_required: false
