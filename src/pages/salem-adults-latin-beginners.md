@@ -60,7 +60,7 @@ sections:
     form_layout: stacked
     enable_card: true
     form_id: Salem Adults Registration
-    form_action: lorem-ipsum
+    form_action: Register
     form_fields: []
     submit_label: lorem-ipsum
     align_vert: top
