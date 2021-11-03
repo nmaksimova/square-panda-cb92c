@@ -73,7 +73,7 @@ sections:
         label: Last Name
         default_value: Last Name
         options: []
-        is_required: false
+        is_required: true
     submit_label: lorem-ipsum
     align_vert: top
     padding_top: medium
