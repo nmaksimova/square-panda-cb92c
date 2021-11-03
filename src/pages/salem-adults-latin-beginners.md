@@ -82,7 +82,7 @@ sections:
         is_required: true
       - input_type: checkbox
         name: Register me
-        label: lorem-ipsum
+        label: 'Register me for '
         default_value: lorem-ipsum
         options: []
         is_required: false
