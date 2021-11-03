@@ -12,7 +12,7 @@ sections:
       **Friday at 7:30 pm, starting November 12th**
     actions: []
     image_alt: Dance classes for adults
-    media_position: top
+    media_position: left
     media_width: fifty
     align: center
     padding_top: small
@@ -61,6 +61,12 @@ sections:
         default_value: Email
         options: []
         is_required: true
+      - input_type: text
+        name: Comments
+        label: Comments
+        default_value: Comments
+        options: []
+        is_required: false
       - input_type: checkbox
         name: Register me
         label: Register me for Latin Class for Beginners

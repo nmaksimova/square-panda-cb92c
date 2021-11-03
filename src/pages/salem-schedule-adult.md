@@ -23,19 +23,27 @@ sections:
     grid_items:
       - title: Adult Latin Classes
         title_align: center
-        content: |
+        content: |+
           ##### **Adult Cardio Choreography**
 
           *   Friday - **6:45 pm**
 
+          ##### **Latin Dance for Beginners**
 
-          ##### **Social Dance Latin**
-
-          *(Beginner Level)*
+          *(Salsa, Bachata, Rumba, Swing, Tango)*
 
           *   Friday - **7:30 pm**
+
         content_align: left
-        actions: []
+        actions:
+          - label: Register
+            url: /salem-adults-latin-beginners
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
         actions_align: left
         actions_width: auto
         image_alt: lorem-ipsum
