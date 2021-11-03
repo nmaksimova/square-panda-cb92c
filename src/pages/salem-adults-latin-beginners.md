@@ -67,7 +67,7 @@ sections:
         label: First Name
         default_value: First Name
         options: []
-        is_required: false
+        is_required: true
       - input_type: text
         name: Last Name
         label: Last Name
