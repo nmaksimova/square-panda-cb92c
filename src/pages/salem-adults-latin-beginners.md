@@ -41,34 +41,6 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/Latin beginners program for adults-8a517c9c.jpg
-  - content: >
-      **$150 for 6 weeks session.**
-
-
-      **Options to pay:**
-
-
-      *   **Zelle** -dance@iltadance.com
-
-
-      <!---->
-
-
-      *   or Send a **Check** to Ilta Dance: 1255 Worcester Road, Framingham,
-      MA, 01701
-    actions: []
-    actions_position: bottom
-    actions_width: fourty
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: secondary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: cta_section
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     title_align: left
@@ -102,6 +74,34 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
+  - content: >
+      **$150 for 6 weeks session.**
+
+
+      **Options to pay:**
+
+
+      *   **Zelle** -dance@iltadance.com
+
+
+      <!---->
+
+
+      *   or Send a **Check** to Ilta Dance: 1255 Worcester Road, Framingham,
+      MA, 01701
+    actions: []
+    actions_position: bottom
+    actions_width: fourty
+    align: left
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: secondary
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: cta_section
 seo:
   title: ''
   description: ''
