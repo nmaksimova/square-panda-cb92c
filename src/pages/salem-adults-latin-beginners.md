@@ -70,7 +70,7 @@ sections:
       - input_type: text
         name: Comments
         label: Comments
-        default_value: lorem-ipsum
+        default_value: Comments
         options: []
         is_required: false
     submit_label: Register
