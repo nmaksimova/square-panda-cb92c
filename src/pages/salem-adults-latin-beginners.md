@@ -1,6 +1,6 @@
 ---
-title: New Adult Dance Classes
-excerpt: New Adult Dance Classes
+title: Salem Latin Dance Class for Beginners
+excerpt: Salem Latin Dance Class for Beginners
 sections:
   - title: Latin Beginners Class for Adults
     subtitle: at our Salem Location
