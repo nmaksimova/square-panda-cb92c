@@ -31,7 +31,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/Latin beginners program for adults-8a517c9c.jpg
-  - title: Register for Beginners Latin Class
+  - title: Registration is open
     title_align: center
     content: >-
       ## Lorem ipsum
