@@ -78,6 +78,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
+    background_image: images/New DANCE PROGRAM FOR ADULTS (1).jpg
   - content: >
       **$150 for 6 weeks session.**
 
