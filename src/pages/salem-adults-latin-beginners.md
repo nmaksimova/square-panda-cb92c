@@ -40,7 +40,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/Latin beginners program for adults.jpg
+    image: images/Latin beginners program for adults-8a517c9c.jpg
   - content: >
       **$150 for 6 weeks session.**
 
