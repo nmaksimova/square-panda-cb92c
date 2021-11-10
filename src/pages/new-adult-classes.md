@@ -215,7 +215,7 @@ sections:
       *   **Zelle** -dance@iltadance.com
 
 
-      *   **PayPal** - tailshese@gmail.com
+      <!---->
 
 
       *   or Send a **Check** to Ilta Dance: 1255 Worcester Road, Framingham,
