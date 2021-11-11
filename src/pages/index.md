@@ -266,7 +266,6 @@ sections:
         options:
           - Select a location
           - 'Framingham, MA'
-          - null
         is_required: true
         type: form_field
       - input_type: select
