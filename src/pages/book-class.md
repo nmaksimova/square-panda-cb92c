@@ -41,7 +41,6 @@ sections:
         default_value: Select a location
         options:
           - 'Framingham, MA'
-          - 'Salem, MA'
         is_required: true
         type: form_field
       - input_type: select
