@@ -42,7 +42,6 @@ sections:
         options:
           - 'Framingham, MA'
           - 'Salem, MA'
-          - Online Class
         is_required: true
         type: form_field
       - input_type: select
