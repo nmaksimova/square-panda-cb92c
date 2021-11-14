@@ -67,7 +67,7 @@ sections:
         default_value: Phone Number
         options: []
         is_required: false
-      - input_type: text
+      - input_type: textarea
         name: Comments
         label: Comments
         default_value: Comments
