@@ -32,8 +32,8 @@ sections:
 
           *   Monday - **6:00 pm**
 
-          *   Tuesday - **7:30 pm 
-          **[**Register**](/fram-adults-latin-beginners)
+          *   Tuesday - **7:30 pm** 
+          [**Register**](/fram-adults-latin-beginners)
 
           *   Sunday - **1:00 pm**
 
