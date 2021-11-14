@@ -40,7 +40,7 @@ sections:
     form_width: fifty
     form_layout: stacked
     enable_card: true
-    form_id: Salem Adults Registration
+    form_id: Framingham Adults Registration
     form_action: /thank-you
     form_fields:
       - input_type: text
