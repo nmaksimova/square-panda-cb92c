@@ -29,7 +29,7 @@ sections:
           *(Beginner Level)*
 
           *   Monday - **6:00 pm**
-          *   Tuesday -  **6:45 pm**
+          *   Tuesday - **7:30 pm**
           *   Sunday - **1:00 pm**
 
           ##### **Latin Technique**
