@@ -92,10 +92,10 @@ sections:
     type: form_section
     background_image: images/New DANCE PROGRAM FOR ADULTS (1).jpg
   - content: >
-      **$150 for 6 weeks session.**
+      **$120 for 6 weeks session.**
 
 
-      **Starting November 12th at 7:30 pm**
+      **Starting November 16th at 7:30 pm**
 
 
       **Options to pay:**
