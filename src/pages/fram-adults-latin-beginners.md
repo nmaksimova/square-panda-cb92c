@@ -30,13 +30,11 @@ sections:
   - title: Registration is open
     title_align: center
     content: |
-      #### Salem Location:
+      #### Framingham Location:
 
-      Performing Arts Academy
+      1255 Worcester Road (rt. 9)
 
-      96 Swampscott Rd #6
-
-      Salem, MA
+      Framingham, MA
     content_align: left
     form_position: right
     form_width: fifty
