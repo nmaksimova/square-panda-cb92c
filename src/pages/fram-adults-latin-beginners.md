@@ -9,11 +9,9 @@ sections:
 
       SALSA, BACHATA, RUMBA, SWING, TANGO, FOXTROT, CHA CHA
 
+      **6 week session for $120**
 
-
-      **6 week session for $150**
-
-      **Friday at 7:30 pm, starting November 12th**
+      **Tuesday at 7:30 pm, starting November 16th**
     actions: []
     image_alt: Dance classes for adults
     media_position: left
