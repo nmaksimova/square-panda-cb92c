@@ -61,6 +61,12 @@ sections:
         default_value: Email
         options: []
         is_required: true
+      - input_type: tel
+        name: Phone Number
+        label: Phone Number
+        default_value: Phone Number
+        options: []
+        is_required: false
       - input_type: text
         name: Comments
         label: Comments
@@ -71,12 +77,6 @@ sections:
         name: Register me
         label: Register me for Latin Class for Beginners
         default_value: lorem-ipsum
-        options: []
-        is_required: false
-      - input_type: tel
-        name: Phone Number
-        label: Phone Number
-        default_value: Phone Number
         options: []
         is_required: false
     submit_label: Register
