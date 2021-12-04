@@ -45,7 +45,7 @@ sections:
       - input_type: text
         name: Kid's First Name
         label: First Name
-        default_value: First Name
+        default_value: Kid's First Name
         options: []
         is_required: true
       - input_type: text
