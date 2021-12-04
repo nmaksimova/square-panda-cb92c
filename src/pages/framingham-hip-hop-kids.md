@@ -6,7 +6,7 @@ sections:
     content: |
       ### Every Saturday at 12:00 pm
 
-      Winter session registration now open!
+      **Winter session registration now open!**
 
       Join our energetic Hip Hop class, learn new moves and have fun!
 
