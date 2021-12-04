@@ -4,7 +4,7 @@ excerpt: Framingham Latin Dance Class for Beginners
 sections:
   - title: Hip Hop Class for Kids
     content: |
-      ### Start your dancing journey with us!
+      ### Every Saturday at 12:00 pm
 
       SALSA, BACHATA, RUMBA, SWING, TANGO, FOXTROT, CHA CHA
 
