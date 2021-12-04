@@ -6,11 +6,11 @@ sections:
     content: |
       ### Every Saturday at 12:00 pm
 
-      SALSA, BACHATA, RUMBA, SWING, TANGO, FOXTROT, CHA CHA
+      Winter session registration now open!
+
+      Fun, high energy hip hop moves 
 
       **6 week session for $120**
-
-      **Tuesday at 7:30 pm, starting November 16th**
     actions: []
     image_alt: Dance classes for adults
     media_position: left
