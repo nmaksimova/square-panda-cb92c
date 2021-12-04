@@ -2,7 +2,7 @@
 title: Framingham Latin Dance Class for Beginners
 excerpt: Framingham Latin Dance Class for Beginners
 sections:
-  - title: Latin Beginners Class for Adults
+  - title: Hip Hop Class for Kids
     subtitle: at our Framingham Location
     content: |
       ### Start your dancing journey with us!
