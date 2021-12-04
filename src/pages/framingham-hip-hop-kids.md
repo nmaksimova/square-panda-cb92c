@@ -82,37 +82,6 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
     background_image: images/kids_hip_hop.jpg
-  - content: >
-      **$120 for 6 weeks session.**
-
-
-      **Starting November 16th at 7:30 pm**
-
-
-      **Options to pay:**
-
-
-      *   **Zelle** -dance@iltadance.com
-
-
-      <!---->
-
-
-      *   or Send a **Check** to Ilta Dance: 1255 Worcester Road, Framingham,
-      MA, 01701
-    actions: []
-    actions_position: bottom
-    actions_width: fourty
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: secondary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: cta_section
   - actions: []
     image_alt: hip-hop-kids
     video_embed_html: >-
