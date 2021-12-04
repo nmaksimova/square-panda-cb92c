@@ -229,8 +229,6 @@ sections:
         content: |
 
 
-          *   Tuesday - 6:00 pm
-          *   Thursday - 6:00 pm
           *   Saturday - 12:00 pm
         content_align: left
         actions:
