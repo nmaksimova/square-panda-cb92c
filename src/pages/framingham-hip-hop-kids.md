@@ -9,8 +9,6 @@ sections:
       **Winter session registration now open!**
 
       Join our energetic Hip Hop class, learn new moves and have fun!
-
-      **6 week session for $120**
     actions: []
     image_alt: Dance classes for adults
     media_position: left
