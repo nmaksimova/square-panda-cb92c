@@ -2,7 +2,7 @@
 title: Framingham Latin Dance Class for Beginners
 excerpt: Framingham Latin Dance Class for Beginners
 sections:
-  - title: Hip Hop Class for Kids
+  - title: Kids Hip Hop Classes
     content: |
       ### Every Saturday at 12:00 pm
 
