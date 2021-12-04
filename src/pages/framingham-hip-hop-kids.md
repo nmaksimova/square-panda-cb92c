@@ -43,7 +43,7 @@ sections:
     form_action: /thank-you
     form_fields:
       - input_type: text
-        name: First Name
+        name: Kid's First Name
         label: First Name
         default_value: First Name
         options: []
