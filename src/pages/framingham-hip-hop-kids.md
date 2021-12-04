@@ -8,7 +8,7 @@ sections:
 
       Winter session registration now open!
 
-      Fun, high energy hip hop moves 
+      Join our energetic Hip Hop class, learn new moves and have fun!
 
       **6 week session for $120**
     actions: []
