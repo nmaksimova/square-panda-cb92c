@@ -73,7 +73,7 @@ sections:
       - input_type: text
         name: Date of Birth
         label: Date of Birth
-        default_value: lorem-ipsum
+        default_value: Kid's Date of Birth
         options: []
         is_required: false
     submit_label: Register
