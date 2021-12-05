@@ -52,6 +52,12 @@ sections:
         default_value: Kid's Last Name
         options: []
         is_required: true
+      - input_type: text
+        name: Date of Birth
+        label: Date of Birth
+        default_value: Kid's Date of Birth
+        options: []
+        is_required: false
       - input_type: email
         name: Email
         label: Email
@@ -68,12 +74,6 @@ sections:
         name: Comments
         label: Comments
         default_value: Comments
-        options: []
-        is_required: false
-      - input_type: text
-        name: Date of Birth
-        label: Date of Birth
-        default_value: Kid's Date of Birth
         options: []
         is_required: false
     submit_label: Register
