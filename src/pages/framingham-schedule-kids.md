@@ -233,7 +233,7 @@ sections:
         content_align: left
         actions:
           - label: Register
-            url: framingham-hip-hop-kids
+            url: /framingham-hip-hop-kids
             style: primary
             has_icon: false
             icon: arrow-left
