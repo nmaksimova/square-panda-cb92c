@@ -72,7 +72,7 @@ sections:
         is_required: false
       - input_type: text
         name: Date of Birth
-        label: lorem-ipsum
+        label: Date of Birth
         default_value: lorem-ipsum
         options: []
         is_required: false
