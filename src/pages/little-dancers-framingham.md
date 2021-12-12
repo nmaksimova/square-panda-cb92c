@@ -104,7 +104,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-    background_image: images/kids_hip_hop.jpg
+    background_image: images/Ilta-dance-studio-1-abb84091.jpg
   - actions: []
     image_alt: hip-hop-kids
     video_embed_html: >-
