@@ -106,7 +106,7 @@ sections:
     type: form_section
     background_image: images/Ilta-dance-studio-1-abb84091.jpg
   - actions:
-      - label: lorem-ipsum
+      - label: Registration Form
         url: lorem-ipsum
         style: link
         has_icon: false
