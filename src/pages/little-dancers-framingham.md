@@ -19,7 +19,7 @@ sections:
       Hip Hop
 
 
-      #### Saturday at 10:30 am
+      #### Saturday at 10:30 am | Framingham, MA
 
 
       There are so many benefits of starting to dance from a young age, such as
