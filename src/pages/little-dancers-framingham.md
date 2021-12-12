@@ -2,7 +2,7 @@
 title: Framingham Little Dancers
 excerpt: Framingham Little Dancers
 sections:
-  - title: Kids Hip Hop Classes
+  - title: Little Dancers
     content: |
       ### Every Saturday at 12:00 pm
 
