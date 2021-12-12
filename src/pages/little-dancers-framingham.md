@@ -4,11 +4,17 @@ excerpt: Framingham Little Dancers
 sections:
   - title: Little Dancers
     content: |
-      ### Every Saturday at 12:00 pm
+      ### 3-5 years old kids
 
       **Winter session registration now open!**
 
-      Join our energetic Hip Hop class, learn new moves and have fun!
+      *   Ballroom
+
+      *   Latin
+
+      *   Hip Hop
+
+      #### Saturday at 10:30 am
     actions: []
     image_alt: Dance classes for adults
     media_position: left
