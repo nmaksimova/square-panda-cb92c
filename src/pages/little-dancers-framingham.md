@@ -105,8 +105,7 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
     background_image: images/Ilta-dance-studio-1-abb84091.jpg
-  - title: lorem-ipsum
-    content: >-
+  - content: >-
       Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
       efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
       pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque
