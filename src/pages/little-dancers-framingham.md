@@ -1,5 +1,5 @@
 ---
-title: Framingham Latin Dance Class for Beginners
+title: Framingham Little Dancers
 excerpt: Framingham Latin Dance Class for Beginners
 sections:
   - title: Kids Hip Hop Classes
