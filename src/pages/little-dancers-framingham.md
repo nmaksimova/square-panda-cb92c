@@ -23,7 +23,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/kids_hip_hop.jpeg
+    image: images/Winter Dance Classes.jpg
   - title: Registration is open
     title_align: center
     content: |
