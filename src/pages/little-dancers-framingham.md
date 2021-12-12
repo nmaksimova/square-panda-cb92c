@@ -3,18 +3,29 @@ title: Framingham Little Dancers
 excerpt: Framingham Little Dancers
 sections:
   - title: Little Dancers
-    content: |
+    content: >
       ### 3-5 years old kids
+
 
       **Winter session registration now open!**
 
+
       Ballroom
+
 
       Latin
 
+
       Hip Hop
 
+
       #### Saturday at 10:30 am
+
+
+      There are so many benefits of starting to dance from a young age, such as
+      increasing child's flexibility, range of motion, physical strength, better
+      coordination, working with a partner, and of course - having fun and
+      making new friends!
     actions: []
     image_alt: Dance classes for adults
     media_position: left
