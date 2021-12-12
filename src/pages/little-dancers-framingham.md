@@ -105,7 +105,15 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
     background_image: images/Ilta-dance-studio-1-abb84091.jpg
-  - actions: []
+  - actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
     actions_position: bottom
     actions_width: fourty
     align: left
