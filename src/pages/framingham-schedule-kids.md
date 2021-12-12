@@ -36,7 +36,7 @@ sections:
         content_align: left
         actions:
           - label: Register
-            url: little-dancers-framingham
+            url: /little-dancers-framingham
             style: primary
             has_icon: false
             icon: arrow-left
