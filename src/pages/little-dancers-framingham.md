@@ -8,11 +8,11 @@ sections:
 
       **Winter session registration now open!**
 
-      *   Ballroom
+      Ballroom
 
-      *   Latin
+      Latin
 
-      *   Hip Hop
+      Hip Hop
 
       #### Saturday at 10:30 am
     actions: []
