@@ -36,8 +36,7 @@ sections:
         content_align: left
         actions:
           - label: Register
-            url: >-
-              https://docs.google.com/forms/d/e/1FAIpQLSelSoZoIkzWjUYy81oItwqJto-Oj6vEkuy6eMsJtzioKjAINA/viewform
+            url: little-dancers-framingham
             style: primary
             has_icon: false
             icon: arrow-left
