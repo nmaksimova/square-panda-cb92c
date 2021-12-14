@@ -7,11 +7,11 @@ sections:
     content: |
       ### Start your dancing journey with us!
 
-      SALSA, BACHATA, RUMBA, SWING, TANGO, FOXTROT, CHA CHA
+      BACHATA CLASS FOR BEGINNERS
 
       **6 week session for $120**
 
-      **Tuesday at 7:30 pm, starting November 16th**
+      **Tuesday at 7:30 pm, starting January 11th**
     actions: []
     image_alt: Dance classes for adults
     media_position: left
@@ -95,7 +95,7 @@ sections:
       **$120 for 6 weeks session.**
 
 
-      **Starting November 16th at 7:30 pm**
+      **Starting January 11th at 7:30 pm**
 
 
       **Options to pay:**
