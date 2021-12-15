@@ -14,6 +14,7 @@ sections:
       #### Ilta Dance: **781-492-2769**
     image: images/Gift.jpg
     image_alt: Dance Gift
+    media_position: bottom
   - type: form_section
     content_align: left
     form_position: right
