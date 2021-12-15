@@ -12,6 +12,7 @@ sections:
       ##### If you have any questions, call us or fill out this form below.
 
       #### Ilta Dance: **781-492-2769**
+    image: images/Gift.jpg
   - type: form_section
     content_align: left
     form_position: right
