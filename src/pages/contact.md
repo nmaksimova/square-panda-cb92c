@@ -12,6 +12,8 @@ sections:
       ##### If you have any questions, call us or fill out this form below.
 
       #### Ilta Dance: **781-492-2769**
+
+      **Holiday Gift Certificates are available!**
     image: images/Gift.jpg
     image_alt: Dance Gift
     media_position: bottom
