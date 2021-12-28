@@ -37,16 +37,16 @@ sections:
       (for singles and couples)
 
 
-      *   **Latin Beginners **(Monday 7:30 pm, starting January 10th)
+      *   **Latin Beginners** (Monday 7:30 pm, starting January 10th)
 
 
-      *   **Bachata **(Tuesday 7:30pm, starting January 18th)
+      *   **Bachata** (Tuesday 7:30pm, starting January 18th)
 
 
-      *   **Beginners Salsa, Bachata **(Wednesday 7:30pm, starting January 19th)
+      *   **Beginners Salsa, Bachata** (Wednesday 7:30pm, starting January 19th)
 
 
-      *   **Beginners Latin: Rumba and Salsa **(Thursday 6:00pm, starting
+      *   **Beginners Latin: Rumba and Salsa** (Thursday 6:00pm, starting
       January 20th)
     actions:
       - label: Learn More
