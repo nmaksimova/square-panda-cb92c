@@ -30,18 +30,24 @@ sections:
     background_image_position: center center
     has_border: true
     background_image_repeat: no-repeat
-  - content: |
-      ## Registration is Open for Adults Programs
+  - content: >
+      ## January Registration is Open for Adults Programs
+
 
       (for singles and couples)
 
-      *   **Latin Beginners** class is starting on June 30!
 
-      *   **Argentine Tango**
+      *   **Latin Beginners **(Monday 7:30 pm, starting January 10th)
 
-      *   **Social Dance**
 
-      *   **Latin in-line choreography**
+      *   **Bachata **(Tuesday 7:30pm, starting January 18th)
+
+
+      *   **Beginners Salsa, Bachata **(Wednesday 7:30pm, starting January 19th)
+
+
+      *   **Beginners Latin: Rumba and Salsa **(Thursday 6:00pm, starting
+      January 20th)
     actions:
       - label: Learn More
         url: /new-adult-classes
