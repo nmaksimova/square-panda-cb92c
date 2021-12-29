@@ -133,7 +133,7 @@ sections:
       - title: Monday
         title_align: center
         content: |
-          *   **Latin Beginners** (starting January 10th)
+          *   **Beginners Latin** (starting January 10th)
 
               *   7:30 pm
         content_align: left
