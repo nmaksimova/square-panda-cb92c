@@ -126,7 +126,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     background_image: images/adult_dance_classes.jpg
-  - title: lorem-ipsum
+  - title: Adult Classes
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
