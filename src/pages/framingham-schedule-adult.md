@@ -172,7 +172,10 @@ sections:
 
               *   7:30 pm
 
-          *   sdf
+
+
+          *   **Lady's Latin Choreography**
+              *   7:30 pm
         content_align: left
         actions: []
         actions_align: left
