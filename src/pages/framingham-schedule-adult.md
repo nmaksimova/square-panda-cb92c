@@ -187,12 +187,29 @@ sections:
         image_has_padding: false
       - title: Thursday
         title_align: center
-        content: |
+        content: >
           *   **Beginners Rumba, Salsa** (starting January 20th)
 
               *   6:00 pm
 
-          *   sdfs
+
+
+          *   **Latin Cardio** (this class is for all levels. It will help to
+          improve coordination, balance, flexibility, and stay in shape)
+              *   6:45 pm
+
+
+
+          *   **Ballroom Technique** (Advanced)
+
+              *   7:00 pm
+
+
+
+          *   **Stretch class** (all levels are welcome. Improve your
+          flexibility and coordination)
+
+              *   7:30 pm
         content_align: left
         actions: []
         actions_align: left
