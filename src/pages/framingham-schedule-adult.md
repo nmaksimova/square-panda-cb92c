@@ -152,7 +152,10 @@ sections:
 
               *   7:30 pm
 
-          *   dsfs
+
+
+          *   **Latin Technique** (Advanced)
+              *   7:30 pm
         content_align: left
         actions: []
         actions_align: left
