@@ -192,19 +192,14 @@ sections:
 
               *   6:00 pm
 
-
-
           *   **Latin Cardio** (this class is for all levels. It will help to
           improve coordination, balance, flexibility, and stay in shape)
               *   6:45 pm
-
-
+              *   [Learn More](/dance-cardio)
 
           *   **Ballroom Technique** (Advanced)
 
               *   7:00 pm
-
-
 
           *   **Stretch class** (all levels are welcome. Improve your
           flexibility and coordination)
