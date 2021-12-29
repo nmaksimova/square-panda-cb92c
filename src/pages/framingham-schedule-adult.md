@@ -151,8 +151,7 @@ sections:
           *   **Beginners Bachata** (starting January 18th)
 
               *   7:30 pm
-
-
+              *   [Register](/fram-adults-latin-beginners)
 
           *   **Latin Technique** (Advanced)
               *   7:30 pm
