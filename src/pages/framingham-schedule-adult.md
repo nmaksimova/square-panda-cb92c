@@ -298,7 +298,7 @@ sections:
       - input_type: text
         name: Class
         label: Class
-        default_value: lorem-ipsum
+        default_value: Class
         options: []
         is_required: false
     submit_label: Register
