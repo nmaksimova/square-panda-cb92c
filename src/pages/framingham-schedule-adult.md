@@ -94,7 +94,7 @@ sections:
         default_value: Phone Number
         options: []
         is_required: false
-      - input_type: text
+      - input_type: select
         name: Select Class
         label: Select Class
         default_value: Class
