@@ -259,11 +259,10 @@ sections:
     type: cta_section
   - title: Register for Adult Classes
     title_align: left
-    content: >
-      Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
-      efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
-      pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque
-      imperdiet venenatis.
+    content: |
+      *   Group Class Session is 6-week long
+
+      *   $120 per session
     content_align: left
     form_position: bottom
     form_width: fifty
