@@ -267,7 +267,7 @@ sections:
     form_position: bottom
     form_width: fifty
     form_layout: stacked
-    enable_card: false
+    enable_card: true
     form_id: Registration Fram Adult Classes
     form_action: Register
     form_fields:
