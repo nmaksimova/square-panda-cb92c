@@ -273,7 +273,7 @@ sections:
     form_action: Register
     form_fields:
       - input_type: text
-        name: lorem-ipsum
+        name: First Name
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
