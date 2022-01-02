@@ -291,7 +291,7 @@ sections:
         is_required: false
       - input_type: text
         name: Phone Number
-        label: lorem-ipsum
+        label: Phone Number
         default_value: lorem-ipsum
         options: []
         is_required: false
