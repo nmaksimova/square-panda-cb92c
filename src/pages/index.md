@@ -30,6 +30,53 @@ sections:
     background_image_position: center center
     has_border: true
     background_image_repeat: no-repeat
+  - content: >
+      ## January Registration is Open for Adults Programs
+
+
+      (for singles and couples)
+
+
+      *   **Latin Beginners** (Monday 7:30 pm, starting January 10th)
+
+
+      *   **Bachata** (Tuesday 7:30pm, starting January 18th)
+
+
+      *   **Beginners Salsa, Bachata** (Wednesday 7:30pm, starting January 19th)
+
+
+      *   **Beginners Latin: Rumba and Salsa** (Thursday 6:00pm, starting
+      January 20th)
+    actions:
+      - label: Learn More
+        url: /new-adult-classes
+        style: primary
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
+    image_alt: lorem-ipsum
+    video_embed_html: >-
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/ra9qUBdCBsQ?controls=0" title="YouTube
+      video player" frameborder="0" allow="accelerometer; autoplay;
+      clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen></iframe>
+    media_position: right
+    media_width: sixty
+    align: left
+    padding_top: small
+    padding_bottom: small
+    has_border: false
+    background_color: primary
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: hero_section
   - content: |
       ## Kids Dance Classes Schedule 2021-2022
 
@@ -69,47 +116,6 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/Kids_dancing_site-cf941571.jpg
-  - content: |
-      ## Registration is Open for Adults Programs
-
-      (for singles and couples)
-
-      *   **Latin Beginners** class is starting on June 30!
-
-      *   **Argentine Tango**
-
-      *   **Social Dance**
-
-      *   **Latin in-line choreography**
-    actions:
-      - label: Learn More
-        url: /new-adult-classes
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
-    image_alt: lorem-ipsum
-    video_embed_html: >-
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/ra9qUBdCBsQ?controls=0" title="YouTube
-      video player" frameborder="0" allow="accelerometer; autoplay;
-      clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-      allowfullscreen></iframe>
-    media_position: right
-    media_width: sixty
-    align: left
-    padding_top: small
-    padding_bottom: small
-    has_border: false
-    background_color: primary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
   - title: Welcome to Ilta Dance!
     features:
       - content: "We\_offer **dance group classes**, **private lessons**\_and other opportunities to help you learn the art\_of **Ballroom and Latin dancing**!\_Whether you are a novice or an experienced dancer,\_we have the right instructor to work with you!\_Our programs designed for kids and adult dancers.\n"
