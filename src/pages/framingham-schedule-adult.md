@@ -299,7 +299,8 @@ sections:
         name: Class
         label: Class
         default_value: Class
-        options: []
+        options:
+          - lorem-ipsum
         is_required: false
     submit_label: Register
     align_vert: top
