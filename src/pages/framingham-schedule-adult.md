@@ -297,7 +297,7 @@ sections:
         is_required: false
       - input_type: text
         name: Select Class
-        label: Class
+        label: Select Class
         default_value: Class
         options:
           - 'Beginners Latin (Monday 7:30 pm)'
