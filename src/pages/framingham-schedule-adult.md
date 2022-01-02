@@ -18,7 +18,7 @@ sections:
     type: hero_section
     title: ' Framingham - Adult  Dance Schedule'
     background_image: images/Start_dancing.png
-  - title: Registration is Open for Adult Classes
+  - title: Registration is Open for January Adult Classes
     subtitle: lorem-ipsum
     content: >+
       Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
