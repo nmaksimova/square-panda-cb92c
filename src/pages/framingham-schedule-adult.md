@@ -295,6 +295,12 @@ sections:
         default_value: Phone Number
         options: []
         is_required: false
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
     submit_label: Register
     align_vert: top
     padding_top: medium
