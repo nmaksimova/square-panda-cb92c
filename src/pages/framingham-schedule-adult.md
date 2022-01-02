@@ -127,7 +127,6 @@ sections:
     type: grid_section
     background_image: images/adult_dance_classes.jpg
   - title: Adult Classes
-    subtitle: lorem-ipsum
     actions: []
     grid_items:
       - title: Monday
