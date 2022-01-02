@@ -166,7 +166,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: Wednesday
-        title_align: left
+        title_align: center
         content: |
           *   **Beginners Salsa, Bachata** (starting January 19th)
 
