@@ -296,7 +296,7 @@ sections:
         options: []
         is_required: false
       - input_type: text
-        name: Class
+        name: Select Class
         label: Class
         default_value: Class
         options:
