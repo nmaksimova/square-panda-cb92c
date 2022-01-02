@@ -300,7 +300,7 @@ sections:
         label: Class
         default_value: Class
         options:
-          - lorem-ipsum
+          - 'Beginners Latin (Monday 7:30)'
         is_required: true
     submit_label: Register
     align_vert: top
