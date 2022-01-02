@@ -20,19 +20,22 @@ sections:
     background_image: images/Start_dancing.png
   - title: Registration is Open for January Adult Classes
     subtitle: lorem-ipsum
-    content: >+
-      Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
-      efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
-      pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque
-      imperdiet venenatis.
+    content: >
+      **Latin Beginners** (Monday 7:30 pm, starting January 10th)
 
 
-      > Vestibulum ullamcorper risus auctor eleifend consequat.
+      *   **Bachata** (Tuesday 7:30pm, starting January 18th)
+
+
+      *   **Beginners Salsa, Bachata** (Wednesday 7:30pm, starting January 19th)
+
+
+      *   **Beginners Latin: Rumba and Salsa** (Thursday 6:00pm, starting
+      January 20th)
 
 
       ![Placeholder
       Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
-
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
