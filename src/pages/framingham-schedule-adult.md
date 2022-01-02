@@ -279,7 +279,7 @@ sections:
         options: []
         is_required: true
       - input_type: text
-        name: lorem-ipsum
+        name: Last Name
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
