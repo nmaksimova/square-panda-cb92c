@@ -56,6 +56,67 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+  - title: Register for Adult Classes
+    title_align: center
+    content: |
+      *   Group Class Session is 6-week long
+
+      *   $120 per session
+    content_align: left
+    form_position: bottom
+    form_width: fifty
+    form_layout: stacked
+    enable_card: true
+    form_id: Registration Fram Adult Classes
+    form_action: Register
+    form_fields:
+      - input_type: text
+        name: First Name
+        label: First Name
+        default_value: First Name
+        options: []
+        is_required: true
+      - input_type: text
+        name: Last Name
+        label: Last Name
+        default_value: Last Name
+        options: []
+        is_required: true
+      - input_type: email
+        name: Email
+        label: Email
+        default_value: Email
+        options: []
+        is_required: false
+      - input_type: text
+        name: Phone Number
+        label: Phone Number
+        default_value: Phone Number
+        options: []
+        is_required: false
+      - input_type: text
+        name: Select Class
+        label: Select Class
+        default_value: Class
+        options:
+          - 'Beginners Latin (Monday 7:30 pm)'
+          - 'Beginners Bachata (Tuesday 7:30pm)'
+          - 'Beginners Salsa, Bachata (Wednesday 7:30 pm)'
+          - 'Beginners Rumba, Salsa (Thursday 6:00 pm)'
+          - 'Latin Cardio (Thursday 6:45 pm)'
+          - 'Stretch (Thursday 7:30 pm)'
+        is_required: true
+    submit_label: Register
+    align_vert: top
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: primary
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: form_section
   - title: Adult Classes
     actions: []
     grid_items:
@@ -187,66 +248,5 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: cta_section
-  - title: Register for Adult Classes
-    title_align: center
-    content: |
-      *   Group Class Session is 6-week long
-
-      *   $120 per session
-    content_align: left
-    form_position: bottom
-    form_width: fifty
-    form_layout: stacked
-    enable_card: true
-    form_id: Registration Fram Adult Classes
-    form_action: Register
-    form_fields:
-      - input_type: text
-        name: First Name
-        label: First Name
-        default_value: First Name
-        options: []
-        is_required: true
-      - input_type: text
-        name: Last Name
-        label: Last Name
-        default_value: Last Name
-        options: []
-        is_required: true
-      - input_type: email
-        name: Email
-        label: Email
-        default_value: Email
-        options: []
-        is_required: false
-      - input_type: text
-        name: Phone Number
-        label: Phone Number
-        default_value: Phone Number
-        options: []
-        is_required: false
-      - input_type: text
-        name: Select Class
-        label: Select Class
-        default_value: Class
-        options:
-          - 'Beginners Latin (Monday 7:30 pm)'
-          - 'Beginners Bachata (Tuesday 7:30pm)'
-          - 'Beginners Salsa, Bachata (Wednesday 7:30 pm)'
-          - 'Beginners Rumba, Salsa (Thursday 6:00 pm)'
-          - 'Latin Cardio (Thursday 6:45 pm)'
-          - 'Stretch (Thursday 7:30 pm)'
-        is_required: true
-    submit_label: Register
-    align_vert: top
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: primary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: form_section
 template: advanced
 ---
