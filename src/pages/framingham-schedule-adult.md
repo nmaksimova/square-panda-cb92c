@@ -297,7 +297,7 @@ sections:
         is_required: false
       - input_type: text
         name: Class
-        label: lorem-ipsum
+        label: Class
         default_value: lorem-ipsum
         options: []
         is_required: false
