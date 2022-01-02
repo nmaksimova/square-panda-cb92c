@@ -50,7 +50,7 @@ sections:
       January 20th)
     actions:
       - label: Learn More
-        url: /new-adult-classes
+        url: /framingham-schedule-adult
         style: primary
         has_icon: false
         icon: arrow-left
