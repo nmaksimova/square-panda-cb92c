@@ -304,6 +304,7 @@ sections:
           - 'Beginners Bachata (Tuesday 7:30pm)'
           - 'Beginners Salsa, Bachata (Wednesday 7:30 pm)'
           - 'Beginners Rumba, Salsa (Thursday 6:00 pm)'
+          - lorem-ipsum
         is_required: true
     submit_label: Register
     align_vert: top
