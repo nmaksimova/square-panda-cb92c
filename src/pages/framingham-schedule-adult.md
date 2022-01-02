@@ -300,7 +300,7 @@ sections:
         label: Class
         default_value: Class
         options:
-          - 'Beginners Latin (Monday 7:30)'
+          - 'Beginners Latin (Monday 7:30 pm)'
           - 'Beginners Bachata (Tuesday 7:30pm)'
         is_required: true
     submit_label: Register
