@@ -258,7 +258,7 @@ sections:
     background_image_repeat: no-repeat
     type: cta_section
   - title: Register for Adult Classes
-    title_align: left
+    title_align: center
     content: |
       *   Group Class Session is 6-week long
 
