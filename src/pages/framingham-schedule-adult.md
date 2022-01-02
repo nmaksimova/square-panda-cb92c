@@ -258,7 +258,6 @@ sections:
     background_image_repeat: no-repeat
     type: cta_section
   - title: Register for Adult Classes
-    subtitle: lorem-ipsum
     title_align: left
     content: >-
       Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
