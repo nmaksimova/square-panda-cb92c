@@ -19,7 +19,7 @@ sections:
     title: ' Framingham - Adult  Dance Schedule'
     background_image: images/Start_dancing.png
   - title: Registration is Open for January Adult Classes
-    subtitle: lorem-ipsum
+    subtitle: 'Session is 6-week long, $120 per session'
     content: >+
       *   **Latin Beginners** (Monday 7:30 pm, starting January 10th)
 
