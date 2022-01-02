@@ -34,7 +34,7 @@ sections:
       January 20th)
 
 
-      *   **Latin Cardio: **dance style workout class for all levels (Thursday
+      *   **Latin Cardio:** dance style workout class for all levels (Thursday
       6:45 pm)
     actions: []
     image_alt: lorem-ipsum
