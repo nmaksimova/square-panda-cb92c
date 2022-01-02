@@ -301,7 +301,7 @@ sections:
         default_value: Class
         options:
           - 'Beginners Latin (Monday 7:30)'
-          - lorem-ipsum
+          - 'Beginners Bachata (Tuesday 7:30pm)'
         is_required: true
     submit_label: Register
     align_vert: top
