@@ -20,19 +20,22 @@ sections:
     background_image: images/Start_dancing.png
   - title: Registration is Open for January Adult Classes
     subtitle: 'Session is 6-week long, $120 per session'
-    content: >+
+    content: >
       *   **Latin Beginners** (Monday 7:30 pm, starting January 10th)
 
 
-      *   **Bachata** (Tuesday 7:30pm, starting January 18th)
+      *   **Bachata** (Tuesday 7:30 pm, starting January 18th)
 
 
       *   **Beginners Salsa, Bachata** (Wednesday 7:30pm, starting January 19th)
 
 
-      *   **Beginners Latin: Rumba and Salsa** (Thursday 6:00pm, starting
+      *   **Beginners Latin: Rumba and Salsa** (Thursday 6:00 pm, starting
       January 20th)
 
+
+      *   **Latin Cardio: **dance style workout class for all levels (Thursday
+      6:45 pm)
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
