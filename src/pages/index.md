@@ -40,7 +40,7 @@ sections:
       *   **Latin Beginners** (Monday 7:30 pm, starting January 10th)
 
 
-      *   **Bachata** (Tuesday 7:30pm, starting January 18th)
+      *   **Bachata** (Tuesday 7:30pm, starting January 11th)
 
 
       *   **Beginners Salsa, Bachata** (Wednesday 7:30pm, starting January 19th)
