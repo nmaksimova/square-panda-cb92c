@@ -138,12 +138,10 @@ sections:
       - title: Tuesday
         title_align: center
         content: |
-          *   **Beginners Bachata** (starting January 18th)
+          *   **Beginners Bachata** (starting January 11th)
 
               *   7:30 pm
               *   [Register](/fram-adults-latin-beginners)
-
-
 
           *   **Latin Technique** (Advanced)
               *   7:30 pm
