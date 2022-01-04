@@ -21,7 +21,7 @@ sections:
   - title: Registration is Open for January Adult Classes
     subtitle: 'Session is 6-week long, $120 per session'
     content: >
-      *   **Latin Beginners. **Mix dance styles: cha-cha, salsa, swing, rumba,
+      *   **Latin Beginners**. Mix dance styles: cha-cha, salsa, swing, rumba,
       tango (Monday 7:30 pm, starting January 10th)
 
 
