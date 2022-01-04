@@ -37,7 +37,7 @@ sections:
       (for singles and couples)
 
 
-      *   **Latin Beginners. **Mix dance styles: cha-cha, salsa, swing, rumba,
+      *   **Latin Beginners**. Mix dance styles: cha-cha, salsa, swing, rumba,
       tango (Monday 7:30 pm, starting January 10th)
 
 
