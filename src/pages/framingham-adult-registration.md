@@ -18,45 +18,6 @@ sections:
     type: hero_section
     title: Framingham - Adult  Dance Classes Registration
     background_image: images/Start_dancing.png
-  - title: Registration is Open for January Adult Classes
-    subtitle: 'Session is 6-week long, $120 per session'
-    content: >
-      *   **Latin Beginners**. Mix dance styles: cha-cha, salsa, swing, rumba
-      (Monday 7:30 pm, starting January 10th)
-
-
-      *   **Bachata** (Tuesday 7:30 pm, starting January 11th)
-
-
-      *   **Beginners Salsa, Bachata** (Wednesday 7:30pm, starting January 19th)
-
-
-      *   **Beginners Latin: Rumba and Salsa** (Thursday 6:00 pm, starting
-      January 20th)
-
-
-      *   **Latin Cardio:** dance style workout class for all levels (Thursday
-      6:45 pm)
-    actions: []
-    image_alt: lorem-ipsum
-    video_embed_html: >-
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/ra9qUBdCBsQ?controls=0" title="YouTube
-      video player" frameborder="0" allow="accelerometer; autoplay;
-      clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-      allowfullscreen></iframe>
-    media_position: right
-    media_width: fifty
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
   - title: Register for Adult Classes
     title_align: center
     content: |
@@ -118,6 +79,45 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
+  - title: Registration is Open for January Adult Classes
+    subtitle: 'Session is 6-week long, $120 per session'
+    content: >
+      *   **Latin Beginners**. Mix dance styles: cha-cha, salsa, swing, rumba
+      (Monday 7:30 pm, starting January 10th)
+
+
+      *   **Bachata** (Tuesday 7:30 pm, starting January 11th)
+
+
+      *   **Beginners Salsa, Bachata** (Wednesday 7:30pm, starting January 19th)
+
+
+      *   **Beginners Latin: Rumba and Salsa** (Thursday 6:00 pm, starting
+      January 20th)
+
+
+      *   **Latin Cardio:** dance style workout class for all levels (Thursday
+      6:45 pm)
+    actions: []
+    image_alt: lorem-ipsum
+    video_embed_html: >-
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/ra9qUBdCBsQ?controls=0" title="YouTube
+      video player" frameborder="0" allow="accelerometer; autoplay;
+      clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen></iframe>
+    media_position: right
+    media_width: fifty
+    align: left
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: hero_section
   - actions:
       - label: Back to All Schedule
         url: /schedule
