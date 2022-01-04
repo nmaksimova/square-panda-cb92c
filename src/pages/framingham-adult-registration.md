@@ -16,7 +16,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    title: ' Framingham - Adult  Dance Schedule'
+    title: Framingham - Adult  Dance Classes Registration
     background_image: images/Start_dancing.png
   - title: Registration is Open for January Adult Classes
     subtitle: 'Session is 6-week long, $120 per session'
