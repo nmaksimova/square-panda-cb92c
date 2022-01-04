@@ -145,6 +145,8 @@ sections:
               *   7:30 pm
               *   [Register](/fram-adults-latin-beginners)
 
+
+
           *   **Latin Technique** (Advanced)
               *   7:30 pm
         content_align: left
