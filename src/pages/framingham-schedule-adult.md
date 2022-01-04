@@ -127,6 +127,7 @@ sections:
           *   **Beginners Latin** (starting January 10th)
 
               *   7:30 pm
+              *   [Register](/framingham-adult-registration)
         content_align: left
         actions: []
         actions_align: left
@@ -143,6 +144,8 @@ sections:
 
               *   7:30 pm
               *   [Register](/fram-adults-latin-beginners)
+
+
 
           *   **Latin Technique** (Advanced)
               *   7:30 pm
@@ -161,6 +164,7 @@ sections:
           *   **Beginners Salsa, Bachata** (starting January 19th)
 
               *   7:30 pm
+              *   [Register](/framingham-adult-registration)
 
 
 
@@ -181,6 +185,7 @@ sections:
           *   **Beginners Rumba, Salsa** (starting January 20th)
 
               *   6:00 pm
+              *   [Register](/framingham-adult-registration)
 
 
 
@@ -201,6 +206,7 @@ sections:
           flexibility and coordination)
 
               *   7:30 pm
+              *   [Register](/framingham-adult-registration)
         content_align: left
         actions: []
         actions_align: left
