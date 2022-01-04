@@ -164,9 +164,7 @@ sections:
           *   **Beginners Salsa, Bachata** (starting January 19th)
 
               *   7:30 pm
-              *   Register
-
-
+              *   [Register](/framingham-adult-registration)
 
           *   **Lady's Latin Choreography**
               *   7:30 pm
