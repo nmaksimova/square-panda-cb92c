@@ -1,5 +1,5 @@
 ---
-title: 'Adult Dance Classes Schedule, Framigham, MA'
+title: Framingham Registration Form Adults
 excerpt: Dance Schedule
 sections:
   - actions: []
