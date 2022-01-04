@@ -1,6 +1,6 @@
 ---
 title: Framingham Registration Form Adults
-excerpt: Dance Schedule
+excerpt: Framingham Registration Form Adults
 sections:
   - actions: []
     image_alt: lorem-ipsum
