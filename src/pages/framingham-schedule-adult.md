@@ -200,6 +200,8 @@ sections:
 
               *   7:00 pm
 
+
+
           *   **Stretch class** (all levels are welcome. Improve your
           flexibility and coordination)
 
