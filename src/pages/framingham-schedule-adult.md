@@ -127,6 +127,7 @@ sections:
           *   **Beginners Latin** (starting January 10th)
 
               *   7:30 pm
+              *   [Register](/framingham-adult-registration)
         content_align: left
         actions: []
         actions_align: left
