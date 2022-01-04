@@ -166,6 +166,8 @@ sections:
               *   7:30 pm
               *   [Register](/framingham-adult-registration)
 
+
+
           *   **Lady's Latin Choreography**
               *   7:30 pm
         content_align: left
