@@ -48,7 +48,7 @@ sections:
 
 
       *   **Beginners Latin: Rumba and Salsa** (Thursday 6:00pm, starting
-      January 20th)
+      January 27th)
     actions:
       - label: Learn More
         url: /framingham-schedule-adult
