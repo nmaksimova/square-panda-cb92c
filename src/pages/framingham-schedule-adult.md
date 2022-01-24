@@ -32,7 +32,7 @@ sections:
 
 
       *   **Beginners Latin: Rumba and Salsa** (Thursday 6:00 pm, starting
-      January 20th)
+      January 27th)
 
 
       *   **Latin Cardio:** dance style workout class for all levels (Thursday
@@ -182,7 +182,7 @@ sections:
       - title: Thursday
         title_align: center
         content: >
-          *   **Beginners Rumba, Salsa** (starting January 20th)
+          *   **Beginners Rumba, Salsa** (starting January 27th)
 
               *   6:00 pm
               *   [Register](/framingham-adult-registration)
