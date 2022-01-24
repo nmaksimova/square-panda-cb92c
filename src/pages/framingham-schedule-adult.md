@@ -32,7 +32,7 @@ sections:
 
 
       *   **Beginners Latin: Rumba and Salsa** (Thursday 6:00 pm, starting
-      January 20th)
+      January 27th)
 
 
       *   **Latin Cardio:** dance style workout class for all levels (Thursday
