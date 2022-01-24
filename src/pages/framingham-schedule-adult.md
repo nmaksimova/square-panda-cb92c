@@ -182,7 +182,7 @@ sections:
       - title: Thursday
         title_align: center
         content: >
-          *   **Beginners Rumba, Salsa** (starting January 20th)
+          *   **Beginners Rumba, Salsa** (starting January 27th)
 
               *   6:00 pm
               *   [Register](/framingham-adult-registration)
