@@ -63,7 +63,7 @@ sections:
         default_value: Email
         options: []
         is_required: true
-      - input_type: text
+      - input_type: textarea
         name: Comments
         label: Comments
         default_value: Comments
