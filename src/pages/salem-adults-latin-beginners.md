@@ -2,18 +2,16 @@
 title: Salem Latin Dance Class for Beginners
 excerpt: Salem Latin Dance Class for Beginners
 sections:
-  - title: Latin Beginners Class for Adults
+  - title: Salsa Beginners Class
     subtitle: at our Salem Location
     content: |
-      ### Start your dancing journey with us!
+      ### Friday nights supposed to be fun! 
 
-      SALSA, BACHATA, RUMBA, SWING, TANGO, FOXTROT, CHA CHA
-
-
+      JOIN US ON FRIDAY NIGHT AND DANCE YOUR WAY INTO THE WEEKEND
 
       **6 week session for $150**
 
-      **Friday at 7:30 pm, starting November 12th**
+      **Friday at 6:45 pm, starting February 11th**
     actions: []
     image_alt: Dance classes for adults
     media_position: left
@@ -28,7 +26,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/Latin beginners program for adults-8a517c9c.jpg
+    image: images/Salem Salsa beginners Friday.jpg
   - title: Registration is open
     title_align: center
     content: |
@@ -44,7 +42,7 @@ sections:
     form_width: fifty
     form_layout: stacked
     enable_card: true
-    form_id: Salem Adults Registration
+    form_id: Salem Salsa Friday
     form_action: /thank-you
     form_fields:
       - input_type: text
@@ -65,16 +63,10 @@ sections:
         default_value: Email
         options: []
         is_required: true
-      - input_type: text
+      - input_type: textarea
         name: Comments
         label: Comments
         default_value: Comments
-        options: []
-        is_required: false
-      - input_type: checkbox
-        name: Register me
-        label: Register me for Latin Class for Beginners
-        default_value: lorem-ipsum
         options: []
         is_required: false
     submit_label: Register
@@ -93,7 +85,7 @@ sections:
       **$150 for 6 weeks session.**
 
 
-      **Starting November 12th at 7:30 pm**
+      **Starting February 11th at 6:45 pm**
 
 
       **Options to pay:**

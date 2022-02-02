@@ -23,17 +23,14 @@ sections:
     grid_items:
       - title: Adult Latin Classes
         title_align: center
-        content: |+
+        content: |
           ##### **Adult Cardio Choreography**
 
           *   Friday - **6:45 pm**
 
-          ##### **Latin Dance for Beginners**
+          ##### **Salsa Beginners**
 
-          *(Salsa, Bachata, Rumba, Swing, Tango)*
-
-          *   Friday - **7:30 pm**
-
+          *   Friday - **6:45 pm**
         content_align: left
         actions:
           - label: Register
