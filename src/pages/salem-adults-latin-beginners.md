@@ -5,15 +5,13 @@ sections:
   - title: Salsa Beginners Class
     subtitle: at our Salem Location
     content: |
-      ### Start your dancing journey with us!
+      ### Friday nights supposed to be fun! 
 
-      SALSA, BACHATA, RUMBA, SWING, TANGO, FOXTROT, CHA CHA
-
-
+      JOIN US ON FRIDAY NIGHT AND DANCE YOUR WAY INTO THE WEEKEND
 
       **6 week session for $150**
 
-      **Friday at 7:30 pm, starting November 12th**
+      **Friday at 6:45 pm, starting February 11th**
     actions: []
     image_alt: Dance classes for adults
     media_position: left
