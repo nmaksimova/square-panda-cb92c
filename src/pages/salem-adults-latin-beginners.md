@@ -28,7 +28,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/Latin beginners program for adults-8a517c9c.jpg
+    image: images/Salem Salsa beginners Friday.jpg
   - title: Registration is open
     title_align: center
     content: |
