@@ -85,7 +85,7 @@ sections:
       **$150 for 6 weeks session.**
 
 
-      **Starting November 12th at 7:30 pm**
+      **Starting February 11th at 6:45 pm**
 
 
       **Options to pay:**
