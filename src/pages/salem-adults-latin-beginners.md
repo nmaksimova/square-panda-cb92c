@@ -1,6 +1,6 @@
 ---
 title: Salem Salsa Beginners
-excerpt: Salem Latin Dance Class for Beginners
+excerpt: Salem Salsa Beginners
 sections:
   - title: Salsa Beginners Class
     subtitle: at our Salem Location
