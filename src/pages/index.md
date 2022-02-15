@@ -38,17 +38,16 @@ sections:
 
 
       *   **Latin Beginners**. Mix dance styles: cha-cha, salsa, swing, rumba
-      (Monday 7:30 pm, starting January 10th)
+      (Monday 7:30 pm)
 
 
-      *   **Bachata** (Tuesday 7:30pm, starting January 11th)
+      *   **Bachata** (Tuesday 7:30pm)
 
 
-      *   **Beginners Salsa, Bachata** (Wednesday 7:30pm, starting January 19th)
+      *   **Beginners Salsa, Bachata** (Wednesday 7:30pm)
 
 
-      *   **Beginners Latin: Rumba and Salsa** (Thursday 6:00pm, starting
-      January 27th)
+      *   **Beginners Latin: Rumba and Salsa** (Thursday 6:00pm)
     actions:
       - label: Learn More
         url: /framingham-schedule-adult
