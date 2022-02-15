@@ -37,7 +37,7 @@ sections:
       (for singles and couples)
 
 
-      *   **New class SALSA (Salem location): **(Friday 6:45 pm) -
+      *   **New class SALSA** (Salem location): (Friday 6:45 pm) -
       [Register](https://www.iltadance.com/salem-adults-latin-beginners)
 
 
