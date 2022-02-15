@@ -5,13 +5,13 @@ sections:
   - title: Salsa Beginners Class
     subtitle: at our Salem Location
     content: |
-      ### Friday nights supposed to be fun! 
+      ### Friday nights supposed to be fun!
 
       JOIN US ON FRIDAY NIGHT AND DANCE YOUR WAY INTO THE WEEKEND
 
       **6 week session for $150**
 
-      **Friday at 6:45 pm, starting February 11th**
+      **Friday at 6:45 pm, starting March 4th**
     actions: []
     image_alt: Dance classes for adults
     media_position: left
