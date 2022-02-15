@@ -37,18 +37,21 @@ sections:
       (for singles and couples)
 
 
-      *   **Latin Beginners**. Mix dance styles: cha-cha, salsa, swing, rumba
-      (Monday 7:30 pm, starting January 10th)
+      *   **New class SALSA** (Salem location): (Friday 6:45 pm) -
+      [Register](https://www.iltadance.com/salem-adults-latin-beginners)
 
 
-      *   **Bachata** (Tuesday 7:30pm, starting January 11th)
+      *   Latin Beginners: Mix dance styles: cha-cha, salsa, swing, rumba
+      (Monday 7:30 pm)
 
 
-      *   **Beginners Salsa, Bachata** (Wednesday 7:30pm, starting January 19th)
+      *   Bachata (Tuesday 7:30pm)
 
 
-      *   **Beginners Latin: Rumba and Salsa** (Thursday 6:00pm, starting
-      January 27th)
+      *   Beginners Salsa, Bachata (Wednesday 7:30pm)
+
+
+      *   Beginners Latin: Rumba and Salsa (Thursday 6:00pm)
     actions:
       - label: Learn More
         url: /framingham-schedule-adult

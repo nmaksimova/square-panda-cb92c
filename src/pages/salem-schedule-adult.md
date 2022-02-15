@@ -30,7 +30,7 @@ sections:
 
           ##### **Salsa Beginners**
 
-          *   Friday - **6:45 pm**
+          *   Friday - **6:45 pm, starting March 4th, 2022**
         content_align: left
         actions:
           - label: Register
