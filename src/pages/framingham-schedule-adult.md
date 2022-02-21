@@ -18,7 +18,7 @@ sections:
     type: hero_section
     title: ' Framingham - Adult  Dance Schedule'
     background_image: images/Start_dancing.png
-  - title: Registration is Open for January Adult Classes
+  - title: Registration is Open for March Classes (Beginners)
     subtitle: 'Session is 6-week long, $120 per session'
     content: >
       *   **Latin Beginners**. Mix dance styles: cha-cha, salsa, swing, rumba
