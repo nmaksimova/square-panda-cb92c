@@ -31,7 +31,7 @@ sections:
     has_border: true
     background_image_repeat: no-repeat
   - content: >
-      ## January Registration is Open for Adults Programs
+      ## March Registration is Open for Adults Programs
 
 
       (for singles and couples)
