@@ -47,8 +47,7 @@ sections:
       ***Starting the first week of March***
 
 
-      *   Latin Beginners: Mix dance styles: cha-cha, salsa, swing, rumba
-      (Monday 6:45 pm)
+      *   Latin Beginners: Swing, rumba (Monday 6:45 pm)
 
 
       *   Beginners Bachata (Wednesday 6:45pm)
