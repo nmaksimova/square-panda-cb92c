@@ -21,8 +21,7 @@ sections:
   - title: Registration is Open for March Classes (Beginners)
     subtitle: 'Session is 6-week long, $120 per session'
     content: >
-      *   **Latin Beginners**. Mix dance styles: cha-cha, salsa, swing, rumba
-      (Monday 6:45 pm)
+      *   **Latin Beginners**. Swing, rumba (Monday 6:45 pm)
 
 
       *   **Bachata Beginners** (Wednesday 6:45 pm, starting March 2nd)
