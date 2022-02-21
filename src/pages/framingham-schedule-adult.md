@@ -151,15 +151,7 @@ sections:
       - title: Wednesday
         title_align: center
         content: |
-          *   **Beginners Salsa, Bachata** (starting January 19th)
-
-              *   7:30 pm
-              *   [Register](/framingham-adult-registration)
-
-
-
-          *   **Lady's Latin Choreography**
-              *   7:30 pm
+          *   *
         content_align: left
         actions: []
         actions_align: left
