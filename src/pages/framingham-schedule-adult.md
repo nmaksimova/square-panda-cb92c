@@ -150,38 +150,20 @@ sections:
         image_has_padding: false
       - title: Wednesday
         title_align: center
-        content: >
+        content: |
           **Beginners Bachata (starting March 2nd)**
-
 
           *   6:45 pm
 
-
-          *  
-          [Register](applewebdata://ECFF33AA-C665-40E5-BA5F-82A7530A3933/framingham-adult-registration)
-
-
-
-
-
-
+          *   [Register](/framingham-adult-registration)
 
           **Beginners Salsa (starting March 2nd)**
 
-
           *   7:30 pm
 
-
-          *  
-          [Register](applewebdata://ECFF33AA-C665-40E5-BA5F-82A7530A3933/framingham-adult-registration)
-
-
-
-
-
+          *   [Register](/framingham-adult-registration)
 
           **Lady’s Latin Choreography**
-
 
           *   7:30 pm
         content_align: left
