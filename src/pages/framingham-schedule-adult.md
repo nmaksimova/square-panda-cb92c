@@ -119,9 +119,9 @@ sections:
       - title: Monday
         title_align: center
         content: |
-          *   **Beginners Latin** (starting January 10th)
+          *   **Beginners Latin**
 
-              *   7:30 pm
+              *   6:45 pm
               *   [Register](/framingham-adult-registration)
         content_align: left
         actions: []
