@@ -78,7 +78,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-  - title: Registration is Open for January Adult Classes
+  - title: Registration is Open for March Classes (Beginners)
     subtitle: 'Session is 6-week long, $120 per session'
     content: >
       *   **Latin Beginners**. Mix dance styles: cha-cha, salsa, swing, rumba
