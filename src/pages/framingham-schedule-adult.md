@@ -22,17 +22,13 @@ sections:
     subtitle: 'Session is 6-week long, $120 per session'
     content: >
       *   **Latin Beginners**. Mix dance styles: cha-cha, salsa, swing, rumba
-      (Monday 7:30 pm, starting January 10th)
+      (Monday 6:45 pm)
 
 
-      *   **Bachata** (Tuesday 7:30 pm, starting January 11th)
+      *   **Bachata Beginners** (Wednesday 6:45 pm, starting March 2nd)
 
 
-      *   **Beginners Salsa, Bachata** (Wednesday 7:30pm, starting January 19th)
-
-
-      *   **Beginners Latin: Rumba and Salsa** (Thursday 6:00 pm, starting
-      January 27th)
+      *   **Beginners Salsa** (Wednesday 7:30pm, starting March 2nd)
 
 
       *   **Latin Cardio:** dance style workout class for all levels (Thursday
