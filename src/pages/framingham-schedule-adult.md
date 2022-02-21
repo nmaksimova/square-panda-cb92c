@@ -182,13 +182,11 @@ sections:
           improve coordination, balance, flexibility, and stay in shape)
 
 
-          <!---->
 
 
           *   6:45 pm
 
 
-          <!---->
 
 
           *   **Ballroom Technique** (Advanced)
