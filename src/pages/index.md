@@ -31,7 +31,7 @@ sections:
     has_border: true
     background_image_repeat: no-repeat
   - content: >
-      ## January Registration is Open for Adults Programs
+      ## March Registration is Open for Adults Programs
 
 
       (for singles and couples)
@@ -47,8 +47,7 @@ sections:
       ***Starting the first week of March***
 
 
-      *   Latin Beginners: Mix dance styles: cha-cha, salsa, swing, rumba
-      (Monday 6:45 pm)
+      *   Latin Beginners: Swing, rumba (Monday 6:45 pm)
 
 
       *   Beginners Bachata (Wednesday 6:45pm)
