@@ -97,7 +97,7 @@ sections:
         default_value: Class
         options:
           - 'Beginners Latin (Monday 6:45 pm)'
-          - 'Beginners Bachata (Tuesday 7:30pm)'
+          - 'Beginners Bachata (Wednesday 7:30pm)'
           - 'Beginners Salsa, Bachata (Wednesday 7:30 pm)'
           - 'Beginners Rumba, Salsa (Thursday 6:00 pm)'
           - 'Latin Cardio (Thursday 6:45 pm)'
