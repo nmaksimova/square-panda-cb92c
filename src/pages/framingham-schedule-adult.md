@@ -203,9 +203,11 @@ sections:
           <!---->
 
 
-          *
-              *   6:45 pm
-              *   [Learn More](/dance-cardio)
+          *   6:45 pm
+
+
+          <!---->
+
 
           *   **Ballroom Technique** (Advanced)
 
