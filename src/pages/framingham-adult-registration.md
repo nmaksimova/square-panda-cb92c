@@ -61,7 +61,7 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'Beginners Latin (Monday 7:30 pm)'
+          - 'Beginners Latin (Monday 6:30 pm)'
           - 'Beginners Bachata (Tuesday 7:30pm)'
           - 'Beginners Salsa, Bachata (Wednesday 7:30 pm)'
           - 'Beginners Rumba, Salsa (Thursday 6:00 pm)'
