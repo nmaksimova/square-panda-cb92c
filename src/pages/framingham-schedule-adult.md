@@ -18,21 +18,17 @@ sections:
     type: hero_section
     title: ' Framingham - Adult  Dance Schedule'
     background_image: images/Start_dancing.png
-  - title: Registration is Open for January Adult Classes
+  - title: Registration is Open for March Classes (Beginners)
     subtitle: 'Session is 6-week long, $120 per session'
     content: >
       *   **Latin Beginners**. Mix dance styles: cha-cha, salsa, swing, rumba
-      (Monday 7:30 pm, starting January 10th)
+      (Monday 6:45 pm)
 
 
-      *   **Bachata** (Tuesday 7:30 pm, starting January 11th)
+      *   **Bachata Beginners** (Wednesday 6:45 pm, starting March 2nd)
 
 
-      *   **Beginners Salsa, Bachata** (Wednesday 7:30pm, starting January 19th)
-
-
-      *   **Beginners Latin: Rumba and Salsa** (Thursday 6:00 pm, starting
-      January 27th)
+      *   **Beginners Salsa** (Wednesday 7:30pm, starting March 2nd)
 
 
       *   **Latin Cardio:** dance style workout class for all levels (Thursday
@@ -100,10 +96,9 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'Beginners Latin (Monday 7:30 pm)'
-          - 'Beginners Bachata (Tuesday 7:30pm)'
-          - 'Beginners Salsa, Bachata (Wednesday 7:30 pm)'
-          - 'Beginners Rumba, Salsa (Thursday 6:00 pm)'
+          - 'Beginners Latin (Monday 6:45 pm)'
+          - 'Beginners Bachata (Wednesday 6:45pm)'
+          - 'Beginners Salsa (Wednesday 7:30 pm)'
           - 'Latin Cardio (Thursday 6:45 pm)'
           - 'Stretch (Thursday 7:30 pm)'
         is_required: true
@@ -124,9 +119,9 @@ sections:
       - title: Monday
         title_align: center
         content: |
-          *   **Beginners Latin** (starting January 10th)
+          *   **Beginners Latin**
 
-              *   7:30 pm
+              *   6:45 pm
               *   [Register](/framingham-adult-registration)
         content_align: left
         actions: []
@@ -140,11 +135,6 @@ sections:
       - title: Tuesday
         title_align: center
         content: |
-          *   **Beginners Bachata** (starting January 11th)
-
-              *   7:30 pm
-              *   [Register](/fram-adults-latin-beginners)
-
 
 
           *   **Latin Technique** (Advanced)
@@ -161,15 +151,21 @@ sections:
       - title: Wednesday
         title_align: center
         content: |
-          *   **Beginners Salsa, Bachata** (starting January 19th)
+          **Beginners Bachata (starting March 2nd)**
 
-              *   7:30 pm
-              *   [Register](/framingham-adult-registration)
+          *   6:45 pm
 
+          *   [Register](/framingham-adult-registration)
 
+          **Beginners Salsa (starting March 2nd)**
 
-          *   **Lady's Latin Choreography**
-              *   7:30 pm
+          *   7:30 pm
+
+          *   [Register](/framingham-adult-registration)
+
+          **Lady’s Latin Choreography**
+
+          *   7:30 pm
         content_align: left
         actions: []
         actions_align: left
@@ -182,25 +178,20 @@ sections:
       - title: Thursday
         title_align: center
         content: >
-          *   **Beginners Rumba, Salsa** (starting January 27th)
-
-              *   6:00 pm
-              *   [Register](/framingham-adult-registration)
-
-
-
           *   **Latin Cardio** (this class is for all levels. It will help to
           improve coordination, balance, flexibility, and stay in shape)
-              *   6:45 pm
-              *   [Learn More](/dance-cardio)
+
+
+
+
+          *   6:45 pm
+
 
 
 
           *   **Ballroom Technique** (Advanced)
 
               *   7:00 pm
-
-
 
           *   **Stretch class** (all levels are welcome. Improve your
           flexibility and coordination)

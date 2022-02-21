@@ -61,10 +61,9 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'Beginners Latin (Monday 7:30 pm)'
-          - 'Beginners Bachata (Tuesday 7:30pm)'
-          - 'Beginners Salsa, Bachata (Wednesday 7:30 pm)'
-          - 'Beginners Rumba, Salsa (Thursday 6:00 pm)'
+          - 'Beginners Latin (Monday 6:45 pm)'
+          - 'Beginners Bachata (Wednesday 6:45 pm)'
+          - 'Beginners Salsa (Wednesday 7:30 pm)'
           - 'Latin Cardio (Thursday 6:45 pm)'
           - 'Stretch (Thursday 7:30 pm)'
         is_required: true
@@ -79,21 +78,17 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-  - title: Registration is Open for January Adult Classes
+  - title: Registration is Open for March Classes (Beginners)
     subtitle: 'Session is 6-week long, $120 per session'
     content: >
       *   **Latin Beginners**. Mix dance styles: cha-cha, salsa, swing, rumba
-      (Monday 7:30 pm, starting January 10th)
+      (Monday 6:45 pm)
 
 
-      *   **Bachata** (Tuesday 7:30 pm, starting January 11th)
+      *   **Beginners Bachata** (Wednesday 6:45 pm, starting March 2nd)
 
 
-      *   **Beginners Salsa, Bachata** (Wednesday 7:30pm, starting January 19th)
-
-
-      *   **Beginners Latin: Rumba and Salsa** (Thursday 6:00 pm, starting
-      January 20th)
+      *   **Beginners Salsa** (Wednesday 7:30pm, starting March 2nd)
 
 
       *   **Latin Cardio:** dance style workout class for all levels (Thursday
