@@ -135,12 +135,16 @@ sections:
       - title: Tuesday
         title_align: center
         content: |
-          *   **Beginners Bachata** (starting January 11th)
+          *   **Beginners Bachata** (starting March 2nd)
+
+              *   6:45 pm
+              *   [Register](/framingham-adult-registration)
+
+          *   Beginners Salsa (starting March 2nd)
 
               *   7:30 pm
-              *   [Register](/fram-adults-latin-beginners)
 
-
+              *   [Register](/framingham-adult-registration)
 
           *   **Latin Technique** (Advanced)
               *   7:30 pm
