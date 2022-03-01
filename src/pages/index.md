@@ -44,7 +44,7 @@ sections:
       **New Classes in Framingham location**
 
 
-      ***Starting the first week of March***
+      ***Starting in March***
 
 
       *   Latin Beginners: Swing, rumba (Monday 6:45 pm)
