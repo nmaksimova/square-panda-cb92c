@@ -21,7 +21,8 @@ sections:
   - title: Registration is Open for March Classes (Beginners)
     subtitle: 'Session is 6-week long, $120 per session'
     content: >
-      *   **Latin Beginners**. Swing, rumba (Monday 6:45 pm)
+      *   **Latin Beginners**. Swing, rumba (Monday 6:45 pm, starting March
+      14th)
 
 
       *   **Bachata Beginners** (Wednesday 6:45 pm, starting March 2nd)
