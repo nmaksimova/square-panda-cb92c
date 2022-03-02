@@ -25,10 +25,10 @@ sections:
       14th)
 
 
-      *   **Bachata Beginners** (Wednesday 6:45 pm, starting March 2nd)
+      *   **Bachata Beginners** (Wednesday 6:45 pm, starting March 9th)
 
 
-      *   **Beginners Salsa** (Wednesday 7:30pm, starting March 2nd)
+      *   **Beginners Salsa** (Wednesday 7:30pm, starting March 9th)
 
 
       *   **Latin Cardio:** dance style workout class for all levels (Thursday
