@@ -68,7 +68,7 @@ sections:
         label: Phone
         default_value: Phone
         options: []
-        is_required: false
+        is_required: true
       - input_type: textarea
         name: Comments
         label: Comments
