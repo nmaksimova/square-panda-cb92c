@@ -63,16 +63,16 @@ sections:
         default_value: Email
         options: []
         is_required: true
-      - input_type: textarea
-        name: Comments
-        label: Comments
-        default_value: Comments
-        options: []
-        is_required: false
       - input_type: tel
         name: Phone
         label: Phone
         default_value: Phone
+        options: []
+        is_required: false
+      - input_type: textarea
+        name: Comments
+        label: Comments
+        default_value: Comments
         options: []
         is_required: false
     submit_label: Register
