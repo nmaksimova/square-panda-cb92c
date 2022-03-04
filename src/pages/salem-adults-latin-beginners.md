@@ -11,7 +11,7 @@ sections:
 
       **6 week session for $150**
 
-      **Friday at 6:45 pm, starting March 4th**
+      **Friday at 6:45 pm, starting March 11th**
     actions: []
     image_alt: Dance classes for adults
     media_position: left
