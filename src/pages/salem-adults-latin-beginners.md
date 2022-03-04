@@ -70,7 +70,7 @@ sections:
         options: []
         is_required: false
       - input_type: tel
-        name: lorem-ipsum
+        name: 'Phone '
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
