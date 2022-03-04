@@ -71,7 +71,7 @@ sections:
         is_required: false
       - input_type: tel
         name: Phone
-        label: lorem-ipsum
+        label: Phone
         default_value: lorem-ipsum
         options: []
         is_required: false
