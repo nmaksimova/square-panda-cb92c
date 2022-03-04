@@ -91,7 +91,7 @@ sections:
       **$150 for 6 weeks session.**
 
 
-      **Starting March 4th at 6:45 pm**
+      **Starting March 11th at 6:45 pm**
 
 
       **Options to pay:**
