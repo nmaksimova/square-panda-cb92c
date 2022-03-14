@@ -62,8 +62,7 @@ sections:
         default_value: Class
         options:
           - 'Beginners Latin (Monday 6:45 pm)'
-          - 'Beginners Bachata (Wednesday 6:45 pm)'
-          - 'Beginners Salsa (Wednesday 7:30 pm)'
+          - 'Beginners Salsa, Bachata (Wednesday 7:30 pm)'
           - 'Latin Cardio (Thursday 6:45 pm)'
           - 'Stretch (Thursday 7:30 pm)'
         is_required: true
@@ -85,10 +84,11 @@ sections:
       14th)
 
 
-      *   **Beginners Bachata** (Wednesday 6:45 pm, starting March 9th)
+      <!---->
 
 
-      *   **Beginners Salsa** (Wednesday 7:30pm, starting March 9th)
+      *   **Beginners Salsa** , **Bachata** (Wednesday 7:30pm, starting March
+      16th)
 
 
       *   **Latin Cardio:** dance style workout class for all levels (Thursday
