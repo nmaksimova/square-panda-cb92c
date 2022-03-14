@@ -50,10 +50,10 @@ sections:
       *   Latin Beginners: Swing, rumba (Monday 6:45 pm)
 
 
-      *   Beginners Bachata (Wednesday 6:45pm)
+      <!---->
 
 
-      *   Beginners Salsa (Wednesday 7:30pm)
+      *   Beginners Salsa, Bachata (Wednesday 7:30pm)
     actions:
       - label: Learn More
         url: /framingham-schedule-adult
