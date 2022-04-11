@@ -31,7 +31,7 @@ sections:
     has_border: true
     background_image_repeat: no-repeat
   - content: >
-      ## March Registration is Open for Adults Programs
+      ## April Registration is Open for Adults Programs
 
 
       (for singles and couples)
@@ -44,16 +44,10 @@ sections:
       **New Classes in Framingham location**
 
 
-      ***Starting in March***
+      ***Starting in April***
 
 
-      *   Latin Beginners: Swing, rumba (Monday 6:45 pm)
-
-
-      <!---->
-
-
-      *   Beginners Salsa, Bachata (Wednesday 7:30pm)
+     *   Beginners Salsa (Wednesday 6:45pm)
     actions:
       - label: Learn More
         url: /framingham-schedule-adult
