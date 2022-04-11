@@ -44,7 +44,7 @@ sections:
       **New Classes in Framingham location**
 
 
-      ***Starting in April***
+      ***Starting in April 2022***
 
 
      *   Beginners Salsa (Wednesday 6:45pm)
