@@ -38,9 +38,7 @@ sections:
 
       ### **Framingham**
       
-      **starting April 27th**
-
-
+      *    starting April 27th
       *    Beginners Salsa (Wednesday 6:45pm)
 
 
