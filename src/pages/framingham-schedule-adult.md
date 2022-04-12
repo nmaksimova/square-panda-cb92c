@@ -114,7 +114,6 @@ sections:
           *   **Beginners Latin**
 
               *   6:45 pm
-              *   [Register](/framingham-adult-registration)
         content_align: left
         actions: []
         actions_align: left
