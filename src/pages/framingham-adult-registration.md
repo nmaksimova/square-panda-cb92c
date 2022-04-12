@@ -75,7 +75,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-  - title: Registration is Open for March Classes (Beginners)
+  - title: Registration is Open for April Classes (Beginners)
     subtitle: 'Session is 6-week long, $120 per session'
     content: >
 
