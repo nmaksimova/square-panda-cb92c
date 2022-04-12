@@ -61,10 +61,8 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'Beginners Latin (Monday 6:45 pm)'
-          - 'Beginners Salsa, Bachata (Wednesday 7:30 pm)'
+          - 'Beginners Salsa (Wednesday 6:45 pm)'
           - 'Latin Cardio (Thursday 6:45 pm)'
-          - 'Stretch (Thursday 7:30 pm)'
         is_required: true
     submit_label: Register
     align_vert: top
@@ -80,15 +78,8 @@ sections:
   - title: Registration is Open for March Classes (Beginners)
     subtitle: 'Session is 6-week long, $120 per session'
     content: >
-      *   **Latin Beginners**. Swing, rumba (Monday 6:45 pm, starting March
-      14th)
 
-
-      <!---->
-
-
-      *   **Beginners Salsa** , **Bachata** (Wednesday 7:30pm, starting March
-      16th)
+      *   **Beginners Salsa** (Wednesday 6:45pm, starting April 27th)
 
 
       *   **Latin Cardio:** dance style workout class for all levels (Thursday
