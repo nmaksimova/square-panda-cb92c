@@ -36,8 +36,8 @@ sections:
 
       (for singles and couples)
 
-
-      **Framingham, starting April 27th**
+      ### **Framingham**
+      **starting April 27th**
 
 
       *    Beginners Salsa (Wednesday 6:45pm)
