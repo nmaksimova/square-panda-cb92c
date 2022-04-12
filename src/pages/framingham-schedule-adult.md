@@ -18,7 +18,7 @@ sections:
     type: hero_section
     title: ' Framingham - Adult  Dance Schedule'
     background_image: images/Start_dancing.png
-  - title: Registration is Open for March Classes (Beginners)
+  - title: Registration is Open for April Classes (Beginners)
     subtitle: 'Session is 6-week long, $120 per session'
     content: >
 
@@ -91,10 +91,8 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'Beginners Latin (Monday 6:45 pm)'
-          - 'Beginners Salsa, Bachata (Wednesday 7:30 pm)'
+          - 'Beginners Salsa (Wednesday 6:45 pm)'
           - 'Latin Cardio (Thursday 6:45 pm)'
-          - 'Stretch (Thursday 7:30 pm)'
         is_required: true
     submit_label: Register
     align_vert: top
@@ -147,9 +145,9 @@ sections:
         content: |
 
 
-          **Beginners Salsa, Bachata**
+          **Beginners Salsa**
 
-          *   7:30 pm
+          *   6:45 pm
 
           *   [Register](/framingham-adult-registration)
 
