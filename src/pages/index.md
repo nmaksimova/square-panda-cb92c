@@ -37,15 +37,13 @@ sections:
       (for singles and couples)
 
 
-      **New Class, Framingham location**
-
-
-      ***Starting April 27th 2022***
+      **Framingham, starting April 27th**
 
 
       *    Beginners Salsa (Wednesday 6:45pm)
 
-      **New Class, Salem location**
+
+      ### **Salem**
 
       *   Beginners Salsa (Salem location): (Friday 6:45 pm) -
       [Register](https://www.iltadance.com/salem-adults-latin-beginners)
