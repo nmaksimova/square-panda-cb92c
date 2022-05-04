@@ -75,11 +75,11 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-  - title: Registration is Open for April Classes (Beginners)
+  - title: Registration is Open for May Classes (Beginners)
     subtitle: 'Session is 6-week long, $120 per session'
     content: >
 
-      *   **Beginners Salsa** (Wednesday 6:45pm, starting April 27th)
+      *   **Beginners Salsa** (Wednesday 6:45pm, starting May 11th)
 
 
       *   **Latin Cardio:** dance style workout class for all levels (Thursday
