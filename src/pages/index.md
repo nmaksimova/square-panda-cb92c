@@ -31,14 +31,14 @@ sections:
     has_border: true
     background_image_repeat: no-repeat
   - content: >
-      ## April Registration is Open for Adults Programs
+      ## May Registration is Open for Adults Programs
 
 
       (for singles and couples)
 
       ### **Framingham**
       
-      starting April 27th
+      starting May 11th
 
       *    Beginners Salsa (Wednesday 6:45pm)
 
