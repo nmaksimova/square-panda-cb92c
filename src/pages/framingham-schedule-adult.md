@@ -18,12 +18,12 @@ sections:
     type: hero_section
     title: ' Framingham - Adult  Dance Schedule'
     background_image: images/Start_dancing.png
-  - title: Registration is Open for May Classes (Beginners)
+  - title: Adult Classes for Beginners
     subtitle: 'Session is 6-week long, $120 per session'
     content: >
 
 
-      *   **Beginners Salsa** (Wednesday 6:45pm, starting May 11th)
+      *   **Beginners Salsa** (Wednesday 6:45pm)
 
 
       *   **Latin Cardio:** dance style workout class for all levels (Thursday
