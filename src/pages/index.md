@@ -7,7 +7,7 @@ sections:
         url: /book-class
         style: primary
         icon_position: right
-      - label: Kids Registration Forms 2021-2022
+      - label: Kids Registration Forms 2022-2023
         url: /kids-dance-classes
         style: primary
         has_icon: false
@@ -31,22 +31,13 @@ sections:
     has_border: true
     background_image_repeat: no-repeat
   - content: >
-      ## May Registration is Open for Adults Programs
+      ## Adult Dance Programs
 
 
       (for singles and couples)
 
-      ### **Framingham**
+      ### **Salsa, Bachata, Social Dance and more**
       
-      starting May 11th
-
-      *    Beginners Salsa (Wednesday 6:45pm)
-
-
-      ### **Salem**
-
-      *   Beginners Salsa (Salem location): (Friday 6:45 pm) -
-      [Register](https://www.iltadance.com/salem-adults-latin-beginners)
       
     actions:
       - label: Learn More
