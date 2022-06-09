@@ -8,7 +8,7 @@ sections:
         style: primary
         icon_position: right
       - label: Kids Registration Forms 2022-2023
-        url: /kids-dance-classes
+        url: 'https://square-panda-cb92c.netlify.app/images/ILTA-Fram-Kids-Registration-2022-23.pdf'
         style: primary
         has_icon: false
         icon: youtube
