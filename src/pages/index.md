@@ -107,45 +107,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - content: |
-      ## Kids Dance Classes Schedule 2021-2022
 
-      **Dance classes for all ages and levels!**
-
-      **Kids group classes start after Labor Day**
-    actions:
-      - label: Kids Registration Forms
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
-        url: /kids-dance-classes/
-      - label: Framingham Schedule
-        url: /framingham-schedule-kids
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
-    image_alt: kids dance schedule
-    media_position: right
-    media_width: fifty
-    align: left
-    padding_top: small
-    padding_bottom: small
-    has_border: false
-    background_color: secondary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
-    image: images/Kids_dancing_site-cf941571.jpg
   - title: Welcome to Ilta Dance!
     features:
       - content: "We\_offer **dance group classes**, **private lessons**\_and other opportunities to help you learn the art\_of **Ballroom and Latin dancing**!\_Whether you are a novice or an experienced dancer,\_we have the right instructor to work with you!\_Our programs designed for kids and adult dancers.\n"
