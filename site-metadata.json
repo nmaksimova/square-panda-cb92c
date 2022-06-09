@@ -1,5 +1,5 @@
 {
-    "description": "Ilta Dance Studio, dance lessons, kids dance lessons, adults dance lessons",
+    "description": "Ilta Dance Studio, dance lessons, dance classes, kids dance lessons, adults dance lessons, dance clases for same sex couples, salsa, bachata, swing, rumba, tango",
     "layout": "full-width",
     "style": "classic",
     "palette": "gray",
@@ -101,7 +101,7 @@
             }
         ],
         "has_anncmnt": true,
-        "anncmnt_content": "Cardio dance class runs every Thursday at 6:45 pm, no previous experience required! Join Us!\n",
+        "anncmnt_content": "Adult dance classes for beginners, no previous experience required! Salsa, Bachata, Swing, Social Dancing, and more! Join Us!\n",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
