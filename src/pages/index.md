@@ -45,7 +45,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-        url: /kids-dance-classes/
+        url: 'https://square-panda-cb92c.netlify.app/images/ILTA-Fram-Kids-Registration-2022-23.pdf'
       - label: Framingham Schedule
         url: /framingham-schedule-kids
         style: primary
