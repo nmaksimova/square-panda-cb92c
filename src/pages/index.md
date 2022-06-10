@@ -471,9 +471,7 @@ template: advanced
 seo:
   title: ILTA Dance Studio
   description: >
-    Latin and Ballroom Dance Classes, Framingham, MA, Salem, MA. Our dance
-    classes are for all ages and levels! Learn how to Salsa, Bachata, Cha Cha,
-    Samba, Rumba, Jive, Waltz, Tango, Foxtrot and more.
+    latin dance classes, ballroom dance classes, dance classes in Framingham, dance classes in Salem. Dance classes for kids, dance classes for adults, dance classes for beginners. Wedding dance, father daughter dance, same sex couples dance classes. Learn how to Salsa, Bachata, Cha Cha, Samba, Rumba, Jive, Waltz, Tango, Foxtrot and more.
   robots: []
   extra:
     - name: 'og:image'
