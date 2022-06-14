@@ -43,15 +43,15 @@ sections:
     form_action: /thank-you
     form_fields:
       - input_type: text
-        name: Kid First Name
-        label: Kid Name
-        default_value: Kid First Name
+        name: First Name
+        label: Kid's Name
+        default_value: Kid's First Name
         options: []
         is_required: true
       - input_type: text
-        name: Kid Last Name
-        label: Kid Last Name
-        default_value: Kid Last Name
+        name: Last Name
+        label: Kid's Last Name
+        default_value: Kid's Last Name
         options: []
         is_required: true
       - input_type: email
