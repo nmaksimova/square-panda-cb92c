@@ -46,8 +46,8 @@ sections:
         no_follow: false
         type: action
         url: 'https://square-panda-cb92c.netlify.app/images/ILTA-Fram-Kids-Registration-2022-23.pdf'
-      - label: Framingham Schedule
-        url: /framingham-schedule-kids
+      - label: Register
+        url: /kids_summer_classes_fram
         style: primary
         has_icon: false
         icon: arrow-left
@@ -62,7 +62,7 @@ sections:
     padding_top: small
     padding_bottom: small
     has_border: false
-    background_color: secondary
+    background_color: none
     background_image_opacity: 0
     background_image_size: cover
     background_image_position: center center
