@@ -54,7 +54,7 @@ sections:
         type: grid_item
         title: 'Beginners: 3-5 y. o.'
         content: |
-          45 minutes lessons
+          Cost: once a week: $80, twice a week: $140
 
           *   Monday - 5:00 pm
 
@@ -62,6 +62,7 @@ sections:
 
         subtitle: 'Mix Dance Styles (Ballroom, Latin, Hip Hop)'
       - title: 'Beginners: 6-8 y. o.'
+        subtitle: 'Cost: once a week: $80, twice a week: $140'
         title_align: center
         content_align: left
         actions:
@@ -83,14 +84,14 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        content: |
-          45 minutes lessons
+        content: |      
 
           *   Monday - 5:45 pm
 
           *   Wednesday - 5:45 pm
 
       - title: 'Beginners: 9-11 y. o.'
+        subtitle: 'Cost: once a week: $90, twice a week: $160'
         title_align: center
         content: |
           45 minutes lessons
@@ -146,6 +147,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        subtitle: 'Cost: once a week: $80, twice a week: $140'
       - title: Hip Hop 5+
         title_align: center
         content: |
@@ -172,7 +174,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        subtitle: 'Teachers: Jenya and Tamaz'
+        subtitle: 'Cost: once a week: $90, twice a week: $160'
 
     grid_cols: three
     grid_gap_vert: small
