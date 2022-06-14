@@ -43,15 +43,15 @@ sections:
     form_action: /thank-you
     form_fields:
       - input_type: text
-        name: First Name
-        label: First Name
-        default_value: First Name
+        name: Kid First Name
+        label: Kid's Name
+        default_value: Kid First Name
         options: []
         is_required: true
       - input_type: text
-        name: Last Name
-        label: Last Name
-        default_value: Last Name
+        name: Kid Last Name
+        label: Kid's Last Name
+        default_value: Kid Last Name
         options: []
         is_required: true
       - input_type: email
@@ -85,7 +85,7 @@ sections:
     has_border: false
     background_color: primary
     background_image: images/rising_stars.jpeg
-    background_image_opacity: 0
+    background_image_opacity: 60
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
