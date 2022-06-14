@@ -54,18 +54,12 @@ sections:
         default_value: Kid Last Name
         options: []
         is_required: true
-      - input_type: text
-        name: Kid Date of Birth
-        label: Kid Date of Birth
-        default_value: Kid Date of Birth
-        options: []
-        is_required: true
       - input_type: email
         name: Email
         label: Email
         default_value: Email
         options: []
-        is_required: false
+        is_required: true
       - input_type: text
         name: Phone Number
         label: Phone Number
