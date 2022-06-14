@@ -28,8 +28,8 @@ sections:
     type: hero_section
     title: ' Kids Summer Classes Schedule 2022'
     subtitle: '   To get started, please download Kids Registration Form'
-    background_image: images/summer_classes_cover.jpg
-  - title: Kids Ballroom and Latin Classes
+    background_image: images/Start_dancing.png
+  - title: Beginners Schedule
     actions: []
     grid_items:
       - title_align: center
@@ -218,8 +218,8 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-    background_image: images/image_6483441 (6).JPG
-    subtitle: Kids group classes start after Labor day (September 7th)
+    background_image: images/rising_stars.jpeg
+    subtitle: Kids group classes start July 5th, 2022
   - title: Kids Hip Hop Classes
     actions: []
     grid_items:
