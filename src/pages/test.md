@@ -194,8 +194,8 @@ sections:
       - title: 'Classes start July 6th'
         title_align: center
         content: |
-          Classes are running from July 5 - July 30, twice a week.\n
-          Each class is 1.5 hour long.\n
+          Classes are running from July 5 - July 30, twice a week.
+          Each class is 1.5 hour long.
           Cost is $245
 
 
