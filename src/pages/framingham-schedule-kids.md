@@ -34,50 +34,24 @@ sections:
     grid_items:
       - title_align: center
         content_align: left
-        actions:
-          - label: Register
-            url: /little-dancers-framingham
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: true
-            no_follow: false
-            type: action
-        actions_align: center
-        actions_width: auto
         image_alt: lorem-ipsum
         image_position: top
         image_width: fifty
         image_align: left
         image_has_padding: false
         type: grid_item
-        title: 'Beginners: 3-5 y. o.'
+        title: 'Beginners: 3+ y. o.'
         content: |
           45 minutes lessons
 
-          *   Tuesday - 5:00 pm
+          *   Thursday - 6:00 pm
 
-          *   Thursday - 5:00 pm
-
-          *   Saturday - 10:30 am
+          *   Saturday - 11:15 am
         subtitle: 'Mix Dance Styles (Ballroom, Latin, Hip Hop)'
-      - title: 'Beginners: 5-7 y. o.'
+      - title: 'Beginners: 4-6 y. o.'
         title_align: center
+        subtitle: 'Mix Dance Styles (Ballroom, Latin, Hip Hop)'
         content_align: left
-        actions:
-          - label: Register
-            url: >-
-              https://docs.google.com/forms/d/e/1FAIpQLSdxqWNWhk0yKReb69GoZvyyro6QvSJt73waIaEtOtH5gMk90w/viewform
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        actions_align: center
-        actions_width: auto
         image_alt: lorem-ipsum
         image_position: top
         image_width: fifty
@@ -89,11 +63,31 @@ sections:
 
           *   Monday - 5:00 pm
 
-          *   Wednesday - 5:00 pm
+          *   Wednesday -5:00 pm
+      - title: 'Beginners: 5-7 y. o.'
+        title_align: center
+        content_align: left
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        content: |
+          45 minutes lessons
+
+          *   Thursday - 5:00 pm
 
           *   Saturday -10:30 am
       - title: 'Beginners: 8-10 y. o.'
         title_align: center
+        content_align: left
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
         content: |
           45 minutes lessons
 
@@ -101,27 +95,6 @@ sections:
 
           *   Wednesday - 6:00 pm
 
-          *   Saturday - 1:00 pm
-        content_align: left
-        actions:
-          - label: Register
-            url: >-
-              https://docs.google.com/forms/d/e/1FAIpQLSdbJnJTk6zByh2nIgAlkfztjKsa-Bx4pVBWQJVx6MfUf_QNYg/viewform
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: true
-            no_follow: false
-            type: action
-        actions_align: center
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
       - title: 'Beginners: Teens'
         title_align: center
         content: |
@@ -130,19 +103,6 @@ sections:
           *   Tuesday - 6:45 pm
           *   Thursday - 6:45 pm
         content_align: left
-        actions:
-          - label: Register
-            url: >-
-              https://docs.google.com/forms/d/e/1FAIpQLSebUA1y1-fJyfjfNsYPNu5zxpXdEQHWZPKUpGUqflVrVzQIVA/viewform
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        actions_align: center
-        actions_width: auto
         image_alt: lorem-ipsum
         image_position: top
         image_width: fifty
@@ -152,52 +112,22 @@ sections:
       - title: Rising Stars Competing Team
         title_align: center
         content: |
-          *   Monday - 5:00 pm - 6:00 pm
-          *   Wednesday - 5:00 pm - 6:00 pm
-          *   Friday - 5:00 pm - 6:00 pm
+          *   Monday - 5:00 pm - 6:45 pm
+          *   Wednesday - 5:00 pm - 6:45 pm
         content_align: left
-        actions:
-          - label: Register
-            url: >-
-              https://docs.google.com/forms/d/e/1FAIpQLSfTeZdkvXIveOK0DWOQ3uyFsE-zY4HNsU7Z8zVI1ZI__iEyDw/viewform
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        actions_align: center
-        actions_width: auto
         image_alt: lorem-ipsum
         image_position: top
         image_width: fifty
         image_align: left
         image_has_padding: false
         type: grid_item
-        subtitle: 'Teachers: Jenya and Tamaz'
       - title: Advanced Teens Class
-        subtitle: 'Teacher: Tamaz'
         title_align: center
         content: |
-
 
           *   Tuesday - 5:45 pm - 7:15 pm
           *   Thursday - 5:15 pm - 6:45 pm
         content_align: left
-        actions:
-          - label: Register
-            url: >-
-              https://docs.google.com/forms/d/e/1FAIpQLSdC7g9YkRlegX2ahbDub985Fmbt4ubRkBM96IHzdz8A51T-tg/viewform
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: true
-            no_follow: false
-            type: action
-        actions_align: center
-        actions_width: auto
         image_alt: lorem-ipsum
         image_position: top
         image_width: fifty
@@ -219,29 +149,18 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     background_image: images/image_6483441 (6).JPG
-    subtitle: Kids group classes start after Labor day (September 7th)
+    subtitle: Kids group classes start after Labor day (September 6th)
   - title: Kids Hip Hop Classes
     actions: []
     grid_items:
-      - title: 'Hip Hop: 6+ kids group'
+      - title: 'Hip Hop: 5+ kids group'
         title_align: center
         content: |
 
 
-          *   Saturday - 12:00 pm
-        content_align: left
-        actions:
-          - label: Register
-            url: /framingham-hip-hop-kids
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: true
-            no_follow: false
-            type: action
-        actions_align: center
-        actions_width: auto
+          *   Tuesday - 5:00 pm
+          *   Saturday - 9:45 am
+        content_align: left      
         image_alt: lorem-ipsum
         image_position: top
         image_width: fifty
@@ -255,20 +174,7 @@ sections:
 
           *   Monday - 6:45 pm
           *   Wednesday - 6:45 pm
-        content_align: left
-        actions:
-          - label: Register
-            url: >-
-              https://docs.google.com/forms/d/e/1FAIpQLSd_KfFrU1xpt9LjA_ac5te1CMRpEfWcmfS6_0Qp6MXKLT6DoQ/viewform
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: true
-            no_follow: false
-            type: action
-        actions_align: center
-        actions_width: auto
+        content_align: left        
         image_alt: lorem-ipsum
         image_position: top
         image_width: fifty
