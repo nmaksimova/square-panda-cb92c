@@ -26,9 +26,9 @@ sections:
     background_image_position: left center
     background_image_repeat: no-repeat
     type: hero_section
-    title: ' Framingham Kids Dance Schedule'
+    title: ' Kids Summer Classes Schedule 2022'
     subtitle: '   To get started, please download Kids Registration Form'
-    background_image: images/Start_dancing.png
+    background_image: images/summer_classes_cover.jpg
   - title: Kids Ballroom and Latin Classes
     actions: []
     grid_items:
