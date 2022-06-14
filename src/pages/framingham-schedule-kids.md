@@ -290,6 +290,67 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     background_image: images/friendly-mars.jpg
+  - title: Kids Classes 2022-2023 Enrollment
+    title_align: center
+    content: |
+      *   Classes start after Labor Day, Tuesday September 6th
+
+    content_align: left
+    form_position: bottom
+    form_width: fifty
+    form_layout: stacked
+    enable_card: true
+    form_id: Registration Kids Summer Classes
+    form_action: /thank-you
+    form_fields:
+      - input_type: text
+        name: First Name
+        label: Kid's Name
+        default_value: Kid's First Name
+        options: []
+        is_required: true
+      - input_type: text
+        name: Last Name
+        label: Kid's Last Name
+        default_value: Kid's Last Name
+        options: []
+        is_required: true
+      - input_type: email
+        name: Email
+        label: Email
+        default_value: Email
+        options: []
+        is_required: true
+      - input_type: text
+        name: Phone Number
+        label: Phone Number
+        default_value: Phone Number
+        options: []
+        is_required: false
+      - input_type: select
+        name: Select Class
+        label: Select Class
+        default_value: Class
+        options:
+          - 'Rising Stars (Monday, Wednesday 5:00 pm)'
+          - 'Beginners 3-5 y.o. (Monday, Wednesday 5:00 pm)'
+          - 'Beginners 6-8 y.o. (Monday, Wednesday 5:45 pm)'
+          - 'Beginners 9-11 y.o. (Tuesday, Thursday 5:45 pm)'
+          - 'Hip Hop 5+ (Tuesday, Thursday 5:00 pm)'
+          - 'Beginners Teens (Monday, Wednesday 6:30 pm)'
+        is_required: true
+    submit_label: Register
+    align_vert: top
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: primary
+    background_image: images/rising_stars.jpeg
+    background_image_opacity: 60
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: form_section        
   - actions:
       - label: Back to Schedule
         url: /schedule
