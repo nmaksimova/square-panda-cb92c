@@ -45,13 +45,19 @@ sections:
       - input_type: text
         name: Kid First Name
         label: Kid's Name
-        default_value: Kid First Name
+        default_value: Kid's First Name
         options: []
         is_required: true
       - input_type: text
         name: Kid Last Name
         label: Kid's Last Name
-        default_value: Kid Last Name
+        default_value: Kid's Last Name
+        options: []
+        is_required: true
+      - input_type: text
+        name: Kid Date of Birth
+        label: Kid's Date of Birth
+        default_value: Kid's Date of Birth
         options: []
         is_required: true
       - input_type: email
