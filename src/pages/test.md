@@ -205,52 +205,14 @@ sections:
 
           *   Monday: 5:00 pm - 6:30 pm
           *   Wednesday: 5:00 pm - 6:30 pm
-        content_align: left
-        actions:
-          - label: Register
-            url: /framingham-hip-hop-kids
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: true
-            no_follow: false
-            type: action
-        actions_align: center
-        actions_width: auto
+        content_align: left        
         image_alt: lorem-ipsum
         image_position: top
         image_width: fifty
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: 'Hip Hop: Teens'
-        title_align: left
-        content: |
 
-
-          *   Monday - 6:45 pm
-          *   Wednesday - 6:45 pm
-        content_align: left
-        actions:
-          - label: Register
-            url: >-
-              https://docs.google.com/forms/d/e/1FAIpQLSd_KfFrU1xpt9LjA_ac5te1CMRpEfWcmfS6_0Qp6MXKLT6DoQ/viewform
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: true
-            no_follow: false
-            type: action
-        actions_align: center
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
