@@ -218,7 +218,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-    background_image: images/rising_stars.jpeg
+    background_image: images/kids_beginners.jpeg
     subtitle: Kids group classes start July 5th, 2022
   - title: Kids Hip Hop Classes
     actions: []
