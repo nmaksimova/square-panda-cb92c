@@ -220,15 +220,16 @@ sections:
     type: grid_section
     background_image: images/kids_beginners.jpeg
     subtitle: Kids group classes start July 5th, 2022
-  - title: Kids Hip Hop Classes
+  - title: Rising Stars Schedule
     actions: []
     grid_items:
-      - title: 'Hip Hop: 6+ kids group'
+      - title: 'Classes start July 6th'
         title_align: center
         content: |
 
 
-          *   Saturday - 12:00 pm
+          *   Monday: 5:00 pm - 6:30 pm
+          *   Wednesday: 5:00 pm - 6:30 pm
         content_align: left
         actions:
           - label: Register
@@ -289,7 +290,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-    background_image: images/friendly-mars.jpg
+    background_image: images/rising_stars.jpeg
   - actions:
       - label: Back to Schedule
         url: /schedule
