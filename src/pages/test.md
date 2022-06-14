@@ -56,13 +56,12 @@ sections:
         content: |
           45 minutes lessons
 
-          *   Tuesday - 5:00 pm
+          *   Monday - 5:00 pm
 
-          *   Thursday - 5:00 pm
+          *   Wednesday - 5:00 pm
 
-          *   Saturday - 10:30 am
         subtitle: 'Mix Dance Styles (Ballroom, Latin, Hip Hop)'
-      - title: 'Beginners: 5-7 y. o.'
+      - title: 'Beginners: 6-8 y. o.'
         title_align: center
         content_align: left
         actions:
@@ -87,21 +86,19 @@ sections:
         content: |
           45 minutes lessons
 
-          *   Monday - 5:00 pm
+          *   Monday - 5:45 pm
 
-          *   Wednesday - 5:00 pm
+          *   Wednesday - 5:45 pm
 
-          *   Saturday -10:30 am
-      - title: 'Beginners: 8-10 y. o.'
+      - title: 'Beginners: 9-11 y. o.'
         title_align: center
         content: |
           45 minutes lessons
 
-          *   Monday - 6:00 pm
+          *   Tuesday - 5:45 pm
 
-          *   Wednesday - 6:00 pm
+          *   Thursday - 5:45 pm
 
-          *   Saturday - 1:00 pm
         content_align: left
         actions:
           - label: Register
@@ -127,8 +124,8 @@ sections:
         content: |
 
 
-          *   Tuesday - 6:45 pm
-          *   Thursday - 6:45 pm
+          *   Monday - 6:30 pm
+          *   Wednesday - 6:30 pm
         content_align: left
         actions:
           - label: Register
@@ -149,12 +146,12 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Rising Stars Competing Team
+      - title: Hip Hop 5+
         title_align: center
         content: |
-          *   Monday - 5:00 pm - 6:00 pm
-          *   Wednesday - 5:00 pm - 6:00 pm
-          *   Friday - 5:00 pm - 6:00 pm
+          *   Tuesday - 5:00 pm
+          *   Thursday - 5:00 pm
+
         content_align: left
         actions:
           - label: Register
@@ -176,35 +173,8 @@ sections:
         image_has_padding: false
         type: grid_item
         subtitle: 'Teachers: Jenya and Tamaz'
-      - title: Advanced Teens Class
-        subtitle: 'Teacher: Tamaz'
-        title_align: center
-        content: |
 
-
-          *   Tuesday - 5:45 pm - 7:15 pm
-          *   Thursday - 5:15 pm - 6:45 pm
-        content_align: left
-        actions:
-          - label: Register
-            url: >-
-              https://docs.google.com/forms/d/e/1FAIpQLSdC7g9YkRlegX2ahbDub985Fmbt4ubRkBM96IHzdz8A51T-tg/viewform
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: true
-            no_follow: false
-            type: action
-        actions_align: center
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-    grid_cols: four
+    grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
     enable_cards: true
