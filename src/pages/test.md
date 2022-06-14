@@ -32,9 +32,8 @@ sections:
   - title: Register for Kids Summer Classes
     title_align: center
     content: |
-      *   Group Class Session is 6-week long
+      *   Classes start July 5th
 
-      *   $120 per session
     content_align: left
     form_position: bottom
     form_width: fifty
@@ -85,6 +84,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: primary
+    background_image: images/rising_stars.jpeg
     background_image_opacity: 0
     background_image_size: cover
     background_image_position: center center
@@ -95,18 +95,6 @@ sections:
     grid_items:
       - title_align: center
         content_align: left
-        actions:
-          - label: Register
-            url: /little-dancers-framingham
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: true
-            no_follow: false
-            type: action
-        actions_align: center
-        actions_width: auto
         image_alt: lorem-ipsum
         image_position: top
         image_width: fifty
@@ -126,19 +114,6 @@ sections:
         subtitle: 'Cost: once a week: $80, twice a week: $140'
         title_align: center
         content_align: left
-        actions:
-          - label: Register
-            url: >-
-              https://docs.google.com/forms/d/e/1FAIpQLSdxqWNWhk0yKReb69GoZvyyro6QvSJt73waIaEtOtH5gMk90w/viewform
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        actions_align: center
-        actions_width: auto
         image_alt: lorem-ipsum
         image_position: top
         image_width: fifty
@@ -155,26 +130,12 @@ sections:
         subtitle: 'Cost: once a week: $90, twice a week: $160'
         title_align: center
         content: |
-          45 minutes lessons
 
           *   Tuesday - 5:45 pm
 
           *   Thursday - 5:45 pm
 
         content_align: left
-        actions:
-          - label: Register
-            url: >-
-              https://docs.google.com/forms/d/e/1FAIpQLSdbJnJTk6zByh2nIgAlkfztjKsa-Bx4pVBWQJVx6MfUf_QNYg/viewform
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: true
-            no_follow: false
-            type: action
-        actions_align: center
-        actions_width: auto
         image_alt: lorem-ipsum
         image_position: top
         image_width: fifty
@@ -189,19 +150,6 @@ sections:
           *   Monday - 6:30 pm
           *   Wednesday - 6:30 pm
         content_align: left
-        actions:
-          - label: Register
-            url: >-
-              https://docs.google.com/forms/d/e/1FAIpQLSebUA1y1-fJyfjfNsYPNu5zxpXdEQHWZPKUpGUqflVrVzQIVA/viewform
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        actions_align: center
-        actions_width: auto
         image_alt: lorem-ipsum
         image_position: top
         image_width: fifty
@@ -216,19 +164,6 @@ sections:
           *   Thursday - 5:00 pm
 
         content_align: left
-        actions:
-          - label: Register
-            url: >-
-              https://docs.google.com/forms/d/e/1FAIpQLSfTeZdkvXIveOK0DWOQ3uyFsE-zY4HNsU7Z8zVI1ZI__iEyDw/viewform
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        actions_align: center
-        actions_width: auto
         image_alt: lorem-ipsum
         image_position: top
         image_width: fifty
