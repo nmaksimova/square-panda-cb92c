@@ -59,7 +59,7 @@ sections:
     form_width: fifty
     form_layout: stacked
     enable_card: true
-    form_id: Registration Fram Adult Classes
+    form_id: Registration Kids Summer Classes
     form_action: /thank-you
     form_fields:
       - input_type: text
@@ -91,8 +91,12 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'Beginners Salsa (Wednesday 6:45 pm)'
-          - 'Latin Cardio (Thursday 6:45 pm)'
+          - 'Rising Stars (Monday, Wednesday 5:00 pm)'
+          - 'Beginners 3-5 y.o. (Monday, Wednesday 5:00 pm)'
+          - 'Beginners 6-8 y.o. (Monday, Wednesday 5:45 pm)'
+          - 'Beginners 9-11 y.o. (Tuesday, Thursday 5:45 pm)'
+          - 'Hip Hop 5+ (Tuesday, Thursday 5:00 pm)'
+          - 'Beginners Teens (Monday, Wednesday 6:30 pm)'
         is_required: true
     submit_label: Register
     align_vert: top
