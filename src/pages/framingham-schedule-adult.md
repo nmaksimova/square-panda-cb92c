@@ -95,6 +95,9 @@ sections:
         default_value: Class
         options:
           - 'Beginners Salsa (Wednesday 6:45 pm)'
+          - 'Beginners Bachata (Wednesday 7:30)'
+          - 'Intermediate Salsa, Bachata (Tuesday 6:45 pm)
+          - 'Intermediate Bachata (Tuesday 7:30pm)
           - 'Latin Cardio (Thursday 6:45 pm)'
         is_required: true
     submit_label: Register
@@ -130,7 +133,10 @@ sections:
         title_align: center
         content: |
 
-
+          *   **Intermediate Salsa, Bachata**
+              *   6:45 pm 
+          *   **Intermediate Bachata**
+              *   7:30 pm
           *   **Latin Technique** (Advanced)
               *   7:30 pm
         content_align: left
@@ -151,7 +157,9 @@ sections:
 
           *   6:45 pm
 
-          *   [Register](/framingham-adult-registration)
+          **Beginners Bachata**
+          
+          *   7:30 pm
 
           **Lady’s Latin Choreography**
 
