@@ -165,6 +165,10 @@ sections:
 
           *   6:45 pm
 
+          **Beginners Bachata**
+
+          *   7:30 pm
+
           **Lady’s Latin Choreography**
 
           *   7:30 pm
