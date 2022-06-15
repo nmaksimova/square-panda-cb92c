@@ -141,9 +141,11 @@ sections:
 
           *   **Intermediate Salsa, Bachata**
               *   6:45 pm
-         
+
+
           *   **Intermediate Bachata
               *   7:30 pm
+        
         
           *   **Latin Technique** (Advanced)
               *   7:30 pm
