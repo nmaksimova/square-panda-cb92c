@@ -102,8 +102,8 @@ sections:
         options:
           - 'Beginners Salsa (Wednesday 6:45 pm)'
           - 'Beginners Bachata (Wednesday 7:30)'
-          - 'Intermediate Salsa, Bachata (Tuesday 6:45 pm)
-          - 'Intermediate Bachata (Tuesday 7:30pm)
+          - 'Intermediate Salsa, Bachata (Tuesday 6:45 pm)'
+          - 'Intermediate Bachata (Tuesday 7:30pm)'
           - 'Latin Cardio (Thursday 6:45 pm)'
         is_required: true
     submit_label: Register
