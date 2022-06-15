@@ -24,8 +24,11 @@ sections:
 
 
       *   **Beginners Salsa** (Wednesday 6:45pm, starting June 29th)
+
       *   **Beginners Bachata** (Wednesday 7:30pm, starting June 29th)
+        
       *   **Intermediate Salsa, Bachata** (Tuesday 6:45pm, join any time)
+      
       *   **Intermediate Bachata** (Tuesday 7:30pm, join any time)
 
 
