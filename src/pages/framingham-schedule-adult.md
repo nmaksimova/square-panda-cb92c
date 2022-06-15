@@ -143,7 +143,8 @@ sections:
               *   6:45 pm
 
 
-          *   **Intermediate Bachata
+
+          *   **Intermediate Bachata**
               *   7:30 pm
         
         
