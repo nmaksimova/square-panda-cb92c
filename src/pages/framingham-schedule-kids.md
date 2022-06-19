@@ -63,7 +63,7 @@ sections:
 
           *   Monday - 5:00 pm
 
-          *   Wednesday -5:00 pm
+          *   Thursday -5:00 pm
       - title: 'Beginners: 5-7 y. o.'
         title_align: center
         content_align: left
@@ -76,7 +76,7 @@ sections:
         content: |
           45 minutes lessons
 
-          *   Thursday - 5:00 pm
+          *   Wednesday - 5:00 pm
 
           *   Saturday -10:30 am
       - title: 'Beginners: 8-10 y. o.'
