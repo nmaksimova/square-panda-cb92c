@@ -112,7 +112,7 @@ sections:
       ## Adult Dance Programs
 
 
-      (for singles and couples)
+      (for singles and couples; same sex couples)
 
       ### **Salsa, Bachata, Social Dance and more**
       
