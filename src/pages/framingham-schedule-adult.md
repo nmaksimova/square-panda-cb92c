@@ -37,6 +37,8 @@ sections:
 
       *   **Latin Cardio:** dance style workout class for all levels (Thursday
       6:45 pm)
+      
+      *   **Same Sex Couples, Salsa Class** (Wednesday 7:30pm, starting July 13th)
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
@@ -105,6 +107,7 @@ sections:
           - 'Intermediate Salsa, Bachata (Tuesday 6:45 pm)'
           - 'Intermediate Bachata (Tuesday 7:30pm)'
           - 'Latin Cardio (Thursday 6:45 pm)'
+          - 'Same Sex couples, Salsa (Wednesday 7:30 pm)'
         is_required: true
     submit_label: Register
     align_vert: top
