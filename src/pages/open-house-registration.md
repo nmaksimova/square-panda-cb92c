@@ -16,10 +16,10 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    title: 'Open House Registration'
+    title: 'Register for Open House'
     background_image: images/Start_dancing.png
-  - title: Register for Open House
-    subtitle: 'Free Admission, August 30 at 7:00 pm'
+  - title: Open House at Ilta, August 30 at 7:00 pm
+    subtitle: 'Join us for free Salsa, Bachata, Swing lesson!'
     content: >
 
 
