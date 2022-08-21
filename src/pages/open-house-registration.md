@@ -1,9 +1,9 @@
 ---
-title: 'Adult Dance Classes Schedule, Framigham, MA'
+title: 'Open House Registration, salsa, bachata, swing, Framigham, MA'
 excerpt: Dance Schedule
 sections:
   - actions: []
-    image_alt: lorem-ipsum
+    image_alt: salsa, tango, dancing couple
     media_position: top
     media_width: fifty
     align: center
@@ -16,37 +16,24 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    title: ' Framingham - Adult  Dance Schedule'
+    title: 'Open House Registration'
     background_image: images/Start_dancing.png
-  - title: Adult Classes for Beginners
-    subtitle: 'Session is 6-week long, $120 per session'
+  - title: Register for Open House
+    subtitle: 'Free Admission, August 30 at 7:00 pm'
     content: >
 
 
-      *   **Beginners Salsa** (Wednesday 6:45pm, starting July 13th)
+      *   **Salsa**
 
 
-      *   **Beginners Bachata** (Wednesday 7:30pm, starting July 13th)
+      *   **Bachata**
 
 
-      *   **Intermediate Salsa, Bachata** (Tuesday 6:45pm, join any time)
+      *   **Swing**
 
-
-      *   **Intermediate Bachata** (Tuesday 7:30pm, join any time)
-
-
-      *   **Latin Cardio:** dance style workout class for all levels (Thursday
-      6:45 pm)
-      
-      *   **Same Sex Couples, Salsa Class** (Wednesday 7:30pm, starting July 13th)
     actions: []
-    image_alt: lorem-ipsum
-    video_embed_html: >-
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/ra9qUBdCBsQ?controls=0" title="YouTube
-      video player" frameborder="0" allow="accelerometer; autoplay;
-      clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-      allowfullscreen></iframe>
+    image_alt: salsa, dancing couple
+    video_embed_html:
     media_position: right
     media_width: fifty
     align: left
@@ -59,18 +46,18 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - title: Register for Adult Classes
+  - title: Register for Open House
     title_align: center
     content: |
-      *   Group Class Session is 6-week long
+      *   Free Admission
 
-      *   $120 per session
+      *   August 30 at 7:00 pm
     content_align: left
     form_position: bottom
     form_width: fifty
     form_layout: stacked
     enable_card: true
-    form_id: Registration Fram Adult Classes
+    form_id: Registration Open House
     form_action: /thank-you
     form_fields:
       - input_type: text
@@ -102,12 +89,7 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'Beginners Salsa (Wednesday 6:45 pm)'
-          - 'Beginners Bachata (Wednesday 7:30)'
-          - 'Intermediate Salsa, Bachata (Tuesday 6:45 pm)'
-          - 'Intermediate Bachata (Tuesday 7:30pm)'
-          - 'Latin Cardio (Thursday 6:45 pm)'
-          - 'Same Sex couples, Salsa (Wednesday 7:30 pm)'
+          - 'Open House (August 30 at 7:00 pm)'
         is_required: true
     submit_label: Register
     align_vert: top
@@ -120,120 +102,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-  - title: Adult Classes
-    actions: []
-    grid_items:
-      - title: Monday
-        title_align: center
-        content: |
-          *   **Beginners Latin**
-
-              *   6:45 pm
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-      - title: Tuesday
-        title_align: center
-        content: |
-
-          *   **Intermediate Salsa, Bachata**
-              *   6:45 pm
-
-
-
-          *   **Intermediate Bachata**
-              *   7:30 pm
-        
-        
-          *   **Latin Technique** (Advanced)
-              *   7:30 pm
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-      - title: Wednesday
-        title_align: center
-        content: |
-
-
-          **Beginners Salsa**
-
-          *   6:45 pm
-
-          **Beginners Bachata**
-
-          *   7:30 pm
-
-          **Lady’s Latin Choreography**
-
-          *   7:30 pm
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-      - title: Thursday
-        title_align: center
-        content: >
-          *   **Latin Cardio** (this class is for all levels. It will help to
-          improve coordination, balance, flexibility, and stay in shape)
-
-
-
-
-          *   6:45 pm
-
-
-
-
-          *   **Ballroom Technique** (Advanced)
-
-              *   7:00 pm
-
-          *   **Stretch class** (all levels are welcome. Improve your
-          flexibility and coordination)
-
-              *   7:30 pm
-              *   [Register](/framingham-adult-registration)
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-    grid_cols: four
-    grid_gap_vert: small
-    grid_gap_horiz: small
-    enable_cards: true
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 20
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: grid_section
-    background_image: images/adult_dance_classes.jpg
+ 
   - actions:
       - label: Back to All Schedule
         url: /schedule
