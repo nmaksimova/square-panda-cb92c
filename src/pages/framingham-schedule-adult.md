@@ -130,9 +130,6 @@ sections:
       - title: Monday
         title_align: center
         content: |
-          *   **Beginners Latin**
-
-              *   6:45 pm
         content_align: left
         actions: []
         actions_align: left
