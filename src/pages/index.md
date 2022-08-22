@@ -37,7 +37,7 @@ sections:
       (for singles and couples; same sex couples)
 
       ### **Salsa, Bachata, Swing**
-      ### **Free Admission**
+      **Free Admission**
       
       
     actions:
