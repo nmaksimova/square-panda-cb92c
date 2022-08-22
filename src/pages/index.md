@@ -37,6 +37,7 @@ sections:
       (August 30 at 7:00 pm)
 
       ### **Salsa, Bachata, Swing**
+
       **Free Admission**
       
       Please register first so we could plan accordingly
