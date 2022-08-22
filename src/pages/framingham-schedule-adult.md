@@ -146,6 +146,17 @@ sections:
         title_align: center
         content: |
 
+          
+          *   **Beginners Swing**
+              *   6:45 pm
+          
+          
+          
+          *   **Beginners Ballroom (Foxtrot, Tango)**
+              *   7:30 pm
+          
+          
+          
           *   **Intermediate Salsa, Bachata**
               *   6:45 pm
 
@@ -155,8 +166,6 @@ sections:
               *   7:30 pm
         
         
-          *   **Latin Technique** (Advanced)
-              *   7:30 pm
         content_align: left
         actions: []
         actions_align: left
@@ -171,15 +180,11 @@ sections:
         content: |
 
 
-          **Beginners Salsa**
-
-          *   6:45 pm
-
           **Beginners Bachata**
 
           *   7:30 pm
 
-          **Lady’s Latin Choreography**
+          **Ladies Latin Choreography**
 
           *   7:30 pm
         content_align: left
@@ -198,22 +203,14 @@ sections:
           improve coordination, balance, flexibility, and stay in shape)
 
 
-
-
           *   6:45 pm
 
 
+          *   **Beginners Salsa** (Same sex couples)
+
+              *   6:45 pm
 
 
-          *   **Ballroom Technique** (Advanced)
-
-              *   7:00 pm
-
-          *   **Stretch class** (all levels are welcome. Improve your
-          flexibility and coordination)
-
-              *   7:30 pm
-              *   [Register](/framingham-adult-registration)
         content_align: left
         actions: []
         actions_align: left
