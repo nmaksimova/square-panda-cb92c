@@ -105,12 +105,13 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'Beginners Salsa (Wednesday 6:45 pm)'
+          - 'Beginners Swing (Tuesday 6:45 pm)'
+          - 'Beginners Ballroom (Tuesday 7:30 pm)'
           - 'Beginners Bachata (Wednesday 7:30)'
           - 'Intermediate Salsa, Bachata (Tuesday 6:45 pm)'
           - 'Intermediate Bachata (Tuesday 7:30pm)'
           - 'Latin Cardio (Thursday 6:45 pm)'
-          - 'Same Sex couples, Salsa (Wednesday 7:30 pm)'
+          - 'Same Sex couples, Salsa (Thursday 6:45 pm)'
         is_required: true
     submit_label: Register
     align_vert: top
