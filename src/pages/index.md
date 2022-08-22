@@ -31,45 +31,6 @@ sections:
     has_border: true
     background_image_repeat: no-repeat
   - content: |
-      ## Kids Summer Classes 2022
-
-      **Register today to reserve your spot!**
-
-      **Classes start July 5th**
-    actions:
-      - label: Kids Registration Forms
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
-        url: 'https://square-panda-cb92c.netlify.app/images/ILTA-Fram-Kids-Registration-2022-23.pdf'
-      - label: Register
-        url: /kids_summer_classes_fram
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
-    image_alt: kids dance schedule
-    media_position: right
-    media_width: fifty
-    align: left
-    padding_top: small
-    padding_bottom: small
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
-    image: images/kids_cover.jpg 
-  - content: |
       ## Registration is open for Kids Dance Classes 2022-2023
 
       **Dance classes for all ages and levels!**
