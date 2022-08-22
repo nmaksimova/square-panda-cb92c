@@ -23,10 +23,13 @@ sections:
     content: >
 
 
-      *   **Beginners Salsa** (Wednesday 6:45pm, starting July 13th)
+      *   **Beginners Swing** (Tuesday 6:45pm, starting September 6th)
 
 
-      *   **Beginners Bachata** (Wednesday 7:30pm, starting July 13th)
+      *   **Beginners Ballroom: Foxtrot, Tango** (Tuesday 7:30pm, starting September 6th)
+
+
+      *   **Beginners Bachata** (Wednesday 7:30pm, starting September 7th)
 
 
       *   **Intermediate Salsa, Bachata** (Tuesday 6:45pm, join any time)
@@ -38,7 +41,7 @@ sections:
       *   **Latin Cardio:** dance style workout class for all levels (Thursday
       6:45 pm)
       
-      *   **Same Sex Couples, Salsa Class** (Wednesday 7:30pm, starting July 13th)
+      *   **Same Sex Couples, Salsa Class** (Thursday 6:45pm, starting September 8th)
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
