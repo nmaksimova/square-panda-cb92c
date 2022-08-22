@@ -34,11 +34,12 @@ sections:
       ## Ilta Open House
 
 
-      (for singles and couples; same sex couples)
+      (August 30 at 7:00 pm)
 
       ### **Salsa, Bachata, Swing**
       **Free Admission**
       
+      Please register first so we could plan accordingly
       
     actions:
       - label: Register
