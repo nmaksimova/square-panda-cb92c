@@ -38,7 +38,8 @@ sections:
 
       ### **Salsa, Bachata, Swing**
 
-      **Free Admission**
+      ### **Free Admission**
+
       
       Please register first so we could plan accordingly
       
