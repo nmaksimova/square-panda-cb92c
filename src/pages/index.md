@@ -30,6 +30,40 @@ sections:
     background_image_position: center center
     has_border: true
     background_image_repeat: no-repeat
+  - content: >
+      ## Ilta Open House
+
+
+      (for singles and couples; same sex couples)
+
+      ### **Salsa, Bachata, Swing**
+      ### **Free Admission**
+      
+      
+    actions:
+      - label: Register
+        url: /open-house-registration/
+        style: primary
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
+    image_alt: salsa dancing couple
+    image: images/Open_house.jpg
+    media_position: right
+    media_width: sixty
+    align: left
+    padding_top: small
+    padding_bottom: small
+    has_border: false
+    background_color: primary
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: hero_section
   - content: |
       ## Registration is open for Kids Dance Classes 2022-2023
 
