@@ -18,7 +18,7 @@ sections:
     type: hero_section
     title: ' Framingham - Adult  Dance Schedule'
     background_image: images/Start_dancing.png
-  - title: Adult Classes for Beginners
+  - title: Adult Classes
     subtitle: 'Session is 6-week long, $120 per session'
     content: >
 
