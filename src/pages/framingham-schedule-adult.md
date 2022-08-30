@@ -110,6 +110,7 @@ sections:
         options:
           - 'Beginners Swing (Tuesday 6:45 pm)'
           - 'Beginners Ballroom (Tuesday 7:30 pm)'
+          - 'Beginners Salsa (Wednesday 6:45 pm)'
           - 'Beginners Bachata (Wednesday 7:30)'
           - 'Intermediate Salsa, Bachata (Tuesday 6:45 pm)'
           - 'Intermediate Bachata (Tuesday 7:30pm)'
