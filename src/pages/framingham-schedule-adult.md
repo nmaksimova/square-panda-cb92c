@@ -180,6 +180,9 @@ sections:
         title_align: center
         content: |
 
+          **Beginners Salsa**
+
+          *   6:45 pm
 
           **Beginners Bachata**
 
