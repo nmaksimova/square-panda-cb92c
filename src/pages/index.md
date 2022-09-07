@@ -410,11 +410,11 @@ sections:
     type: hero_section
     image: images/Ilta_showcase_21.jpg
   - type: grid_section
-    title: Our Locations
+    title: Our Location
     subtitle: ''
     align: center
     grid_items:
-      - image_alt: Contentful logo
+      - image_alt: Ilta Dance
         image_align: center
         title: Framingham
         image_position: bottom
@@ -440,31 +440,8 @@ sections:
             new_window: false
             no_follow: false
             type: action
-      - image_alt: Netlify logo
-        image_align: center
-        title: Salem
-        title_align: center
-        content: |
-          A Performing Arts Academy
-
-          96 Swampscott Rd #6
-
-          Salem, MA 01970
-
-          [781-492-2769 ](tel:+12345567890)
-
-          **dance@iltadance.com**
-        actions:
-          - label: Salem Schedule
-            url: /schedule-salem
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-    grid_cols: two
+            
+    grid_cols: one
     grid_gap_horiz: medium
     grid_gap_vert: medium
     enable_cards: true
@@ -473,7 +450,7 @@ template: advanced
 seo:
   title: ILTA Dance Studio
   description: >
-    latin dance classes, ballroom dance classes, dance classes in Framingham, dance classes in Salem. Dance classes for kids, dance classes for adults, dance classes for beginners. Wedding dance, father daughter dance, same sex couples dance classes. Learn how to Salsa, Bachata, Cha Cha, Samba, Rumba, Jive, Waltz, Tango, Foxtrot and more.
+    latin dance classes, ballroom dance classes, dance classes in Framingham. Dance classes for kids, dance classes for adults, dance classes for beginners. Wedding dance, father daughter dance, same sex couples dance classes. Learn how to Salsa, Bachata, Cha Cha, Samba, Rumba, Jive, Waltz, Tango, Foxtrot and more.
   robots: []
   extra:
     - name: 'og:image'
