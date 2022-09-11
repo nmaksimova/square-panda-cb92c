@@ -29,7 +29,7 @@ sections:
       *   **Beginners Ballroom: Foxtrot, Tango** (Tuesday 7:30pm, starting September 6th)
 
 
-      *   **Beginners Salsa, Bachata** (Wednesday 6:45pm, starting September 7th)
+      *   **Beginners Salsa, Bachata** (Wednesday 6:45pm, starting September 14th)
 
 
       *   **Intermediate Salsa, Bachata** (Tuesday 6:45pm, join any time)
