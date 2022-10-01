@@ -131,9 +131,7 @@ sections:
       - title: Monday
         title_align: center
         content: |
-     
-          *   **Latin Cardio**
-              *   6:45 pm     
+        
         
         content_align: left
         actions: []
