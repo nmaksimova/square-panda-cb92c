@@ -131,8 +131,6 @@ sections:
       - title: Monday
         title_align: center
         content: |
-        
-        
         content_align: left
         actions: []
         actions_align: left
@@ -146,8 +144,6 @@ sections:
         title_align: center
         content: |
 
-                                          
-          
           *   **Beginners Ballroom (Foxtrot, Tango)**
               *   7:30 pm
           
