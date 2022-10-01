@@ -38,7 +38,7 @@ sections:
       *   **Intermediate Bachata** (Tuesday 7:30pm, join any time)
 
 
-      *   **Latin Cardio:** dance style workout class for all levels (Thursday
+      *   **Latin Cardio:** dance style workout class for all levels (Monday 6:45 pm; Thursday
       6:45 pm)
       
       *   **Same Sex Couples, Salsa Class** (Thursday 6:45pm, starting September 8th)
@@ -110,6 +110,7 @@ sections:
           - 'Beginners Salsa, Bachata (Wednesday 6:45 pm)'
           - 'Intermediate Salsa, Bachata (Tuesday 6:45 pm)'
           - 'Intermediate Bachata (Tuesday 7:30pm)'
+          - 'Latin Cardio (Monday 6:45 pm)'
           - 'Latin Cardio (Thursday 6:45 pm)'
           - 'Same Sex couples, Salsa (Thursday 6:45 pm)'
         is_required: true
@@ -144,10 +145,10 @@ sections:
         content: |
 
           
-          *   **Beginners Swing**
+          *   **Latin Cardio**
               *   6:45 pm
-          
-          
+                           
+       
           
           *   **Beginners Ballroom (Foxtrot, Tango)**
               *   7:30 pm
