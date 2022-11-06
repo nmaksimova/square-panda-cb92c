@@ -38,6 +38,7 @@ sections:
       (for singles and couples; same sex couples)
 
       ### **Salsa, Bachata, Social Dance and more**
+      New Salsa and Bachata Group Class for Beginners is starting November 29th
       
       
     actions:
