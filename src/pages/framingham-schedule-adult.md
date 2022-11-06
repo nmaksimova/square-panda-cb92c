@@ -32,9 +32,6 @@ sections:
       *   **Beginners Salsa, Bachata** (Wednesday 6:45pm, starting September 14th)
 
 
-      *   **Intermediate Salsa, Bachata** (Tuesday 6:45pm, join any time)
-
-
       *   **Intermediate Bachata** (Tuesday 7:30pm, join any time)
 
 
@@ -108,7 +105,6 @@ sections:
           - 'Beginners Salsa, Bachata (Tuesday 6:45 pm)'
           - 'Beginners Ballroom (Tuesday 7:30 pm)'
           - 'Beginners Salsa, Bachata (Wednesday 6:45 pm)'
-          - 'Intermediate Salsa, Bachata (Tuesday 6:45 pm)'
           - 'Intermediate Bachata (Tuesday 7:30pm)'
           - 'Latin Cardio (Monday 6:45 pm)'
           - 'Latin Cardio (Thursday 6:45 pm)'
@@ -147,13 +143,13 @@ sections:
         title_align: center
         content: |
 
-          *   **Beginners Ballroom (Foxtrot, Tango)**
-              *   7:30 pm
-          
-          
-          
           *   **Beginners Salsa, Bachata**
               *   6:45 pm
+          
+          
+          
+          *   **Beginners Ballroom (Foxtrot, Tango)**
+              *   7:30 pm
 
 
 
