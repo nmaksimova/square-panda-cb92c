@@ -41,7 +41,7 @@ sections:
       
       
       
-      New Salsa and Bachata Group Class for Beginners is starting November 29th
+      New Salsa Group Class for Beginners is starting November 29th
       
       
     actions:
