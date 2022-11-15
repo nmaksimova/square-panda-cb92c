@@ -23,7 +23,7 @@ sections:
     content: >
 
 
-      *   **Beginners Salsa, Bachata** (Tuesday 6:45pm, starting November 29th)
+      *   **Beginners Salsa** (Tuesday 6:45pm, starting November 29th)
 
 
       *   **Beginners Ballroom: Foxtrot, Tango** (Tuesday 7:30pm)
@@ -102,7 +102,7 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'Beginners Salsa, Bachata (Tuesday 6:45 pm)'
+          - 'Beginners Salsa (Tuesday 6:45 pm)'
           - 'Beginners Ballroom (Tuesday 7:30 pm)'
           - 'Beginners Salsa, Bachata (Wednesday 6:45 pm)'
           - 'Intermediate Bachata (Tuesday 7:30pm)'
@@ -143,7 +143,7 @@ sections:
         title_align: center
         content: |
 
-          *   **Beginners Salsa, Bachata**
+          *   **Beginners Salsa**
               *   6:45 pm
           
           
