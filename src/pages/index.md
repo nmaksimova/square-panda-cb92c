@@ -41,7 +41,7 @@ sections:
       
       
       
-      New Salsa Group Class for Beginners is starting December 27th
+      New Salsa Group Class for Beginners is starting December 27
       
       
     actions:
