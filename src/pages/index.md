@@ -32,7 +32,7 @@ sections:
     background_image_repeat: no-repeat
     
   - content: >
-      ## Adult Dance Programs
+      ## Adult Dance Programs (test)
 
 
       (for singles and couples; same sex couples)
