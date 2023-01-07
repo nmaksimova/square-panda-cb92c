@@ -412,7 +412,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/show_20.jpeg
+    image: images/show-20.jpeg
   - type: grid_section
     title: Our Location
     subtitle: ''
