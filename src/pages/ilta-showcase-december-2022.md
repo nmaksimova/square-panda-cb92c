@@ -1,8 +1,8 @@
 ---
-title: Gallery- Ilta Dance
-excerpt: Gallery - Ilta Dance
+title: Winter Showcase 2022
+excerpt: Ilta Winter Showcase
 sections:
-  - title: Gallery - Ilta Showcases
+  - title: Winter Showcase 2022
     actions: []
     image_alt: lorem-ipsum
     media_position: top
@@ -24,13 +24,13 @@ sections:
         actions: []
         actions_align: left
         actions_width: auto
-        image_alt: lorem-ipsum
+        image_alt: kids dancing
         image_position: top
         image_width: sixty
         image_align: center
         image_has_padding: false
         type: grid_item
-        image: images/Ilta_Showcase.jpg
+        image: images/show-0.jpg.jpg
       - title_align: left
         content_align: left
         actions: []
@@ -42,7 +42,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/IMG_0599.jpg
+        image: images/show-1.JPG
       - title_align: left
         content_align: left
         actions: []
@@ -54,7 +54,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/IMG_0600.jpg
+        image: images/show-2.JPG
       - title_align: left
         content_align: left
         actions: []
@@ -66,7 +66,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/IMG_0601.jpg
+        image: images/show-3.JPG
       - title_align: left
         content_align: left
         actions: []
@@ -78,7 +78,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/IMG_0602.jpg
+        image: images/show-4.JPG
       - title_align: left
         content_align: left
         actions: []
@@ -90,7 +90,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/IMG_0604.jpg
+        image: images/show-5.JPG
       - title_align: left
         content_align: left
         actions: []
@@ -102,7 +102,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/IMG_0605.jpg
+        image: images/show-6.JPG
       - title_align: left
         content_align: left
         actions: []
@@ -114,7 +114,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/IMG_0606.jpg
+        image: images/show-7.JPG
       - title_align: left
         content_align: left
         actions: []
@@ -126,7 +126,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/IMG_0608.jpg
+        image: images/show-8.JPG
       - title_align: left
         content_align: left
         actions: []
@@ -138,7 +138,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/IMG_0609.jpg
+        image: images/show-9.JPG
       - title_align: left
         content_align: left
         actions: []
@@ -150,7 +150,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/IMG_0610.jpg
+        image: images/show-10.jpeg
       - title_align: left
         content_align: left
         actions: []
@@ -162,7 +162,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/IMG_0611.jpg
+        image: images/show-11.jpg
       - title_align: left
         content_align: left
         actions: []
@@ -174,7 +174,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/IMG_0612.jpg
+        image: images/show-12.jpg
       - title_align: left
         content_align: left
         actions: []
@@ -186,7 +186,103 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/FB-IMG-1528334249909-Original.jpg
+        image: images/show-13.jpeg
+      - title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        image: images/show-14.jpg
+      - title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        image: images/show-15.jpg
+      - title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        image: images/show-16.jpg
+      - title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        image: images/show-17.jpg
+       - title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        image: images/show-18.jpg
+      - title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        image: images/show-19.jpeg
+      - title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        image: images/show-20.jpeg
+      - title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        image: images/show-21.jpeg
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
