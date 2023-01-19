@@ -23,7 +23,7 @@ sections:
     content: >
 
 
-      *   **Beginners Salsa** (Tuesday 6:45pm, starting December 27th)
+      *   **Beginners Salsa** (Tuesday 6:45pm, starting January 24th)
 
 
       *   **Beginners Ballroom: Foxtrot, Tango** (Tuesday 7:30pm)
