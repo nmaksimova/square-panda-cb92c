@@ -41,7 +41,7 @@ sections:
       
       
       
-      New Salsa Group Class for Beginners is starting January 17th, 2023
+      New Salsa Group Class for Beginners is starting January 24th, 2023
       
       
     actions:
