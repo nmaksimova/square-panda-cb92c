@@ -41,9 +41,9 @@ sections:
       
       
       
-      **New Latin Group Classes for Beginners are starting February 21th, 2023**
+      **New Latin Group Classes for Beginners are starting February 21th, 2023**\
       
-      Salsa, Bachata, Rumba, Swing
+      Salsa, Bachata, Rumba, Swing\
       
       Click here to register and see the schedule
       
