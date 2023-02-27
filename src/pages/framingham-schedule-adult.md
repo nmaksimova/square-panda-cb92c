@@ -26,7 +26,7 @@ sections:
       *   **Beginners Salsa, Bachata** (Wednesday 6:45pm, starting February 22th)
 
 
-      *   **Beginners Rumba, Swing** (Tuesday 7:30pm, starting February 21st)
+      *   **Beginners Rumba, Swing** (Tuesday 7:30pm, starting March 7th)
 
 
       *   **Latin Cardio:** dance style workout class for all levels (Monday 6:45 pm; Thursday
