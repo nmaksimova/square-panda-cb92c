@@ -41,9 +41,9 @@ sections:
       
       
       
-      **New Latin Group Classes for Beginners are starting March 7th, 2023**\
+      **New Salsa Ladies Group is starting March 21st, 2023**\
       
-      Salsa, Bachata, Rumba, Swing\
+      Learn Salsa Ladies Styling Techniques\
       
       Click here to register and see the schedule
       
