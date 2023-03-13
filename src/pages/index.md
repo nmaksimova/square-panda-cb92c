@@ -41,9 +41,10 @@ sections:
       
       
       
-      **New Salsa Ladies Group is starting March 21st, 2023**\
+      **Salsa Ladies Group is starting March 21st, 2023**\
       
-      Learn Salsa Ladies Styling Techniques\
+      **New Salsa Group is starting April 4th, 2023**\
+      
       
       Click here to register and see the schedule
       
