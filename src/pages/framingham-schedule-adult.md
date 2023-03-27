@@ -23,7 +23,7 @@ sections:
     content: >
 
 
-      *   **Beginners Salsa Ladies** (Tuesday 6:45pm, starting March 21th)
+      *   **Beginners Salsa Ladies** (Tuesday 6:45pm, starting April 4th)
 
       *   **Beginners Salsa Group** (Tuesday 7:30pm, starting April 4th)
 
