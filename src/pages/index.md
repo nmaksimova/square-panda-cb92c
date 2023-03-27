@@ -41,7 +41,7 @@ sections:
       
       
       
-      **Salsa Ladies Group is starting March 21st, 2023**\
+      **Salsa Ladies Group is starting March 28th, 2023**\
       
       **New Salsa Group is starting April 4th, 2023**
       
