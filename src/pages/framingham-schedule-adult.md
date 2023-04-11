@@ -23,11 +23,11 @@ sections:
     content: >
 
 
-      *   **Beginners Salsa Group** (Tuesday 6:45pm, starting April 11th)
+      *   **Beginners Salsa Group** (Tuesday 6:45pm, starting April 25th)
 
-      *   **Salsa Ladies Group** (Tuesday 7:30pm, starting April 18th)
+      *   **Salsa Ladies Group** (Tuesday 7:30pm, starting April 25th)
 
-      *   **Beginners Rumba, Swing** (Tuesday 7:30pm, starting March 21st)
+      *   **Beginners Rumba, Swing** (Tuesday 7:30pm)
 
 
       *   **Latin Cardio:** dance style workout class for all levels (Monday 6:45 pm; Thursday
