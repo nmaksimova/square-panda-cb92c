@@ -23,9 +23,8 @@ sections:
     content: >
 
 
-      *   **Beginners Salsa Group** (Tuesday 6:45pm, starting April 25th)
+      *   **Beginners Salsa Group** (Wednesday 6:45pm, starting May 24th)
 
-      *   **Salsa Ladies Group** (Tuesday 7:30pm, starting April 25th)
 
       *   **Beginners Rumba, Swing** (Tuesday 7:30pm)
 
@@ -97,8 +96,7 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'Beginners Salsa Group (Tuesday 6:45 pm)'
-          - 'Salsa Ladies (Tuesday 7:30 pm)'
+          - 'Beginners Salsa Group (Wednesday 6:45 pm)'
           - 'Latin Cardio (Thursday 6:45 pm)'
         is_required: true
     submit_label: Register
