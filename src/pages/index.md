@@ -41,9 +41,8 @@ sections:
       
       
       
-      **Salsa Group for Beginners is starting April 25th, 2023**\
+      **Salsa Group for Beginners is starting May 24th, 2023**\
       
-      **New Salsa Ladies Group is starting April 25th, 2023**
       
       
       Click here to register and see the schedule
