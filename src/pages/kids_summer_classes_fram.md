@@ -62,12 +62,14 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'Rising Stars (Monday, Wednesday 5:00 pm)'
-          - 'Beginners 3-5 y.o. (Monday, Wednesday 5:00 pm)'
-          - 'Beginners 6-8 y.o. (Monday, Wednesday 5:45 pm)'
-          - 'Beginners 9-11 y.o. (Tuesday, Thursday 5:45 pm)'
-          - 'Hip Hop 5+ (Tuesday, Thursday 5:00 pm)'
-          - 'Beginners Teens (Monday, Wednesday 6:30 pm)'
+          - 'Beginners 3-5 y.o. (Monday 5:00 pm)'
+          - 'Beginners 3-5 y.o. (Wednesday 5:00 pm)'
+          - 'Beginners 6-8 y.o. (Monday 5:45 pm)'
+          - 'Beginners 6-8 y.o. (Wednesday 5:45 pm)'
+          - 'Beginners 9-11 y.o. (Monday 6:30 pm)'
+          - 'Beginners 9-11 y.o. (Wednesday 6:30 pm)'
+          - 'Beginners Teens (Monday 7:15 pm)'
+          - 'Beginners Teens (Wednesday 7:15 pm)'
         is_required: true
     submit_label: Register
     align_vert: top
