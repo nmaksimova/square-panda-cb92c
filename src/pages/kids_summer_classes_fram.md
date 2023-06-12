@@ -17,8 +17,8 @@ sections:
     background_image_position: left center
     background_image_repeat: no-repeat
     type: hero_section
-    title: ' Kids Summer Classes Schedule 2022'
-    subtitle: '   To get started, please download Kids Registration Form'
+    title: ' Kids Summer Classes Schedule 2023'
+    subtitle: 'Summer rhythm awaits! Join our Kids Latin and Ballroom Dance Classes from July 5th to July 30th. Boost their fitness, confidence, and creativity while having a blast. Open to all ages and skill levels. Enroll today for a summer of dance magic!'
     background_image: images/Start_dancing.png
   - title: Register for Kids Summer Classes
     title_align: center
