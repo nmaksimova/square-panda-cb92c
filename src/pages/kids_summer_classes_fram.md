@@ -94,7 +94,7 @@ sections:
         type: grid_item
         title: 'Beginners: 3-5 y. o.'
         content: |
-          Cost: once a week: $80, twice a week: $140
+          Cost: once a week: $80, twice a week: $150
 
           *   Monday - 5:00 pm
 
@@ -102,7 +102,7 @@ sections:
 
         subtitle: 'Mix Dance Styles (Ballroom, Latin, Hip Hop)'
       - title: 'Beginners: 6-8 y. o.'
-        subtitle: 'Cost: once a week: $80, twice a week: $140'
+        subtitle: 'Cost: once a week: $80, twice a week: $150'
         title_align: center
         content_align: left
         image_alt: lorem-ipsum
@@ -118,13 +118,13 @@ sections:
           *   Wednesday - 5:45 pm
 
       - title: 'Beginners: 9-11 y. o.'
-        subtitle: 'Cost: once a week: $90, twice a week: $160'
+        subtitle: 'Cost: once a week: $80, twice a week: $150'
         title_align: center
         content: |
 
-          *   Tuesday - 5:45 pm
+          *   Monday - 6:30 pm
 
-          *   Thursday - 5:45 pm
+          *   Wednesday - 6:30 pm
 
         content_align: left
         image_alt: lorem-ipsum
@@ -138,8 +138,8 @@ sections:
         content: |
 
 
-          *   Monday - 6:30 pm
-          *   Wednesday - 6:30 pm
+          *   Monday - 7:15 pm
+          *   Wednesday - 7:15 pm
         content_align: left
         image_alt: lorem-ipsum
         image_position: top
@@ -147,21 +147,8 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        subtitle: 'Cost: once a week: $80, twice a week: $140'
-      - title: Hip Hop 5+
-        title_align: center
-        content: |
-          *   Tuesday - 5:00 pm
-          *   Thursday - 5:00 pm
-
-        content_align: left
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        subtitle: 'Cost: once a week: $90, twice a week: $160'
+        subtitle: 'Cost: once a week: $80, twice a week: $150'
+     
 
     grid_cols: three
     grid_gap_vert: small
@@ -178,7 +165,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     background_image: images/kids_beginners.jpeg
-    subtitle: Kids group classes start July 5th, 2022
+    subtitle: Kids group classes start July 5th, 2023
   - title: Rising Stars Schedule
     actions: []
     grid_items:
