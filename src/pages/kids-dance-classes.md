@@ -125,7 +125,7 @@ sections:
         actions:
           - label: Form Framingham
             url: >-
-              https://square-panda-cb92c.netlify.app/images/ILTA-Fram-Kids-Registration-2022-23.pdf
+              https://square-panda-cb92c.netlify.app/images/ILTA-Fram-Kids-Registration-2023-24.pdf
             style: secondary
             has_icon: false
             icon: arrow-right
@@ -133,16 +133,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: Form Salem
-            url: >-
-              https://square-panda-cb92c.netlify.app/images/ILTA-Marblehead-21.pdf
-            style: secondary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
+         
           - label: Kids Schedule Framingham
             url: /framingham-schedule-kids
             style: primary
@@ -152,15 +143,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: Kids Schedule Salem
-            url: /salem-schedule-kids
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
+
       - title: Kids Private Lessons
         subtitle: ''
         content: >
@@ -207,8 +190,7 @@ sections:
       - title: ''
         subtitle: ''
         content: >
-          #### **Please download Kids Registration Form for Framingham or Salem
-          location, fill it out and email back to us.**
+          #### **Please download Kids Registration Form, fill it out and email back to us.**
         actions:
           - label: Framingham Registration Form
             url: >-
@@ -256,38 +238,8 @@ sections:
         actions_align: left
         actions_width: auto
         title_align: center
-      - title: Salem
-        content: >
-          A Performing Arts Academy
-
-
-          96 Swampscott Rd #6
-
-
-          Salem, MA 01970
-
-
-          [781-492-2769](tel:+12345567890)
-
-
-          [**dance@iltadance.com**](mailto:dance@iltadance.com)[](mailto:email@example.com)
-
-
-          [](mailto:email@example.com)
-        content_align: left
-        actions:
-          - label: Salem Schedule
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-            url: /schedule-salem
-        actions_align: left
-        actions_width: auto
-        title_align: center
+        
+     
     grid_cols: two
     grid_gap_horiz: large
     grid_gap_vert: large
