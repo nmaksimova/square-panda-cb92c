@@ -5,7 +5,7 @@ sections:
   - actions:
       - label: Framingham Registration Form
         url: >-
-          https://square-panda-cb92c.netlify.app/images/ILTA-Fram-Kids-Registration-2022-23.pdf
+          https://square-panda-cb92c.netlify.app/images/ILTA-Fram-Kids-Registration-2023-24.pdf
         style: primary
         has_icon: false
         icon: arrow-left
@@ -149,7 +149,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     background_image: images/image_6483441 (6).JPG
-    subtitle: Kids group classes start after Labor day (September 6th)
+    subtitle: Kids group classes start after Labor day (September 4th)
   - title: Kids Hip Hop Classes
     actions: []
     grid_items:
