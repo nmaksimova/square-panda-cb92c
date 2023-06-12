@@ -2,7 +2,8 @@
 title: 'Dance Group Classes Schedule, Framingham, MA'
 excerpt: Dance Schedule
 sections:
-  
+  - actions: []
+      
     image_alt: lorem-ipsum
     media_position: top
     media_width: fifty
