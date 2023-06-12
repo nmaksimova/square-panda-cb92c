@@ -78,10 +78,10 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   
-  - title: Winter Showcase 2022
+  - title: Kids Summer Classes 2023
     actions:
-      - label: Showcase Pictures
-        url: /ilta-showcase-december-2022
+      - label: Kids Summer Classes
+        url: /kids_summer_classes_fram
         style: primary
         has_icon: false
         icon: arrow-left
@@ -89,7 +89,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-    image_alt: Ilta dance showcase
+    image_alt: Kids Summer Classes
     media_position: left
     media_width: fifty
     align: left
@@ -102,7 +102,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/show-20.jpeg
+    image: images/kids-summer-2023.jpg
   
   - content: |
       ## Registration is open for Kids Dance Classes 2023-2024
