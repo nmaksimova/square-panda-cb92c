@@ -166,42 +166,8 @@ sections:
     type: grid_section
     background_image: images/kids_beginners.jpeg
     subtitle: Kids group classes start July 5th, 2023
-  - title: Rising Stars Schedule
-    actions: []
-    grid_items:
-      - title: 'Classes start July 6th'
-        title_align: center
-        content: |
-          Classes are running from July 5 - July 30, twice a week.
-          Each class is 1.5 hour long.
-          Cost is $245
+    
 
-
-          *   Monday: 5:00 pm - 6:30 pm
-          *   Wednesday: 5:00 pm - 6:30 pm
-        content_align: left        
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-
-    grid_cols: two
-    grid_gap_vert: small
-    grid_gap_horiz: small
-    enable_cards: true
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 15
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: grid_section
-    background_image: images/rising_stars.jpeg
   - actions:
       - label: Back to Schedule
         url: /schedule
