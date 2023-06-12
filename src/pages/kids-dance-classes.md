@@ -16,7 +16,7 @@ sections:
     actions:
       - label: Framingham Registration Form
         url: >-
-          https://square-panda-cb92c.netlify.app/images/ILTA-Fram-Kids-Registration-2022-23.pdf
+          https://square-panda-cb92c.netlify.app/images/ILTA-Fram-Kids-Registration-2023-24.pdf
         style: primary
         has_icon: false
         icon: arrow-left
@@ -24,17 +24,9 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: Salem Registration Form
-        url: 'https://square-panda-cb92c.netlify.app/images/ILTA-Marblehead-21.pdf'
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
+
   - content: |
-      ## New Schedule for 2022-2022 school year
+      ## New Schedule for 2023-2024 school year
 
       ##### **Framingham Location**
     actions:
