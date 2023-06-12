@@ -105,7 +105,7 @@ sections:
     image: images/show-20.jpeg
   
   - content: |
-      ## Registration is open for Kids Dance Classes 2022-2023
+      ## Registration is open for Kids Dance Classes 2023-2024
 
       **Dance classes for all ages and levels!**
 
@@ -119,7 +119,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-        url: 'https://square-panda-cb92c.netlify.app/images/ILTA-Fram-Kids-Registration-2022-23.pdf'
+        url: 'https://square-panda-cb92c.netlify.app/images/ILTA-Fram-Kids-Registration-2023-24.pdf'
       - label: Framingham Schedule
         url: /framingham-schedule-kids
         style: primary
