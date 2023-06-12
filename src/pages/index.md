@@ -31,6 +31,33 @@ sections:
     has_border: true
     background_image_repeat: no-repeat
     
+    
+  - title: Kids Summer Classes 2023
+    actions:
+      - label: Kids Summer Classes
+        url: /kids_summer_classes_fram
+        style: primary
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
+    image_alt: Kids Summer Classes
+    media_position: left
+    media_width: fifty
+    align: left
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: hero_section
+    image: images/kids-summer-2023.jpg  
+    
   - content: >
       ## Adult Dance Programs
 
@@ -58,7 +85,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-    image_alt: lorem-ipsum
+    image_alt: adult-dance-classes
     video_embed_html: >-
       <iframe width="560" height="315"
       src="https://www.youtube.com/embed/ra9qUBdCBsQ?controls=0" title="YouTube
@@ -78,31 +105,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   
-  - title: Kids Summer Classes 2023
-    actions:
-      - label: Kids Summer Classes
-        url: /kids_summer_classes_fram
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
-    image_alt: Kids Summer Classes
-    media_position: left
-    media_width: fifty
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
-    image: images/kids-summer-2023.jpg
+  
   
   - content: |
       ## Registration is open for Kids Dance Classes 2023-2024
