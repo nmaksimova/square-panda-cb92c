@@ -87,18 +87,8 @@
                 "label": "Framingham",
                 "url": "/schedule-framingham",
                 "style": "primary"
-            },
-            {
-                "label": "Salem",
-                "url": "/schedule-salem",
-                "style": "primary",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
+           
         ],
         "has_anncmnt": true,
         "anncmnt_content": "Adult dance classes for beginners, no previous experience required! Salsa, Bachata, Swing, Social Dancing, and more! Join Us!\n",
@@ -225,7 +215,7 @@
                 "new_window": true
             }
         ],
-        "content": "Ilta Dance Studio, 2022"
+        "content": "Ilta Dance Studio, 2023"
     },
     "title": "Ilta Dance Studio",
     "favicon": "images/favicon.png",
