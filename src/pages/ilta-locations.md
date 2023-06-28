@@ -49,30 +49,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-      - image_alt: Netlify logo
-        image_align: center
-        title: Salem
-        title_align: center
-        content: |
-          A Performing Arts Academy
-
-          96 Swampscott Rd #6
-
-          Salem, MA 01970
-
-          [781-492-2769 ](tel:+12345567890)
-
-          **dance@iltadance.com**
-        actions:
-          - label: Salem Schedule
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-            url: /schedule-salem
+     
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
