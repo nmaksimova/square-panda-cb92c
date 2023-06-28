@@ -196,7 +196,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     background_image: images/friendly-mars.jpg
-  - title: Kids Classes 2022-2023 Enrollment
+  - title: Kids Classes 2023-2024 Enrollment
     title_align: center
     content: |
       *   Classes start after Labor Day, Tuesday September 6th
@@ -206,7 +206,7 @@ sections:
     form_width: fifty
     form_layout: stacked
     enable_card: true
-    form_id: Kids Enrollment 2022-2023
+    form_id: Kids Enrollment 2023-2023
     form_action: /thank-you
     form_fields:
       - input_type: text
