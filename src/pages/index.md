@@ -68,7 +68,7 @@ sections:
       
       
       
-      **Salsa Group for Beginners is starting June 7th, 2023**\
+      **Salsa Group Classes for Beginners**
       
       
       
