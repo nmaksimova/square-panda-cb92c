@@ -46,24 +46,11 @@ sections:
 
           *   Tuesday - 5:00 pm
 
+          *   Thursday - 5:00 pm
+
           *   Saturday - 11:15 am
         subtitle: 'Mix Dance Styles (Ballroom, Latin, Hip-Hop, Ballet)'
-      - title: 'Beginners: 4-6 y. o.'
-        title_align: center
-        subtitle: 'Mix Dance Styles (Ballroom, Latin, Hip Hop, Ballet)'
-        content_align: left
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        content: |
-          45 minutes lessons
-
-          *   Monday - 5:00 pm
-
-          *   Thursday -5:00 pm
+      
       - title: 'Beginners: 5-7 y. o.'
         title_align: center
         content_align: left
@@ -76,9 +63,13 @@ sections:
         content: |
           45 minutes lessons
 
+          *   Monday - 5:00 pm
+          
           *   Wednesday - 5:00 pm
 
           *   Saturday -10:30 am
+        subtitle: 'Mix Dance Styles (Ballroom, Latin, Hip-Hop, Ballet)' 
+
       - title: 'Beginners: 8-10 y. o.'
         title_align: center
         content_align: left
