@@ -100,8 +100,8 @@ sections:
         content: |
 
 
-          *   Tuesday - 6:45 pm
-          *   Thursday - 6:45 pm
+          *   Monday - 6:30 pm
+          *   Wednesday - 6:30 pm
         content_align: left
         image_alt: lorem-ipsum
         image_position: top
