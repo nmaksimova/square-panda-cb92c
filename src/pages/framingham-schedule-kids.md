@@ -91,9 +91,9 @@ sections:
         content: |
           45 minutes lessons
 
-          *   Monday - 6:00 pm
+          *   Monday - 5:45 pm
 
-          *   Wednesday - 6:00 pm
+          *   Wednesday - 5:45 pm
 
       - title: 'Beginners: Teens'
         title_align: center
