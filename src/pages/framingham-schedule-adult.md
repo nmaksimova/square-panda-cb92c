@@ -23,7 +23,7 @@ sections:
     content: >
 
 
-      *   **Beginners Salsa Group** (Wednesday 6:45pm, starting June 7th)
+      *   **Beginners Salsa Group** (Wednesday 6:45pm)
 
 
       *   **Beginners Rumba, Swing** (Tuesday 7:30pm)
@@ -162,7 +162,7 @@ sections:
         title_align: center
         content: |
 
-          **Beginners Salsa, Bachata**
+          **Beginners Salsa**
 
           *   6:45 pm
 
