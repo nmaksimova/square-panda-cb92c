@@ -29,7 +29,7 @@ sections:
       *   **Beginners Rumba, Swing** (Tuesday 7:30pm)
 
 
-      *   **Latin Cardio:** dance style workout class for all levels (Monday 6:45 pm; Thursday
+      *   **Latin Cardio:** dance style workout class for all levels (Thursday
       6:45 pm)
       
 
