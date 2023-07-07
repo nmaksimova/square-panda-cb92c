@@ -96,6 +96,7 @@ sections:
         label: Select Class
         default_value: Class
         options:
+          - 'Beginners Bachata Group (Monday 6:45 pm)'
           - 'Beginners Salsa Group (Wednesday 6:45 pm)'
           - 'Latin Cardio (Thursday 6:45 pm)'
         is_required: true
@@ -117,7 +118,7 @@ sections:
         title_align: center
         content: |
 
-          *   **Latin Cardio**
+          *   **Bachata**
               *   6:45 pm
         content_align: left
         actions: []
