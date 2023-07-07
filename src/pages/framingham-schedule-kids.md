@@ -47,10 +47,10 @@ sections:
           *   Tuesday - 5:00 pm
 
           *   Saturday - 11:15 am
-        subtitle: 'Mix Dance Styles (Ballroom, Latin, Hip Hop)'
+        subtitle: 'Mix Dance Styles (Ballroom, Latin, Hip-Hop, Ballet)'
       - title: 'Beginners: 4-6 y. o.'
         title_align: center
-        subtitle: 'Mix Dance Styles (Ballroom, Latin, Hip Hop)'
+        subtitle: 'Mix Dance Styles (Ballroom, Latin, Hip Hop, Ballet)'
         content_align: left
         image_alt: lorem-ipsum
         image_position: top
