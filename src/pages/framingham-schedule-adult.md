@@ -23,10 +23,10 @@ sections:
     content: >
 
 
-      *   **Beginners Salsa Group** (Wednesday 6:45pm)
+      *   **New! Beginners Salsa Group** (Wednesday 6:45pm)
 
 
-      *   **Beginners Rumba, Swing** (Tuesday 7:30pm)
+      *   **New! Beginners Salsa Ladies** (Tuesday 7:30pm)
 
 
       *   **Latin Cardio:** dance style workout class for all levels (Thursday
@@ -97,6 +97,7 @@ sections:
         default_value: Class
         options:
           - 'Beginners Bachata Group (Monday 6:45 pm)'
+          - 'Beginners Salsa Ladies Group (Tuesday 7:30 pm)'
           - 'Beginners Salsa Group (Wednesday 6:45 pm)'
           - 'Latin Cardio (Thursday 6:45 pm)'
         is_required: true
@@ -133,16 +134,12 @@ sections:
         title_align: center
         content: |
 
-          *   **Beginners Salsa Ladies**
+          *   **Intermediate Salsa Ladies**
               *   6:45 pm
           
           
           
-          *   **Beginners Rumba, Swing**
-              *   7:30 pm
-
-
-          *   **Beginners Salsa Group**
+          *   **New! Beginners Salsa Ladies**
               *   7:30 pm
 
 
@@ -164,6 +161,10 @@ sections:
         content: |
 
           **Beginners Salsa**
+
+          *   6:45 pm
+   
+          **Ladies Arm Styling with Ema**
 
           *   6:45 pm
 
