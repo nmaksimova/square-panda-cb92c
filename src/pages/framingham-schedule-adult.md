@@ -23,10 +23,10 @@ sections:
     content: >
 
 
-      *   **New! Beginners Salsa Group** (Wednesday 6:45pm)
+      *   **New! Beginners Salsa Group** (September 13th, Wednesday 6:45pm)
 
 
-      *   **New! Beginners Salsa Ladies** (Tuesday 7:30pm)
+      *   **New! Beginners Salsa Ladies** (September 12th, Tuesday 7:30pm)
 
 
       *   **Latin Cardio:** dance style workout class for all levels (Thursday
@@ -160,7 +160,7 @@ sections:
         title_align: center
         content: |
 
-          **Beginners Salsa**
+          **New! Beginners Salsa**
 
           *   6:45 pm
    
