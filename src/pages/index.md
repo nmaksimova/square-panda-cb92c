@@ -32,10 +32,10 @@ sections:
     background_image_repeat: no-repeat
     
     
-  - title: Kids Summer Classes 2023
+  - title: Kids Fall Classes 2023
     actions:
-      - label: Kids Summer Classes
-        url: /kids_summer_classes_fram
+      - label: Registration is Open for Kids Fall Classes
+        url: /framingham-schedule-kids
         style: primary
         has_icon: false
         icon: arrow-left
@@ -43,7 +43,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-    image_alt: Kids Summer Classes
+    image_alt: Kids Fall Classes
     media_position: left
     media_width: fifty
     align: left
@@ -56,7 +56,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/kids-summer-2023.jpg  
+    image: images/Kids-Group-Schedule-2023-24.png  
     
   - content: >
       ## Adult Dance Programs
