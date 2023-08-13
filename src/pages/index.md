@@ -68,7 +68,7 @@ sections:
       
       
       
-      **Salsa Group Classes for Beginners**
+      **New Salsa Group Classes for Beginners start after Labor Day**
       
       
       
