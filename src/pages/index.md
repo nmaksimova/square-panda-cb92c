@@ -32,9 +32,9 @@ sections:
     background_image_repeat: no-repeat
     
     
-  - title: Kids Fall Classes 2023
+  - title: Halloween Social Dance!
     actions:
-      - label: Registration is Open for Kids Fall Classes
+      - label: Halloween Social
         url: /framingham-schedule-kids
         style: primary
         has_icon: false
@@ -43,7 +43,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-    image_alt: Kids Fall Classes
+    image_alt: Halloween Social
     media_position: left
     media_width: fifty
     align: left
@@ -56,7 +56,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/Kids-Group-Schedule-2023-24.png  
+    image: images/Ilta_halloween_2023.jpg  
     
   - content: >
       ## Adult Dance Programs
