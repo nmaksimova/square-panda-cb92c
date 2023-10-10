@@ -60,7 +60,7 @@ sections:
   - content: >                
     Join us for Halloween Social Dance!
 
-    Tickets are on sale:
+    Tickets are on sale
     $20 if prepaid in advance
     $25 at the door (cash only)
     
