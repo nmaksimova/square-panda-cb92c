@@ -32,7 +32,7 @@ sections:
     background_image_repeat: no-repeat
     
     
-  - title: Halloween Social Dance!
+  - title: Halloween Social
     actions:
       - label: Halloween Social
         url: /framingham-schedule-kids
@@ -56,7 +56,10 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/Ilta_halloween_2023.jpg  
+    image: images/Ilta_halloween_2023.jpg
+  - content: >           
+      
+      Join us for Halloween Social Dance!
     
   - content: >
       ## Adult Dance Programs
