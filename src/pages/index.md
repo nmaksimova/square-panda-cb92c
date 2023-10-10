@@ -57,9 +57,13 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/Ilta_halloween_2023.jpg
-  - content: >           
-      
-      Join us for Halloween Social Dance!
+  - content: >                
+    Join us for Halloween Social Dance!
+
+    Tickets are on sale:
+    $20 if prepaid in advance
+    $25 at the door (cash only)
+    
     
   - content: >
       ## Adult Dance Programs
