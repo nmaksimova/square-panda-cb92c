@@ -33,6 +33,7 @@ sections:
     
     
   - title: Halloween Social
+  - content" "Join us for Halloween Social Dance"
     actions:
       - label: Halloween Social
         url: /framingham-schedule-kids
