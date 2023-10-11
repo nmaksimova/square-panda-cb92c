@@ -80,27 +80,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-  - title: Halloween Social Dance
-    subtitle: 'Registration is open'
-    content: >
-
-      *   **Tickets are available in the studio** ($20 per person if paid in advance, $25 - at the door, cash only)
-
-    actions: []
-    image_alt: lorem-ipsum
-    media_position: right
-    media_width: fifty
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
-    image: images/Ilta_halloween_2023.jpg
 
 seo:
   title: 'Halloween dance social'
