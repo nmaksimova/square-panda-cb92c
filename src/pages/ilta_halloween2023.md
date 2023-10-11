@@ -27,9 +27,9 @@ sections:
   - title: Register for Halloween Social
     title_align: center
     content: |
-      *   Group Class Session is 6-week long
+      *   Friday, October 27th
 
-      *   $120 per session
+      *   8:00 pm  - 9:30 pm
     content_align: left
     form_position: bottom
     form_width: fifty
