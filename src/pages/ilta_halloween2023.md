@@ -17,8 +17,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     title: Framingham - Adult  Dance Classes Registration
-    background_image: images/Start_dancing.png
-    
+    background_image: images/Start_dancing.png 
   - title: Get Spooky and Swing into the Night at Ilta Dance's Adult Halloween Social Dance Extravaganza!
     subtitle: 'Thrills, Chills, and Dance Skills: Wear Your Costume, Have a Blast, and Learn New Moves at Ilta Dance's Adult Halloween Social Dance Night!'
     content: >
@@ -49,7 +48,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    
   - title: Register for Adult Classes
     title_align: center
     content: |
