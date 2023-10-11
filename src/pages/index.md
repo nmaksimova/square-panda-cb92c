@@ -38,7 +38,7 @@ sections:
       **Get Spooky and Swing into the Night at Ilta Dance's Adult Halloween Social Dance Extravaganza!**
     actions:
       - label: Halloween Social Registration
-        url: /framingham-schedule-kids
+        url: /ilta_halloween2023
         style: primary
         has_icon: false
         icon: arrow-left
