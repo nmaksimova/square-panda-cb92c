@@ -76,23 +76,14 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-  - title: Registration is Open for May Classes (Beginners)
-    subtitle: 'Session is 6-week long, $120 per session'
+  - title: Halloween Social Dance
+    subtitle: 'Registration is open'
     content: >
 
-      *   **Beginners Salsa** (Wednesday 6:45pm, starting May 11th)
+      *   **Tickets are available in the studio** ($20 per person if paid in advance, $25 - at the door, cash only)
 
-
-      *   **Latin Cardio:** dance style workout class for all levels (Thursday
-      6:45 pm)
     actions: []
     image_alt: lorem-ipsum
-    video_embed_html: >-
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/ra9qUBdCBsQ?controls=0" title="YouTube
-      video player" frameborder="0" allow="accelerometer; autoplay;
-      clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-      allowfullscreen></iframe>
     media_position: right
     media_width: fifty
     align: left
@@ -105,6 +96,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    image: images/Ilta_halloween_2023.jpg
 
 seo:
   title: 'Halloween dance social'
