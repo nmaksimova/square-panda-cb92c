@@ -1,6 +1,6 @@
 ---
-title: Framingham Registration Form Adults
-excerpt: Framingham Registration Form Adults
+title: Halloween Social Dance Registration
+excerpt: Halloween Social Dance
 sections:
   - actions: []
     image_alt: lorem-ipsum
@@ -18,6 +18,38 @@ sections:
     type: hero_section
     title: Framingham - Adult  Dance Classes Registration
     background_image: images/Start_dancing.png
+    
+  - title: Get Spooky and Swing into the Night at Ilta Dance's Adult Halloween Social Dance Extravaganza!
+    subtitle: 'Thrills, Chills, and Dance Skills: Wear Your Costume, Have a Blast, and Learn New Moves at Ilta Dance's Adult Halloween Social Dance Night!'
+    content: >
+
+      *   **Register Today to Reserve your Spot**
+      *   **Tickets are on sale now**
+      *   You can pay in the studio
+      *   **$20** when a ticket purchased in advance
+      *   **$25** at the door (cash only)
+
+    actions: []
+    image_alt: lorem-ipsum
+    video_embed_html: >-
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/ra9qUBdCBsQ?controls=0" title="YouTube
+      video player" frameborder="0" allow="accelerometer; autoplay;
+      clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen></iframe>
+    media_position: right
+    media_width: fifty
+    align: left
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: hero_section
+    
   - title: Register for Adult Classes
     title_align: center
     content: |
@@ -75,59 +107,11 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-  - title: Registration is Open for May Classes (Beginners)
-    subtitle: 'Session is 6-week long, $120 per session'
-    content: >
-
-      *   **Beginners Salsa** (Wednesday 6:45pm, starting May 11th)
 
 
-      *   **Latin Cardio:** dance style workout class for all levels (Thursday
-      6:45 pm)
-    actions: []
-    image_alt: lorem-ipsum
-    video_embed_html: >-
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/ra9qUBdCBsQ?controls=0" title="YouTube
-      video player" frameborder="0" allow="accelerometer; autoplay;
-      clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-      allowfullscreen></iframe>
-    media_position: right
-    media_width: fifty
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
-  - actions:
-      - label: Back to All Schedule
-        url: /schedule
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
-    actions_position: bottom
-    actions_width: fourty
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: secondary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: cta_section
+
 seo:
-  title: ''
+  title: 'Halloween dance social'
   description: ''
   robots: []
   extra: []
