@@ -1,5 +1,5 @@
 ---
-title: Halloween Social Dance Registration
+title: Halloween Social Dance For Adults Registration
 excerpt: Halloween Social Dance
 sections:
   - title: Halloween Social Dance
@@ -24,24 +24,7 @@ sections:
     type: hero_section
     image: images/Ilta_halloween_2023.jpg
 
-  - actions: []
-    image_alt: lorem-ipsum
-    media_position: top
-    media_width: fifty
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: secondary
-    background_image_opacity: 10
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
-    title: Framingham - Adult  Dance Classes Registration
-    background_image: images/Start_dancing.png
-
-  - title: Register for Adult Classes
+  - title: Register for Halloween Social
     title_align: center
     content: |
       *   Group Class Session is 6-week long
