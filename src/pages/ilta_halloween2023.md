@@ -67,8 +67,7 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'Beginners Salsa (Wednesday 6:45 pm)'
-          - 'Latin Cardio (Thursday 6:45 pm)'
+          - 'Halloween Social (Friday, October 27th at 8:00 pm)'
         is_required: true
     submit_label: Register
     align_vert: top
