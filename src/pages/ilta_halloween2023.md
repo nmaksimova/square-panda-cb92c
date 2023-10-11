@@ -77,7 +77,36 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
 
+  - title: Get Spooky and Swing into the Night at Ilta Dance's Adult Halloween Social Dance Extravaganza!
+    subtitle: 'Thrills, Chills, and Dance Skills: Wear Your Costume, Have a Blast, and Learn New Moves at Ilta Dance's Adult Halloween Social Dance Night!'
+    content: >
 
+      *   **Register Today to Reserve your Spot**
+      *   **Tickets are on sale now**
+      *   You can pay in the studio
+      *   **$20** when a ticket purchased in advance
+      *   **$25** at the door (cash only)
+
+    actions: []
+    image_alt: lorem-ipsum
+    video_embed_html: >-
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/ra9qUBdCBsQ?controls=0" title="YouTube
+      video player" frameborder="0" allow="accelerometer; autoplay;
+      clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen></iframe>
+    media_position: right
+    media_width: fifty
+    align: left
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: hero_section
 
 seo:
   title: 'Halloween dance social'
