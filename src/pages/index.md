@@ -59,7 +59,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/Ilta_halloween_2023.jpg    
+    image: images/kids_free_class.jpg    
     
     
   - content: >
