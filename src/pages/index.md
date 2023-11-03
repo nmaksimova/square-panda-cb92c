@@ -46,7 +46,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-    image_alt: Kids Dance Class
+    image_alt: Register for Free Class
     media_position: left
     media_width: fifty
     align: left
