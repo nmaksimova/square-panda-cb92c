@@ -7,6 +7,7 @@ sections:
     content: >
 
       *   **Date:** Wednesday, November 8th
+   
       *   **Time:** 5:45 pm
 
     actions: []
