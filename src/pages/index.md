@@ -32,13 +32,13 @@ sections:
     background_image_repeat: no-repeat
 
   - content: |
-      ## Halloween Social Dance!
+      ## FREE Kids Intro Dance Class!
 
 
-      **Get Spooky and Swing into the Night at Ilta Dance's Adult Halloween Social Dance Extravaganza!**
+      **Join us for an unforgettable dance class specially crafted for kids aged 6 and up!**
     actions:
-      - label: Halloween Social Registration
-        url: /ilta_halloween2023
+      - label: Kids Dance Class
+        url: /ilta_new_class
         style: primary
         has_icon: false
         icon: arrow-left
@@ -46,7 +46,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-    image_alt: Halloween Social
+    image_alt: Kids Dance Class
     media_position: left
     media_width: fifty
     align: left
