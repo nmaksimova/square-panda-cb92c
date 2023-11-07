@@ -20,7 +20,7 @@ sections:
     grid_items:
       - title: Tamaz Shiloshvili
         title_align: center
-        content: "**Tamaz** has over 25 years of experience teaching both children and adults. Born in Georgia, USSR, he discovered his love for dance at the age of 8. Tamaz soon \n"
+        content: "**Tamaz** has over 25 years of experience teaching both children and adults. Born in Georgia, USSR, he discovered his love for dance at the age of 8. Tamaz soon found himself immersed in the exciting world of competetive dance, consistently earning top honors.\n\n \n"
         content_align: left
         actions: []
         actions_align: left
