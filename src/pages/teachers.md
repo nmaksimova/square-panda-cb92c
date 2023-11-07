@@ -20,7 +20,7 @@ sections:
     grid_items:
       - title: Tamaz Shiloshvili
         title_align: center
-        content: "**Tamaz** has over 25 years of experience teaching both children and adults. Born in Georgia, USSR, he discovered his love for dance at the age of 8. Tamaz soon found himself immersed in the exciting world of competetive dance, consistently earning top honors.\n\n At the age of 16, Tamaz's life took a new turn when his family relocated to a different part of the world. It was during this transition that he crossed paths with Ilana. Together they achieved the prestigious title of National Champions in Latin and Ballroom dancing. \n\n In the year 2000, Tamaz and Ilana received a remarkable opportunity to share their dance expertise at the renowned Fred Astaire Studios located in Boston, MA. \n"
+        content: "**Tamaz** has over 25 years of experience teaching both children and adults. Born in Georgia, USSR, he discovered his love for dance at the age of 8. Tamaz soon found himself immersed in the exciting world of competetive dance, consistently earning top honors.\n\n At the age of 16, Tamaz's life took a new turn when his family relocated to a different part of the world. It was during this transition that he crossed paths with Ilana. Together they achieved the prestigious title of National Champions in Latin and Ballroom dancing. \n\n In the year 2000, Tamaz and Ilana received a remarkable opportunity to share their dance expertise at the renowned Fred Astaire Studios located in Boston, MA. Six years later, in 2006, they realized their dream by founding their own studio, "ILTA Dance," in the vibrant community of Framingham. \n"
         content_align: left
         actions: []
         actions_align: left
