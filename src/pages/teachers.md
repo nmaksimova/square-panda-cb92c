@@ -69,7 +69,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/Erik.png
+        image: images/ema.jpg
         
       - title: Jenya Didenko
         title_align: center
