@@ -32,12 +32,12 @@ sections:
     background_image_repeat: no-repeat
 
   - content: |
-      ## FREE Kids Intro Dance Class!
+      ## NEW! Salsa Group Class
 
 
-      **Join us for an unforgettable dance class specially crafted for kids aged 6 and up!**
+      **Join our new Salsa Group Class for Beginners. Group is starting on November 15th at 6:45 pm**
     actions:
-      - label: Kids Dance Class
+      - label: Salsa Group Class
         url: /ilta_new_class
         style: primary
         has_icon: false
@@ -46,7 +46,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-    image_alt: Register for Free Class
+    image_alt: Register for Salsa Class
     media_position: left
     media_width: fifty
     align: left
@@ -59,7 +59,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/kids_free_class.jpg    
+    image: images/salsa_group_2.jpg    
     
     
   - content: >
