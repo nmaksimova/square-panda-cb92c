@@ -9,6 +9,8 @@ sections:
       *   **Date:** Wednesday, November 15th
    
       *   **Time:** 6:45 pm
+      *   **Session Duration:** 6-week long
+      *   **Cost:** $120 per session
 
     actions: []
     image_alt: salsa-dance-class
