@@ -53,8 +53,7 @@ sections:
         
       - title: Ema Morgovsky
         title_align: center
-        content: >+
-          **Ema** has been dancing at Ilta for over 14 years now, since she was 3 years old! Ema has been in major Youth and U21 finals across the country in the International Latin style, including NYDF U21 final, Tri-State Youth Final, and Eastern United States Vice Champion. One of her biggest accomplishments is winning the 2022 USA youth pre-Champ title.  \n\n Ladies latin arm styling, children's beginners, intermediate, and advanced group classes, and private classes for all ages and levels are all classes available to take with Ema at ILTA Dance Studio!
+        content: "**Ema** has been dancing at Ilta for over 14 years now, since she was 3 years old! Ema has been in major Youth and U21 finals across the country in the International Latin style, including NYDF U21 final, Tri-State Youth Final, and Eastern United States Vice Champion. One of her biggest accomplishments is winning the 2022 USA youth pre-Champ title.  \n\n Ladies latin arm styling, children's beginners, intermediate, and advanced group classes, and private classes for all ages and levels are all classes available to take with Ema at ILTA Dance Studio!\n"
 
         content_align: left
         actions: []
