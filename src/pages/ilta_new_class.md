@@ -1,17 +1,17 @@
 ---
-title: FREE Kids Intro Dance Class
-excerpt: Kids Dance Class
+title: NEW Salsa Group Class
+excerpt: Salsa Dance Class
 sections:
-  - title: FREE Kids Intro Dance Class
-    subtitle: 'For Kids Aged 6 and Up'
+  - title: NEW Salsa Group Class
+    subtitle: 'For Beginners'
     content: >
 
-      *   **Date:** Wednesday, November 8th
+      *   **Date:** Wednesday, November 15th
    
-      *   **Time:** 5:45 pm
+      *   **Time:** 6:45 pm
 
     actions: []
-    image_alt: kids-dance-class
+    image_alt: salsa-dance-class
     media_position: right
     media_width: fifty
     align: left
@@ -24,38 +24,32 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/kids_free_class.jpg
+    image: images/salsa_group_2.jpg
 
-  - title: Register for Kids FREE Class
+  - title: Register for Salsa Group Class
     title_align: center
     content: |
-      *   Wednesday, November 8th
+      *   Wednesday, November 15th
 
-      *   5:45 pm
+      *   6:45 pm
     content_align: left
     form_position: bottom
     form_width: fifty
     form_layout: stacked
     enable_card: true
-    form_id: Kids_Free_Class
+    form_id: Salsa_Group_Class
     form_action: /thank-you
     form_fields:
       - input_type: text
-        name: Kid First Name
-        label: Kid First Name
+        name: First Name
+        label: First Name
         default_value: First Name
         options: []
         is_required: true
       - input_type: text
-        name: Kid Last Name
-        label: Kid Last Name
+        name: Last Name
+        label: Last Name
         default_value: Last Name
-        options: []
-        is_required: true
-      - input_type: text
-        name: Age
-        label: Age
-        default_value: Age
         options: []
         is_required: true
       - input_type: email
@@ -75,7 +69,7 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'Kids FREE Class (Wednesday, November 8th at 5:45 pm)'
+          - 'Salsa Group Class (Wednesday, November 15th at 6:45 pm)'
         is_required: true
     submit_label: Register
     align_vert: top
@@ -90,7 +84,7 @@ sections:
     type: form_section
 
 seo:
-  title: 'Kids Free Dance Class'
+  title: 'Salsa Group Class'
   description: ''
   robots: []
   extra: []
