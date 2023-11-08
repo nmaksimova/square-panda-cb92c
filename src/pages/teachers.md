@@ -83,58 +83,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/Jenya3.png
-      - title: Erik Linder
-        subtitle: Assistant teacher
-        title_align: center
-        content: >+
-          **Erik** started out young in competitive dancing winning himself many
-          world and national titles. He has also been featured on shows like
-          Oprah, Dancing With The Stars, and America’s Got Talent. Erik trains
-          single girls that are competitive and don’t have partners. This is a
-          great way to learn and be able to dance or compete with a partner that
-          is your dance teacher at the same time.
-
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: Ilta Dance Teachers Erik
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        image: images/Erik.png
-      - title: Shelly Linder
-        subtitle: Assistant teacher
-        title_align: center
-        content: "**Shelly**’s first steps as a toddler were in a dance studio, as she grew up in the dance world she never lost her love for it! Consistently with her partner and husband Erik Linder they have been taking over the top spots in youth and under 21 ballroom and Latin at many championships. One of her biggest achievements have been being a standard US champion and placing 11th in the worlds amongst the best of the best!\_\n"
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: Ilta Dance Teachers Shelly
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        image: images/Shelly.png
-      - title: Joshua Ginzburg
-        subtitle: Assistant teacher
-        title_align: center
-        content: "**Josh** started dancing at the age of 3 and has remained a dancer since then. He and his partner regularly make finals at nation-wide competitions. They have also reached the quarterfinal at the world championships. Josh has been an instructor at\_ILTA\_for several years, teaching and dancing at competitions with his students.\n"
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: Ilta Dance Teachers Joshua
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        image: images/Joshua.png
+      
     grid_cols: two
     grid_gap_vert: large
     grid_gap_horiz: large
