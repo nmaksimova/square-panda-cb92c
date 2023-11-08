@@ -35,17 +35,10 @@ sections:
       - title: Ilana Meshkausk
         title_align: center
         content: >
-          **Ilana** was born in Lithuania, USSR. She started dancing when she
-          was 6 years old and was one of the top competitive dancers in
-          Lithuania, USSR.
+          **Ilana's** dancing journey began in Lithuania, USSR where she first stepped onto the dance floor at the age of 6. Her dedication and talent quickly elevated her to one of the top competetive dancers in her homeland.
 
 
-          Ilana and Tamaz met in Israel, where Ilana’s family relocated when she
-          was 16 years old. Together they became Israeli National Champions in
-          Latin and Ballroom. In the year 2000, Tamaz and Ilana were invited to
-          teach at the prestigious Fred Astaire Studios in Boston, MA. In 2006
-          Tamaz and Ilana opened their own dance studio “ILTA Dance” in
-          Framingham.
+          Ilana and Tamaz met when Ilana was 16 years old. Together, they achieved the remarkable title of National Champions in Latin and Ballroom dancing. In 2000, their journey led them to the prestigious Fred Astaire Studios in Boston, MA, where they were invited to share their love for dance and teach the art to others. In 2006 they opened their own studio ILTA Dance. Ilana's wealth of experience and passion for dance continues to inspire and guide her students as they explore their own artistry and style on the dance floor.
         content_align: left
         actions: []
         actions_align: left
