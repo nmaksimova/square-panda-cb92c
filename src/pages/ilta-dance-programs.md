@@ -171,7 +171,7 @@ sections:
     subtitle: ''
     align: center
     grid_items:
-      - image_alt: Contentful logo
+      - image_alt: dance class
         image_align: center
         title: Framingham
         image_position: bottom
