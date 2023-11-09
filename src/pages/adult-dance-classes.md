@@ -203,7 +203,7 @@ sections:
         actions_align: left
         actions_width: auto
 
-    grid_cols: one
+    grid_cols: two
     grid_gap_horiz: large
     grid_gap_vert: large
     enable_cards: true
