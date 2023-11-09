@@ -175,7 +175,7 @@ sections:
     background_image: images/Dance_Instructor.jpg
     background_image_opacity: 15
   - type: grid_section
-    title: Our Location:
+    title: Our Location
     grid_items:
       - title: Framigham
         content: |+
