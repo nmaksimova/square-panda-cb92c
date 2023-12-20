@@ -1,12 +1,12 @@
 ---
-title: NEW Salsa Group Class
+title: NEW Salsa and Bachata Group Class
 excerpt: Salsa Dance Class
 sections:
-  - title: NEW Salsa Group Class
+  - title: NEW Salsa and Bachata Group Class
     subtitle: 'For Beginners'
     content: >
 
-      *   **Date:** Wednesday, November 15th
+      *   **Date:** Wednesday, January 3rd
    
       *   **Time:** 6:45 pm
       *   **Session Duration:** 6-week long
@@ -26,12 +26,12 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/salsa_group_2.jpg
+    image: images/salsa_dec_23.jpg
 
-  - title: Register for Salsa Group Class
+  - title: Register for Salsa and Bachata Group Class
     title_align: center
     content: |
-      *   Wednesday, November 15th
+      *   Wednesday, January 3rd
 
       *   6:45 pm
     content_align: left
@@ -39,7 +39,7 @@ sections:
     form_width: fifty
     form_layout: stacked
     enable_card: true
-    form_id: Salsa_Group_Class
+    form_id: Salsa_Bachata_Group_Class
     form_action: /thank-you
     form_fields:
       - input_type: text
@@ -71,7 +71,7 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'Salsa Group Class (Wednesday, November 15th at 6:45 pm)'
+          - 'Salsa and Bachata Group Class (Wednesday, January 3rd at 6:45 pm)'
         is_required: true
     submit_label: Register
     align_vert: top
@@ -86,7 +86,7 @@ sections:
     type: form_section
 
 seo:
-  title: 'Salsa Group Class'
+  title: 'Salsa and Bachata Group Class'
   description: ''
   robots: []
   extra: []
