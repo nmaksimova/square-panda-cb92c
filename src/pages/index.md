@@ -35,7 +35,7 @@ sections:
       ## NEW! Salsa and Bachata Group Class
 
 
-      **Embrace a new Hobby in 2024 - Join our New Salsa and Bachata Group Class for Beginners. Group is starting on Jan 3 at 6:45 pm**
+      **Join our New Salsa and Bachata Group Class for Beginners. Group is starting on Jan 29 at 6:45 pm**
     actions:
       - label: Register
         url: /ilta_new_class
@@ -59,7 +59,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/salsa_dec_23.jpg   
+    image: images/salsa_bachata_jan.jpg   
     
     
   - content: >
