@@ -6,7 +6,7 @@ sections:
     subtitle: 'For Beginners'
     content: >
 
-      *   **Date:** Wednesday, January 3rd
+      *   **Date:** Monday, January 29th
    
       *   **Time:** 6:45 pm
       *   **Session Duration:** 6-week long
@@ -26,12 +26,12 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/salsa_dec_23.jpg
+    image: images/salsa_bachata_jan.jpg
 
   - title: Register for Salsa and Bachata Group Class
     title_align: center
     content: |
-      *   Wednesday, January 3rd
+      *   Monday, January 29th
 
       *   6:45 pm
     content_align: left
@@ -71,7 +71,7 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'Salsa and Bachata Group Class (Wednesday, January 3rd at 6:45 pm)'
+          - 'Salsa and Bachata Group Class (Monday, January 29th at 6:45 pm)'
         is_required: true
     submit_label: Register
     align_vert: top
