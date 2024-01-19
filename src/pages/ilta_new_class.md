@@ -1,16 +1,22 @@
 ---
-title: NEW Salsa and Bachata Group Class
+title: NEW Group Classes for Adults
 excerpt: Salsa Dance Class
 sections:
-  - title: NEW Salsa and Bachata Group Class
-    subtitle: 'For Beginners'
+  - title: NEW Group Classes
+    subtitle: 'For Adults'
     content: >
 
-      *   **Date:** Monday, January 29th
+      *   **Each Session is 6-week long** </br>
+      *   **Cost:** $120 per session </br> </br>
+      
+      *   **1: Salsa and Bachata for Beginners** 
+      *   **When:** Monday, January 29th at 6:45pm </br> </br>
    
-      *   **Time:** 6:45 pm
-      *   **Session Duration:** 6-week long
-      *   **Cost:** $120 per session
+      *   **2: Social Elegance Trio: Foxtrot, Rumba, Swing** </br>
+      *   **When:** Friday, February 2nd at 6:45 pm </br> </br>
+      
+      *   **3: Salsa and Bachata: Level 2** </br>
+      *   **When:** Wednesday, February 21 at 6:45 pm
 
     actions: []
     image_alt: salsa-dance-class
