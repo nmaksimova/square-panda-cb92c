@@ -32,7 +32,7 @@ sections:
     background_image_repeat: no-repeat
 
   - content: |
-      ## NEW! Salsa and Bachata Group Class
+      ## NEW GROUP CLASSES!!!
 
 
       **Join our New Salsa and Bachata Group Class for Beginners. Group is starting on Jan 29 at 6:45 pm**
@@ -59,7 +59,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/salsa_bachata_jan.jpg   
+    image: images/new_dance_groups.jpg   
     
     
   - content: >
