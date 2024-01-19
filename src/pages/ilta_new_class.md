@@ -34,12 +34,14 @@ sections:
     type: hero_section
     image: images/salsa_bachata_jan.jpg
 
-  - title: Register for Salsa and Bachata Group Class
+  - title: Register for New Group Classes
     title_align: center
     content: |
-      *   Monday, January 29th
+      *   Salsa and Bachata for Beginners: Monday, January 29th at 6:45 pm
 
-      *   6:45 pm
+      *   Social Elegance Trio: Friday, February 2nd at 6:45 pm
+        
+      *   Salsa and Bachata Level 2: Wednesday, February 21 at 6:45 pm
     content_align: left
     form_position: bottom
     form_width: fifty
@@ -78,6 +80,8 @@ sections:
         default_value: Class
         options:
           - 'Salsa and Bachata Group Class (Monday, January 29th at 6:45 pm)'
+          - 'Social Elegance Trio (Friday, February 2nd at 6:45 pm)'
+          - 'Salsa and Bachata Level 2 (Wednesday, February 21 at 6:45 pm)'
         is_required: true
     submit_label: Register
     align_vert: top
