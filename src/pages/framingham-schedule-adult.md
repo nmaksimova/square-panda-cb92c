@@ -99,9 +99,9 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'Beginners Bachata Group (Monday 6:45 pm)'
-          - 'Beginners Salsa Ladies Group (Tuesday 7:30 pm)'
-          - 'Beginners Salsa Group (Wednesday 6:45 pm)'
+          - 'Salsa and Bachata Group (Jan 29, Monday 6:45 pm)'
+          - 'Social Elegance Trio: Foxtrot, Rumba, Swing (February 2, Friday 6:45 pm)'
+          - 'Salsa and Bachata: Level 2 (February 21, Wednesday 6:45 pm)'
           - 'Latin Cardio (Thursday 6:45 pm)'
         is_required: true
     submit_label: Register
@@ -122,7 +122,7 @@ sections:
         title_align: center
         content: |
 
-          *   **Bachata**
+          *   **Salsa and Bachata**
               *   6:45 pm
         content_align: left
         actions: []
@@ -163,7 +163,7 @@ sections:
         title_align: center
         content: |
 
-          **New! Beginners Salsa**
+          **New! Beginners Salsa and Bachata**
 
           *   6:45 pm
    
