@@ -192,11 +192,6 @@ sections:
 
           *   6:45 pm
 
-
-          *   **Beginners Salsa** (Same sex couples)
-
-              *   6:45 pm
-
       - title: Friday
         title_align: center
         content: |
