@@ -23,10 +23,13 @@ sections:
     content: >
 
 
-      *   **New! Beginners Salsa Group** (September 13th, Wednesday 6:45pm)
+      *   **New! Beginners Salsa and Bachata Group** (January 29th, Monday 6:45pm)
 
 
-      *   **New! Beginners Salsa Ladies** (September 12th, Tuesday 7:30pm)
+      *   **New! Social Elegance Trio: Foxtrot, Rumba, Swing** (February 2nd, Friday 6:45pm)
+   
+
+      *   **Salsa and Bachata: Level 2** (February 21, Wednesday 6:45pm)
 
 
       *   **Latin Cardio:** dance style workout class for all levels (Thursday
