@@ -191,6 +191,16 @@ sections:
 
 
           *   6:45 pm
+        
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: friday-dance-class
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
 
       - title: Friday
         title_align: center
@@ -207,16 +217,8 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: friday-dance-class
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
+
+
     grid_cols: five
     grid_gap_vert: small
     grid_gap_horiz: small
