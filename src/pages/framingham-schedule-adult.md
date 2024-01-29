@@ -205,7 +205,7 @@ sections:
         title_align: center
         content: |
 
-          *   **Social Elegance Trio: Foxtrot, Rumba, Swing**
+          **Social Elegance Trio: Foxtrot, Rumba, Swing**
               *   6:45 pm
         content_align: left
         actions: []
