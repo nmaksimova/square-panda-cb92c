@@ -186,14 +186,14 @@ sections:
       - title: Thursday
         title_align: center
         content: >
-        **Latin Cardio** (this class is for all levels. It will help to
+          **Latin Cardio** (this class is for all levels. It will help to
           improve coordination, balance, flexibility, and stay in shape)
 
           *   6:45 pm
        
-        **New! Beginners Salsa Ladies**
+          **New! Beginners Salsa Ladies**
    
-        * 7:30 pm
+          * 7:30 pm
         
         content_align: left
         actions: []
