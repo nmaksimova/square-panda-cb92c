@@ -103,6 +103,7 @@ sections:
           - 'Social Elegance Trio: Foxtrot, Rumba, Swing (February 2, Friday 6:45 pm)'
           - 'Salsa and Bachata: Level 2 (February 21, Wednesday 6:45 pm)'
           - 'Latin Cardio (Thursday 6:45 pm)'
+          - 'Salsa Ladies (Thursday 7:30 pm)'
         is_required: true
     submit_label: Register
     align_vert: top
@@ -138,18 +139,11 @@ sections:
         content: |
 
           *   **Intermediate Salsa Ladies**
-              *   6:45 pm
-          
-          
-          
-          *   **New! Beginners Salsa Ladies**
-              *   7:30 pm
-
+              *   6:45 pm          
 
           *   **Intermediate Bachata**
               *   7:30 pm
-        
-        
+                
         content_align: left
         actions: []
         actions_align: left
