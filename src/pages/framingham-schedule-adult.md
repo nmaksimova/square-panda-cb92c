@@ -3,7 +3,7 @@ title: 'Adult Dance Classes Schedule, Framigham, MA'
 excerpt: Dance Schedule
 sections:
   - actions: []
-    image_alt: lorem-ipsum
+    image_alt: dance_classes_adults
     media_position: top
     media_width: fifty
     align: center
@@ -23,10 +23,10 @@ sections:
     content: >
 
 
-      *   **New! Beginners Salsa and Bachata Group** (January 29th, Monday 6:45pm)
+      *   **New! Beginners Salsa Group** (March 11th, Monday 6:45pm)
 
 
-      *   **New! Social Elegance Trio: Foxtrot, Rumba, Swing** (February 2nd, Friday 6:45pm)
+      *   **New! Social Elegance Trio: Foxtrot, Rumba, Swing** (March 14th, Thursday 6:45pm)
    
 
       *   **Salsa and Bachata: Level 2** (February 21, Wednesday 6:45pm)
@@ -99,11 +99,10 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'Salsa and Bachata Group (Jan 29, Monday 6:45 pm)'
-          - 'Social Elegance Trio: Foxtrot, Rumba, Swing (February 2, Friday 6:45 pm)'
+          - 'Salsa Group (Mar 11, Monday 6:45 pm)'
+          - 'Social Elegance Trio: Foxtrot, Rumba, Swing (Mar 14, Thursday 6:45 pm)'
           - 'Salsa and Bachata: Level 2 (February 21, Wednesday 6:45 pm)'
           - 'Latin Cardio (Thursday 6:45 pm)'
-          - 'Salsa Ladies (Thursday 7:30 pm)'
         is_required: true
     submit_label: Register
     align_vert: top
@@ -185,11 +184,11 @@ sections:
           improve coordination, balance, flexibility, and stay in shape)
 
           *   6:45 pm
-        
+  
        
-          **New! Beginners Salsa Ladies**
+          **New! Social Elegance Trio: rumba, Foxtrot, Swing**
    
-          *    7:30 pm
+          *    6:45 pm
         
         content_align: left
         actions: []
