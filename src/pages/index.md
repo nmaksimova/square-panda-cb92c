@@ -35,9 +35,9 @@ sections:
       ## NEW GROUP CLASSES!!!
 
 
-      **Salsa for Beginners. Starting on Monday, March 11th at 6:45 pm**
+      **Salsa for Beginners.** Starting on Monday, March 11th at 6:45 pm
 
-      **Social Elegance Trio: Rumba, Foxtrot, Swing. Starting on Thursday, March 14th at 6:45pm**
+      **Social Elegance Trio: Rumba, Foxtrot, Swing.** Starting on Thursday, March 14th at 6:45pm
     actions:
       - label: Register
         url: /ilta_new_class
