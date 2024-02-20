@@ -7,7 +7,7 @@ sections:
     content: >
 
       *   **Each Session is 6-week long** </br>
-      *   **Cost:** $120 per session </br> </br>
+      **Cost:** $120 per session </br> </br>
       
       *   **1: Salsa and Bachata for Beginners** </br>
       *   **When:** Monday, January 29th at 6:45pm </br> </br>
