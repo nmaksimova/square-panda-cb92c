@@ -9,14 +9,11 @@ sections:
       *   **Each Session is 6-week long** </br>
       **Cost:** $120 per session </br> </br>
       
-      *   **1: Salsa and Bachata for Beginners** </br>
-      *   **When:** Monday, January 29th at 6:45pm </br> </br>
+      *   **1: Salsa for Beginners** </br>
+        **When:** Monday, March 11th at 6:45pm </br> </br>
    
       *   **2: Social Elegance Trio: Foxtrot, Rumba, Swing** </br>
-      *   **When:** Friday, February 2nd at 6:45 pm </br> </br>
-      
-      *   **3: Salsa and Bachata: Level 2** </br>
-      *   **When:** Wednesday, February 21 at 6:45 pm
+        **When:** Thursday, March 14th at 6:45 pm </br> </br>
 
     actions: []
     image_alt: salsa-dance-class
@@ -37,17 +34,16 @@ sections:
   - title: Register for New Group Classes
     title_align: center
     content: |
-      *   Salsa and Bachata for Beginners: Monday, January 29th at 6:45 pm
+      *   Salsa for Beginners: Monday, March 11th at 6:45 pm
 
-      *   Social Elegance Trio: Friday, February 2nd at 6:45 pm
-        
-      *   Salsa and Bachata Level 2: Wednesday, February 21 at 6:45 pm
+      *   Social Elegance Trio: Thursday, March 14th at 6:45 pm
+
     content_align: left
     form_position: bottom
     form_width: fifty
     form_layout: stacked
     enable_card: true
-    form_id: Salsa_Bachata_Group_Class
+    form_id: New_Group_Classes
     form_action: /thank-you
     form_fields:
       - input_type: text
@@ -79,9 +75,8 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'Salsa and Bachata Group Class (Monday, January 29th at 6:45 pm)'
-          - 'Social Elegance Trio (Friday, February 2nd at 6:45 pm)'
-          - 'Salsa and Bachata Level 2 (Wednesday, February 21 at 6:45 pm)'
+          - 'Salsa Group Class (Monday, March 11th at 6:45 pm)'
+          - 'Social Elegance Trio (Thursday, March 14th at 6:45 pm)'
         is_required: true
     submit_label: Register
     align_vert: top
