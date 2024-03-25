@@ -177,7 +177,7 @@ sections:
           *   6:45 pm
   
        
-          **New! Social Elegance Trio: rumba, Foxtrot, Swing**
+          **New! Salsa Group for Beginners**
    
           *    6:45 pm
         
