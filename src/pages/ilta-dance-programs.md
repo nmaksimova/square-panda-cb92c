@@ -131,7 +131,6 @@ sections:
         options:
           - Select a location
           - 'Framingham, MA'
-          - 'Salem, MA'
         is_required: true
         type: form_field
       - input_type: select
@@ -197,7 +196,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-      - image_alt: Netlify logo
+      - image_alt: Ilta dance
         image_align: center
 
     grid_cols: one
