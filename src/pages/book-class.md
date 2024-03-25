@@ -80,7 +80,7 @@ sections:
     subtitle: ''
     align: center
     grid_items:
-      - image_alt: Contentful logo
+      - image_alt: Ilta dance
         image_align: center
         title: Framingham
         image_position: bottom
@@ -96,20 +96,7 @@ sections:
           **dance@iltadance.com**
         content_align: left
         title_align: center
-      - image_alt: Netlify logo
-        image_align: center
-        title: Salem
-        title_align: center
-        content: |
-          A Performing Arts Academy
 
-          96 Swampscott Rd #6
-
-          Salem, MA 01970
-
-          [781-492-2769 ](tel:+12345567890)
-
-          **dance@iltadance.com**
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
