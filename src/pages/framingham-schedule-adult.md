@@ -23,14 +23,7 @@ sections:
     content: >
 
 
-      *   **New! Beginners Salsa Group** (March 11th, Monday 6:45pm)
-
-
-      *   **New! Social Elegance Trio: Foxtrot, Rumba, Swing** (March 14th, Thursday 6:45pm)
-   
-
-      *   **Salsa and Bachata: Level 2** (February 21, Wednesday 6:45pm)
-
+      *   **New! Beginners Salsa Group** (April 18th, Thursday 6:45pm)
 
       *   **Latin Cardio:** dance style workout class for all levels (Thursday
       6:45 pm)
@@ -99,9 +92,7 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'Salsa Group (Mar 11, Monday 6:45 pm)'
-          - 'Social Elegance Trio: Foxtrot, Rumba, Swing (Mar 14, Thursday 6:45 pm)'
-          - 'Salsa and Bachata: Level 2 (February 21, Wednesday 6:45 pm)'
+          - 'Salsa Group (April 18, Thursday 6:45 pm)'
           - 'Latin Cardio (Thursday 6:45 pm)'
         is_required: true
     submit_label: Register
