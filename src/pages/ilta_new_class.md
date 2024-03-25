@@ -10,11 +10,8 @@ sections:
       **Cost:** $120 per session </br> </br>
       
       *   **1: Salsa for Beginners** </br>
-        **When:** Monday, March 11th at 6:45pm </br> </br>
+        **When:** Thursday, April 18th at 6:45pm </br> </br>
    
-      *   **2: Social Elegance Trio: Foxtrot, Rumba, Swing** </br>
-        **When:** Thursday, March 14th at 6:45 pm </br> </br>
-
     actions: []
     image_alt: salsa-dance-class
     media_position: right
@@ -29,14 +26,13 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/march_groups.jpg
+    image: images/salsa_april.jpg
 
   - title: Register for New Group Classes
     title_align: center
     content: |
-      *   Salsa for Beginners: Monday, March 11th at 6:45 pm
+      *   Salsa for Beginners: Thursday, April 18th at 6:45 pm
 
-      *   Social Elegance Trio: Thursday, March 14th at 6:45 pm
 
     content_align: left
     form_position: bottom
@@ -75,8 +71,7 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'Salsa Group Class (Monday, March 11th at 6:45 pm)'
-          - 'Social Elegance Trio (Thursday, March 14th at 6:45 pm)'
+          - 'Salsa Group Class (Thursday, April 18th at 6:45 pm)'
         is_required: true
     submit_label: Register
     align_vert: top
@@ -91,7 +86,7 @@ sections:
     type: form_section
 
 seo:
-  title: 'Salsa and Bachata Group Class'
+  title: 'Salsa Group Class'
   description: ''
   robots: []
   extra: []
