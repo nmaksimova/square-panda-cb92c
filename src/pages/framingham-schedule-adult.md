@@ -23,7 +23,7 @@ sections:
     content: >
 
 
-      *   **New! Beginners Salsa Group** (April 18th, Thursday 6:45pm)
+      *   **New! Beginners Bachata Group** (May 20, Monday 6:45pm)
 
       *   **Latin Cardio:** dance style workout class for all levels (Thursday
       6:45 pm)
@@ -92,7 +92,7 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'Salsa Group (April 18, Thursday 6:45 pm)'
+          - 'Bachata Group (May 20, Monday 6:45 pm)'
           - 'Latin Cardio (Thursday 6:45 pm)'
         is_required: true
     submit_label: Register
@@ -113,7 +113,7 @@ sections:
         title_align: center
         content: |
 
-          *   **Salsa and Bachata**
+          *   **New! Bachata Group**
               *   6:45 pm
         content_align: left
         actions: []
