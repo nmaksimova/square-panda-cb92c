@@ -32,10 +32,10 @@ sections:
     background_image_repeat: no-repeat
 
   - content: |
-      ## NEW GROUP CLASSES!!!
+      ## NEW GROUP CLASS!!!
 
 
-      **Salsa for Beginners.** Starting on Thursday, April 18th at 6:45 pm
+      **Bachata for Beginners.** Starting on Monday, May 20 at 6:45 pm
 
     actions:
       - label: Register
@@ -47,7 +47,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-    image_alt: Register for Salsa Class
+    image_alt: Register for Bachata Class
     media_position: left
     media_width: fifty
     align: left
@@ -60,7 +60,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/salsa_april.jpg  
+    image: images/bachata_may.jpg  
     
     
   - content: >
