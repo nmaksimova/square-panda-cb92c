@@ -9,8 +9,8 @@ sections:
       *   **Each Session is 6-week long** </br>
       **Cost:** $120 per session </br> </br>
       
-      *   **1: Salsa for Beginners** </br>
-        **When:** Thursday, April 18th at 6:45pm </br> </br>
+      *   **1: Bachata for Beginners** </br>
+        **When:** Monday, May 20 at 6:45pm </br> </br>
    
     actions: []
     image_alt: salsa-dance-class
@@ -26,12 +26,12 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/salsa_april.jpg
+    image: images/bachata_may.jpg
 
   - title: Register for New Group Classes
     title_align: center
     content: |
-      *   Salsa for Beginners: Thursday, April 18th at 6:45 pm
+      *   Bachata for Beginners: Monday, May 20 at 6:45 pm
 
 
     content_align: left
@@ -71,7 +71,7 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'Salsa Group Class (Thursday, April 18th at 6:45 pm)'
+          - 'Bachata Group Class (Monday, May 20 at 6:45 pm)'
         is_required: true
     submit_label: Register
     align_vert: top
@@ -86,7 +86,7 @@ sections:
     type: form_section
 
 seo:
-  title: 'Salsa Group Class'
+  title: 'Bachata Group Class'
   description: ''
   robots: []
   extra: []
