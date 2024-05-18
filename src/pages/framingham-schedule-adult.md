@@ -196,7 +196,9 @@ sections:
         content: |
 
           **Social Elegance Trio: Foxtrot, Rumba, Swing**
-              *   6:45 pm
+          
+          *   6:45 pm
+      
         content_align: left
         actions: []
         actions_align: left
