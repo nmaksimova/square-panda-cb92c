@@ -16,7 +16,8 @@ sections:
         new_window: false
         no_follow: false
         type: action
-
+    
+    image: images/ILTA_DANCE_LOGO.jpg  
     media_position: left
     media_width: sixty
     align: center
