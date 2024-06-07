@@ -25,7 +25,7 @@ sections:
     padding_bottom: small
     background_color: secondary
     background_image: images/ilta_website_background.jpg
-    background_image_opacity: 60
+    background_image_opacity: 80
     background_image_size: cover
     background_image_position: center center
     has_border: true
