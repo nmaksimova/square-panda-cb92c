@@ -19,11 +19,13 @@ sections:
     title: ' Framingham - Adult  Dance Schedule'
     background_image: images/Start_dancing.png
   - title: Adult Classes
-    subtitle: 'Session is 6-week long, $140 per session'
+    subtitle: 'Session is 6-week long, packaged price for 6 classes: $140'
     content: >
 
 
-      *   **New! Beginners Bachata Group** (May 20, Monday 6:45pm)
+      *   **New! Beginners Bachata Group** (June 19th, Wednesday 6:00pm)
+        
+      *   **New! Beginners Salsa Group** (June 19th, Wednesday 6:45pm)
 
       *   **Latin Cardio:** dance style workout class for all levels (Thursday
       6:45 pm)
@@ -54,7 +56,7 @@ sections:
     content: |
       *   Group Class Session is 6-week long
 
-      *   $140 per session
+      *   packaged price for 6 classes: $140
     content_align: left
     form_position: bottom
     form_width: fifty
@@ -92,7 +94,8 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'Bachata Group (May 20, Monday 6:45 pm)'
+          - 'Bachata Group (June 19th, Wednesday 6:00 pm)'
+          - 'Salsa Group (June 19th, Wednesday 6:45pm)'
           - 'Latin Cardio (Thursday 6:45 pm)'
         is_required: true
     submit_label: Register
