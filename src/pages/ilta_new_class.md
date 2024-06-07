@@ -7,7 +7,7 @@ sections:
     content: >
 
       *   **Each Session is 6-week long** </br>
-      **Cost:** $140 per session </br> </br>
+      **Packaged Cost for 6 lessons:** $140 </br> </br>
       
       *   **1: Bachata for Beginners** </br>
         **When:** Wednesday, June 19th at 6:00pm </br> </br>
