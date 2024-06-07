@@ -7,8 +7,8 @@ sections:
         url: /book-class
         style: primary
         icon_position: right
-      - label: Kids Registration Forms 2023-2024
-        url: 'https://square-panda-cb92c.netlify.app/images/ILTA-Fram-Kids-Registration-2023-24.pdf'
+      - label: Kids Registration Forms 2024-2025
+        url: 'https://square-panda-cb92c.netlify.app/images/ILTA_fram_kids_registration_2024-25.pdf'
         style: primary
         has_icon: false
         icon: youtube
@@ -32,10 +32,14 @@ sections:
     background_image_repeat: no-repeat
 
   - content: |
-      ## NEW GROUP CLASS!!!
+      ## NEW GROUP CLASSES!!!
 
 
-      **Bachata for Beginners.** Starting on Monday, May 20 at 6:45 pm
+      **Bachata for Beginners.** Starting on Wednesday, June 19th at 6:00 pm
+
+      **Salsa for Beginners.** Starting on Wednesday, June 19th at 6:45 pm
+    
+    
 
     actions:
       - label: Register
@@ -113,7 +117,7 @@ sections:
   
   
   - content: |
-      ## Registration is open for Kids Dance Classes 2023-2024
+      ## Registration is open for Kids Dance Classes 2024-2025
 
       **Dance classes for all ages and levels!**
 
@@ -127,7 +131,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-        url: 'https://square-panda-cb92c.netlify.app/images/ILTA-Fram-Kids-Registration-2023-24.pdf'
+        url: 'https://square-panda-cb92c.netlify.app/images/ILTA_fram_kids_registration_2024-25.pdf'
       - label: Framingham Schedule
         url: /framingham-schedule-kids
         style: primary
