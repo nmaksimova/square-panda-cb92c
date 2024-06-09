@@ -32,26 +32,8 @@ sections:
   - title: Kids Ballroom and Latin Classes
     actions: []
     grid_items:
-      - title_align: center
-        content_align: left
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        title: 'Beginners: 3+ y. o.'
-        content: |
-          45 minutes lessons
 
-          *   Tuesday - 5:00 pm
-
-          *   Thursday - 5:00 pm
-
-          *   Saturday - 11:15 am
-        subtitle: 'Mix Dance Styles (Ballroom, Latin, Hip-Hop, Ballet)'
-      
-      - title: 'Beginners: 5-7 y. o.'
+      - title: 'Beginners: 3-5 y. o.'
         title_align: center
         content_align: left
         image_alt: lorem-ipsum
@@ -69,8 +51,9 @@ sections:
 
           *   Saturday -10:30 am
         subtitle: 'Mix Dance Styles (Ballroom, Latin, Hip-Hop, Ballet)' 
+      
 
-      - title: 'Beginners: 8-10 y. o.'
+      - title: 'Beginners: 6-8 y. o.'
         title_align: center
         content_align: left
         image_alt: lorem-ipsum
@@ -85,14 +68,9 @@ sections:
           *   Monday - 5:45 pm
 
           *   Wednesday - 5:45 pm
-
-      - title: 'Beginners: Teens'
-        title_align: center
-        content: |
-
-
-          *   Monday - 6:30 pm
-          *   Wednesday - 6:30 pm
+       
+            
+      - title_align: center
         content_align: left
         image_alt: lorem-ipsum
         image_position: top
@@ -100,6 +78,31 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        title: 'Beginners: 9-11 y. o.'
+        content: |
+          45 minutes lessons
+
+          *   Tuesday - 5:00 pm
+
+          *   Thursday - 5:00 pm
+
+          *   Saturday - 11:15 am
+
+
+      - title: 'Beginners: 12+ y.o.'
+        title_align: center
+        content: |
+
+          *   Tuesday - 5:45 pm
+          *   Thursday - 5:45 pm
+        content_align: left
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+
       - title: Rising Stars Competing Team
         title_align: center
         content: |
@@ -140,7 +143,8 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     background_image: images/image_6483441 (6).JPG
-    subtitle: Kids group classes start after Labor day (September 5th)
+    subtitle: Kids group classes start after the Labor day, Tuesday September 2nd, 2025
+
   - title: Kids Hip Hop Classes
     actions: []
     grid_items:
@@ -149,8 +153,8 @@ sections:
         content: |
 
 
-          *   Tuesday - 5:00 pm
-          *   Saturday - 9:45 am
+          *   Schedule is TBD
+
         content_align: left      
         image_alt: lorem-ipsum
         image_position: top
@@ -163,8 +167,8 @@ sections:
         content: |
 
 
-          *   Monday - 6:45 pm
-          *   Wednesday - 6:45 pm
+          *   Schedule is TBD
+
         content_align: left        
         image_alt: lorem-ipsum
         image_position: top
@@ -187,10 +191,11 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     background_image: images/friendly-mars.jpg
-  - title: Kids Classes 2023-2024 Enrollment
+
+  - title: Kids Classes 2024-2025 Enrollment
     title_align: center
     content: |
-      *   Classes start after Labor Day, Tuesday September 6th
+      *   Classes start after the Labor Day, Tuesday September 2nd, 2025
 
     content_align: left
     form_position: bottom
