@@ -274,7 +274,9 @@ sections:
     background_color: secondary
   - title: Book your first class with us
     title_align: left
-    content: "#### Framingham location only\n\nBest way to receive personalized attention and faster learn dancing. Lessons may be for one or couple with any instructor. You will learn steps, step patterns, how to create combinations of steps and good leader / follower techniques as well as overview of the dances. Ballroom – Waltz, Foxtrot, Swing, Tango, Cha Cha. Latin dancing – Rumba, Salsa, Samba and Merengue.\n\n**30\_minute COMPLIMENTARY lesson (adults only)**\n\n###### &#xA;&#xA;&#xA;&#xA;\n"
+    content: "#### Framingham location only\n\nBest way to receive personalized attention and faster learn dancing. Lessons may be for one or couple with any instructor. You will learn steps, step patterns, how to create combinations of steps and good leader / follower techniques as well as overview of the dances. Ballroom – Waltz, Foxtrot, Swing, Tango, Cha Cha. Latin dancing – Rumba, Salsa, Samba and Merengue. \n\n**Note!** We offer a 30-minute complimentary class exclusively for individuals interested in private lessons, including wedding packages. **Please note that this offer is not available for those interested in group lessons**.\n\n
+
+    \n\n**30\_minute COMPLIMENTARY lesson (adults only)**\n\n###### &#xA;&#xA;&#xA;&#xA;\n"
     content_align: left
     form_position: left
     form_width: fifty
