@@ -234,20 +234,20 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'Beginners 3+ y.o. (Tuesday 5:00pm)'
-          - 'Beginners 3+ y.o. (Thursday 5:00pm)'
-          - 'Beginners 3+ y.o. (Sat 11:15am)'
-          - 'Beginners 5-7 y.o. (Mon 5:00pm)'
-          - 'Beginners 5-7 y.o. (Wed 5:00pm)'
-          - 'Beginners 5-7 y.o. (Sat 10:30pm)'
-          - 'Beginners 8-10 y.o. (Mon 5:45pm)'
-          - 'Beginners 8-10 y.o. (Wed 5:45pm)'
-          - 'Beginners Teens (Mon 6:30pm)'
-          - 'Beginners Teens (Wed 6:30pm)'
+          - 'Beginners 3-5 y.o. (Mon 5:00pm)'
+          - 'Beginners 3-5 y.o. (Wed 5:00pm)'
+          - 'Beginners 3-5 y.o. (Sat 10:30am)'
+          - 'Beginners 6-8 y.o. (Mon 5:45pm)'
+          - 'Beginners 6-8 y.o. (Wed 5:45pm)'
+          - 'Beginners 9-11 y.o. (Tue 5:00pm)'
+          - 'Beginners 9-11 y.o. (Thu 5:00pm)'
+          - 'Beginners 9-11 y.o. (Sat 11:15am)'
+          - 'Beginners 12+ (Tue 5:45pm)'
+          - 'Beginners 12+ (Thu 5:45pm)'
           - 'Rising Stars (Mon 5:00pm, Wed 5:00pm)'
           - 'Advanced Teens (Tuesday 5:45pm, Thursday 5:15pm)'
-          - 'Hip Hop 5+ (Tuesday 5:00pm, Saturday 9:45am)'
-          - 'Hip Hop Teens (Mon 6:45pm, Wed 6:45pm)'
+          - 'Hip Hop 5+ (Schedule is TBD)'
+          - 'Hip Hop Teens (Schedule is TBD)'
         is_required: true
     submit_label: Register
     align_vert: top
