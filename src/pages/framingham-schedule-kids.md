@@ -29,7 +29,7 @@ sections:
     title: ' Framingham Kids Dance Schedule'
     subtitle: '   To get started, please download Kids Registration Form'
     background_image: images/Start_dancing.png
-  - title: Kids Ballroom and Latin Classes
+  - title: Kids Ballroom and Latin Classes (2024-2025 School Year)
     actions: []
     grid_items:
 
