@@ -1,10 +1,10 @@
 ---
-title: Winter Showcase 2022
-excerpt: Ilta Winter Showcase
+title: Ilta Showcase 2024
+excerpt: Ilta Showcase June 2024
 sections:
-  - title: Winter Showcase 2022
+  - title: Ilta Showcase 2024
     actions: []
-    image_alt: lorem-ipsum
+    image_alt: dance_image
     media_position: top
     media_width: fifty
     align: center
@@ -30,7 +30,7 @@ sections:
         image_align: center
         image_has_padding: false
         type: grid_item
-        image: images/show-0.jpg
+        image: images/sh_24_1004.jpg
       - title_align: left
         content_align: left
         actions: []
@@ -42,7 +42,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/show-1.JPG
+        image: images/sh_24_1029.jpg
       - title_align: left
         content_align: left
         actions: []
@@ -54,7 +54,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/show-2.JPG
+        image: images/sh_24_1041.jpg
       - title_align: left
         content_align: left
         actions: []
@@ -66,7 +66,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/show-3.JPG
+        image: images/sh_24_1056.jpg
       - title_align: left
         content_align: left
         actions: []
@@ -78,7 +78,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/show-4.JPG
+        image: images/sh_24_1061.jpg
       - title_align: left
         content_align: left
         actions: []
@@ -90,7 +90,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/show-5.JPG
+        image: images/sh_24_5235.jpg
       - title_align: left
         content_align: left
         actions: []
@@ -102,7 +102,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/show-6.JPG
+        image: images/sh_24_5250.jpg
       - title_align: left
         content_align: left
         actions: []
@@ -114,7 +114,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/show-7.JPG
+        image: images/sh_24_5253.jpg
       - title_align: left
         content_align: left
         actions: []
@@ -126,7 +126,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/show-8.JPG
+        image: images/sh_24_5259.jpg
       - title_align: left
         content_align: left
         actions: []
@@ -138,7 +138,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/show-9.JPG
+        image: images/sh_24_5263.jpg
       - title_align: left
         content_align: left
         actions: []
@@ -150,7 +150,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/show-10.jpeg
+        image: images/sh_24_5274.jpg
       - title_align: left
         content_align: left
         actions: []
@@ -162,7 +162,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/show-11.jpg
+        image: images/sh_24_5275.jpg
       - title_align: left
         content_align: left
         actions: []
@@ -174,7 +174,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/show-12.jpg
+        image: images/sh_24_5280.jpg
       - title_align: left
         content_align: left
         actions: []
@@ -186,7 +186,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/show-13.jpeg
+        image: images/sh_24_5285.jpg
       - title_align: left
         content_align: left
         actions: []
@@ -198,7 +198,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/show-14.jpg
+        image: images/sh_24_5292.jpg
       - title_align: left
         content_align: left
         actions: []
@@ -210,7 +210,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/show-15.jpg
+        image: images/sh_24_5298.jpg
       - title_align: left
         content_align: left
         actions: []
@@ -222,7 +222,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/show-16.jpg
+        image: images/sh_24_5312.jpg
       - title_align: left
         content_align: left
         actions: []
@@ -234,7 +234,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/show-17.jpg
+        image: images/sh_24_5321.jpg
       - title_align: left
         content_align: left
         actions: []
@@ -246,7 +246,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/show-18.jpg
+        image: images/sh_24_5365.jpg
       - title_align: left
         content_align: left
         actions: []
@@ -258,7 +258,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/show-19.jpeg
+        image: images/sh_24_5377.jpg
       - title_align: left
         content_align: left
         actions: []
@@ -270,7 +270,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/show-20.jpeg
+        image: images/sh_24_5390.jpg
       - title_align: left
         content_align: left
         actions: []
@@ -282,7 +282,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/show-21.jpeg
+        image: images/sh_24_5426.jpg
         
     grid_cols: two
     grid_gap_vert: small
