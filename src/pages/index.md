@@ -432,10 +432,10 @@ sections:
         new_window: false
         no_follow: false
         type: action
-  - title: Winter Showcase 2022
+  - title: Ilta Showcase 2024
     actions:
       - label: Showcase Pictures
-        url: /ilta-showcase-december-2022
+        url: /ilta-showcase-june-2024
         style: primary
         has_icon: false
         icon: arrow-left
@@ -456,7 +456,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/show-20.jpeg
+    image: images/showcase_collage_site.jpg
   - type: grid_section
     title: Our Location
     subtitle: ''
