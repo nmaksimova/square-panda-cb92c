@@ -456,7 +456,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/showcase_collage_site.jpg
+    image: images/sh_24_5253.jpg
   - type: grid_section
     title: Our Location
     subtitle: ''
