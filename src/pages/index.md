@@ -66,10 +66,11 @@ sections:
     type: hero_section
     image: images/salsa_bachata_june_24.jpg
 
-  - title: Ilta Showcase 2024
+  - title: Kids Summer Groups
+    subtitle: 'Duration: 4 weeks (July 8th - August 1st)'
     actions:
-      - label: Showcase Pictures
-        url: /ilta-showcase-june-2024
+      - label: Kids Summer Dance Classes
+        url: /kids_summer_classes_fram
         style: primary
         has_icon: false
         icon: arrow-left
@@ -78,7 +79,7 @@ sections:
         no_follow: false
         type: action
     image_alt: Ilta dance showcase
-    media_position: left
+    media_position: right
     media_width: fifty
     align: left
     padding_top: medium
@@ -90,7 +91,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/sh_24_5253.jpg
+    image: images/summer_kids_schedule_2024.jpg
     
     
   - content: >
