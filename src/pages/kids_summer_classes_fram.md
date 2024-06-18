@@ -23,7 +23,7 @@ sections:
     title_align: center
     subtitle: 'Duration: 4 weeks (July 8th - August 1st)'
     content: |
-      *   Classes start July 8th
+      *   Classes start July 8th (July 8th - August 1st)
 
     content_align: left
     form_position: bottom
