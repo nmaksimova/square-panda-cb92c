@@ -17,7 +17,7 @@ sections:
         no_follow: false
         type: action
     
-    image: images/ILTA_DANCE_LOGO.png  
+    image: images/transparent.jpg  
     media_position: left
     media_width: sixty
     align: left
@@ -27,7 +27,7 @@ sections:
     background_image: images/ilta_website_background.jpg
     background_image_opacity: 80
     background_image_size: cover
-    background_image_position: center center
+    background_image_position: top top
     has_border: true
     background_image_repeat: no-repeat
 
