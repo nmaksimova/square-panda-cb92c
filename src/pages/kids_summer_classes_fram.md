@@ -18,6 +18,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     title: ' Kids Summer Classes Schedule 2024'
+    subtitle: 'Duration: 4 weeks (July 8th - August 1st)'
     background_image: images/Start_dancing.png
   - title: Register for Kids Summer Classes
     title_align: center
