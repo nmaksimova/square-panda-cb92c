@@ -21,6 +21,7 @@ sections:
     background_image: images/Start_dancing.png
   - title: Register for Kids Summer Classes
     title_align: center
+    subtitle: 'Duration: 4 weeks (July 4th - August 1st)'
     content: |
       *   Classes start July 8th
 
@@ -182,7 +183,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     background_image: images/kids_beginners.jpeg
-    subtitle: Kids group classes start July 5th, 2023
+    subtitle: Kids group classes start July 8th, 2024
     
 
   - actions:
