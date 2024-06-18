@@ -104,7 +104,7 @@ sections:
       
       
       
-      **New Salsa Group Classes for Beginners start after Labor Day**
+      **New Salsaand Bachata Group Classes starting in June**
       
       
       
