@@ -21,7 +21,7 @@ sections:
     background_image: images/Start_dancing.png
   - title: Register for Kids Summer Classes
     title_align: center
-    subtitle: 'Duration: 4 weeks (July 4th - August 1st)'
+    subtitle: 'Duration: 4 weeks (July 8th - August 1st)'
     content: |
       *   Classes start July 8th
 
