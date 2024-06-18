@@ -78,7 +78,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: primary
-    background_image: images/sh_24_1056.jpg
+    background_image: images/sh_24_1061.jpg
     background_image_opacity: 60
     background_image_size: cover
     background_image_position: center center
