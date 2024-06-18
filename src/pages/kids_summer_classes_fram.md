@@ -4,7 +4,7 @@ excerpt: Dance Schedule
 sections:
   - actions: []
       
-    image_alt: lorem-ipsum
+    image_alt: kids summer dance classes
     media_position: top
     media_width: fifty
     align: center
@@ -22,7 +22,7 @@ sections:
   - title: Register for Kids Summer Classes
     title_align: center
     content: |
-      *   Classes start July 5th
+      *   Classes start July 8th
 
     content_align: left
     form_position: bottom
@@ -67,8 +67,9 @@ sections:
           - 'Beginners 6-8 y.o. (Wednesday 5:45 pm)'
           - 'Beginners 9-11 y.o. (Monday 6:30 pm)'
           - 'Beginners 9-11 y.o. (Wednesday 6:30 pm)'
-          - 'Beginners Teens (Monday 7:15 pm)'
-          - 'Beginners Teens (Wednesday 7:15 pm)'
+          - 'Beginners 12+ (Tuesday 6:00 pm)'
+          - 'Beginners 12+ (Thursday 6:00 pm)'
+          - 'Rising Stars (Mon, Wed 5:00 pm)'
         is_required: true
     submit_label: Register
     align_vert: top
@@ -82,12 +83,12 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section    
-  - title: Beginners Schedule
+  - title: Summer Classes Schedule
     actions: []
     grid_items:
       - title_align: center
         content_align: left
-        image_alt: lorem-ipsum
+        image_alt: kids dance classes
         image_position: top
         image_width: fifty
         image_align: left
@@ -101,7 +102,7 @@ sections:
 
           *   Wednesday - 5:00 pm
 
-        subtitle: 'Mix Dance Styles (Ballroom, Latin, Hip Hop)'
+        subtitle: 'Mix Dance Styles (Ballroom, Latin)'
       - title: 'Beginners: 6-8 y. o.'
         subtitle: 'Cost: once a week: $80, twice a week: $150'
         title_align: center
@@ -134,13 +135,28 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: 'Beginners: Teens'
+      - title: 'Beginners: 12+'
         title_align: center
         content: |
 
 
-          *   Monday - 7:15 pm
-          *   Wednesday - 7:15 pm
+          *   Tuesday - 6:00 pm
+          *   Thursday - 6:00 pm
+        content_align: left
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        subtitle: 'Cost: once a week: $80, twice a week: $150'
+      - title: 'Rising Stars'
+        title_align: center
+        content: |
+
+
+          *   Monday - 5:00 pm
+          *   Wednesday - 5:00 pm
         content_align: left
         image_alt: lorem-ipsum
         image_position: top
