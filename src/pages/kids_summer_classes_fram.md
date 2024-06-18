@@ -97,7 +97,7 @@ sections:
         type: grid_item
         title: 'Beginners: 3-5 y. o.'
         content: |
-          Cost: once a week: $80, twice a week: $150
+          Cost: once a week: $100, twice a week: $190
 
           *   Monday - 5:00 pm
 
@@ -105,7 +105,7 @@ sections:
 
         subtitle: 'Mix Dance Styles (Ballroom, Latin)'
       - title: 'Beginners: 6-8 y. o.'
-        subtitle: 'Cost: once a week: $80, twice a week: $150'
+        subtitle: 'Cost: once a week: $100, twice a week: $190'
         title_align: center
         content_align: left
         image_alt: lorem-ipsum
@@ -121,7 +121,7 @@ sections:
           *   Wednesday - 5:45 pm
 
       - title: 'Beginners: 9-11 y. o.'
-        subtitle: 'Cost: once a week: $80, twice a week: $150'
+        subtitle: 'Cost: once a week: $100, twice a week: $190'
         title_align: center
         content: |
 
@@ -150,7 +150,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        subtitle: 'Cost: once a week: $80, twice a week: $150'
+        subtitle: 'Cost: once a week: $100, twice a week: $190'
       - title: 'Rising Stars'
         title_align: center
         content: |
@@ -165,7 +165,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        subtitle: 'Cost: once a week: $80, twice a week: $150'
+        subtitle: 'Cost: once a week: $100, twice a week: $190'
      
 
     grid_cols: three
