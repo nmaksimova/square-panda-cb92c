@@ -22,7 +22,7 @@ sections:
     
         Position: Part-Time Kids Dance Teacher
         Location: Ilta Dance Studio - 1255 Worcester Road (Rt. 9), Framingham, MA
-        **What We're Looking For:**
+
 
     
         
