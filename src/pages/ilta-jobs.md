@@ -13,34 +13,6 @@ sections:
     content: |
     background_image_size: cover
 
-  - content: |
-      ## New Schedule for 2024-2025 school year
-
-      ##### **Framingham Location**
-    actions:
-      - label: Schedule
-        url: /framingham-schedule-kids
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
-    image_alt: kids dancing
-    media_position: right
-    media_width: fifty
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: primary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
-    image: images/IMG_0704.jpg
   - type: features_section
     features:
       - title: Kids Programs
