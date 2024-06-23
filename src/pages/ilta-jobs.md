@@ -34,6 +34,7 @@ sections:
         - Inspire and nurture young dancers
         - Fun and engaging work environment
         - Flexible part-time hours
+          
 
         ##How to Apply:##
         If you’re ready to make a positive impact and share your love of dance with the next generation, we’d love to hear from you! Please send your resume and a brief cover letter to dance@iltadance.com
