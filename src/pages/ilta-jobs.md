@@ -1,9 +1,9 @@
 ---
-title: Kids Dance Classes
-excerpt: Kids Dance Classes
+title: Open Positions
+excerpt: Ilta Open Positions
 sections:
   - type: hero_section
-    title: Kids Dance Classes
+    title: Open Job Positions
     subtitle: ''
     align: center
     background_color: secondary
@@ -11,19 +11,7 @@ sections:
     background_image_position: center center
     background_image_opacity: 30
     content: |
-      ##### To get started, please download **Kids Registration Form**
     background_image_size: cover
-    actions:
-      - label: Framingham Registration Form
-        url: >-
-          https://square-panda-cb92c.netlify.app/images/ILTA-Fram-Kids-Registration-2023-24.pdf
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
 
   - content: |
       ## New Schedule for 2024-2025 school year
