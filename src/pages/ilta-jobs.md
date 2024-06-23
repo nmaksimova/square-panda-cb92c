@@ -15,24 +15,28 @@ sections:
 
   - type: features_section
     features:
-      - title: Kids Programs
+      - title: Part-Time Kids Dance Teacher Wanted!
         subtitle: ''
         content: >
-          **Ilta Dance Studio** provides different classes for kids of all ages
-          and levels. There are a lot of **benefits of ballroom dancing for
-          children**. During fun and engaging atmosphere at our classes they
-          will learn crucial aspects of coordination, body awareness, balance,
-          teamwork. Dance activities help kids to develop sense of rhythm,
-          musicality, flexibility of the body. At early age they learn how to
-          work in a team, getting sense of partner leading and following
-          techniques.
+          Are you passionate about dance and love working with kids? We're looking for an enthusiastic, positive, and experienced dance teacher to help lead our kids' group classes at Ilta Dance Studio!
 
+Position: Part-Time Kids Dance Teacher
+Location: Ilta Dance Studio - 1255 Worcester Road (Rt. 9), Framingham, MA
 
-          Working together with a partner, competing on a dance floor, winning
-          competitions help young dancers to build trust, respect, cooperation,
-          and the sense of self-confidence. Our instructors easily find approach
-          to each child, motivate them to open up, achieve new levels and help
-          them grow to be the best versions of themselves.
+**What We're Looking For:**
+🌟 Experience working with kids
+🌟 Enthusiastic and positive attitude
+🌟 Initiative and creativity
+🌟 Passion for dance and teaching
+
+**Why Join Us?**
+💃 Be a part of a vibrant and supportive dance community
+🕺 Inspire and nurture young dancers
+🎉 Fun and engaging work environment
+📅 Flexible part-time hours
+
+**How to Apply:**
+If you’re ready to make a positive impact and share your love of dance with the next generation, we’d love to hear from you! Please send your resume and a brief cover letter to dance@iltadance.com
 
 
           Contact us to learn more about our **kids dance classes**.
