@@ -26,7 +26,7 @@ sections:
         type: action
 
   - content: |
-      ## New Schedule for 2023-2024 school year
+      ## New Schedule for 2024-2025 school year
 
       ##### **Framingham Location**
     actions:
