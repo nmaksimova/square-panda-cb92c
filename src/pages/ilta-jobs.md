@@ -35,8 +35,6 @@ sections:
         - Fun and engaging work environment
         - Flexible part-time hours
        
-        ##How To Apply?##
-          
 
 
 
