@@ -27,7 +27,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/salsa_bachata_june_24.jpg
+    image: images/bachata_jully_24.jpg
 
   - title: Register for New Group Classes
     title_align: center
