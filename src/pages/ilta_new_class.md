@@ -32,7 +32,7 @@ sections:
   - title: Register for New Group Classes
     title_align: center
     content: |
-      *   Bachata for Beginners: Wednesday, July 26th
+      *   Bachata for Beginners: Wednesday, July 24th
 
 
     content_align: left
@@ -72,7 +72,7 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'Bachata Group Class (Wednesday, July 26th at 6:00 pm)'
+          - 'Bachata Group Class (Wednesday, July 24th at 6:00 pm)'
         is_required: true
     submit_label: Register
     align_vert: top
