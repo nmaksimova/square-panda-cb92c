@@ -62,7 +62,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/salsa_bachata_june_24.jpg
+    image: images/bachata_jully_24.jpg
 
   - title: Kids Summer Groups
     subtitle: 'Duration: 4 weeks (July 8th - August 1st)'
