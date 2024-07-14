@@ -32,12 +32,10 @@ sections:
     background_image_repeat: no-repeat
 
   - content: |
-      ## NEW GROUP CLASSES!!!
+      ## NEW GROUP CLASS!!!
 
 
-      **Bachata for Beginners.** Starting on Wednesday, June 19th at 6:00 pm
-
-      **Salsa for Beginners.** Starting on Wednesday, June 19th at 6:45 pm
+      **Bachata for Beginners.** Starting on Wednesday, July 24th at 6:00 pm
     
     
 
