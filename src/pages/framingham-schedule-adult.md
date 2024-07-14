@@ -23,16 +23,14 @@ sections:
     content: >
 
 
-      *   **New! Beginners Bachata Group** (June 19th, Wednesday 6:00pm)
-        
-      *   **New! Beginners Salsa Group** (June 19th, Wednesday 6:45pm)
+      *   **New! Beginners Bachata Group** (July 24th, Wednesday 6:00pm)
 
       *   **Latin Cardio:** dance style workout class for all levels (Thursday
       6:45 pm)
       
 
     actions: []
-    image_alt: lorem-ipsum
+    image_alt: adult dance classes
     video_embed_html: >-
       <iframe width="560" height="315"
       src="https://www.youtube.com/embed/ra9qUBdCBsQ?controls=0" title="YouTube
@@ -94,8 +92,7 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'Bachata Group (June 19th, Wednesday 6:00 pm)'
-          - 'Salsa Group (June 19th, Wednesday 6:45pm)'
+          - 'Bachata Group (July 24th, Wednesday 6:00 pm)'
           - 'Latin Cardio (Thursday 6:45 pm)'
         is_required: true
     submit_label: Register
@@ -116,7 +113,7 @@ sections:
         title_align: center
         content: |
 
-          *   **New! Bachata Group**
+          *   **Salsa Group**
               *   6:45 pm
         content_align: left
         actions: []
@@ -150,9 +147,9 @@ sections:
         title_align: center
         content: |
 
-          **New! Beginners Salsa and Bachata**
+          **New! Bachata Group**
 
-          *   6:45 pm
+          *   6:00 pm
    
           **Ladies Arm Styling with Ema**
 
