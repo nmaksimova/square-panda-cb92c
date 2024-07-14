@@ -102,7 +102,7 @@ sections:
       
       
       
-      **New Salsaand Bachata Group Classes starting in June**
+      **New Bachata Group Classes starting on July 24th**
       
       
       
