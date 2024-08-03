@@ -9,8 +9,8 @@ sections:
       *   **Each Session is 6-week long** </br>
       **Packaged Cost for 6 lessons:** $140 </br> </br>
       
-      *   **1: Bachata for Beginners** </br>
-        **When:** Wednesday, July 24th at 6:00pm </br> </br>
+      *   **Salsa Group for Beginners** </br>
+        **When:** Thursday, August 15th at 6:45pm </br> </br>
     
    
     actions: []
@@ -27,12 +27,12 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/bachata_jully_24.jpg
+    image: images/salsa_group_august.jpg
 
   - title: Register for New Group Classes
     title_align: center
     content: |
-      *   Bachata for Beginners: Wednesday, July 24th
+      *   Salsa for Beginners: Thursday, August 15th
 
 
     content_align: left
@@ -72,7 +72,7 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'Bachata Group Class (Wednesday, July 24th at 6:00 pm)'
+          - 'Salsa Group Class (Thursday, August 15th at 6:45 pm)'
         is_required: true
     submit_label: Register
     align_vert: top
