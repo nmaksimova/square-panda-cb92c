@@ -35,7 +35,7 @@ sections:
       ## NEW GROUP CLASS!!!
 
 
-      **Bachata for Beginners.** Starting on Wednesday, July 24th at 6:00 pm
+      **Salsa for Beginners.** Starting on Thursday, August 15th at 6:45 pm
     
     
 
@@ -49,7 +49,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-    image_alt: Register for Bachata Class
+    image_alt: Register for Salsa Class
     media_position: left
     media_width: fifty
     align: left
@@ -62,7 +62,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/bachata_jully_24.jpg
+    image: images/salsa_group_august.jpg
 
   - title: Kids Summer Groups
     subtitle: 'Duration: 4 weeks (July 8th - August 1st)'
