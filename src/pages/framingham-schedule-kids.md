@@ -143,7 +143,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     background_image: images/image_6483441 (6).JPG
-    subtitle: Kids group classes start after the Labor day, Tuesday September 2nd, 2025
+    subtitle: Kids group classes start after the Labor day, Tuesday September 3rd, 2024
 
   - title: Kids Hip Hop Classes
     actions: []
@@ -195,14 +195,14 @@ sections:
   - title: Kids Classes 2024-2025 Enrollment
     title_align: center
     content: |
-      *   Classes start after the Labor Day, Tuesday September 2nd, 2025
+      *   Classes start after the Labor Day, Tuesday September 3rd, 2024
 
     content_align: left
     form_position: bottom
     form_width: fifty
     form_layout: stacked
     enable_card: true
-    form_id: Kids Enrollment 2023-2023
+    form_id: Kids Enrollment 2024-2025
     form_action: /thank-you
     form_fields:
       - input_type: text
