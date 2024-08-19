@@ -23,7 +23,7 @@ sections:
     content: >
 
 
-      *   **New! Beginners Salsa Group** (August 15th, Thursday 6:45pm)
+      *   **New! Beginners Salsa Group** (August 22nd, Thursday 6:45pm)
 
       *   **Latin Cardio:** dance style workout class for all levels (Thursday
       6:45 pm)
@@ -92,7 +92,7 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'Salsa Group (August 15th, Thursday 6:45 pm)'
+          - 'Salsa Group (August 22nd, Thursday 6:45 pm)'
           - 'Latin Cardio (Thursday 6:45 pm)'
         is_required: true
     submit_label: Register
