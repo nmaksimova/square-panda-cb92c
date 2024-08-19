@@ -64,33 +64,7 @@ sections:
     type: hero_section
     image: images/salsa_august_v2_2.jpg
 
-  - title: Kids Summer Groups
-    subtitle: 'Duration: 4 weeks (July 8th - August 1st)'
-    actions:
-      - label: Kids Summer Dance Classes
-        url: /kids_summer_classes_fram
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
-    image_alt: Ilta dance showcase
-    media_position: right
-    media_width: fifty
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
-    image: images/summer_kids_schedule_2024.jpg
-    
+
     
   - content: >
       ## Adult Dance Programs
