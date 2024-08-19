@@ -35,7 +35,7 @@ sections:
       ## NEW GROUP CLASS!!!
 
 
-      **Salsa for Beginners.** Starting on Thursday, August 15th at 6:45 pm
+      **Salsa for Beginners.** Starting on Thursday, August 22nd at 6:45 pm
     
     
 
@@ -62,7 +62,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/salsa_group_august.jpg
+    image: images/salsa_august_v2_2.jpg
 
   - title: Kids Summer Groups
     subtitle: 'Duration: 4 weeks (July 8th - August 1st)'
