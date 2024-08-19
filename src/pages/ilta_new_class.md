@@ -10,7 +10,7 @@ sections:
       **Packaged Cost for 6 lessons:** $140 </br> </br>
       
       *   **Salsa Group for Beginners** </br>
-        **When:** Thursday, August 15th at 6:45pm </br> </br>
+        **When:** Thursday, August 22nd at 6:45pm </br> </br>
     
    
     actions: []
@@ -27,12 +27,12 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/salsa_group_august.jpg
+    image: images/salsa_august_v2_2.jpg
 
   - title: Register for New Group Classes
     title_align: center
     content: |
-      *   Salsa for Beginners: Thursday, August 15th
+      *   Salsa for Beginners: Thursday, August 22nd
 
 
     content_align: left
@@ -72,7 +72,7 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'Salsa Group Class (Thursday, August 15th at 6:45 pm)'
+          - 'Salsa Group Class (Thursday, August 22nd at 6:45 pm)'
         is_required: true
     submit_label: Register
     align_vert: top
