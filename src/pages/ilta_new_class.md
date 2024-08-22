@@ -10,7 +10,10 @@ sections:
       **Packaged Cost for 6 lessons:** $140 </br> </br>
       
       *   **Salsa Group for Beginners** </br>
-        **When:** Thursday, August 22nd at 6:45pm </br> </br>
+        **When:** Thursday, September 5th at 6:45pm </br> </br>
+
+      *   **Bachata Group for Beginners** </br>
+        **When:** Monday, September 9th at 6:45pm </br> </br>
     
    
     actions: []
@@ -32,7 +35,7 @@ sections:
   - title: Register for New Group Classes
     title_align: center
     content: |
-      *   Salsa for Beginners: Thursday, August 22nd
+      *   Salsa and Bachata group classes for Beginners: September 9th and September 5th
 
 
     content_align: left
@@ -72,7 +75,8 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'Salsa Group Class (Thursday, August 22nd at 6:45 pm)'
+          - 'Salsa Group Class (Thursday, September 9th at 6:45 pm)'
+          - 'Bachata Group Class (Monday, September 5th at 6:45 pm)'
         is_required: true
     submit_label: Register
     align_vert: top
