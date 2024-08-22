@@ -30,12 +30,12 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/salsa_august_v2_2.jpg
+    image: images/salsa_bachata_sep_24.jpg
 
   - title: Register for New Group Classes
     title_align: center
     content: |
-      *   Salsa and Bachata group classes for Beginners: September 9th and September 5th
+      *   Salsa and Bachata group classes for Beginners: September 5th and September 9th
 
 
     content_align: left
@@ -75,8 +75,8 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'Salsa Group Class (Thursday, September 9th at 6:45 pm)'
-          - 'Bachata Group Class (Monday, September 5th at 6:45 pm)'
+          - 'Salsa Group Class (Thursday, September 5th at 6:45 pm)'
+          - 'Bachata Group Class (Monday, September 9th at 6:45 pm)'
         is_required: true
     submit_label: Register
     align_vert: top
