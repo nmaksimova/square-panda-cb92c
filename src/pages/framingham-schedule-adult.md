@@ -24,6 +24,7 @@ sections:
 
 
       *   **New! Beginners Salsa Group** (September 5th, Thursday 6:45pm)
+    
       *   **New! Beginners Bachata Group** (September 9th, Monday 6:45pm)
 
       *   **Latin Cardio:** dance style workout class for all levels (Thursday
