@@ -119,8 +119,8 @@ sections:
         title_align: center
         content: |
 
-          *   Tuesday - 5:45 pm - 7:15 pm
-          *   Thursday - 5:15 pm - 6:45 pm
+          *   Tuesday - 5:45 pm - 6:45 pm
+          *   Thursday - 5:30 pm - 6:30 pm
         content_align: left
         image_alt: lorem-ipsum
         image_position: top
