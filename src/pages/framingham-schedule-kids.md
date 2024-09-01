@@ -245,7 +245,7 @@ sections:
           - 'Beginners 12+ (Tue 5:45pm)'
           - 'Beginners 12+ (Thu 5:45pm)'
           - 'Rising Stars (Mon 5:00pm, Wed 5:00pm)'
-          - 'Advanced Teens (Tuesday 5:45pm, Thursday 5:15pm)'
+          - 'Advanced Teens (Tuesday 5:45pm, Thursday 5:30pm)'
           - 'Hip Hop 5+ (Schedule is TBD)'
           - 'Hip Hop Teens (Schedule is TBD)'
         is_required: true
