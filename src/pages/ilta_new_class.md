@@ -8,12 +8,10 @@ sections:
 
       *   **Each Session is 6-week long** </br>
       **Packaged Cost for 6 lessons:** $140 </br> </br>
-      
-      *   **Salsa Group for Beginners** </br>
-        **When:** Thursday, September 5th at 6:45pm </br> </br>
+
 
       *   **Bachata Group for Beginners** </br>
-        **When:** Monday, September 9th at 6:45pm </br> </br>
+        **When:** Monday, September 23 at 6:45pm </br> </br>
     
    
     actions: []
@@ -35,7 +33,7 @@ sections:
   - title: Register for New Group Classes
     title_align: center
     content: |
-      *   Salsa and Bachata group classes for Beginners: September 5th and September 9th
+      *   Bachata group class for Beginners: September 23
 
 
     content_align: left
@@ -75,8 +73,7 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'Salsa Group Class (Thursday, September 5th at 6:45 pm)'
-          - 'Bachata Group Class (Monday, September 9th at 6:45 pm)'
+          - 'Bachata Group Class (Monday, September 23 at 6:45 pm)'
         is_required: true
     submit_label: Register
     align_vert: top
