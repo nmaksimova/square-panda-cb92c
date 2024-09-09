@@ -34,11 +34,7 @@ sections:
   - content: |
       ## NEW GROUP CLASSES!!!
 
-
-      **Salsa for Beginners.** Starting on Thursday, September 5th at 6:45 pm
-
-
-      **Bachata for Beginners.** Starting on Monday, September 9th at 6:45 pm     
+      **Bachata for Beginners.** Starting on Monday, September 23 at 6:45 pm     
     
 
     actions:
