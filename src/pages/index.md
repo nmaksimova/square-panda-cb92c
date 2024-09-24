@@ -34,7 +34,7 @@ sections:
   - content: |
       ## NEW GROUP CLASSES!!!
 
-      **Bachata for Beginners.** Starting on Monday, September 23 at 6:45 pm     
+      **Bachata for Beginners.** Starting on Monday, September 30 at 6:45 pm     
     
 
     actions:
