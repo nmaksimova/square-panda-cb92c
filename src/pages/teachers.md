@@ -50,37 +50,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/Ilana.png
-        
-      - title: Ema Morgovsky
-        title_align: center
-        content: "**Ema** has been dancing at Ilta for over 14 years now, since she was 3 years old! Ema has been in major Youth and U21 finals across the country in the International Latin style, including NYDF U21 final, Tri-State Youth Final, and Eastern United States Vice Champion. One of her biggest accomplishments is winning the 2022 USA youth pre-Champ title.  \n\n Ladies latin arm styling, children's beginners, intermediate, and advanced group classes, and private classes for all ages and levels are all classes available to take with Ema at ILTA Dance Studio!\n"
 
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: Ilta Dance Teachers Erik
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        image: images/ema.png
-        
-      - title: Jenya Didenko
-        title_align: center
-        content: "**Jenya** started dancing at a very young age. In addition to ballroom dancing,\_she was also learning ballet, contemporary dance and hip-hop.\_From her early years, Jenya loved to choreograph and teach others to dance. When she was only 16, her students were winners and finalists at many Ukrainian competitions and dance talent shows.\_In 2010 Jenya moved to the USA. \_After 4 year of dancing as amateur, Jenya became\_professional dancer and instructor.\n\nHer accomplishments include:\nTwin Cities Open Ballroom Champion\nThe Commonwealth Classic Champion\nDancing a la Carte Champion\nNashville Stars Champion.\n"
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: Ilta Dance Teachers Jenya
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        image: images/Jenya3.png
       
     grid_cols: two
     grid_gap_vert: large
