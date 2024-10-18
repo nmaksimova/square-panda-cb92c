@@ -3,7 +3,7 @@ title: 'Adult Dance Classes Schedule, Framigham, MA'
 excerpt: Dance Schedule
 sections:
   - actions: []
-    image_alt: lorem-ipsum
+    image_alt: dance_classes_adults
     media_position: top
     media_width: fifty
     align: center
@@ -18,23 +18,18 @@ sections:
     type: hero_section
     title: ' Framingham - Adult  Dance Schedule'
     background_image: images/Start_dancing.png
-  - title: Registration is Open for March Classes (Beginners)
-    subtitle: 'Session is 6-week long, $120 per session'
+  - title: Adult Classes
+    subtitle: 'Session is 6-week long, packaged price for 6 classes: $140'
     content: >
-      *   **Latin Beginners**. Swing, rumba (Monday 6:45 pm, starting March
-      14th)
-
-
-      <!---->
-
-
-      *   **Beginners Salsa, Bachata** (Wednesday 7:30pm, starting March 16th)
-
+    
+      *   **New! Beginners Bachata Group** (September 30, Monday 6:45pm)
 
       *   **Latin Cardio:** dance style workout class for all levels (Thursday
       6:45 pm)
+      
+
     actions: []
-    image_alt: lorem-ipsum
+    image_alt: adult dance classes
     video_embed_html: >-
       <iframe width="560" height="315"
       src="https://www.youtube.com/embed/ra9qUBdCBsQ?controls=0" title="YouTube
@@ -58,7 +53,7 @@ sections:
     content: |
       *   Group Class Session is 6-week long
 
-      *   $120 per session
+      *   packaged price for 6 classes: $140
     content_align: left
     form_position: bottom
     form_width: fifty
@@ -96,10 +91,8 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'Beginners Latin (Monday 6:45 pm)'
-          - 'Beginners Salsa, Bachata (Wednesday 7:30 pm)'
+          - 'Bachata Group (September 30, Monday 6:45 pm)'
           - 'Latin Cardio (Thursday 6:45 pm)'
-          - 'Stretch (Thursday 7:30 pm)'
         is_required: true
     submit_label: Register
     align_vert: top
@@ -118,10 +111,9 @@ sections:
       - title: Monday
         title_align: center
         content: |
-          *   **Beginners Latin**
 
+          *   **Salsa Group**
               *   6:45 pm
-              *   [Register](/framingham-adult-registration)
         content_align: left
         actions: []
         actions_align: left
@@ -135,9 +127,12 @@ sections:
         title_align: center
         content: |
 
+          *   **Intermediate Salsa Ladies**
+              *   6:45 pm          
 
-          *   **Latin Technique** (Advanced)
+          *   **Intermediate Bachata**
               *   7:30 pm
+                
         content_align: left
         actions: []
         actions_align: left
@@ -151,14 +146,15 @@ sections:
         title_align: center
         content: |
 
+          **New! Bachata Group**
 
-          **Beginners Salsa, Bachata**
+          *   6:00 pm
+   
+          **Ladies Arm Styling with Ema**
 
-          *   7:30 pm
+          *   6:45 pm
 
-          *   [Register](/framingham-adult-registration)
-
-          **Lady’s Latin Choreography**
+          **Ladies Latin Choreography**
 
           *   7:30 pm
         content_align: left
@@ -172,27 +168,36 @@ sections:
         image_has_padding: false
       - title: Thursday
         title_align: center
-        content: >
-          *   **Latin Cardio** (this class is for all levels. It will help to
+        content: |
+        
+          **Latin Cardio** (this class is for all levels. It will help to
           improve coordination, balance, flexibility, and stay in shape)
 
-
-
-
           *   6:45 pm
+  
+       
+          **New! Salsa Group for Beginners**
+   
+          *    6:45 pm
+        
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: friday-dance-class
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
 
+      - title: Friday
+        title_align: center
+        content: |
 
-
-
-          *   **Ballroom Technique** (Advanced)
-
-              *   7:00 pm
-
-          *   **Stretch class** (all levels are welcome. Improve your
-          flexibility and coordination)
-
-              *   7:30 pm
-              *   [Register](/framingham-adult-registration)
+          **Social Elegance Trio: Foxtrot, Rumba, Swing**
+          
+          *   6:45 pm
+      
         content_align: left
         actions: []
         actions_align: left
@@ -202,7 +207,9 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-    grid_cols: four
+
+
+    grid_cols: five
     grid_gap_vert: small
     grid_gap_horiz: small
     enable_cards: true

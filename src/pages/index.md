@@ -7,8 +7,8 @@ sections:
         url: /book-class
         style: primary
         icon_position: right
-      - label: Kids Registration Forms 2021-2022
-        url: /kids-dance-classes
+      - label: Kids Registration Forms 2024-2025
+        url: 'https://square-panda-cb92c.netlify.app/images/ILTA_fram_kids_registration_2024-25.pdf'
         style: primary
         has_icon: false
         icon: youtube
@@ -16,38 +16,71 @@ sections:
         new_window: false
         no_follow: false
         type: action
-    image: images/ILTA_DANCE_LOGO.png
-    image_alt: Ilta Dance Studio
+
+    image: images/transparent.png
     media_position: left
     media_width: sixty
-    align: center
+    align: left
     padding_top: large
     padding_bottom: small
     background_color: secondary
-    background_image: images/Dance_Lesson_v2.jpg
-    background_image_opacity: 60
+    background_image: images/ilta_website_background.jpg
+    background_image_opacity: 80
     background_image_size: cover
-    background_image_position: center center
+    background_image_position: top top
     has_border: true
     background_image_repeat: no-repeat
+
+  - content: |
+      ## NEW GROUP CLASS!!!
+
+      **Salsa for Beginners.** Starting November 7th (Thursday) at 6:45 pm
+
+
+    actions:
+      - label: Register
+        url: /ilta_new_class
+        style: primary
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
+    image_alt: Register for Salsa Class
+    media_position: left
+    media_width: fifty
+    align: left
+    padding_top: small
+    padding_bottom: small
+    has_border: false
+    background_color: secondary
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: hero_section
+    image: images/bachata_sep_24_v2.jpg
+
+
+
   - content: >
-      ## April Registration is Open for Adults Programs
+      ## Adult Dance Programs
 
 
-      (for singles and couples)
+      (for singles and couples; same sex couples)
+
+      ### **Salsa, Bachata, Social Dance and more**
 
 
-      *   **New class SALSA** (Salem location): (Friday 6:45 pm) -
-      [Register](https://www.iltadance.com/salem-adults-latin-beginners)
+
+      **New Salsa Group Class for Beginners is starting in November**
 
 
-      **New Classes in Framingham location**
+
+      Click here to register and see the schedule
 
 
-      ***Starting in April***
-
-
-      *   Beginners Salsa (Wednesday 6:45pm)
     actions:
       - label: Learn More
         url: /framingham-schedule-adult
@@ -58,7 +91,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-    image_alt: lorem-ipsum
+    image_alt: adult-dance-classes
     video_embed_html: >-
       <iframe width="560" height="315"
       src="https://www.youtube.com/embed/ra9qUBdCBsQ?controls=0" title="YouTube
@@ -77,8 +110,11 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+
+
+
   - content: |
-      ## Kids Dance Classes Schedule 2021-2022
+      ## Registration is open for Kids Dance Classes 2024-2025
 
       **Dance classes for all ages and levels!**
 
@@ -92,7 +128,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-        url: /kids-dance-classes/
+        url: 'https://square-panda-cb92c.netlify.app/images/ILTA_fram_kids_registration_2024-25.pdf'
       - label: Framingham Schedule
         url: /framingham-schedule-kids
         style: primary
@@ -103,7 +139,7 @@ sections:
         no_follow: false
         type: action
     image_alt: kids dance schedule
-    media_position: right
+    media_position: left
     media_width: fifty
     align: left
     padding_top: small
@@ -116,6 +152,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/Kids_dancing_site-cf941571.jpg
+
   - title: Welcome to Ilta Dance!
     features:
       - content: "We\_offer **dance group classes**, **private lessons**\_and other opportunities to help you learn the art\_of **Ballroom and Latin dancing**!\_Whether you are a novice or an experienced dancer,\_we have the right instructor to work with you!\_Our programs designed for kids and adult dancers.\n"
@@ -234,7 +271,9 @@ sections:
     background_color: secondary
   - title: Book your first class with us
     title_align: left
-    content: "#### Framingham location only\n\nBest way to receive personalized attention and faster learn dancing. Lessons may be for one or couple with any instructor. You will learn steps, step patterns, how to create combinations of steps and good leader / follower techniques as well as overview of the dances. Ballroom – Waltz, Foxtrot, Swing, Tango, Cha Cha. Latin dancing – Rumba, Salsa, Samba and Merengue.\n\n**30\_minute COMPLIMENTARY lesson (adults only)**\n\n###### &#xA;&#xA;&#xA;&#xA;\n"
+    content: "#### Framingham location only\n\nBest way to receive personalized attention and faster learn dancing. Lessons may be for one or couple with any instructor. You will learn steps, step patterns, how to create combinations of steps and good leader / follower techniques as well as overview of the dances. Ballroom – Waltz, Foxtrot, Swing, Tango, Cha Cha. Latin dancing – Rumba, Salsa, Samba and Merengue. \n\n**Note!** We offer a 30-minute complimentary class exclusively for individuals interested in private lessons, including wedding packages. **Please note that this offer is not available for those interested in group lessons**.\n\n
+
+    \n\n**30\_minute COMPLIMENTARY lesson (adults only)**\n\n###### &#xA;&#xA;&#xA;&#xA;\n"
     content_align: left
     form_position: left
     form_width: fifty
@@ -390,10 +429,10 @@ sections:
         new_window: false
         no_follow: false
         type: action
-  - title: Ilta Showcase 2021
+  - title: Ilta Showcase 2024
     actions:
-      - label: Showcase Videos
-        url: /ilta-showcase-2021
+      - label: Showcase Pictures
+        url: /ilta-showcase-june-2024
         style: primary
         has_icon: false
         icon: arrow-left
@@ -401,7 +440,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-    image_alt: lorem-ipsum
+    image_alt: Ilta dance showcase
     media_position: left
     media_width: fifty
     align: left
@@ -414,13 +453,14 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/Ilta_showcase_21.jpg
+    image: images/sh_24_5253.jpg
+
   - type: grid_section
-    title: Our Locations
+    title: Our Location
     subtitle: ''
     align: center
     grid_items:
-      - image_alt: Contentful logo
+      - image_alt: Ilta Dance
         image_align: center
         title: Framingham
         image_position: bottom
@@ -446,31 +486,8 @@ sections:
             new_window: false
             no_follow: false
             type: action
-      - image_alt: Netlify logo
-        image_align: center
-        title: Salem
-        title_align: center
-        content: |
-          A Performing Arts Academy
 
-          96 Swampscott Rd #6
-
-          Salem, MA 01970
-
-          [781-492-2769 ](tel:+12345567890)
-
-          **dance@iltadance.com**
-        actions:
-          - label: Salem Schedule
-            url: /schedule-salem
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-    grid_cols: two
+    grid_cols: one
     grid_gap_horiz: medium
     grid_gap_vert: medium
     enable_cards: true
@@ -479,9 +496,7 @@ template: advanced
 seo:
   title: ILTA Dance Studio
   description: >
-    Latin and Ballroom Dance Classes, Framingham, MA, Salem, MA. Our dance
-    classes are for all ages and levels! Learn how to Salsa, Bachata, Cha Cha,
-    Samba, Rumba, Jive, Waltz, Tango, Foxtrot and more.
+    latin dance classes, ballroom dance classes, dance classes in Framingham. Dance classes for kids, dance classes for adults, dance classes for beginners. Wedding dance, father daughter dance, same sex couples dance classes. Learn how to Salsa, Bachata, Cha Cha, Samba, Rumba, Jive, Waltz, Tango, Foxtrot and more.
   robots: []
   extra:
     - name: 'og:image'

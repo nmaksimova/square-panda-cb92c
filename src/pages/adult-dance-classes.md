@@ -87,7 +87,7 @@ sections:
         media_width: fifty
         actions:
           - label: Download Registration Form
-            url: 'https://square-panda-cb92c.netlify.app/images/ILTA-adults-21.pdf'
+            url: 'https://square-panda-cb92c.netlify.app/images/ILTA_adults_2024_25.pdf'
             style: secondary
             has_icon: false
             icon: arrow-left
@@ -104,15 +104,6 @@ sections:
             no_follow: false
             type: action
             url: /framingham-schedule-adult
-          - label: Adult Schedule Salem
-            url: /salem-schedule-adult
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
       - title: Private Lessons
         subtitle: ''
         content: "Best way to receive personalized attention and faster learn dancing. Lessons may be for one or couple with any instructor. The Introductory 1/2 hour lesson is available at discounted rate. You will learn steps, step patterns, how to create combinations of steps and good leader / follower techniques as well as overview of the dances. \n\n**30\_minute COMPLIMENTARY lesson (adults only)**\n"
@@ -130,24 +121,6 @@ sections:
             new_window: false
             no_follow: false
             type: action
-      - title: Online Classes
-        subtitle: ''
-        content: >
-          **Ilta Dance** offers an exciting new way of learning the art of dance
-          from the comfort of your home. It's very important to keep practicing
-          and improving your dance routine even if you can't go to the studio.
-
-
-          We teach **online zoom lessons** for any levels. **Private and group
-          classes are available.**
-        actions: []
-        image_alt: Online dance classes
-        video_embed_html: ''
-        media_position: left
-        media_width: fifty
-        align: left
-        type: feature
-        image: images/IMG_0519.jpg
       - title: PRO-AM
         subtitle: ''
         content: "There are many wonderful benefits to **competing with your teacher** instead of another amateur. You will improve exponentially faster because your lessons focus entirely on you. \_Your dance training is tailored specifically to your individual goals, strengths, and weaknesses.\n\nAlso, you will feel a lot less stress competing with an experienced professional who will guide you through the entire process. Although it is an amazing journey to compete with an amateur partner, it is often difficult to find a partner who matches your skill level, age, physical requirements, commitment, and budget.\n\nSome people turn to pro-am to continue dancing and improving while searching for an amateur partner. \_Then there are others who dance pro-am exclusively because they are hooked on improving at their own pace, having individually-tailored lessons, competing with an experienced professional, and excelling in the pro-am competition circuit.\n"
@@ -166,7 +139,7 @@ sections:
           back to us.
         actions:
           - label: Download Registration Form
-            url: 'https://square-panda-cb92c.netlify.app/images/ILTA-adults-21.pdf'
+            url: 'https://square-panda-cb92c.netlify.app/images/ILTA_adults_2024_25.pdf'
             style: primary
             has_icon: false
             icon: arrow-left
@@ -202,7 +175,7 @@ sections:
     background_image: images/Dance_Instructor.jpg
     background_image_opacity: 15
   - type: grid_section
-    title: Our Locations
+    title: Our Location
     grid_items:
       - title: Framigham
         content: |+
@@ -229,38 +202,8 @@ sections:
             type: action
         actions_align: left
         actions_width: auto
-      - title: Salem
-        content: >
-          A Performing Arts Academy
 
-
-          96 Swampscott Rd #6
-
-
-          Salem, MA 01970
-
-
-          [781-492-2769](tel:+12345567890)
-
-
-          [**dance@iltadance.com**](mailto:dance@iltadance.com)[](mailto:email@example.com)
-
-
-          [](mailto:email@example.com)
-        content_align: left
-        actions:
-          - label: Salem Schedule
-            url: /schedule-salem
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        actions_align: left
-        actions_width: auto
-    grid_cols: two
+    grid_cols: one
     grid_gap_horiz: large
     grid_gap_vert: large
     enable_cards: true

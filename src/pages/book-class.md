@@ -5,7 +5,9 @@ sections:
   - title: Book your first class with us
     subtitle: ''
     title_align: left
-    content: "#### Framingham location only\n\nBest way to receive personalized attention and faster learn dancing. Lessons may be for one or couple with any instructor. You will learn steps, step patterns, how to create combinations of steps and good leader / follower techniques as well as overview of the dances. Ballroom – Waltz, Foxtrot, Swing, Tango, Cha Cha. Latin dancing – Rumba, Salsa, Samba and Merengue.\n\n**30\_minute COMPLIMENTARY lesson (adults only)**\n\n###### &#xA;&#xA;&#xA;&#xA;\n"
+    content: "#### Framingham location only\n\nBest way to receive personalized attention and faster learn dancing. Lessons may be for one or couple with any instructor. You will learn steps, step patterns, how to create combinations of steps and good leader / follower techniques as well as overview of the dances. Ballroom – Waltz, Foxtrot, Swing, Tango, Cha Cha. Latin dancing – Rumba, Salsa, Samba and Merengue.\n\n**Note!** We offer a 30-minute complimentary class exclusively for individuals interested in private lessons, including wedding packages. **Please note that this offer is not available for those interested in group lessons**.\n\n
+
+**30\_minute COMPLIMENTARY lesson (adults only)**\n\n###### &#xA;&#xA;&#xA;&#xA;\n"
     content_align: left
     form_position: right
     form_width: fifty
@@ -80,7 +82,7 @@ sections:
     subtitle: ''
     align: center
     grid_items:
-      - image_alt: Contentful logo
+      - image_alt: Ilta dance
         image_align: center
         title: Framingham
         image_position: bottom
@@ -96,20 +98,7 @@ sections:
           **dance@iltadance.com**
         content_align: left
         title_align: center
-      - image_alt: Netlify logo
-        image_align: center
-        title: Salem
-        title_align: center
-        content: |
-          A Performing Arts Academy
 
-          96 Swampscott Rd #6
-
-          Salem, MA 01970
-
-          [781-492-2769 ](tel:+12345567890)
-
-          **dance@iltadance.com**
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
