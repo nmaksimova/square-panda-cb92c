@@ -47,7 +47,7 @@ sections:
       ***Starting in April***
 
 
-     *   Beginners Salsa (Wednesday 6:45pm)
+      *   Beginners Salsa (Wednesday 6:45pm)
     actions:
       - label: Learn More
         url: /framingham-schedule-adult

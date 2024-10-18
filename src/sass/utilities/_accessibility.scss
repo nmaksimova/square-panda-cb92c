@@ -1,6 +1,8 @@
+@use "../abstracts/mixins";
+
 /**
  * Text meant only for screen readers
  */
 .sr-only {
-	@include sr-only();
+	@include mixins.sr-only();
 }

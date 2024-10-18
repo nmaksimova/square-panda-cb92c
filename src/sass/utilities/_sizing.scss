@@ -1,13 +1,15 @@
+@use "../abstracts/variables";
+
 /**
  * Sizing
  */
-@each $key, $size in $container-sizes {
+@each $key, $size in variables.$container-sizes {
 	.maxw-#{$key} {
 		max-width: #{$size};
 	}
 }
 
-@each $key, $size in $sizes {
+@each $key, $size in variables.$sizes {
 	.maxw-#{$key} {
 		max-width: #{$size};
 	}
