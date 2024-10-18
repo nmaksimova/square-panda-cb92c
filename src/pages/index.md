@@ -32,7 +32,7 @@ sections:
     background_image_repeat: no-repeat
 
   - content: |
-      ## NEW GROUP CLASSES!!!
+      ## NEW GROUP CLASS!!!
 
       **Salsa for Beginners.** Starting November 7th (Thursday) at 6:45 pm     
     
