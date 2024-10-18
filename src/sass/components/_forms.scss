@@ -1,3 +1,6 @@
+@use "../abstracts/mixins";
+@use "../abstracts/variables";
+
 /**
  * Forms
  */
@@ -19,12 +22,12 @@ input[type="search"],
 input[type="url"],
 select,
 textarea {
-	background: $color-input-bg;
-	border: 1px solid $color-input-border;
+	background: variables.$color-input-bg;
+	border: 1px solid variables.$color-input-border;
 	border-radius: 0;
 	box-shadow: none;
 	box-sizing: border-box;
-	color: $color-input-text;
+	color: variables.$color-input-text;
 	display: block;
 	font-size: 16px;
 	font-weight: normal;
@@ -94,7 +97,7 @@ textarea {
 
 .form-inline {
 	label {
-		@include sr-only();
+		@include mixins.sr-only();
 	}
 }
 
@@ -108,7 +111,7 @@ textarea {
 	input[type="url"],
 	select,
 	textarea {
-		background: $color-classic-input-bg;
+		background: variables.$color-classic-input-bg;
 		border-radius: 6px;
 	}
 }
@@ -123,7 +126,7 @@ textarea {
 	input[type="url"],
 	select,
 	textarea {
-		background: $color-bold-input-bg;
+		background: variables.$color-bold-input-bg;
 		border-color: transparent;
 	}
 }

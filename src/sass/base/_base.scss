@@ -1,3 +1,8 @@
+@use "sass:map";
+@use "../abstracts/functions";
+@use "../abstracts/mixins";
+@use "../abstracts/variables";
+
 /**
  * Base Styles
  */
@@ -6,16 +11,16 @@ html {
 }
 
 body {
-	background-color: $color-body-bg;
-	color: $color-body-text;
+	background-color: variables.$color-body-bg;
+	color: variables.$color-body-text;
 	line-height: 1.66667;
 	text-rendering: optimizeLegibility;
-	@include font-smooth();
+	@include mixins.font-smooth();
 }
 
-@each $style in map-keys($theme-styles) {
+@each $style in map.keys(variables.$theme-styles) {
 	$style-suffix: "#{$style}";
-	$fonts: map-deep-get($theme-styles, $style, "fonts");
+	$fonts: functions.map-deep-get(variables.$theme-styles, $style, "fonts");
 	@each $font, $stack in $fonts {
 		$font-suffix: "#{$font}";
 		.style-#{$style-suffix} {
@@ -55,34 +60,34 @@ h6 {
 	}
 }
 
-h1 {
+h1, .h1 {
 	font-size: 2.66667em;
 }
 
-h2 {
+h2, .h2 {
 	font-size: 2.22222em;
 }
 
-h3 {
+h3, .h3 {
 	font-size: 1.66667em;
 }
 
-h4 {
+h4, .h4 {
 	font-size: 1.33333em;
 }
 
-h5 {
+h5, .h5 {
 	font-size: 1.11111em;
 }
 
-h6 {
+h6, .h6 {
 	font-size: 1em;
 }
 
 mark,
 ins {
-	background-color: $color-highlight-bg;
-	color: $color-highlight-text;
+	background-color: variables.$color-highlight-bg;
+	color: variables.$color-highlight-text;
 	padding: 0.125em 0.25em;
 	text-decoration: none;
 }
@@ -104,7 +109,7 @@ blockquote {
 }
 
 pre {
-	border: 1px solid $color-code-border;
+	border: 1px solid variables.$color-code-border;
 	font-size: 0.88889em;
 	line-height: 1.5;
 	margin: 0 0 1em;
@@ -115,14 +120,14 @@ pre {
 
 .style-classic {
 	pre {
-		background-color: $color-code-bg;
+		background-color: variables.$color-code-bg;
 		border-radius: 6px;
 	}
 }
 
 .style-bold {
 	pre {
-		background-color: $color-bold-code-bg;
+		background-color: variables.$color-bold-code-bg;
 		border-width: 2px;
 	}
 }
@@ -159,7 +164,7 @@ dd {
 }
 
 hr {
-	background-color: $color-hr-border;
+	background-color: variables.$color-hr-border;
 	border: 0;
 	color: inherit;
 	height: 1px;
@@ -202,12 +207,12 @@ figure {
 }
 
 figcaption {
-	color: $color-meta;
+	color: variables.$color-meta;
 	font-size: 0.88889em;
 	text-align: left;
 }
 
-@include media-breakpoint-down(sm) {
+@include mixins.media-breakpoint-down(sm) {
 	h1 {
 		font-size: 2.22222em;
 	}

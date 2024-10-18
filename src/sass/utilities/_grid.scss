@@ -1,58 +1,62 @@
+@use "sass:map";
+@use "../abstracts/mixins";
+@use "../abstracts/variables";
+
 /**
  * Grid
  */
 .grid {
-	@include make-grid();
+	@include mixins.make-grid();
 }
 
 .cell,
 [class*="cell-"] {
-	@include make-cell-default();
+	@include mixins.make-cell-default();
 }
 
 .grid-gap-none {
-	@include make-grid-gap(0);
+	@include mixins.make-grid-gap(0);
 }
 
 .grid-gap-small {
-	@include make-grid-gap($grid-gap-small);
+	@include mixins.make-grid-gap(variables.$grid-gap-small);
 }
 
-@include media-breakpoint-up(sm) {
+@include mixins.media-breakpoint-up(sm) {
 	.grid-gap-large {
-		@include make-grid-gap($grid-gap-large);
+		@include mixins.make-grid-gap(variables.$grid-gap-large);
 	}
 }
 
 .cell {
-	@include make-cell();
+	@include mixins.make-cell();
 }
 
 .cell-auto {
-	@include make-cell-auto();
+	@include mixins.make-cell-auto();
 }
 
-@for $i from 1 through $grid-cells {
+@for $i from 1 through variables.$grid-cells {
 	.cell-#{$i} {
-		@include make-cell-size($i, $grid-cells);
+		@include mixins.make-cell-size($i, variables.$grid-cells);
 	}
 }
 
-@each $breakpoint in map-keys($media-breakpoints) {
+@each $breakpoint in map.keys(variables.$media-breakpoints) {
 	$infix: "#{$breakpoint}";
 
-	@include media-breakpoint-up($breakpoint, $media-breakpoints) {
+	@include mixins.media-breakpoint-up($breakpoint, variables.$media-breakpoints) {
 		.cell-#{$infix} {
-			@include make-cell();
+			@include mixins.make-cell();
 		}
 
 		.cell-#{$infix}-auto {
-			@include make-cell-auto();
+			@include mixins.make-cell-auto();
 		}
 
-		@for $i from 1 through $grid-cells {
+		@for $i from 1 through variables.$grid-cells {
 			.cell-#{$infix}-#{$i} {
-				@include make-cell-size($i, $grid-cells);
+				@include mixins.make-cell-size($i, variables.$grid-cells);
 			}
 		}
 	}

@@ -1,8 +1,11 @@
+@use "../abstracts/mixins";
+@use "../abstracts/variables";
+
 /**
  * Announcement
  */
 .announcement-bar {
-	background: $color-anncmnt-bg;
+	background: variables.$color-anncmnt-bg;
 	position: relative;
 }
 
@@ -49,7 +52,7 @@
 	.js-announcment-close {
 		right: 1.875rem;
 
-		@include media-breakpoint-down(sm) {
+		@include mixins.media-breakpoint-down(sm) {
 			right: 0.9375rem;
 		}
 	}

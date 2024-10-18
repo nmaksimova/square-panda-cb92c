@@ -16,8 +16,8 @@ sections:
         new_window: false
         no_follow: false
         type: action
-    
-    image: images/transparent.png  
+
+    image: images/transparent.png
     media_position: left
     media_width: sixty
     align: left
@@ -34,8 +34,8 @@ sections:
   - content: |
       ## NEW GROUP CLASS!!!
 
-      **Salsa for Beginners.** Starting November 7th (Thursday) at 6:45 pm     
-    
+      **Salsa for Beginners.** Starting November 7th (Thursday) at 6:45 pm
+
 
     actions:
       - label: Register
@@ -63,7 +63,7 @@ sections:
     image: images/bachata_sep_24_v2.jpg
 
 
-    
+
   - content: >
       ## Adult Dance Programs
 
@@ -71,16 +71,16 @@ sections:
       (for singles and couples; same sex couples)
 
       ### **Salsa, Bachata, Social Dance and more**
-      
-      
-      
+
+
+
       **New Salsa Group Class for Beginners is starting in November**
-      
-      
-      
+
+
+
       Click here to register and see the schedule
-      
-      
+
+
     actions:
       - label: Learn More
         url: /framingham-schedule-adult
@@ -110,9 +110,9 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  
-  
-  
+
+
+
   - content: |
       ## Registration is open for Kids Dance Classes 2024-2025
 
@@ -151,7 +151,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/Kids_dancing_site-cf941571.jpg    
+    image: images/Kids_dancing_site-cf941571.jpg
 
   - title: Welcome to Ilta Dance!
     features:
@@ -486,7 +486,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-            
+
     grid_cols: one
     grid_gap_horiz: medium
     grid_gap_vert: medium

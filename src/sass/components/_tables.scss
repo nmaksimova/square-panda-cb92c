@@ -1,8 +1,10 @@
+@use "../abstracts/variables";
+
 /**
  * Tables
  */
 table {
-	border-bottom: 1px solid $color-table-border;
+	border-bottom: 1px solid variables.$color-table-border;
 	border-collapse: collapse;
 	border-spacing: 0;
 	line-height: 1.5;
@@ -13,7 +15,7 @@ table {
 }
 
 caption {
-	color: $color-meta;
+	color: variables.$color-meta;
 	font-size: 0.875em;
 	margin: 0 0 1em;
 	text-align: left;
@@ -21,7 +23,7 @@ caption {
 
 th,
 td {
-	border-top: 1px solid $color-table-border;
+	border-top: 1px solid variables.$color-table-border;
 	padding: 0.5em;
 }
 
@@ -42,7 +44,7 @@ th {
 
 .style-classic {
 	th {
-		background-color: $color-table-bg;
+		background-color: variables.$color-table-bg;
 	}
 }
 
@@ -54,6 +56,6 @@ th {
 	}
 
 	th {
-		background-color: $color-bold-table-bg;
+		background-color: variables.$color-bold-table-bg;
 	}
 }

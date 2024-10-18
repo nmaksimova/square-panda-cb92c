@@ -1,3 +1,8 @@
+@use "sass:map";
+@use "../abstracts/functions";
+@use "../abstracts/mixins";
+@use "../abstracts/variables";
+
 /**
  * Light/dark mode
  */
@@ -7,57 +12,57 @@
 			box-shadow: none;
 	
 			&:hover {
-				box-shadow: 0 2px 30px $color-classic-card-shadow;
+				box-shadow: 0 2px 30px variables.$color-classic-card-shadow;
 			}
 		}
 	}
 
 	&.style-bold {
 		.card {
-			border-color: $color-bold-card-border;
+			border-color: variables.$color-bold-card-border;
 		}
 
 		.site-header {
-			border-color: $color-bold-header-border;
+			border-color: variables.$color-bold-header-border;
 		}
 
 		.site-footer__nav,
 		.site-footer__info {
-			border-color: $color-bold-footer-border;
+			border-color: variables.$color-bold-footer-border;
 		}
 
 		.nav-overlay {
-			background: $color-bold-nav-mobile-overlay;
+			background: variables.$color-bold-nav-mobile-overlay;
 		}
 
-		@include media-breakpoint-down(md) {
+		@include mixins.media-breakpoint-down(md) {
 			.navbar__menu {
-				border-color: $color-bold-nav-mobile-border;
+				border-color: variables.$color-bold-nav-mobile-border;
 			}
 		}
 
 		&.layout-boxed {
 			@media (min-width: 1401px) {
 				.site {
-					border-color: $color-bold-boxed-border;
+					border-color: variables.$color-bold-boxed-border;
 				}
 			}
 		}
 
 		.announcement-bar {
-			background: $color-bold-anncmnt-bg;
-			color: $color-bold-anncmnt-text;
+			background: variables.$color-bold-anncmnt-bg;
+			color: variables.$color-bold-anncmnt-text;
 		}
 
 		.section {
 			&.has-border {
-				border-color: $color-bold-sect-border;
+				border-color: variables.$color-bold-sect-border;
 			}
 		}
 	}
 
 	.bg-primary {
-		color: $color-primary-sect-text;
+		color: variables.$color-primary-sect-text;
 
 		pre,
 		th {
@@ -65,24 +70,24 @@
 		}
 
 		.btn--primary {
-			background-color: $color-primary-sect-btn-bg;
-			color: $color-primary-sect-btn-text;
+			background-color: variables.$color-primary-sect-btn-bg;
+			color: variables.$color-primary-sect-btn-text;
 		}
 	}
 
 	.bg-secondary {
 		pre {
-			border-color: $color-secondary-sect-code-border;
+			border-color: variables.$color-secondary-sect-code-border;
 		}
 
 		table,
 		th,
 		td {
-			border-color: $color-secondary-sect-table-border;
+			border-color: variables.$color-secondary-sect-table-border;
 		}
 
 		hr {
-			background-color: $color-secondary-sect-hr-border;
+			background-color: variables.$color-secondary-sect-hr-border;
 		}
 	}
 
@@ -97,7 +102,7 @@
 		input[type="url"],
 		select,
 		textarea {
-			background-color: $color-sect-input-bg;
+			background-color: variables.$color-sect-input-bg;
 			border: 0;
 		}
 	}
@@ -106,26 +111,26 @@
 	&.style-bold {
 		.bg-secondary {
 			pre {
-				background-color: $color-secondary-sect-code-bg;
+				background-color: variables.$color-secondary-sect-code-bg;
 			}
 
 			th {
-				background-color: $color-secondary-sect-table-bg;
+				background-color: variables.$color-secondary-sect-table-bg;
 			}
 		}
 	}
 
 	.card {
-		background-color: $color-card-bg;
-		color: $color-card-text;
+		background-color: variables.$color-card-bg;
+		color: variables.$color-card-text;
 
 		hr {
-			background-color: $color-hr-border;
+			background-color: variables.$color-hr-border;
 		}
 
 		.btn--primary {
-			background-color: $color-btn-bg;
-			color: $color-btn-text;
+			background-color: variables.$color-btn-bg;
+			color: variables.$color-btn-text;
 		}
 
 		input[type="text"],
@@ -137,26 +142,26 @@
 		input[type="url"],
 		select,
 		textarea {
-			background-color: $color-input-bg;
-			border: 1px solid $color-input-border;
+			background-color: variables.$color-input-bg;
+			border: 1px solid variables.$color-input-border;
 		}
 	}
 
 	&.style-classic {
 		.card {
 			pre {
-				background-color: $color-code-bg;
-				border-color: $color-code-border;
+				background-color: variables.$color-code-bg;
+				border-color: variables.$color-code-border;
 			}
 
 			th {
-				background-color: $color-table-bg;
+				background-color: variables.$color-table-bg;
 			}
 
 			table,
 			th,
 			td {
-				border-color: $color-table-border;
+				border-color: variables.$color-table-border;
 			}
 
 			input[type="text"],
@@ -168,7 +173,7 @@
 			input[type="url"],
 			select,
 			textarea {
-				background: $color-classic-input-bg;
+				background: variables.$color-classic-input-bg;
 			}
 		}
 	}
@@ -176,17 +181,17 @@
 	&.style-bold {
 		.card {
 			pre {
-				background-color: $color-bold-code-bg;
+				background-color: variables.$color-bold-code-bg;
 			}
 
 			th {
-				background-color: $color-bold-table-bg;
+				background-color: variables.$color-bold-table-bg;
 			}
 
 			table,
 			th,
 			td {
-				border-color: $color-table-border;
+				border-color: variables.$color-table-border;
 			}
 
 			input[type="text"],
@@ -198,7 +203,7 @@
 			input[type="url"],
 			select,
 			textarea {
-				background: $color-bold-input-bg;
+				background: variables.$color-bold-input-bg;
 				border-color: transparent;
 			}
 		}
@@ -206,67 +211,67 @@
 }
 
 .mode-dark {
-	background-color: $color-dark-body-bg;
-	color: $color-dark-body-text;
+	background-color: variables.$color-dark-body-bg;
+	color: variables.$color-dark-body-text;
 
 	&.layout-boxed {
-		background-color: $color-dark-boxed-bg;
+		background-color: variables.$color-dark-boxed-bg;
 
 		.site {
-			background-color: $color-dark-body-bg;
+			background-color: variables.$color-dark-body-bg;
 		}
 
 		@media (min-width: 1401px) {
 			.site {
-				border-color: $color-dark-boxed-border;
+				border-color: variables.$color-dark-boxed-border;
 			}
 		}
 	}
 
 	mark,
 	ins {
-		background-color: $color-dark-highlight-bg;
-		color: $color-dark-highlight-text;
+		background-color: variables.$color-dark-highlight-bg;
+		color: variables.$color-dark-highlight-text;
 	}
 
 	pre {
-		border-color: $color-dark-code-border;
+		border-color: variables.$color-dark-code-border;
 	}
 
 	&.style-classic {
 		pre {
-			background-color: $color-dark-code-bg;
+			background-color: variables.$color-dark-code-bg;
 		}
 	}
 
 	&.style-bold {
 		pre {
-			background-color: $color-dark-bold-code-bg;
+			background-color: variables.$color-dark-bold-code-bg;
 		}
 	}
 
 	hr {
-		background-color: $color-dark-hr-border;
+		background-color: variables.$color-dark-hr-border;
 	}
 
 	table {
-		border-color: $color-dark-table-border;
+		border-color: variables.$color-dark-table-border;
 	}
 
 	th,
 	td {
-		border-color: $color-dark-table-border;
+		border-color: variables.$color-dark-table-border;
 	}
 
 	&.style-classic {
 		th {
-			background-color: $color-dark-table-bg;
+			background-color: variables.$color-dark-table-bg;
 		}
 	}
 
 	&.style-bold {
 		th {
-			background-color: $color-dark-bold-table-bg;
+			background-color: variables.$color-dark-bold-table-bg;
 		}
 	}
 
@@ -279,63 +284,63 @@
 	input[type="url"],
 	select,
 	textarea {
-		background: $color-dark-input-bg;
+		background: variables.$color-dark-input-bg;
 		border-color: transparent;
-		color: $color-dark-input-text;
+		color: variables.$color-dark-input-text;
 	}
 
 	.form-select {
-		color: $color-dark-input-text;
+		color: variables.$color-dark-input-text;
 	}
 
 	&.style-bold {
 		.btn--primary,
 		.btn--secondary {
-			box-shadow: 0.375em 0.375em 0 0 $color-dark-bold-btn-shadow;
+			box-shadow: 0.375em 0.375em 0 0 variables.$color-dark-bold-btn-shadow;
 	
 			&:hover,
 			&:focus,
 			&:active {
-				box-shadow: 0 0 0 0 $color-dark-bold-btn-shadow;
+				box-shadow: 0 0 0 0 variables.$color-dark-bold-btn-shadow;
 			}
 		}
 	}
 
 	.menu__item {
-		color: $color-dark-nav-link-text;
+		color: variables.$color-dark-nav-link-text;
 	}
 
 	.site-header {
-		border-color: $color-dark-header-border;
+		border-color: variables.$color-dark-header-border;
 	}
 
 	.nav-overlay {
-		background: $color-dark-nav-mobile-overlay;
+		background: variables.$color-dark-nav-mobile-overlay;
 	}
 
-	@include media-breakpoint-down(md) {
+	@include mixins.media-breakpoint-down(md) {
 		.navbar__container {
-			background-color: $color-dark-nav-mobile-bg;
+			background-color: variables.$color-dark-nav-mobile-bg;
 		}
 
 		.navbar__menu {
-			border-color: $color-dark-nav-mobile-border;
+			border-color: variables.$color-dark-nav-mobile-border;
 		}
 	}
 
 	.site-footer__nav,
 	.site-footer__info {
-		border-color: $color-dark-footer-border;
+		border-color: variables.$color-dark-footer-border;
 	}
 
 	.announcement-bar {
-		background: $color-dark-anncmnt-bg;
+		background: variables.$color-dark-anncmnt-bg;
 		position: relative;
 	}
 
 	.section {
 		&.has-border {
-			border-color: $color-dark-sect-border;
+			border-color: variables.$color-dark-sect-border;
 		}
 	}
 
@@ -357,58 +362,58 @@
 		}
 
 		.btn--primary {
-			background-color: $color-dark-primary-sect-btn-bg;
-			color: $color-dark-primary-sect-btn-text;
+			background-color: variables.$color-dark-primary-sect-btn-bg;
+			color: variables.$color-dark-primary-sect-btn-text;
 		}
 
 		.btn--secondary {
-			background-color: $color-dark-primary-sect-btn-alt-bg;
+			background-color: variables.$color-dark-primary-sect-btn-alt-bg;
 		}
 	}
 
 	.bg-secondary {
-		background: $color-dark-secondary-sect-bg;
+		background: variables.$color-dark-secondary-sect-bg;
 	}
 
 	.card {
-		background-color: $color-dark-card-bg;
-		border-color: $color-dark-card-border;
+		background-color: variables.$color-dark-card-bg;
+		border-color: variables.$color-dark-card-border;
 	
 		pre {
-			border-color: $color-dark-code-border;
+			border-color: variables.$color-dark-code-border;
 		}
 
 		hr {
-			background-color: $color-dark-hr-border;
+			background-color: variables.$color-dark-hr-border;
 		}
 	
 		table {
-			border-color: $color-dark-table-border;
+			border-color: variables.$color-dark-table-border;
 		}
 	
 		th,
 		td {
-			border-color: $color-dark-table-border;
+			border-color: variables.$color-dark-table-border;
 		}
 
 		.btn--primary {
-			background-color: $color-btn-bg;
-			color: $color-btn-text;
+			background-color: variables.$color-btn-bg;
+			color: variables.$color-btn-text;
 		}
 
 		.btn--secondary {
-			background-color: $color-btn-alt-bg;
+			background-color: variables.$color-btn-alt-bg;
 		}
 	}
 
 	&.style-classic {
 		.card {
 			pre {
-				background-color: $color-dark-code-bg;
+				background-color: variables.$color-dark-code-bg;
 			}
 
 			th {
-				background-color: $color-dark-table-bg;
+				background-color: variables.$color-dark-table-bg;
 			}
 		}
 	}
@@ -416,19 +421,19 @@
 	&.style-bold {
 		.card {
 			pre {
-				background-color: $color-dark-bold-code-bg;
+				background-color: variables.$color-dark-bold-code-bg;
 			}
 
 			th {
-				background-color: $color-dark-bold-table-bg;
+				background-color: variables.$color-dark-bold-table-bg;
 			}
 		}
 	}
 }
 
-@each $style in map-keys($theme-styles) {
+@each $style in map.keys(variables.$theme-styles) {
 	$style-suffix: "#{$style}";
-	$colors: map-deep-get($theme-styles, $style, "colors");
+	$colors: functions.map-deep-get(variables.$theme-styles, $style, "colors");
 	@each $color, $value in $colors {
 		$color-suffix: "#{$color}";
 	
