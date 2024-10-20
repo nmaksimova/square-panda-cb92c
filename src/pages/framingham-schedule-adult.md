@@ -22,7 +22,7 @@ sections:
     subtitle: 'Session is 6-week long, packaged price for 6 classes: $140'
     content: >
     
-      *   **New! Beginners Bachata Group** (September 30, Monday 6:45pm)
+      *   **New! Beginners Salsa Group** (November 7th, Thursday 6:45pm)
 
       *   **Latin Cardio:** dance style workout class for all levels (Thursday
       6:45 pm)
@@ -91,7 +91,7 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'Bachata Group (September 30, Monday 6:45 pm)'
+          - 'Salsa Group (November 7th, Thursday 6:45 pm)'
           - 'Latin Cardio (Thursday 6:45 pm)'
         is_required: true
     submit_label: Register
