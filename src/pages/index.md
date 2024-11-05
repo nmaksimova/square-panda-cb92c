@@ -70,7 +70,7 @@ sections:
 
     actions:
       - label: Register
-        url: /ilta_new_class
+        url: /kids_new_group
         style: primary
         has_icon: false
         icon: arrow-left
