@@ -32,7 +32,7 @@ sections:
     background_image_repeat: no-repeat
 
   - content: |
-      ## NEW GROUP CLASS!!!
+      ## NEW GROUP CLASS FOR ADULTS!!!
 
       **Salsa for Beginners.** Starting November 7th (Thursday) at 6:45 pm
 
@@ -54,7 +54,7 @@ sections:
     padding_top: small
     padding_bottom: small
     has_border: false
-    background_color: secondary
+    background_color: primary
     background_image_opacity: 0
     background_image_size: cover
     background_image_position: center center
@@ -63,7 +63,7 @@ sections:
     image: images/salsa_nov_24.jpg
 
   - content: |
-      ## NEW KIDS GROUP CLASS!!!
+      ## NEW GROUP CLASS FOR KIDS!!!
 
       **Kids Group for Ages 4-6.** Every Saturday at 10:30am
 
