@@ -36,6 +36,7 @@ sections:
         image: images/Tamaz.png
       - title: Ilana Meshkausk
         title_align: center
+        subtitle: Studio Owner and Teacher
         content: >
           **Ilana's** dancing journey began in Lithuania, USSR where she first stepped onto the dance floor at the age of 6. Her dedication and talent quickly elevated her to one of the top competetive dancers in her homeland.
 
