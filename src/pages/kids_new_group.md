@@ -27,13 +27,13 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     title: 'New Kids Group Classes - Registration'
-    subtitle: 'Kids Dance Group for Ages 4-6! Saturday at 10:30 am'
+    subtitle: 'Kids Dance Group for Ages 4-6! Saturday at 10:30 am and/or Monday at 5:00 pm'
     background_image: images/Start_dancing.png
 
   - title: Kids Dance Group for Ages 4-6 - Registration
     title_align: center
     content: |
-      *   Every Saturday at 10:30am
+      *   Saturday at 10:30am and/or Monday at 5:00 pm
 
     content_align: left
     form_position: bottom
@@ -79,6 +79,7 @@ sections:
         default_value: Class
         options:
           - 'Beginners 4-6 y.o. (Sat 10:30am)'
+          - 'Beginners 4-6 y.o. (Mon 5:00pm)'
         is_required: true
     submit_label: Register
     align_vert: top
