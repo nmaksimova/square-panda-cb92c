@@ -65,7 +65,7 @@ sections:
   - content: |
       ## NEW GROUP CLASS FOR KIDS!!!
 
-      **Kids Group for Ages 4-6.** Every Saturday at 10:30am
+      **Kids Group for Ages 4-6.** Every Saturday at 10:30am and Monday at 5:00 pm
 
 
     actions:
