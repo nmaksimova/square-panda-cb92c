@@ -24,7 +24,7 @@ sections:
     
       *   **New! Beginners Salsa Group** (November 7th, Thursday 6:45pm)
 
-      *   **Latin Cardio:** dance style workout class for all levels (Thursday
+      *   **New! Ladies Line Routine: Bachata, Salsa:** You can join any time (Monday
       6:45 pm)
       
 
@@ -92,7 +92,7 @@ sections:
         default_value: Class
         options:
           - 'Salsa Group (November 7th, Thursday 6:45 pm)'
-          - 'Latin Cardio (Thursday 6:45 pm)'
+          - 'Ladies Line Routine: Bachata, Salsa (Monday 6:45 pm)'
         is_required: true
     submit_label: Register
     align_vert: top
@@ -112,7 +112,7 @@ sections:
         title_align: center
         content: |
 
-          *   **Salsa Group**
+          *   **Ladies Line Routine: Bachata, Salsa Group**
               *   6:45 pm
         content_align: left
         actions: []
@@ -149,11 +149,7 @@ sections:
           **New! Bachata Group**
 
           *   6:00 pm
-   
-          **Ladies Arm Styling with Ema**
-
-          *   6:45 pm
-
+  
           **Ladies Latin Choreography**
 
           *   7:30 pm
@@ -169,13 +165,8 @@ sections:
       - title: Thursday
         title_align: center
         content: |
-        
-          **Latin Cardio** (this class is for all levels. It will help to
-          improve coordination, balance, flexibility, and stay in shape)
-
-          *   6:45 pm
-  
-       
+         
+     
           **New! Salsa Group for Beginners**
    
           *    6:45 pm
