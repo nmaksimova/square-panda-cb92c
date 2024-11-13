@@ -10,8 +10,14 @@ sections:
       **Packaged Cost for 6 lessons:** $140 </br> </br>
 
 
-      *   **Salsa Group for Beginners** </br>
-        **When:** Thursday, November 7th at 6:45pm </br> </br>
+      *   **Bachata Group for Beginners** </br>
+        **When:** Wednesday, December 4th at 7:30pm </br> </br>
+
+      *   **Social Elegance Trio: Foxtrot, Rumba, Swing** </br>
+        **When:** Friday, December 13th at 6:45pm </br> </br>
+        
+      *   **Ladies Line Routine: Salsa, Bachata** </br>
+        **When:** Join us on Mondays at 6:45pm (ongoing class, join any time) </br> </br>        
     
    
     actions: []
@@ -33,7 +39,9 @@ sections:
   - title: Register for New Group Classes
     title_align: center
     content: |
-      *   Salsa group class for Beginners: November 7th
+      *   Bachata Group Class for Beginners: December 4th, Wednesday at 7:30pm
+      *   Social Elegance Trio: December 13th, Friday at 6:45 pm
+      *   Ladies Line Routine: Salsa, Bachata, Monday at 6:45pm
 
 
     content_align: left
@@ -73,7 +81,9 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'Salsa Group Class (Thursday, November 7th at 6:45 pm)'
+          - 'Bachata Group Class (Wednesday, December 4th at 7:30 pm)'
+          - 'Social Elegance Trio (Friday, December 13th at 6:45 pm)'
+          - 'Ladies Line Routine (Salsa, Bachata, Monday at 6:45pm)'
         is_required: true
     submit_label: Register
     align_vert: top
