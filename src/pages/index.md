@@ -32,9 +32,14 @@ sections:
     background_image_repeat: no-repeat
 
   - content: |
-      ## NEW GROUP CLASS FOR ADULTS!!!
+      ## NEW GROUP CLASSES FOR ADULTS!!!
 
-      **Salsa for Beginners.** Starting November 7th (Thursday) at 6:45 pm
+      **Bachata for Beginners.** Starting December 4th (Wednesday) at 7:30 pm
+
+      **Social Elegance Trio: Foxtrot, Rumba, Swing** Starting December 13th (Friday) at 6:45 pm
+
+      **Ladies Line Routine: Salsa, Bachata** Join us any time on Mondays at 6:45 pm
+      
 
 
     actions:
