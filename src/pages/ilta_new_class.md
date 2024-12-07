@@ -81,7 +81,7 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'Bachata Group Class (Wednesday, December 4th at 7:30 pm)'
+          - 'Bachata Group Class (Wednesday, January 8th at 7:30 pm)'
           - 'Social Elegance Trio (Friday, December 13th at 6:45 pm)'
           - 'Ladies Line Routine (Salsa, Bachata, Monday at 6:45pm)'
         is_required: true
