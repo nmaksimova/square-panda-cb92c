@@ -22,7 +22,7 @@ sections:
     subtitle: 'Session is 6-week long, packaged price for 6 classes: $140'
     content: >
     
-      *   **New! Beginners Bachata Group** (December 4th, Wednesday at 7:30pm)
+      *   **New! Beginners Bachata Group** (Janury 8th, Wednesday at 7:30pm)
 
       *   **New! Social Elegance Trio: Foxtrot, Rumba, Swing** (December 13th, friday at 6:45pm)
 
@@ -93,7 +93,7 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'Bachata Group (December 4th, Wednesday at 7:30 pm)'
+          - 'Bachata Group (January 8th, Wednesday at 7:30 pm)'
           - 'Social Elegance Trio: Foxtrot, Rumba, Swing (December 13th, Friday at 6:45pm)'
           - 'Ladies Line Routine: Bachata, Salsa (Monday 6:45 pm)'
         is_required: true
