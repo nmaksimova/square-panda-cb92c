@@ -34,7 +34,7 @@ sections:
   - content: |
       ## NEW GROUP CLASSES FOR ADULTS!!!
 
-      **Bachata for Beginners.** Starting January 4th (Wednesday) at 7:30 pm
+      **Bachata for Beginners.** Starting January 8th (Wednesday) at 7:30 pm
 
       **Social Elegance Trio: Foxtrot, Rumba, Swing** Starting December 13th (Friday) at 6:45 pm
 
