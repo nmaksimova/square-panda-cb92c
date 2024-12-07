@@ -11,7 +11,7 @@ sections:
 
 
       *   **Bachata Group for Beginners** </br>
-        **When:** Wednesday, December 4th at 7:30pm </br> </br>
+        **When:** Wednesday, January 8th at 7:30pm </br> </br>
 
       *   **Social Elegance Trio: Foxtrot, Rumba, Swing** </br>
         **When:** Friday, December 13th at 6:45pm </br> </br>
@@ -34,12 +34,12 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/bachata_december_24.jpg
+    image: images/bachata_jan_25.jpg
 
   - title: Register for New Group Classes
     title_align: center
     content: |
-      *   Bachata Group Class for Beginners: December 4th, Wednesday at 7:30pm
+      *   Bachata Group Class for Beginners: January 8th, Wednesday at 7:30pm
       *   Social Elegance Trio: December 13th, Friday at 6:45 pm
       *   Ladies Line Routine: Salsa, Bachata, Monday at 6:45pm
 
