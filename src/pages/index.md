@@ -36,7 +36,9 @@ sections:
 
       **Bachata for Beginners.** Starting January 8th (Wednesday) at 7:30 pm
 
-      **Social Elegance Trio: Foxtrot, Rumba, Swing** Starting December 13th (Friday) at 6:45 pm
+      **Social Elegance Trio: Foxtrot, Rumba, Swing** Starting January 17th (Friday) at 6:45 pm
+
+      **Salsa for Beginners** Starting January 23rd (Thursday) at 7:30 pm
 
       **Ladies Line Routine: Salsa, Bachata** Join us any time on Mondays at 6:45 pm
       
