@@ -112,7 +112,7 @@ sections:
 
 
 
-      **New Salsa Group Class for Beginners is starting in November**
+      **New Group Classes for Beginners are starting in January 2025**
 
 
 
