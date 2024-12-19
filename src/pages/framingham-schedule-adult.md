@@ -24,7 +24,9 @@ sections:
     
       *   **New! Beginners Bachata Group** (Janury 8th, Wednesday at 7:30pm)
 
-      *   **New! Social Elegance Trio: Foxtrot, Rumba, Swing** (December 13th, friday at 6:45pm)
+      *   **New! Social Elegance Trio: Foxtrot, Rumba, Swing** (January 17th, Friday at 6:45pm)
+   
+      *   **New! Beginners Salsa Group** (January 23rd, Thursday at 7:30pm)
 
       *   **New! Ladies Line Routine: Bachata, Salsa:** You can join any time (Monday
       6:45 pm)
@@ -94,7 +96,8 @@ sections:
         default_value: Class
         options:
           - 'Bachata Group (January 8th, Wednesday at 7:30 pm)'
-          - 'Social Elegance Trio: Foxtrot, Rumba, Swing (December 13th, Friday at 6:45pm)'
+          - 'Social Elegance Trio: Foxtrot, Rumba, Swing (January 17th, Friday at 6:45pm)'
+          - 'Salsa Group (January 23rd, Thursday at 7:30 pm)'
           - 'Ladies Line Routine: Bachata, Salsa (Monday 6:45 pm)'
         is_required: true
     submit_label: Register
