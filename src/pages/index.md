@@ -34,11 +34,9 @@ sections:
   - content: |
       ## NEW GROUP CLASSES FOR ADULTS!!!
 
-      **Bachata for Beginners.** Starting January 8th (Wednesday) at 7:30 pm
+      **Bachata for Beginners.** Starting February 25th (Tuesday) at 6:45 pm
 
-      **Social Elegance Trio: Foxtrot, Rumba, Swing** Starting January 17th (Friday) at 6:45 pm
-
-      **Salsa for Beginners** Starting January 23rd (Thursday) at 7:30 pm
+      **Salsa for Beginners** Starting February 25th (Tuesday) at 7:30 pm
 
       **Ladies Line Routine: Salsa, Bachata** Join us any time on Mondays at 6:45 pm
       
@@ -68,38 +66,6 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/bachata_jan_25.jpg
-
-  - content: |
-      ## NEW GROUP CLASS FOR KIDS!!!
-
-      **Kids Group for Ages 4-6.** Every Saturday at 10:30am and Monday at 5:00 pm
-
-
-    actions:
-      - label: Register
-        url: /kids_new_group
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
-    image_alt: Register for Kids Class
-    media_position: right
-    media_width: fifty
-    align: left
-    padding_top: small
-    padding_bottom: small
-    has_border: false
-    background_color: secondary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
-    image: images/kids_group_4_6.jpg
-
 
 
   - content: >
