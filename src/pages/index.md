@@ -65,7 +65,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/bachata_jan_25.jpg
+    image: images/feb_schedule.jpg
 
 
   - content: >
