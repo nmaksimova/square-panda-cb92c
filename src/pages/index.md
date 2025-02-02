@@ -72,7 +72,7 @@ sections:
       ## Adult Dance Programs
 
 
-      (for singles and couples; same sex couples)
+      (Our adult programs are open for everyone - singles and couples alike. No partner is required)
 
       ### **Salsa, Bachata, Social Dance and more**
 
