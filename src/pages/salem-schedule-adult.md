@@ -32,15 +32,7 @@ sections:
 
           *   Friday - **6:45 pm, starting March 4th, 2022**
         content_align: left
-        actions:
-          - label: Register
-            url: /salem-adults-latin-beginners
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
+        actions: []
         actions_align: left
         actions_width: auto
         image_alt: lorem-ipsum
