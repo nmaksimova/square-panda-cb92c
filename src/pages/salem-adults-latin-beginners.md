@@ -2,16 +2,14 @@
 title: Salem Salsa Beginners
 excerpt: Salem Salsa Beginners
 sections:
-  - title: Salsa Beginners Class
-    subtitle: at our Salem Location
+  - title: Our Salem location has closed
     content: |
-      ### Friday nights supposed to be fun!
+      ### Thank you to everyone who danced with us in Salem!
 
-      JOIN US ON FRIDAY NIGHT AND DANCE YOUR WAY INTO THE WEEKEND
+      While we no longer have a location there, we’d love to welcome you to our Framingham studio for classes, events, and more.
 
-      **6 week session for $150**
+      **1255 Worcester Road (Rt. 9), Framingham, MA 01702**
 
-      **Friday at 6:45 pm**
     actions: []
     image_alt: Dance classes for adults
     media_position: left
@@ -26,7 +24,9 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/Salem Salsa beginners Friday.jpg
+
+
+    
   - title: Registration is open
     title_align: center
     content: |
