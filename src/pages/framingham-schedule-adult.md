@@ -23,7 +23,7 @@ sections:
     content: >
     
    
-      *   **New! Beginners Salsa Group** (April 11th, Friday at 7:30pm)
+      *   **New! Beginners Salsa Group** (April 18th, Friday at 7:30pm)
 
       *   **New! Ladies Line Routine: Bachata, Salsa:** You can join any time (Monday
       6:45 pm)
@@ -92,7 +92,7 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'Salsa Group (April 11h, Friday at 7:30 pm)'
+          - 'Salsa Group (April 18th, Friday at 7:30 pm)'
           - 'Ladies Line Routine: Bachata, Salsa (Monday 6:45 pm)'
         is_required: true
     submit_label: Register
