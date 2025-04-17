@@ -61,7 +61,7 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'Beginners Salsa (Wednesday 6:45 pm)'
+          - 'Beginners Salsa (Friday 7:30 pm)'
           - 'Latin Cardio (Thursday 6:45 pm)'
         is_required: true
     submit_label: Register
