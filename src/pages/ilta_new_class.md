@@ -30,7 +30,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/salsa_april_2025_page_1.jpg
+    image: images/salsa_may.jpg
 
   - title: Register for New Group Classes
     title_align: center
