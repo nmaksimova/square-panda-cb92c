@@ -16,7 +16,7 @@ sections:
         **When:** Join us on Mondays at 6:45pm (ongoing class, join any time) </br> </br>
         
       *   **Ladies Line Routine: Salsa, Bachata - Intermediate level** </br>
-        **When:** Join us on Thursday at 7:30pm (ongoing class, join any time) </br> </br>         
+        **When:** Join us on Thursdays at 7:30pm (ongoing class, join any time) </br> </br>         
     
    
     actions: []
