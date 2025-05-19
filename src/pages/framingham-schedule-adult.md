@@ -23,6 +23,8 @@ sections:
     content: >
     
    
+      *   **New! Bachata: Ladies Line Routine - Beginners** (June 5th, Thursday at 6:45pm)
+         
       *   **New! Beginners Salsa Group** (June 18th, Wednesday at 7:30pm)
 
       *   **Ladies Line Routine: Bachata, Salsa - Advanced:** You can join any time (Monday
@@ -95,7 +97,8 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'New Salsa Group for Beginners (June 18th, Wednesday at 7:30 pm)'
+          - 'New! Bachata: Ladies Line Routine - Beginners (June 5th, Thursday at 6:45 pm)'
+          - 'New! Salsa Group for Beginners (June 18th, Wednesday at 7:30 pm)'
           - 'Ladies Line Routine - Advanced: Bachata, Salsa (Monday 6:45 pm)'
           - 'Ladies Line Routine - Intermediate: Bachata, Salsa (Thursday 7:30 pm)'
         is_required: true
@@ -128,22 +131,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: Tuesday
-        title_align: center
-        content: |
 
-          *   **Intermediate Bachata**
-              *   7:30 pm
-                
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
       - title: Wednesday
         title_align: center
         content: |
@@ -168,7 +156,10 @@ sections:
         title_align: center
         content: |
          
-     
+          **Ladies Line Routine: Bachata - Beginners**
+   
+          *    6:45 pm
+
           **Ladies Line Routine: Bachata, Salsa Group - Intermediate**
    
           *    7:30 pm
@@ -187,9 +178,9 @@ sections:
         title_align: center
         content: |
 
-          **Social Elegance Trio: Foxtrot, Rumba, Swing**
+          **Salsa for Beginners**
           
-          *   6:45 pm
+          *   7:30 pm
       
         content_align: left
         actions: []
@@ -202,7 +193,7 @@ sections:
         image_has_padding: false
 
 
-    grid_cols: five
+    grid_cols: four
     grid_gap_vert: small
     grid_gap_horiz: small
     enable_cards: true
