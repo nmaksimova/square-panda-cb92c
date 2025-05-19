@@ -23,11 +23,14 @@ sections:
     content: >
     
    
-      *   **New! Beginners Salsa Group** (May 2nd, Friday at 7:30pm)
+      *   **New! Beginners Salsa Group** (June 18th, Wednesday at 7:30pm)
 
-      *   **New! Ladies Line Routine: Bachata, Salsa:** You can join any time (Monday
+      *   **Ladies Line Routine: Bachata, Salsa - Advanced:** You can join any time (Monday
       6:45 pm)
-      
+
+      *   **Ladies Line Routine: Bachata, Salsa - Intermediate:** You can join any time (Thursday
+      7:30 pm)
+  
 
     actions: []
     image_alt: adult dance classes
@@ -92,8 +95,9 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'Salsa Group (May 2nd, Friday at 7:30 pm)'
-          - 'Ladies Line Routine: Bachata, Salsa (Monday 6:45 pm)'
+          - 'New Salsa Group for Beginners (June 18th, Wednesday at 7:30 pm)'
+          - 'Ladies Line Routine - Advanced: Bachata, Salsa (Monday 6:45 pm)'
+          - 'Ladies Line Routine - Intermediate: Bachata, Salsa (Thursday 7:30 pm)'
         is_required: true
     submit_label: Register
     align_vert: top
@@ -113,7 +117,7 @@ sections:
         title_align: center
         content: |
 
-          *   **Ladies Line Routine: Bachata, Salsa Group**
+          *   **Ladies Line Routine: Bachata, Salsa Group - Advanced**
               *   6:45 pm
         content_align: left
         actions: []
@@ -127,9 +131,6 @@ sections:
       - title: Tuesday
         title_align: center
         content: |
-
-          *   **Intermediate Salsa Ladies**
-              *   6:45 pm          
 
           *   **Intermediate Bachata**
               *   7:30 pm
@@ -147,7 +148,7 @@ sections:
         title_align: center
         content: |
 
-          **New! Bachata Group for Beginners**
+          **New! Salsa Group for Beginners**
 
           *   7:30 pm
   
@@ -168,9 +169,9 @@ sections:
         content: |
          
      
-          **New! Salsa Group for Beginners**
+          **Ladies Line Routine: Bachata, Salsa Group - Intermediate**
    
-          *    6:45 pm
+          *    7:30 pm
         
         content_align: left
         actions: []
