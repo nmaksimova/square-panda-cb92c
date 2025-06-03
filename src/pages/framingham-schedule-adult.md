@@ -22,10 +22,11 @@ sections:
     subtitle: 'Session is 6-week long, packaged price for 6 classes: $140'
     content: >
     
-   
-      *   **New! Bachata: Ladies Line Routine - Beginners** (June 5th, Thursday at 6:45pm)
+
          
       *   **New! Beginners Salsa Group** (June 18th, Wednesday at 7:30pm)
+        
+      *   **New! Bachata: Ladies Line Routine - Beginners** (June 26th, Thursday at 6:45pm)
 
       *   **Ladies Line Routine: Bachata, Salsa - Advanced:** You can join any time (Monday
       6:45 pm)
@@ -97,8 +98,8 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'New! Bachata: Ladies Line Routine - Beginners (June 5th, Thursday at 6:45 pm)'
           - 'New! Salsa Group for Beginners (June 18th, Wednesday at 7:30 pm)'
+          - 'New! Bachata: Ladies Line Routine - Beginners (June 5th, Thursday at 6:45 pm)'
           - 'Ladies Line Routine - Advanced: Bachata, Salsa (Monday 6:45 pm)'
           - 'Ladies Line Routine - Intermediate: Bachata, Salsa (Thursday 7:30 pm)'
         is_required: true
@@ -156,7 +157,7 @@ sections:
         title_align: center
         content: |
          
-          **Ladies Line Routine: Bachata - Beginners**
+          **NEW! Ladies Line Routine: Bachata - Beginners**
    
           *    6:45 pm
 
