@@ -34,10 +34,9 @@ sections:
   - content: |
       ## NEW GROUP CLASSES FOR ADULTS!!!
 
-
-      **NEW! Bachata: Ladies Line Routine for Beginners** Starting June 5th (Thursday) at 6:45 pm
-
       **NEW! Salsa for Beginners** Starting June 18th (Wednesday) at 7:30 pm
+
+      **NEW! Bachata: Ladies Line Routine for Beginners** Starting June 26th (Thursday) at 6:45 pm
 
       **Ladies Line Routine: Salsa, Bachata - Advanced** Join us any time on Mondays at 6:45 pm
 
