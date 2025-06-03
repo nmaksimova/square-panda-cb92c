@@ -97,7 +97,7 @@ sections:
         default_value: Class
         options:
           - 'New! Salsa Group for Beginners (June 18th, Wednesday at 7:30 pm)'
-          - 'New! Bachata: Ladies Line Routine - Beginners (June 5th, Thursday at 6:45 pm)'
+          - 'New! Bachata: Ladies Line Routine - Beginners (June 26th, Thursday at 6:45 pm)'
           - 'Ladies Line Routine - Advanced: Bachata, Salsa (Monday 6:45 pm)'
           - 'Ladies Line Routine - Intermediate: Bachata, Salsa (Thursday 7:30 pm)'
         is_required: true
