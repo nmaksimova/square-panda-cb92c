@@ -17,13 +17,13 @@ sections:
     background_image_position: left center
     background_image_repeat: no-repeat
     type: hero_section
-    title: ' Kids Summer Classes Schedule 2024'
-    subtitle: 'Duration: 4 weeks (July 8th - August 1st)'
+    title: ' Kids Summer Dance Classes 2025'
+    subtitle: 'Duration: 8 weeks (July 7th - August 27th)'
     background_image: images/Start_dancing.png
   - title: Register for Kids Summer Classes
     title_align: center
     content: |
-      *   Classes start July 8th (July 8th - August 1st)
+      *   Classes start July 7th (July 7th - August 27th)
 
     content_align: left
     form_position: bottom
@@ -62,15 +62,12 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'Beginners 3-5 y.o. (Monday 5:00 pm)'
-          - 'Beginners 3-5 y.o. (Wednesday 5:00 pm)'
-          - 'Beginners 6-8 y.o. (Monday 5:45 pm)'
-          - 'Beginners 6-8 y.o. (Wednesday 5:45 pm)'
-          - 'Beginners 9-11 y.o. (Monday 6:30 pm)'
-          - 'Beginners 9-11 y.o. (Wednesday 6:30 pm)'
-          - 'Beginners 12+ (Tuesday 6:00 pm)'
-          - 'Beginners 12+ (Thursday 6:00 pm)'
-          - 'Rising Stars (Mon, Wed 5:00 pm)'
+          - 'Beginners 5+ y.o. (Monday 5:00 pm)'
+          - 'Beginners 5+ y.o. (Wednesday 5:00 pm)'
+          - 'Beginners 8+ y.o. (Monday 5:45 pm)'
+          - 'Beginners 8+ y.o. (Wednesday 5:45 pm)'
+          - 'Beginners 12+ (Monday 6:45 pm)'
+          - 'Beginners 12+ (Wednesday 6:45 pm)'
         is_required: true
     submit_label: Register
     align_vert: top
