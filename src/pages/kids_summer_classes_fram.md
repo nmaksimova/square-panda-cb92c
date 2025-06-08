@@ -102,7 +102,7 @@ sections:
 
         subtitle: 'Mix Dance Styles (Ballroom, Latin)'
       - title: 'Beginners: 8+ y. o.'
-        subtitle: 'Cost: once a week: $200, twice a week: $380'
+        subtitle: 'Mix Dance Styles (Ballroom, Latin)'
         title_align: center
         content_align: left
         image_alt: lorem-ipsum
@@ -111,16 +111,18 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        content: |      
+        content: |
+          Cost: once a week: $200, twice a week: $380     
 
           *   Monday - 5:45 pm
 
           *   Wednesday - 5:45 pm
 
       - title: 'Beginners: 12+ y. o.'
-        subtitle: 'Cost: o$200, twice a week: $380'
+        subtitle: 'Mix Dance Styles (Ballroom, Latin)'
         title_align: center
         content: |
+          Cost: once a week: $200, twice a week: $380
 
           *   Monday - 6:30 pm
 
