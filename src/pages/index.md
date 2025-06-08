@@ -160,7 +160,7 @@ sections:
 
 
   - content: |
-      ## Registration is open for Kids Dance Classes 2024-2025
+      ## Registration is open for Kids Dance Classes 2025-2026
 
       **Dance classes for all ages and levels!**
 
@@ -191,7 +191,7 @@ sections:
     padding_top: small
     padding_bottom: small
     has_border: false
-    background_color: primary
+    background_color: secondary
     background_image_opacity: 0
     background_image_size: cover
     background_image_position: center center
