@@ -45,6 +45,12 @@ sections:
         default_value: Kid's Last Name
         options: []
         is_required: true
+       - input_type: text
+        name: Last Name
+        label: Kid's Age
+        default_value: Kid's Age
+        options: []
+        is_required: false       
       - input_type: email
         name: Email
         label: Email
