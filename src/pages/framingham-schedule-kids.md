@@ -5,7 +5,7 @@ sections:
   - actions:
       - label: Framingham Registration Form
         url: >-
-          https://square-panda-cb92c.netlify.app/images/ILTA_fram_kids_registration_2024-25.pdf
+          https://square-panda-cb92c.netlify.app/images/ILTA_framingham_kids_registration_2025-26.pdf
         style: primary
         has_icon: false
         icon: arrow-left
@@ -29,7 +29,7 @@ sections:
     title: ' Framingham Kids Dance Schedule'
     subtitle: '   To get started, please download Kids Registration Form'
     background_image: images/Start_dancing.png
-  - title: Kids Ballroom and Latin Classes (2024-2025 School Year)
+  - title: Kids Ballroom and Latin Classes (2025-2026 School Year)
     actions: []
     grid_items:
 
