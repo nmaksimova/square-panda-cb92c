@@ -45,7 +45,7 @@ sections:
         default_value: Kid's Last Name
         options: []
         is_required: true
-       - input_type: text
+      - input_type: text
         name: Last Name
         label: Kid's Age
         default_value: Kid's Age
