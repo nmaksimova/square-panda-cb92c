@@ -150,7 +150,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     background_image: images/sh_24_5274.jpg
-    subtitle: Kids group classes start July 8th, 2024
+    subtitle: Kids group classes start July 7th, 2025
     
 
   - actions:
