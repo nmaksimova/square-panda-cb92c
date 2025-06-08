@@ -7,7 +7,7 @@ sections:
         url: /book-class
         style: primary
         icon_position: right
-      - label: Kids Registration Forms 2024-2025
+      - label: Kids Registration Forms 2025-2026
         url: 'https://square-panda-cb92c.netlify.app/images/ILTA_framingham_kids_registration_2025-26.pdf'
         style: primary
         has_icon: false
