@@ -56,7 +56,7 @@ sections:
     content: |
       *   Group Class Session is 6-week long
 
-      *   packaged price for 6 classes: $140
+      *   packaged price for 6 classes: $150
     content_align: left
     form_position: bottom
     form_width: fifty
