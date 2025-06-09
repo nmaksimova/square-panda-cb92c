@@ -8,7 +8,7 @@ sections:
         style: primary
         icon_position: right
       - label: Kids Registration Forms 2025-2026
-        url: 'https://square-panda-cb92c.netlify.app/images/ILTA_framingham_kids_registration_2025-26.pdf'
+        url: 'https://square-panda-cb92c.netlify.app/images/ilta_fram_registration_form_2025_26.pdf'
         style: primary
         has_icon: false
         icon: youtube
@@ -172,7 +172,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-        url: 'https://square-panda-cb92c.netlify.app/images/ILTA_framingham_kids_registration_2025-26.pdf'
+        url: 'https://square-panda-cb92c.netlify.app/images/ilta_fram_registration_form_2025_26.pdf'
       - label: Framingham Schedule
         url: /framingham-schedule-kids
         style: primary
