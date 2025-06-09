@@ -5,7 +5,7 @@ sections:
   - actions:
       - label: Framingham Registration Form
         url: >-
-          https://square-panda-cb92c.netlify.app/images/ILTA_framingham_kids_registration_2025-26.pdf
+          https://square-panda-cb92c.netlify.app/images/ilta_fram_registration_form_2025_26.pdf
         style: primary
         has_icon: false
         icon: arrow-left
