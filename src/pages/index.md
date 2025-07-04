@@ -63,7 +63,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/salsa_june_site_2025.jpg
+    image: images/bachata_july_25.jpg
 
   - content: |
       ## KIDS SUMMER GROUP CLASSES FPR BEGINNERS
