@@ -21,7 +21,7 @@ sections:
   - title: Adult Classes
     subtitle: 'Session is 6-week long, packaged price for 6 classes: $150'
     content: |
-      *   **New! Bachata for Beginners** (July 24th, Thursday at 6:45pm)
+      *   **New! Bachata for Beginners** (July 31st, Thursday at 6:45pm)
 
       *   **Ladies Line Routine: Bachata, Salsa - Advanced:** You can join any time (Monday
       6:45 pm)
@@ -91,7 +91,7 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'New! Bachata for Beginners (July 24th, Thursday at 6:45 pm)'
+          - 'New! Bachata for Beginners (July 31st, Thursday at 6:45 pm)'
           - 'Ladies Line Routine - Advanced: Bachata, Salsa (Monday 6:45 pm)'
         is_required: true
     submit_label: Register
