@@ -65,47 +65,6 @@ sections:
     type: hero_section
     image: images/bachata_july_25_v2.jpg
 
-  - content: |
-      ## KIDS SUMMER GROUP CLASSES FPR BEGINNERS
-
-      **Our 8-week Kids Summer Dance Program is open for all ages!** 
-
-      **Starting July 7th, Mondays and/or Wednesdays**
-
-      **Join once a week (your choice of day) or twice a week**
-
-      **Pricing (for the full 8-week session):** <br/>
-      Once a week (8 classes): $200 <br/>
-      Twice a week (16 classes): $380
-      
-
-
-    actions:
-      - label: Register
-        url: /kids_summer_classes_fram/
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
-    image_alt: Register for Kids Summer Group
-    media_position: right
-    media_width: fifty
-    align: left
-    padding_top: small
-    padding_bottom: small
-    has_border: false
-    background_color: secondary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
-    image: images/kids_summer_2025.jpg
-
-
   - content: >
       ## Adult Dance Programs
 
