@@ -10,7 +10,7 @@ sections:
       **Packaged Cost for 6 lessons:** $150 </br> </br>
 
       *   **NEW! Bachata for Beginners** </br>
-        **When:** Thursday, July 24th at 6:45pm </br> </br>
+        **When:** Thursday, July 31st at 6:45pm </br> </br>
         
       *   **Ladies Line Routine: Salsa, Bachata - Advanced level** </br>
         **When:** Join us on Mondays at 6:45pm (ongoing class, join any time) </br> </br>
@@ -31,12 +31,12 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/bachata_july_25.jpg
+    image: images/bachata_july_25_v2.jpg
 
   - title: Register for New Group Classes
     title_align: center
     content: |
-      *   NEW! Bachata for Beginners - Thursday, July 24th at 6:45pm
+      *   NEW! Bachata for Beginners - Thursday, July 31st at 6:45pm
       *   Ladies Line Routine - Advanced: Salsa, Bachata, Monday at 6:45pm
 
 
@@ -77,7 +77,7 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'New! Bachata for Beginners (Thursday, July 24th at 6:45pm)'
+          - 'New! Bachata for Beginners (Thursday, July 31st at 6:45pm)'
           - 'Ladies Line Routine Advanceed (Salsa, Bachata, Monday at 6:45pm)'
         is_required: true
     submit_label: Register
