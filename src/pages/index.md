@@ -34,7 +34,7 @@ sections:
   - content: |
       ## NEW GROUP CLASSES FOR ADULTS!!!
 
-      **NEW! Bachata for Beginners** Starting July 24th (Thursday) at 6:45 pm
+      **NEW! Bachata for Beginners** Starting July 31st (Thursday) at 6:45 pm
 
       **Ladies Line Routine: Salsa, Bachata - Advanced** Join us any time on Mondays at 6:45 pm
       
@@ -63,7 +63,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/bachata_july_25.jpg
+    image: images/bachata_july_25_v2.jpg
 
   - content: |
       ## KIDS SUMMER GROUP CLASSES FPR BEGINNERS
