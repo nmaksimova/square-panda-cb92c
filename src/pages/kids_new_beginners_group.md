@@ -13,7 +13,7 @@ At Ilta Dance Studio, we’re opening new Beginner Group Classes for Kids this S
 
 We are currently gathering interest and will shape our class schedule based on the ages and availability of our new dancers. Simply let us know your preferred day of the week, and we’ll reach out with options once the groups are formed.
 
-✨ Limited spots available – secure your child’s place today!
+Limited spots available – secure your child’s place today!
 
     actions: []
     image_alt: Dance classes for adults
