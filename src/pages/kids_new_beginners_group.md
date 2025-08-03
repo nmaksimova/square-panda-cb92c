@@ -2,13 +2,19 @@
 title: Framingham Latin Dance Class for Beginners
 excerpt: Framingham Latin Dance Class for Beginners
 sections:
-  - title: Kids Hip Hop Classes
+  - title: More Than Dance Lessons - A Place to Grow, Laugh, and Belong
     content: |
-      ### Every Saturday at 12:00 pm
+      ### New Beginner Dance Groups for Kids Starting This September
 
-      **Winter session registration now open!**
+      **Reserve Your Spot Today!**
 
-      Join our energetic Hip Hop class, learn new moves and have fun!
+      Is your child ready to move, groove, and shine on the dance floor?
+At Ilta Dance Studio, we’re opening new Beginner Group Classes for Kids this September – and now is the perfect time to reserve your spot!
+
+We are currently gathering interest and will shape our class schedule based on the ages and availability of our new dancers. Simply let us know your preferred day of the week, and we’ll reach out with options once the groups are formed.
+
+✨ Limited spots available – secure your child’s place today!
+
     actions: []
     image_alt: Dance classes for adults
     media_position: left
