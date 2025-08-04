@@ -2,6 +2,8 @@
 title: Kids Dance Classes for Beginners
 excerpt: Kids Dance Classes for Beginners
 
+sections:
+
   - actions: []
     image_alt: kids dance classes
     media_position: top
@@ -18,7 +20,6 @@ excerpt: Kids Dance Classes for Beginners
     type: hero_section
     title: More Than Dance Lessons - A Place to Grow, Laugh, and Belong
 
-sections:
   - title: More Than Dance Lessons - A Place to Grow, Laugh, and Belong
     content: |
       ### New Beginner Dance Groups for Kids Starting This September
