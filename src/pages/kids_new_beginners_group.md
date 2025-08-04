@@ -8,7 +8,7 @@ sections:
 
       **Reserve Your Spot Today!**
 
-      Is your child ready to move, groove, and shine on the dance floor? <br/> At Ilta Dance Studio, we are opening new Beginner Group Classes for Kids this September – and now is the perfect time to reserve your spot! <br/> We are currently gathering interest and will shape our class schedule based on the ages and availability of our new dancers. Simply let us know your preferred day of the week, and we will reach out with options once the groups are formed. <br/> Limited spots available – secure your child’s place today!
+      Is your child ready to move, groove, and shine on the dance floor? <br><br> At Ilta Dance Studio, we are opening new Beginner Group Classes for Kids this September – and now is the perfect time to reserve your spot! <br/> We are currently gathering interest and will shape our class schedule based on the ages and availability of our new dancers. Simply let us know your preferred day of the week, and we will reach out with options once the groups are formed. <br/> Limited spots available – secure your child’s place today!
 
 
     actions: []
