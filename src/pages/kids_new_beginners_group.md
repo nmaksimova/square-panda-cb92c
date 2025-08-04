@@ -121,43 +121,23 @@ sections:
         image_align: center
         image_has_padding: true
         image_width: sixty
-      - title: Adult Lessons
+      - title: Encourages Social Skills
         title_align: center
         content: >
-          Beginner Group Classes are available in Latin Dance and Ballroom
-          Dance. You will learn how to create combinations of steps and use good
-          leader / follower techniques.
+          Kids make new friends, learn teamwork, and develop cooperation.
         content_align: left
-        actions:
-          - label: Learn More
-            url: /adult-dance-classes
-            style: primary
-            has_icon: false
-            icon: arrow-right
-            icon_position: right
-        actions_align: right
-        image: images/adults_dancing.jpg
+        image: images/benefit_2.jpg
         image_alt: Adult dance classes
         image_position: top
         image_align: center
         image_has_padding: true
         image_width: sixty
-      - title: Wedding Dance
+      - title: Enhances Focus & Discipline
         title_align: center
         content: >
-          Make your wedding dance elegant and memorable one. Preparation
-          includes basic instruction in dance fundamentals leading to a
-          choreography developed just for the two of you (to a song you choose).
+          Memorizing routines and following instructions strengthens attention and self-control.
         content_align: left
-        actions:
-          - label: Learn More
-            url: /wedding-dance
-            style: primary
-            has_icon: false
-            icon: arrow-right
-            icon_position: right
-        actions_align: right
-        image: images/wedding_dance.jpg
+        image: images/benefit_3.jpg
         image_alt: Wedding dance
         image_position: top
         image_align: left
