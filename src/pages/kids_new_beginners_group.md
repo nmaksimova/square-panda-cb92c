@@ -1,7 +1,6 @@
 ---
 title: Kids Dance Classes for Beginners
 excerpt: Kids Dance Classes for Beginners
-- title: More Than Dance Lessons - A Place to Grow, Laugh, and Belong
 sections:
   - title: More Than Dance Lessons - A Place to Grow, Laugh, and Belong
     content: |
