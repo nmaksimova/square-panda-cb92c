@@ -17,7 +17,7 @@ sections:
     background_image_repeat: no-repeat
     title: More Than Dance Lessons - A Place to Grow, Laugh, and Belong
 
-  - title: ""
+  - title: ''
     content: |
       ### New Beginner Dance Groups for Kids Starting This September
 
