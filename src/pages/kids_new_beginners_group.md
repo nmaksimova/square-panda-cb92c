@@ -89,7 +89,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-    background_image: images/background_kids_groups.jpeg
+    background_image: images/2158.jpg
   - actions: []
     image_alt: hip-hop-kids
     video_embed_html: >-
