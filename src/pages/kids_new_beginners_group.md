@@ -94,7 +94,7 @@ sections:
     image_alt: hip-hop-kids
     video_embed_html: >-
       <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/KYqeCA5wJF4](https://www.instagram.com/reel/DLJbfr-M5lW/?igsh=ZzA3eGtncmxja2h6" title="Kids Jive
+      src="https://www.instagram.com/reel/DLJbfr-M5lW/?igsh=ZzA3eGtncmxja2h6" title="Kids Jive
       player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     media_position: top
