@@ -73,9 +73,9 @@ sections:
         options: []
         is_required: false
       - input_type: textarea
-        name: Comments
+        name: Available Weekdays (e.g. Mon, Wed, Fri)
         label: Comments
-        default_value: Comments
+        default_value: Mon, Wed
         options: []
         is_required: false
     submit_label: Register
