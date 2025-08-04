@@ -7,7 +7,6 @@ sections:
   - actions: []
     image_alt: kids dance classes
     media_position: top
-    media_width: fourty
     align: left
     padding_top: medium
     padding_bottom: medium
