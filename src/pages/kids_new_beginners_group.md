@@ -1,7 +1,6 @@
 ---
 title: Kids Dance Classes for Beginners
 excerpt: Kids Dance Classes for Beginners
-
   - actions: []
     image_alt: kids dance classes
     media_position: top
