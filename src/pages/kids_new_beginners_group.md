@@ -1,6 +1,23 @@
 ---
 title: Kids Dance Classes for Beginners
 excerpt: Kids Dance Classes for Beginners
+
+  - actions: []
+    image_alt: hip-hop-kids
+    media_position: top
+    media_width: fifty
+    align: left
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: hero_section
+    title: More Than Dance Lessons - A Place to Grow, Laugh, and Belong
+
 sections:
   - title: More Than Dance Lessons - A Place to Grow, Laugh, and Belong
     content: |
@@ -12,7 +29,7 @@ sections:
 
 
     actions: []
-    image_alt: Dance classes for adults
+    image_alt: Dance classes for kids
     media_position: right
     media_width: fourty
     align: full
@@ -91,21 +108,6 @@ sections:
     type: form_section
     background_image: images/2158.jpg
 
-  - actions: []
-    image_alt: hip-hop-kids
-    media_position: top
-    media_width: fifty
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
-    title: Registration is Open
 seo:
   title: ''
   description: ''
