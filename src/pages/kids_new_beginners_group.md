@@ -90,13 +90,9 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
     background_image: images/2158.jpg
+
   - actions: []
     image_alt: hip-hop-kids
-    video_embed_html: >-
-      <iframe width="560" height="315"
-      src="https://www.instagram.com/reel/DLJbfr-M5lW/?igsh=ZzA3eGtncmxja2h6" title="Kids Jive
-      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     media_position: top
     media_width: fifty
     align: left
@@ -109,6 +105,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    title: Registration is Open
 seo:
   title: ''
   description: ''
