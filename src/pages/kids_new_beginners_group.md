@@ -106,7 +106,68 @@ sections:
     type: form_section
     background_image: images/2158.jpg
 
-
+  - type: grid_section
+    title: Why Dance is Amazing for Kids?
+    subtitle: 'Dance is so much more than just learning steps – it’s a powerful way to help kids grow, express themselves, and have fun. Here are 5 incredible benefits of dance classes:'
+    grid_items:
+      - title: Builds Confidence
+        title_align: center
+        content: >
+          Performing in front of others and mastering new skills boosts self-esteem.
+        content_align: left
+        image: images/benefit_1.jpg
+        image_alt: Kids dance classes
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        image_width: sixty
+      - title: Adult Lessons
+        title_align: center
+        content: >
+          Beginner Group Classes are available in Latin Dance and Ballroom
+          Dance. You will learn how to create combinations of steps and use good
+          leader / follower techniques.
+        content_align: left
+        actions:
+          - label: Learn More
+            url: /adult-dance-classes
+            style: primary
+            has_icon: false
+            icon: arrow-right
+            icon_position: right
+        actions_align: right
+        image: images/adults_dancing.jpg
+        image_alt: Adult dance classes
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        image_width: sixty
+      - title: Wedding Dance
+        title_align: center
+        content: >
+          Make your wedding dance elegant and memorable one. Preparation
+          includes basic instruction in dance fundamentals leading to a
+          choreography developed just for the two of you (to a song you choose).
+        content_align: left
+        actions:
+          - label: Learn More
+            url: /wedding-dance
+            style: primary
+            has_icon: false
+            icon: arrow-right
+            icon_position: right
+        actions_align: right
+        image: images/wedding_dance.jpg
+        image_alt: Wedding dance
+        image_position: top
+        image_align: left
+        image_has_padding: true
+    grid_cols: three
+    grid_gap_horiz: medium
+    grid_gap_vert: small
+    enable_cards: true
+    align: center
+    background_color: secondary
 
 
 
