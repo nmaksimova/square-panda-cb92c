@@ -1,6 +1,6 @@
 ---
-title: Framingham Latin Dance Class for Beginners
-excerpt: Framingham Latin Dance Class for Beginners
+title: Kids Dance Classes for Beginners
+excerpt: Kids Dance Classes for Beginners
 sections:
   - title: More Than Dance Lessons - A Place to Grow, Laugh, and Belong
     content: |
