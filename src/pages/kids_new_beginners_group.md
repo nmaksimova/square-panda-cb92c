@@ -17,6 +17,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     title: More Than Dance Lessons - A Place to Grow, Laugh, and Belong
+    title-width: full
 
   - title: More Than Dance Lessons - A Place to Grow, Laugh, and Belong
     content: |
