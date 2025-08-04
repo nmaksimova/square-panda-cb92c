@@ -108,6 +108,30 @@ sections:
     type: form_section
     background_image: images/2158.jpg
 
+
+- type: features_section
+  title: "2️⃣ Why Dance is Amazing for Kids"
+  content: >
+    Dance is so much more than just learning steps – it’s a powerful way to help kids grow, express themselves, and have fun. Here are 5 incredible benefits of dance classes:
+  align: center
+  background_color: none
+  padding_top: medium
+  padding_bottom: medium
+  has_border: false
+  features:
+    - title: "💪 Builds Confidence"
+      content: "Performing in front of others and mastering new skills boosts self-esteem."
+    - title: "🤝 Encourages Social Skills"
+      content: "Kids make new friends, learn teamwork, and develop cooperation."
+    - title: "🧠 Enhances Focus & Discipline"
+      content: "Memorizing routines and following instructions strengthens attention and self-control."
+    - title: "💃 Promotes Physical Health"
+      content: "Dance improves balance, flexibility, coordination, and overall fitness – all while having fun."
+    - title: "🎨 Inspires Creativity & Expression"
+      content: "Kids learn to express emotions through movement, building imagination and artistry."
+
+
+
 seo:
   title: ''
   description: ''
