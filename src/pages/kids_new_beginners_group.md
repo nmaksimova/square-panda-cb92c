@@ -25,7 +25,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/kids_hip_hop.jpeg
+    image: images/kids_classes.jpeg
   - title: Registration is open
     title_align: center
     content: |
@@ -89,7 +89,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-    background_image: images/kids_hip_hop.jpg
+    background_image: images/background_kids_groups.jpeg
   - actions: []
     image_alt: hip-hop-kids
     video_embed_html: >-
