@@ -142,6 +142,28 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
+      - title: Promotes Physical Health
+        title_align: center
+        content: >
+          Dance improves balance, flexibility, coordination, and overall fitness – all while having fun.
+        content_align: left
+        image: images/benefit_4.jpg
+        image_alt: Adult dance classes
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        image_width: sixty
+      - title: Inspires Creativity & Expression
+        title_align: center
+        content: >
+          Kids learn to express emotions through movement, building imagination and artistry.
+        content_align: left
+        image: images/benefit_5.jpg
+        image_alt: Wedding dance
+        image_position: top
+        image_align: left
+        image_has_padding: true
+
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: small
