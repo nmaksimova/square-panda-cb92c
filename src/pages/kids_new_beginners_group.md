@@ -15,7 +15,7 @@ sections:
     image_alt: Dance classes for adults
     media_position: right
     media_width: fourty
-    align: left
+    align: full
     padding_top: small
     padding_bottom: small
     has_border: false
