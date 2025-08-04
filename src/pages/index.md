@@ -65,6 +65,38 @@ sections:
     type: hero_section
     image: images/bachata_july_25_v2.jpg
 
+
+  - content: |
+      ## New Beginner Dance Groups for Kids Starting This September
+
+      **Reserve Your Spot Today!**
+
+    actions:
+      - label: Register Togay
+        url: /kids_new_beginners_group
+        style: primary
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
+    image_alt: kids dance classes
+    media_position: right
+    media_width: fifty
+    align: left
+    padding_top: small
+    padding_bottom: small
+    has_border: false
+    background_color: secondary
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: hero_section
+    image: images/benefit_2.jpg
+
+
   - content: >
       ## Adult Dance Programs
 
