@@ -3,9 +3,8 @@ title: Kids Dance Classes for Beginners
 excerpt: Kids Dance Classes for Beginners
 
   - actions: []
-    image_alt: hip-hop-kids
+    image_alt: kids dance classes
     media_position: top
-    media_width: fifty
     align: left
     padding_top: medium
     padding_bottom: medium
