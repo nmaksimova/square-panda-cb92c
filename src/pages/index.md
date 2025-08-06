@@ -65,7 +65,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/bachata_july_25_v2.jpg
+    image: images/salsa_bachata_sep_25_web.jpg
 
 
   - content: |
