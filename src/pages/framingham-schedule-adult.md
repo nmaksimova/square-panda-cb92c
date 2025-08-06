@@ -23,7 +23,7 @@ sections:
     content: |
       *   **New! Salsa for Beginners** (September 4th, Thursday at 6:45pm)
 
-      *   **New! Salsa for Beginners** (September 11th, Thursday at 7:30pm)
+      *   **New! Bachata for Beginners** (September 11th, Thursday at 7:30pm)
 
       *   **Ladies Line Routine: Bachata, Salsa - Advanced:** You can join any time (Monday
       6:45 pm)
