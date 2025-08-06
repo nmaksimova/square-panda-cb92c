@@ -109,7 +109,7 @@ sections:
 
 
 
-      **New Group Classes for Beginners are starting in July 2025**
+      **New Group Classes for Beginners are starting in September 2025**
 
 
 
