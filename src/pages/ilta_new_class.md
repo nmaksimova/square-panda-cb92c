@@ -14,6 +14,9 @@ sections:
 
       *   **NEW! Bachata for Beginners** </br>
         **When:** Thursday, September 11th at 7:30pm </br> </br>
+
+      *   **NEW! Salsa - Ladies Line Routine for Beginners** </br>
+        **When:** Wednesday, September 24th at 6:45pm </br> </br>
         
       *   **Ladies Line Routine: Salsa, Bachata - Advanced level** </br>
         **When:** Join us on Mondays at 6:45pm (ongoing class, join any time) </br> </br>
@@ -34,13 +37,14 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/salsa_bachata_sep_25_web.jpg
+    image: images/sep_25_classes.jpg
 
   - title: Register for New Group Classes
     title_align: center
     content: |
       *   NEW! Salsa for Beginners - Thursday, September 4th at 6:45pm
       *   NEW! Bachata for Beginners - Thursday, September 11th at 7:30pm
+      *   New! Salsa - Ladies Line Routine for Beginners - Wednesday, September 24th at 6:45pm
       *   Ladies Line Routine - Advanced: Salsa, Bachata, Monday at 6:45pm
 
 
@@ -83,6 +87,7 @@ sections:
         options:
           - 'New! Salsa for Beginners (Thursday, September 4th at 6:45pm)'
           - 'New! Bachata for Beginners (Thursday, September 11th at 7:30pm)'
+          - 'New! Salsa - Ladies Line Routine for Beginners (Wed, September 24th at 6:45pm)'
           - 'Ladies Line Routine Advanceed (Salsa, Bachata, Monday at 6:45pm)'
         is_required: true
     submit_label: Register
