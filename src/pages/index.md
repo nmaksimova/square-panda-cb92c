@@ -38,6 +38,8 @@ sections:
 
       **NEW! Bachata for Beginners** Starting September 11th (Thursday) at 7:30 pm
 
+      **NEW! Salsa - Ladies Line Routine** Starting September 24th (Wednesday) at 6:45 pm
+
       **Ladies Line Routine: Salsa, Bachata - Advanced** Join us any time on Mondays at 6:45 pm
       
 
