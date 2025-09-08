@@ -67,7 +67,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/sep_25_classes.jpg
+    image: images/salsa_sep_v2.jpg
 
 
   - content: |
