@@ -21,7 +21,7 @@ sections:
   - title: Adult Classes
     subtitle: 'Session is 6-week long, packaged price for 6 classes: $150'
     content: |
-      *   **New! Salsa for Beginners** (September 4th, Thursday at 6:45pm)
+      *   **New! Salsa for Beginners** (September 18th, Thursday at 6:45pm)
 
       *   **New! Bachata for Beginners** (September 11th, Thursday at 7:30pm)
 
@@ -93,7 +93,7 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'New! Salsa for Beginners (September 4th, Thursday at 6:45 pm)'
+          - 'New! Salsa for Beginners (September 18th, Thursday at 6:45 pm)'
           - 'New! Bachata for Beginners (September 11th, Thursday at 7:30 pm)'
           - 'Ladies Line Routine - Advanced: Bachata, Salsa (Monday 6:45 pm)'
         is_required: true
