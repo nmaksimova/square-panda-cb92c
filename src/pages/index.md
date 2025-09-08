@@ -34,7 +34,7 @@ sections:
   - content: |
       ## NEW GROUP CLASSES FOR ADULTS!!!
 
-      **NEW! Salsa for Beginners** Starting September 4th (Thursday) at 6:45 pm
+      **NEW! Salsa for Beginners** Starting September 18th (Thursday) at 6:45 pm
 
       **NEW! Bachata for Beginners** Starting September 11th (Thursday) at 7:30 pm
 
