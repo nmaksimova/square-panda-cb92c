@@ -19,11 +19,11 @@ sections:
 
   - title: ''
     content: |
-      ### New Beginner Dance Groups for Kids Starting This September
+      ### New Beginner Dance Groups for Kids Starting October 20th
 
       **Reserve Your Spot Today!**
 
-      <p>We are opening new Beginner Group Classes for Kids this <b>September</b> – and now is the perfect time to reserve your spot!</p> <p>We are currently gathering interest and will shape our class schedule based on the ages and availability of our new dancers.</p> <p>Simply let us know your preferred day of the week, and we will reach out with options once the groups are formed.</p><p>Limited spots available – secure your child’s place today!</p>
+      <p>excited to announce that new <b>Beginner Group Classes for Kids</b> are officially starting on <b>Monday, October 20th</b><<p>✨ For ages <b>5–7</b>: class begins at <b>5:00 pm</b><br> ✨ For ages <b>8–10</b>: class begins at <b>5:45 pm</b></p> <p>Kids can join once a week on Mondays – or choose to dance twice a week by adding <b>Wednesdays</b> (same schedule and times for each age group).</p> <p>Spots are limited – secure your child’s place today and let them begin their dance journey this October!</p>
 
 
     actions: []
@@ -87,12 +87,16 @@ sections:
         default_value: Phone Number
         options: []
         is_required: false
-      - input_type: textarea
-        name: Preferred Days
-        label: Which Days Work Best for You?
-        default_value: Mon, Wed
-        options: []
-        is_required: false
+      - input_type: select
+        name: Select Class
+        label: Select Class
+        default_value: Class
+        options:
+          - 'Beginners 5-7 y.o. (Mon 5:00pm)'
+          - 'Beginners 5-7 y.o. (Wed 5:00pm)'
+          - 'Beginners 8-10 y.o. (Mon 5:45pm)'
+          - 'Beginners 8-10 y.o. (Wed 5:45pm)'
+        is_required: true
     submit_label: Register
     align_vert: top
     padding_top: small
