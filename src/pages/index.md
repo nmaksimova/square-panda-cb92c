@@ -36,8 +36,6 @@ sections:
 
       **NEW! Salsa for Beginners** Starting September 18th (Thursday) at 6:45 pm
 
-      **NEW! Bachata for Beginners** Starting September 11th (Thursday) at 7:30 pm
-
       **NEW! Salsa - Ladies Line Routine** Starting September 24th (Wednesday) at 6:45 pm
 
       **Ladies Line Routine: Salsa, Bachata - Advanced** Join us any time on Mondays at 6:45 pm
@@ -71,12 +69,12 @@ sections:
 
 
   - content: |
-      ## New Beginner Dance Groups for Kids Starting This September
+      ## New Beginner Dance Groups for Kids Starting October 20th
 
-      **Reserve Your Spot Today!**
+      **Check the Schedule and Register below**
 
     actions:
-      - label: Register Togay
+      - label: Register for Kids Groups
         url: /kids_new_beginners_group
         style: primary
         has_icon: false
@@ -108,8 +106,6 @@ sections:
       (Our adult programs are open for everyone - singles and couples alike. No partner is required)
 
       ### **Salsa, Bachata, Social Dance and more**
-
-
 
       **New Group Classes for Beginners are starting in September 2025**
 
