@@ -31,9 +31,9 @@ sections:
     has_border: true
     background_image_repeat: no-repeat
 
-- content: |
+  - content: |
   
-  ## Halloween Social Dance Night 🎃💃
+    ## Halloween Social Dance Night 🎃💃
 
     actions:
       - label: RSVP
