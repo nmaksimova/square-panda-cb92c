@@ -35,6 +35,9 @@ sections:
   
     ## Halloween Social Dance Night 🎃💃
 
+      🗓 Friday, Oct 31 - ⏰ 7:00–8:30 PM
+      📍 Ilta Dance Studio - Entry: $30
+
     actions:
       - label: RSVP
         url: /ilta_halloween
