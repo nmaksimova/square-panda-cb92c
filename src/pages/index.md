@@ -98,7 +98,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/salsa_sep_v2.jpg
+    image: images/october_events.jpg
 
 
   - content: |
