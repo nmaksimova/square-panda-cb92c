@@ -6,7 +6,7 @@ sections:
     subtitle: 'Registration is open'
     content: >
 
-      *   **Tickets are available in the studio** ($30 per person if paid in advance, $35 - at the door, cash only)
+      *   **Tickets are available in the studio** ($30 per person)
 
     actions: []
     image_alt: lorem-ipsum
@@ -22,9 +22,9 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/halloween.jpg
+    image: images/halloween_2025.jpg
 
-  - title: Register for Halloween Social
+  - title: RSVP for Halloween Social
     title_align: center
     content: |
       *   Friday, October 31st
