@@ -33,7 +33,7 @@ sections:
 
   - content: |
       ## Halloween Social Dance Night 🎃💃
-      # 👻✨ Get ready for a spooky-fun night on the dance floor!
+      ### 👻✨ Get ready for a spooky-fun night on the dance floor!
 
       When: Friday, Oct 31 (7:00–8:30 PM)
       Where: Ilta Dance Studio
@@ -140,7 +140,7 @@ sections:
 
       ### **Salsa, Bachata, Social Dance and more**
 
-      **New Group Classes for Beginners are starting in September 2025**
+      **New Group Classes for Beginners are starting in October 2025**
 
 
 
