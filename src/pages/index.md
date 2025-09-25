@@ -33,7 +33,7 @@ sections:
 
 - content: |
   
-      ## Halloween Social Dance Night 🎃💃
+  ## Halloween Social Dance Night 🎃💃
 
     actions:
       - label: RSVP
