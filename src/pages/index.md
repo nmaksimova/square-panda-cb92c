@@ -43,7 +43,7 @@ sections:
     actions:
       - label: RSVP
         url: /ilta_halloween
-        style: secondary
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
@@ -57,7 +57,7 @@ sections:
     padding_top: small
     padding_bottom: small
     has_border: false
-    background_color: none
+    background_color: primary
     background_image_opacity: 0
     background_image_size: cover
     background_image_position: center center
