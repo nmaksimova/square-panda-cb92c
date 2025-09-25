@@ -10,13 +10,13 @@ sections:
       **Packaged Cost for 6 lessons:** $150 </br> </br>
 
       *   **NEW! Salsa for Beginners** </br>
-        **When:** Thursday, September 18th at 6:45pm </br> </br>
-
-      *   **NEW! Bachata for Beginners** </br>
-        **When:** Thursday, September 11th at 7:30pm </br> </br>
+        **When:** Thursday, October 9th at 6:45pm </br> </br>
 
       *   **NEW! Salsa - Ladies Line Routine for Beginners** </br>
-        **When:** Wednesday, September 24th at 6:45pm </br> </br>
+        **When:** Wednesday, October 15th at 6:45pm </br> </br
+                                                            
+      *   **NEW! Halloween Social Dance Night** </br>
+        **When:** Friday, October 31st at 7:00pm (RSVP)</br> </br>
         
       *   **Ladies Line Routine: Salsa, Bachata - Advanced level** </br>
         **When:** Join us on Mondays at 6:45pm (ongoing class, join any time) </br> </br>
@@ -37,14 +37,14 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/salsa_sep_v2.jpg
+    image: images/october_events.jpg
 
   - title: Register for New Group Classes
     title_align: center
     content: |
-      *   NEW! Salsa for Beginners - Thursday, September 18th at 6:45pm
-      *   NEW! Bachata for Beginners - Thursday, September 11th at 7:30pm
-      *   New! Salsa - Ladies Line Routine for Beginners - Wednesday, September 24th at 6:45pm
+      *   NEW! Salsa for Beginners - Thursday, October 9th at 6:45pm
+      *   New! Salsa - Ladies Line Routine for Beginners - Wednesday, October 15th at 6:45pm
+      *   New! RSVP: Halloween Social - October 31st at 7:00pm
       *   Ladies Line Routine - Advanced: Salsa, Bachata, Monday at 6:45pm
 
 
@@ -85,9 +85,9 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'New! Salsa for Beginners (Thursday, September 18th at 6:45pm)'
-          - 'New! Bachata for Beginners (Thursday, September 11th at 7:30pm)'
-          - 'New! Salsa - Ladies Line Routine for Beginners (Wed, September 24th at 6:45pm)'
+          - 'New! Salsa for Beginners (Thursday, October 9th at 6:45pm)'
+          - 'New! Salsa - Ladies Line Routine for Beginners (Wed, October 15th at 6:45pm)'
+          - 'RSVP: Halloween Social (Friday, October 31st at 7:00pm)'
           - 'Ladies Line Routine Advanceed (Salsa, Bachata, Monday at 6:45pm)'
         is_required: true
     submit_label: Register
