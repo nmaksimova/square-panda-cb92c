@@ -31,12 +31,44 @@ sections:
     has_border: true
     background_image_repeat: no-repeat
 
+   - content: |
+      ## Halloween Social Dance Night 🎃💃
+
+      🗓 Friday, Oct 31 | ⏰ 7:00–8:30 PM
+      📍 Ilta Dance Studio | Entry: $30
+    
+
+    actions:
+      - label: RSVP
+        url: /ilta_halloween
+        style: secondary
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
+    image_alt: Register for Salsa Class
+    media_position: right
+    media_width: fifty
+    align: left
+    padding_top: small
+    padding_bottom: small
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: hero_section
+    image: images/halloween_2025.jpg   
+
   - content: |
       ## NEW GROUP CLASSES FOR ADULTS!!!
 
-      **NEW! Salsa for Beginners** Starting September 18th (Thursday) at 6:45 pm
+      **NEW! Salsa for Beginners** Starting October 9th (Thursday) at 6:45 pm
 
-      **NEW! Salsa - Ladies Line Routine** Starting September 24th (Wednesday) at 6:45 pm
+      **NEW! Salsa - Ladies Line Routine** Starting October 15th (Wednesday) at 6:45 pm
 
       **Ladies Line Routine: Salsa, Bachata - Advanced** Join us any time on Mondays at 6:45 pm
       
