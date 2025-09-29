@@ -19,11 +19,11 @@ sections:
 
   - title: ''
     content: |
-      ### New Beginner Dance Groups for Kids Starting October 20th
+      ### New Beginner Dance Groups for Kids Starting October 27th
 
       **Reserve Your Spot Today!**
 
-      <p>excited to announce that new <b>Beginner Group Classes for Kids</b> are officially starting on <b>Monday, October 20th</b><<p>✨ For ages <b>5–7</b>: class begins at <b>5:00 pm</b><br> ✨ For ages <b>8–10</b>: class begins at <b>5:45 pm</b></p> <p>Kids can join once a week on Mondays – or choose to dance twice a week by adding <b>Wednesdays</b> (same schedule and times for each age group).</p> <p>Spots are limited – secure your child’s place today and let them begin their dance journey this October!</p>
+      <p>excited to announce that new <b>Beginner Group Classes for Kids</b> are officially starting on <b>Monday, October 27th</b><<p>✨ For ages <b>5–7</b>: class begins at <b>5:00 pm</b><br> ✨ For ages <b>8–10</b>: class begins at <b>5:45 pm</b></p> <p>Kids can join once a week on Mondays – or choose to dance twice a week by adding <b>Wednesdays</b> (same schedule and times for each age group).</p> <p>Spots are limited – secure your child’s place today and let them begin their dance journey this October!</p>
 
 
     actions: []
