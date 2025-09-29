@@ -102,7 +102,7 @@ sections:
 
 
   - content: |
-      ## New Beginner Dance Groups for Kids Starting October 20th
+      ## New Beginner Dance Groups for Kids Starting October 27th
 
       **Check the Schedule and Register below**
 
