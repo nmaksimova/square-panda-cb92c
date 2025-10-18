@@ -13,7 +13,7 @@ sections:
         **When:** Wednesday, November 12th at 7:30pm </br> </br>
 
       *   **NEW! Elegance Trio: Foxtrot, Rumba, Swing** </br>
-        **When:** Friday, November 21st at 6:45pm </br> </br
+        **When:** Friday, November 21st at 6:45pm </br> </br>
                                                             
       *   **NEW! Halloween Social Dance Night** </br>
         **When:** Friday, October 31st at 7:00pm (RSVP)</br> </br>
