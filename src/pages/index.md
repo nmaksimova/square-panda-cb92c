@@ -67,11 +67,11 @@ sections:
   - content: |
       ## NEW GROUP CLASSES FOR ADULTS!!!
 
-      **NEW! Salsa for Beginners** Starting November 12th (Wednesday) at 7:30 pm
+      **NEW! Salsa for Beginners**</br>Starting November 12th (Wednesday) at 7:30 pm
 
-      **NEW! Elegance Trio: Foxtrot, Rumba, Swing** Starting November 21st (Friday) at 6:45 pm
+      **NEW! Elegance Trio: Foxtrot, Rumba, Swing** </br>Starting November 21st (Friday) at 6:45 pm
 
-      **Ladies Line Routine: Salsa, Bachata - Advanced** Join us any time on Mondays at 6:45 pm
+      **Ladies Line Routine: Salsa, Bachata - Advanced** </br>Join us any time on Mondays at 6:45 pm
       
 
 
