@@ -67,9 +67,9 @@ sections:
   - content: |
       ## NEW GROUP CLASSES FOR ADULTS!!!
 
-      **NEW! Salsa for Beginners** Starting October 9th (Thursday) at 6:45 pm
+      **NEW! Salsa for Beginners** Starting November 12th (Wednesday) at 7:30 pm
 
-      **NEW! Salsa - Ladies Line Routine** Starting October 15th (Wednesday) at 6:45 pm
+      **NEW! Elegance Trio: Foxtrot, Rumba, Swing** Starting November 21st (Friday) at 6:45 pm
 
       **Ladies Line Routine: Salsa, Bachata - Advanced** Join us any time on Mondays at 6:45 pm
       
@@ -102,7 +102,7 @@ sections:
 
 
   - content: |
-      ## New Beginner Dance Groups for Kids Starting October 27th
+      ## New Beginner Dance Groups for Kids Starting November 17th
 
       **Check the Schedule and Register below**
 
@@ -140,7 +140,7 @@ sections:
 
       ### **Salsa, Bachata, Social Dance and more**
 
-      **New Group Classes for Beginners are starting in October 2025**
+      **New Group Classes for Beginners are starting in November 2025**
 
 
 
