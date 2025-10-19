@@ -19,7 +19,7 @@ sections:
 
   - title: ''
     content: |
-      ### New Beginner Dance Groups for Kids Starting October 27th
+      ### New Beginner Dance Groups for Kids Starting November 17th
 
       **Reserve Your Spot Today!**
 
