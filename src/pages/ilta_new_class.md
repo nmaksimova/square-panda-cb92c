@@ -15,9 +15,7 @@ sections:
       *   **NEW! Elegance Trio: Foxtrot, Rumba, Swing** </br>
         **When:** Friday, November 21st at 6:45pm </br> </br>
                                                             
-      *   **NEW! Halloween Social Dance Night** </br>
-        **When:** Friday, October 31st at 7:00pm (RSVP)</br> </br>
-        
+       
       *   **Ladies Line Routine: Salsa, Bachata - Advanced level** </br>
         **When:** Join us on Mondays at 6:45pm (ongoing class, join any time) </br> </br>
          
@@ -44,7 +42,6 @@ sections:
     content: |
       *   NEW! Salsa for Beginners - Wednesday, November 12th at 7:30pm
       *   New! Elegance Trio: Foxtrot, Rumba, Swing - Friday, November 21st at 6:45pm
-      *   New! RSVP: Halloween Social - October 31st at 7:00pm
       *   Ladies Line Routine - Advanced: Salsa, Bachata, Monday at 6:45pm
 
 
