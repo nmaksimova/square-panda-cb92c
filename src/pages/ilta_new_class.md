@@ -84,7 +84,6 @@ sections:
         options:
           - 'New! Salsa for Beginners (Wednesday, November 12th at 7:30pm)'
           - 'New! Elegance Trio: Foxtrot, Rumba, Swing (Friday, November 21st at 6:45pm)'
-          - 'RSVP: Halloween Social (Friday, October 31st at 7:00pm)'
           - 'Ladies Line Routine Advanceed (Salsa, Bachata, Monday at 6:45pm)'
         is_required: true
     submit_label: Register
