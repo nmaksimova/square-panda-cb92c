@@ -13,7 +13,7 @@ sections:
         **When:** Friday, December 3rd at 8:15pm </br> </br>
 
       *   **NEW! Bachata for Beginners** </br>
-        **When:** Monday, December 8th at 7:30pm </br> </br>
+        **When:** Monday, December 8th at 8:15pm </br> </br>
                                                             
        
       *   **Ladies Line Routine: Salsa, Bachata - Advanced level** </br>
@@ -41,7 +41,7 @@ sections:
     title_align: center
     content: |
       *   New! Elegance Trio: Foxtrot, Rumba, Swing - Wednesday, December 3rd at 8:15pm
-      *   NEW! Bachata for Beginners - Monday, December 8th at 7:30pm
+      *   NEW! Bachata for Beginners - Monday, December 8th at 8:15pm
       *   Ladies Line Routine - Advanced: Salsa, Bachata, Monday at 6:45pm
 
 
@@ -82,7 +82,7 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'New! Bachata for Beginners (Monday, December 8th at 7:30pm)'
+          - 'New! Bachata for Beginners (Monday, December 8th at 8:15pm)'
           - 'New! Elegance Trio: Foxtrot, Rumba, Swing (Wednesday, December 3rd at 8:15pm)'
           - 'Ladies Line Routine Advanceed (Salsa, Bachata, Monday at 6:45pm)'
         is_required: true
