@@ -9,11 +9,11 @@ sections:
       *   **Each Session is 6-week long** </br>
       **Packaged Cost for 6 lessons:** $150 </br> </br>
 
-      *   **NEW! Salsa for Beginners** </br>
-        **When:** Wednesday, November 12th at 7:30pm </br> </br>
-
       *   **NEW! Elegance Trio: Foxtrot, Rumba, Swing** </br>
-        **When:** Friday, November 21st at 6:45pm </br> </br>
+        **When:** Friday, December 3rd at 8:15pm </br> </br>
+
+      *   **NEW! Bachata for Beginners** </br>
+        **When:** Monday, December 8th at 7:30pm </br> </br>
                                                             
        
       *   **Ladies Line Routine: Salsa, Bachata - Advanced level** </br>
@@ -35,13 +35,13 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/november_groups_25.jpg
+    image: images/dec25_groups.jpg
 
   - title: Register for New Group Classes
     title_align: center
     content: |
-      *   NEW! Salsa for Beginners - Wednesday, November 12th at 7:30pm
-      *   New! Elegance Trio: Foxtrot, Rumba, Swing - Friday, November 21st at 6:45pm
+      *   New! Elegance Trio: Foxtrot, Rumba, Swing - Wednesday, December 3rd at 8:15pm
+      *   NEW! Bachata for Beginners - Monday, December 8th at 7:30pm
       *   Ladies Line Routine - Advanced: Salsa, Bachata, Monday at 6:45pm
 
 
@@ -82,8 +82,8 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'New! Salsa for Beginners (Wednesday, November 12th at 7:30pm)'
-          - 'New! Elegance Trio: Foxtrot, Rumba, Swing (Friday, November 21st at 6:45pm)'
+          - 'New! Bachata for Beginners (Monday, December 8th at 7:30pm)'
+          - 'New! Elegance Trio: Foxtrot, Rumba, Swing (Wednesday, December 3rd at 8:15pm)'
           - 'Ladies Line Routine Advanceed (Salsa, Bachata, Monday at 6:45pm)'
         is_required: true
     submit_label: Register
