@@ -21,11 +21,9 @@ sections:
   - title: Adult Classes
     subtitle: 'Session is 6-week long, packaged price for 6 classes: $150'
     content: |
-      *   **New! Salsa for Beginners** (November 12th, Wednesday at 7:30pm)
-
-      *   **New! Elegance Trio: Foxtrot, Rumba, Swing** (November 21st, Friday at 6:45pm)
+      *   **New! Elegance Trio: Foxtrot, Rumba, Swing** (December 3rd, Wednesday at 8:15pm)
         
-      *   **RSVP: Halloween Social Dance Night** (October 31st, Friday at 7:00pm)
+      *   **New! Bachata for Beginners** (December 8th, Monday at 7:30pm)
 
       *   **Ladies Line Routine: Bachata, Salsa - Advanced:** You can join any time (Monday
       6:45 pm)
@@ -95,9 +93,8 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'New! Salsa for Beginners (November 12th, Wednesday at 7:30 pm)'
-          - 'New! Elegance Trio: Foxtrot, Rumba, Swing (November 21st, Friday at 6:45 pm)'
-          - 'RSVP: Halloween Social (October 31st at 7:00 pm)'
+          - 'New! Bachata for Beginners (December 8th, Monday at 7:30 pm)'
+          - 'New! Elegance Trio: Foxtrot, Rumba, Swing (December 3rd, Wednesday at 8:15 pm)'
           - 'Ladies Line Routine - Advanced: Bachata, Salsa (Monday 6:45 pm)'
         is_required: true
     submit_label: Register
