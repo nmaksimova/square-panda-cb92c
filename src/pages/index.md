@@ -69,7 +69,7 @@ sections:
 
 
   - content: |
-      ## New Beginner Dance Groups for Kids Starting November 17th
+      ## New Beginner Dance Groups for Kids Starting January 12th, 2026
 
       **Check the Schedule and Register below**
 
