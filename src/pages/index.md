@@ -34,9 +34,9 @@ sections:
   - content: |
       ## NEW GROUP CLASSES FOR ADULTS!!!
 
-      **NEW! Elegance Trio: Foxtrot, Rumba, Swing** </br>Starting December 3rd (Wednesday) at 8:15 pm
+      **NEW! Bachata for Beginners** </br>Starting January 12th (Monday) at 8:15 pm
 
-      **NEW! Bachata for Beginners**</br>Starting December 8th (Monday) at 8:15 pm
+      **NEW! Salsa for Beginners**</br>Starting January 22nd (Thursday) at 8:15 pm
 
       **Ladies Line Routine: Salsa, Bachata - Advanced** </br>Join us any time on Mondays at 6:45 pm
       
@@ -105,9 +105,9 @@ sections:
 
       (Our adult programs are open for everyone - singles and couples alike. No partner is required)
 
-      ### **Salsa, Bachata, Social Dance and more**
+      ### **Salsa, Bachata, Swing, Social Dance and more**
 
-      **New Group Classes for Beginners are starting in December 2025**
+      **New Group Classes for Beginners are starting in January 2026**
 
 
 
