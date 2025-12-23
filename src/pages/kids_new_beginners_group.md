@@ -23,7 +23,7 @@ sections:
 
       **Reserve Your Spot Today!**
 
-      <p>We are excited to announce that new <b>Beginner Group Classes for Kids</b> are officially starting on <b>Monday, January 12th, 2026</b><p>✨ For ages <b>5–7</b>: class begins at <b>5:00 pm</b><br> ✨ For ages <b>8–10</b>: class begins at <b>5:45 pm</b></p> <p>Kids can join once a week on Mondays – or choose to dance twice a week by adding <b>Wednesdays</b> (same schedule and times for each age group).</p> <p>Spots are limited – secure your child’s place today and let them begin their dance journey this October!</p>
+      <p>We are excited to announce that new <b>Beginner Group Classes for Kids</b> are officially starting on <b>Monday, January 12th, 2026</b><p>✨ For ages <b>7-10</b>: class begins at <b>5:00 pm</b></p> <p>Spots are limited – secure your child’s place today and let them begin their dance journey this October!</p>
 
 
     actions: []
@@ -92,10 +92,7 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'Beginners 5-7 y.o. (Mon 5:00pm)'
-          - 'Beginners 5-7 y.o. (Wed 5:00pm)'
-          - 'Beginners 8-10 y.o. (Mon 5:45pm)'
-          - 'Beginners 8-10 y.o. (Wed 5:45pm)'
+          - 'Beginners 7-10 y.o. (Mon 5:00pm)'
         is_required: true
     submit_label: Register
     align_vert: top
