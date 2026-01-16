@@ -34,7 +34,7 @@ sections:
   - content: |
       ## NEW GROUP CLASSES FOR ADULTS!!!
 
-      **NEW! Bachata for Beginners** </br>Starting January 12th (Monday) at 8:15 pm
+      **NEW! Bachata for Beginners** </br>Starting January 26th (Monday) at 8:15 pm
 
       **NEW! Salsa for Beginners**</br>Starting January 22nd (Thursday) at 8:15 pm
 
