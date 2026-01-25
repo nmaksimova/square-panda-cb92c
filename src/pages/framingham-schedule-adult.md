@@ -23,7 +23,7 @@ sections:
     content: |
       *   **New! Bachata for Beginners** (January 26th, Monday at 8:15pm)
         
-      *   **New! Salsa for Beginners** (January 22nd, Thursday at 8:15pm)
+      *   **New! Salsa for Beginners** (February 5th, Thursday at 8:15pm)
 
       *   **Ladies Line Routine: Bachata, Salsa - Advanced:** You can join any time (Monday
       6:45 pm)
@@ -97,7 +97,7 @@ sections:
         default_value: Class
         options:
           - 'New! Bachata for Beginners (January 26th, Monday at 8:15 pm)'
-          - 'New! Salsa for Beginners (January 22nd, Thursday at 8:15 pm)'
+          - 'New! Salsa for Beginners (February 5th, Thursday at 8:15 pm)'
           - 'Ladies Line Routine - Advanced: Bachata, Salsa (Monday 6:45 pm)'
         is_required: true
     submit_label: Register
