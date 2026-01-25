@@ -13,7 +13,7 @@ sections:
         **When:** Monday, January 26th at 8:15pm </br> </br>
 
       *   **NEW! Salsa for Beginners** </br>
-        **When:** Thursday, January 22nd at 8:15pm </br> </br>
+        **When:** Thursday, February 5th at 8:15pm </br> </br>
                                                             
        
       *   **Ladies Line Routine: Salsa, Bachata - Advanced level** </br>
@@ -35,13 +35,13 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/jan_26.jpg
+    image: images/salsa_jan26_web.jpg
 
   - title: Register for New Group Classes
     title_align: center
     content: |
       *   New! Bachata for Beginners - Monday, January 26th at 8:15pm
-      *   NEW! Salsa for Beginners - Thursday, January 22nd at 8:15pm
+      *   NEW! Salsa for Beginners - Thursday, February 5th at 8:15pm
       *   Ladies Line Routine - Advanced: Salsa, Bachata, Monday at 6:45pm
 
 
@@ -83,7 +83,7 @@ sections:
         default_value: Class
         options:
           - 'New! Bachata for Beginners (Monday, January 26th at 8:15pm)'
-          - 'New! Salsa for Beginners  (Thursday, January 22nd at 8:15pm)'
+          - 'New! Salsa for Beginners  (Thursday, February 5th at 8:15pm)'
           - 'Ladies Line Routine Advanceed (Salsa, Bachata, Monday at 6:45pm)'
         is_required: true
     submit_label: Register
