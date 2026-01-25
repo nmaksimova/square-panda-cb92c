@@ -36,7 +36,7 @@ sections:
 
       **NEW! Bachata for Beginners** </br>Starting January 26th (Monday) at 8:15 pm
 
-      **NEW! Salsa for Beginners**</br>Starting January 22nd (Thursday) at 8:15 pm
+      **NEW! Salsa for Beginners**</br>Starting February 5th (Thursday) at 8:15 pm
 
       **Ladies Line Routine: Salsa, Bachata - Advanced** </br>Join us any time on Mondays at 6:45 pm
       
@@ -65,7 +65,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/jan_26.jpg
+    image: images/salsa_jan26_web.jpg
 
 
   - content: |
