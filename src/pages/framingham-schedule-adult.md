@@ -21,7 +21,7 @@ sections:
   - title: Adult Classes
     subtitle: 'Session is 6-week long, packaged price for 6 classes: $150'
     content: |
-        
+
       *   **New! Salsa for Beginners** (February 12th, Thursday at 8:15pm)
 
       *   **Ladies Line Routine: Bachata, Salsa - Advanced:** You can join any time (Monday
