@@ -10,7 +10,10 @@ sections:
       **Packaged Cost for 6 lessons:** $150 </br> </br>
 
       *   **NEW! Salsa for Beginners** </br>
-        **When:** Thursday, February 12th at 8:15pm </br> </br>
+        **When:** Wednesday, March 11th at 7:30pm </br> </br>
+
+      *   **NEW! Bachata for Beginners** </br>
+        **When:** Wednesday, March 25th at 8:15pm </br> </br>
                                                             
        
       *   **Ladies Line Routine: Salsa, Bachata - Advanced level** </br>
@@ -37,7 +40,8 @@ sections:
   - title: Register for New Group Classes
     title_align: center
     content: |
-      *   NEW! Salsa for Beginners - Thursday, February 12th at 8:15pm
+      *   NEW! Salsa for Beginners - Wednesday, March 11th at 7:30pm
+      *   NEW! Bachata for Beginners - Wednesday, March 25th at 8:15pm
       *   Ladies Line Routine - Advanced: Salsa, Bachata, Monday at 6:45pm
 
 
@@ -78,7 +82,8 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'New! Salsa for Beginners  (Thursday, February 12th at 8:15pm)'
+          - 'New! Salsa for Beginners (Wednesday, March 11th at 7:30pm)'
+          - 'New! Bachata for Beginners (Wednesday, March 25th at 8:15pm)'
           - 'Ladies Line Routine Advanceed (Salsa, Bachata, Monday at 6:45pm)'
         is_required: true
     submit_label: Register
