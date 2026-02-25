@@ -100,6 +100,13 @@ sections:
           - 'New! Bachata for Beginners (March 25th, Wednesday at 8:15 pm)'
           - 'Ladies Line Routine - Advanced: Bachata, Salsa (Monday 6:45 pm)'
         is_required: true
+      - input_type: checkbox
+        name: Coming With Partner
+        label: I am registering with a partner
+        default_value: false
+        options:
+          - 'Yes, I am coming with a partner'
+        is_required: false
     submit_label: Register
     align_vert: top
     padding_top: medium
