@@ -22,7 +22,8 @@ sections:
     subtitle: 'Session is 6-week long, packaged price for 6 classes: $150'
     content: |
 
-      *   **New! Salsa for Beginners** (February 12th, Thursday at 8:15pm)
+      *   **New! Salsa for Beginners** (March 11th, Wednesday at 7:30pm)
+      *   **New! Bachata for Beginners** (March 25th, Wednesday at 8:15pm)
 
       *   **Ladies Line Routine: Bachata, Salsa - Advanced:** You can join any time (Monday
       6:45 pm)
@@ -95,7 +96,8 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'New! Salsa for Beginners (February 12th, Thursday at 8:15 pm)'
+          - 'New! Salsa for Beginners (March 11th, Wednesday at 7:30 pm)'
+          - 'New! Bachata for Beginners (March 25th, Wednesday at 8:15 pm)'
           - 'Ladies Line Routine - Advanced: Bachata, Salsa (Monday 6:45 pm)'
         is_required: true
     submit_label: Register
@@ -116,7 +118,7 @@ sections:
         title_align: center
         content: |
 
-          *   **Ladies Line Routine: Bachata, Salsa Group - Advanced**
+          *   **Ladies Line Routine: Bachata, Salsa, Cha-Cha Group - Intermediate**
               *   6:45 pm
         content_align: left
         actions: []
@@ -139,6 +141,10 @@ sections:
           **Ladies Latin Choreography**
 
           *   7:30 pm
+       
+          **Ladies Technique - Inetrnational Latin Advance (drop in)**
+
+          *   8:15 pm
         content_align: left
         actions: []
         actions_align: left
@@ -152,11 +158,8 @@ sections:
         title_align: center
         content: |
          
-          **NEW! Ladies Line Routine: Bachata - Beginners**
-   
-          *    6:45 pm
 
-          **Ladies Line Routine: Bachata, Salsa Group - Intermediate**
+          **Intermediate Bachata**
    
           *    7:30 pm
         
@@ -170,26 +173,9 @@ sections:
         image_align: left
         image_has_padding: false
 
-      - title: Friday
-        title_align: center
-        content: |
-
-          **Salsa for Beginners**
-          
-          *   7:30 pm
-      
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
 
 
-    grid_cols: four
+    grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
     enable_cards: true
