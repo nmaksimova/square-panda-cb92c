@@ -70,21 +70,11 @@ sections:
 
 
   - content: |
-      ## New Beginner Dance Groups for Kids Starting January 12th, 2026
+      ## Ilta Dance Showcase 2026
 
-      **Check the Schedule and Register below**
+      **Save the Date - May 31st at 4:00pm**
 
-    actions:
-      - label: Register for Kids Groups
-        url: /kids_new_beginners_group
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
-    image_alt: kids dance classes
+    image_alt: dance showcase
     media_position: right
     media_width: fifty
     align: left
@@ -97,7 +87,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/benefit_2.jpg
+    image: images/showcase_2026.jpg
 
 
   - content: >
