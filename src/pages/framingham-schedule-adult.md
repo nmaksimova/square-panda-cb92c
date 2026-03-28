@@ -22,8 +22,8 @@ sections:
     subtitle: 'Session is 6-week long, packaged price for 6 classes: $150'
     content: |
 
-      *   **New! Salsa for Beginners** (March 25th, Wednesday at 7:30pm)
-      *   **New! Bachata for Beginners** (March 25th, Wednesday at 8:15pm)
+      *   **New! Salsa for Beginners** (April 1st, Wednesday at 7:30pm)
+      *   **New! Bachata for Beginners** (April 15th, Wednesday at 8:15pm)
 
       *   **Ladies Line Routine: Bachata, Salsa - Advanced:** You can join any time (Monday
       6:45 pm)
@@ -96,8 +96,8 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'New! Salsa for Beginners (March 25th, Wednesday at 7:30 pm)'
-          - 'New! Bachata for Beginners (March 25th, Wednesday at 8:15 pm)'
+          - 'New! Salsa for Beginners (April 1st, Wednesday at 7:30 pm)'
+          - 'New! Bachata for Beginners (April 15th, Wednesday at 8:15 pm)'
           - 'Ladies Line Routine - Advanced: Bachata, Salsa (Monday 6:45 pm)'
         is_required: true
       - input_type: checkbox
