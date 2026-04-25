@@ -34,10 +34,7 @@ sections:
   - content: |
       ## NEW GROUP CLASSES FOR ADULTS!!!
 
-
-      **NEW DATE! Salsa for Beginners**</br>Starting April 1st (Wednesday) at 7:30 pm
-
-      **NEW! Bachata for Beginners**</br>Starting April 15th (Wednesday) at 8:15 pm
+      **NEW! Bachata for Beginners**</br>Starting May 6th (Wednesday) at 8:15 pm
 
       **Ladies Line Routine: Salsa, Bachata - Advanced** </br>Join us any time on Mondays at 6:45 pm
       
