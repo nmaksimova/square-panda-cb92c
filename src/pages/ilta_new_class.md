@@ -32,7 +32,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/april_2026_groups.jpg
+    image: images/bachata_may_2026.jpg
 
   - title: Register for New Group Classes
     title_align: center
