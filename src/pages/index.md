@@ -76,7 +76,7 @@ sections:
 
       ### **Salsa, Bachata, Swing, Social Dance and more**
 
-      **New Group Classes for Beginners are starting in January 2026**
+      **New Group Classes for Beginners are starting every 2 months, check our schedule to register**
 
 
 
