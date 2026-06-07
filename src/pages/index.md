@@ -34,7 +34,9 @@ sections:
   - content: |
       ## NEW GROUP CLASSES FOR ADULTS!!!
 
-      **NEW! Bachata for Beginners**</br>Starting May 6th (Wednesday) at 8:15 pm
+      **NEW! Salsa for Beginners**</br>Starting June 24th (Wednesday) at 6:45 pm
+
+      **NEW! Bachata for Beginners**</br>Starting July 9th (Thursday) at 8:15 pm
 
       **Ladies Line Routine: Salsa, Bachata - Advanced** </br>Join us any time on Mondays at 6:45 pm
       
@@ -64,27 +66,6 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/bachata_may_2026.jpg
-
-
-  - content: |
-      ## Ilta Dance Showcase 2026
-
-      **Save the Date - May 31st at 4:00pm**
-
-    image_alt: dance showcase
-    media_position: right
-    media_width: fifty
-    align: left
-    padding_top: small
-    padding_bottom: small
-    has_border: false
-    background_color: secondary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
-    image: images/showcase_2026.jpg
 
 
   - content: >
