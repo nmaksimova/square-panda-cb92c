@@ -65,7 +65,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/bachata_may_2026.jpg
+    image: images/summer_classes_2026_site.jpg
 
 
   - content: >
