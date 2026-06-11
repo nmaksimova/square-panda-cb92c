@@ -126,15 +126,15 @@ sections:
 
       **Kids group classes start after Labor Day**
     actions:
-      - label: Kids Registration Forms
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
-        url: 'https://square-panda-cb92c.netlify.app/images/ilta_fram_registration_form_2025_26.pdf'
+        # - label: Kids Registration Forms
+        # style: primary
+        # has_icon: false
+        # icon: arrow-left
+        # icon_position: right
+        # new_window: false
+        # no_follow: false
+        # type: action
+        # url: 'https://square-panda-cb92c.netlify.app/images/ilta_fram_registration_form_2025_26.pdf'
       - label: Framingham Schedule
         url: /framingham-schedule-kids
         style: primary
