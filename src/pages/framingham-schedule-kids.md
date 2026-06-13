@@ -3,7 +3,7 @@ title: 'Dance Group Classes Schedule, Framingham, MA'
 excerpt: Dance Schedule
 sections:
   - actions:
-   - label: Framingham Registration Form
+     - label: Framingham Registration Form
      url: >-
            https://square-panda-cb92c.netlify.app/images/ILTA_fram_kids_registration_2026_27.pdf
      style: primary
