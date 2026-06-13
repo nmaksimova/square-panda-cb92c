@@ -87,7 +87,7 @@ sections:
         media_width: fifty
         actions:
           - label: Download Registration Form
-            url: 'https://square-panda-cb92c.netlify.app/images/ILTA_adults_2025_26.pdf'
+            url: 'https://square-panda-cb92c.netlify.app/images/ILTA_adults_form_2026_27.pdf'
             style: secondary
             has_icon: false
             icon: arrow-left
