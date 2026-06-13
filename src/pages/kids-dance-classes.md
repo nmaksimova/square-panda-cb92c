@@ -16,7 +16,7 @@ sections:
     actions:
       - label: Framingham Registration Form
         url: >-
-          https://square-panda-cb92c.netlify.app/images/ILTA-Fram-Kids-Registration-2023-24.pdf
+          https://square-panda-cb92c.netlify.app/images/ILTA_fram_kids_registration_2026_27.pdf
         style: primary
         has_icon: false
         icon: arrow-left
@@ -26,7 +26,7 @@ sections:
         type: action
 
   - content: |
-      ## New Schedule for 2024-2025 school year
+      ## New Schedule for 2026-2027 school year
 
       ##### **Framingham Location**
     actions:
@@ -116,8 +116,7 @@ sections:
           Bachata.
 
 
-          **To start, download kids registration form for Framingham or Salem
-          location.**
+          **To start, download kids registration form.**
         image: images/IMG_0522.jpg
         image_alt: People in a conference room
         media_position: left
@@ -125,7 +124,7 @@ sections:
         actions:
           - label: Form Framingham
             url: >-
-              https://square-panda-cb92c.netlify.app/images/ILTA-Fram-Kids-Registration-2023-24.pdf
+              https://square-panda-cb92c.netlify.app/images/ILTA_fram_kids_registration_2026_27.pdf
             style: secondary
             has_icon: false
             icon: arrow-right
@@ -169,24 +168,7 @@ sections:
         align: left
         type: feature
         image: images/kids_hip_hop.jpg
-      - title: Online Classes
-        subtitle: ''
-        content: >
-          **Ilta Dance** offers an exciting new way of learning the art of dance
-          from the comfort of your home. It's very important to keep practicing
-          and improving your dance routine even if you can't go to the studio.
 
-
-          We teach **online zoom lessons** for any levels. **Private and group
-          classes are available.**
-        actions: []
-        image_alt: lorem-ipsum
-        video_embed_html: ''
-        media_position: right
-        media_width: fifty
-        align: left
-        type: feature
-        image: images/Online_kids_lessons.jpg
       - title: ''
         subtitle: ''
         content: >
@@ -194,7 +176,7 @@ sections:
         actions:
           - label: Framingham Registration Form
             url: >-
-              https://square-panda-cb92c.netlify.app/images/ILTA-Fram-Kids-Registration-2023-24.pdf
+              https://square-panda-cb92c.netlify.app/images/ILTA_fram_kids_registration_2026_27.pdf
             style: primary
             has_icon: false
             icon: arrow-left
