@@ -8,7 +8,7 @@ sections:
         style: primary
         icon_position: right
       
-  - label: Kids Registration Forms 2025-2026
+     - label: Kids Registration Forms 2025-2026
          url: 'https://square-panda-cb92c.netlify.app/images/ILTA_fram_kids_registration_2026_27.pdf'
          style: primary
          has_icon: false
