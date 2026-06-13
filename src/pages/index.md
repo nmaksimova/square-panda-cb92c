@@ -8,15 +8,15 @@ sections:
         style: primary
         icon_position: right
       
-     - label: Kids Registration Forms 2025-2026
-         url: 'https://square-panda-cb92c.netlify.app/images/ILTA_fram_kids_registration_2026_27.pdf'
-         style: primary
-         has_icon: false
-         icon: youtube
-         icon_position: right
-         new_window: false
-         no_follow: false
-         type: action
+      - label: Kids Registration Forms 2025-2026
+        url: 'https://square-panda-cb92c.netlify.app/images/ILTA_fram_kids_registration_2026_27.pdf'
+        style: primary
+        has_icon: false
+        icon: youtube
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
 
     image: images/transparent.png
     media_position: left
