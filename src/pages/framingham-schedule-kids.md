@@ -29,7 +29,7 @@ sections:
     title: ' Framingham Kids Dance Schedule'
     subtitle: '   To get started, please download Kids Registration Form'
     background_image: images/Start_dancing.png
-  - title: Kids Ballroom and Latin Classes (2025-2026 School Year)
+  - title: Kids Ballroom and Latin Classes (2026-2027 School Year)
     actions: []
     grid_items:
 
@@ -143,7 +143,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     background_image: images/image_6483441 (6).JPG
-    subtitle: Kids group classes start after the Labor day, Tuesday September 3rd, 2024
+    subtitle: Kids group classes start after the Labor day, Tuesday September 8th, 2026
 
   - title: Kids Hip Hop Classes
     actions: []
@@ -192,10 +192,10 @@ sections:
     type: grid_section
     background_image: images/friendly-mars.jpg
 
-  - title: Kids Classes 2024-2025 Enrollment
+  - title: Kids Classes 2026-2027 Enrollment
     title_align: center
     content: |
-      *   Classes start after the Labor Day, Tuesday September 3rd, 2024
+      *   Classes start after the Labor Day, Tuesday September 8th, 2026
 
     content_align: left
     form_position: bottom
