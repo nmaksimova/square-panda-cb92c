@@ -17,13 +17,13 @@ sections:
     background_image_position: left center
     background_image_repeat: no-repeat
     type: hero_section
-    title: ' Kids Summer Dance Classes 2025'
-    subtitle: 'Duration: 8 weeks (July 7th - August 27th)'
+    title: ' Kids Summer Dance Classes 2026'
+    subtitle: 'Duration: 6 weeks (July 6th - August 12th)'
     background_image: images/Start_dancing.png
   - title: Register for Kids Summer Classes
     title_align: center
     content: |
-      *   Classes start July 7th (July 7th - August 27th)
+      *   Classes start July 6th (July 6th - August 12th)
 
     content_align: left
     form_position: bottom
@@ -68,12 +68,10 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'Beginners 5+ y.o. (Monday 5:00 pm)'
-          - 'Beginners 5+ y.o. (Wednesday 5:00 pm)'
-          - 'Beginners 8+ y.o. (Monday 5:45 pm)'
-          - 'Beginners 8+ y.o. (Wednesday 5:45 pm)'
-          - 'Beginners 12+ (Monday 6:45 pm)'
-          - 'Beginners 12+ (Wednesday 6:45 pm)'
+          - 'Beginners 6-9 y.o. (Monday 5:00 pm)'
+          - 'Beginners 6-9 y.o. (Wednesday 5:00 pm)'
+          - 'Beginners 10+ y.o. (Monday 5:45 pm)'
+          - 'Beginners 10+ y.o. (Wednesday 5:45 pm)'
         is_required: true
     submit_label: Register
     align_vert: top
@@ -98,16 +96,16 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        title: 'Beginners: 5+ y. o.'
+        title: 'Beginners: 6-9 y. o.'
         content: |
-          Cost: once a week: $200, twice a week: $380
+          Cost: once a week: $150, twice a week: $300
 
-          *   Monday - 5:00 pm
+          *   Monday - 5:00 - 5:45 pm
 
-          *   Wednesday - 5:00 pm
+          *   Wednesday - 5:00 - 5:45 pm
 
         subtitle: 'Mix Dance Styles (Ballroom, Latin)'
-      - title: 'Beginners: 8+ y. o.'
+      - title: 'Beginners: 10+ y. o.'
         subtitle: 'Mix Dance Styles (Ballroom, Latin)'
         title_align: center
         content_align: left
@@ -118,32 +116,15 @@ sections:
         image_has_padding: false
         type: grid_item
         content: |
-          Cost: once a week: $200, twice a week: $380     
+          Cost: once a week: $150, twice a week: $300     
 
           *   Monday - 5:45 pm
 
           *   Wednesday - 5:45 pm
 
-      - title: 'Beginners: 12+ y. o.'
-        subtitle: 'Mix Dance Styles (Ballroom, Latin)'
-        title_align: center
-        content: |
-          Cost: once a week: $200, twice a week: $380
-
-          *   Monday - 6:30 pm
-
-          *   Wednesday - 6:30 pm
-
-        content_align: left
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
      
 
-    grid_cols: three
+    grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
     enable_cards: true
@@ -158,7 +139,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     background_image: images/sh_24_5274.jpg
-    subtitle: Kids group classes start July 7th, 2025
+    subtitle: Kids group classes start July 6th, 2026
     
 
   - actions:
