@@ -85,7 +85,7 @@ sections:
         no_follow: false
         type: action
     image_alt: kids dance schedule
-    media_position: left
+    media_position: right
     media_width: fifty
     align: left
     padding_top: small
@@ -97,7 +97,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/Kids_dancing_site-cf941571.jpg
+    image: images/kids_summer_26.jpg
 
 
   - content: >
