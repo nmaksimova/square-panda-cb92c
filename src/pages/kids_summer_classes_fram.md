@@ -98,7 +98,7 @@ sections:
         type: grid_item
         title: 'Beginners: 6-9 y. o.'
         content: |
-          Cost: once a week: $150, twice a week: $300
+          Cost: once a week: $150, twice a week: $280
 
           *   Monday - 5:00 - 5:45 pm
 
@@ -116,7 +116,7 @@ sections:
         image_has_padding: false
         type: grid_item
         content: |
-          Cost: once a week: $150, twice a week: $300     
+          Cost: once a week: $150, twice a week: $280     
 
           *   Monday - 5:45 pm
 
