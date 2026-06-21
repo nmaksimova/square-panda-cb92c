@@ -68,6 +68,37 @@ sections:
     type: hero_section
     image: images/summer_classes_2026_site.jpg
 
+  - content: |
+      ## Summer Dance Classes for Kids 2026
+
+      **Build Skills and Confidence This Summer Through Dance**
+
+      **Starting July 6, 2026 • 6-Week Summer Session • Once or Twice a Week Options**
+    actions:
+      - label: Register for Summer Classes
+        url: /kids_summer_classes_fram
+        style: primary
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
+    image_alt: kids dance schedule
+    media_position: left
+    media_width: fifty
+    align: left
+    padding_top: small
+    padding_bottom: small
+    has_border: false
+    background_color: secondary
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: hero_section
+    image: images/Kids_dancing_site-cf941571.jpg
+
 
   - content: >
       ## Adult Dance Programs
