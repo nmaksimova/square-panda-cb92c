@@ -35,7 +35,7 @@ sections:
   - content: |
       ## NEW GROUP CLASSES FOR ADULTS!!!
 
-      **NEW! Salsa for Beginners**</br>Starting June 24th (Wednesday) at 6:45 pm
+      **NEW! Salsa for Beginners**</br>Starting July 22th (Wednesday) at 7:30 pm
 
       **NEW! Bachata for Beginners**</br>Starting July 9th (Thursday) at 8:15 pm
 
@@ -66,7 +66,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/summer_classes_2026_site.jpg
+    image: images/salsa_july_2026.jpg
 
   - content: |
       ## Summer Dance Classes for Kids 2026
