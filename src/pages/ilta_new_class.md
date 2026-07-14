@@ -13,7 +13,7 @@ sections:
         **When:** Wednesday, July 22nd at 7:30pm </br> </br>
 
       *   **NEW! Bachata for Beginners** </br>
-        **When:** Thursday, July 9th at 8:15pm </br> </br>
+        **When:** Thursday, July 30th at 8:15pm </br> </br>
                                                             
        
       *   **Ladies Line Routine: Salsa, Bachata - Advanced level** </br>
@@ -41,7 +41,7 @@ sections:
     title_align: center
     content: |
       *   NEW! Salsa for Beginners - Wednesday, July 22nd at 7:30pm
-      *   NEW! Bachata for Beginners - Thursday, July 9th at 8:15pm
+      *   NEW! Bachata for Beginners - Thursday, July 30th at 8:15pm
       *   Ladies Line Routine - Advanced: Salsa, Bachata, Monday at 6:45pm
 
 
@@ -83,7 +83,7 @@ sections:
         default_value: Class
         options:
           - 'New! Salsa for Beginners (Wednesday, July 22nd at 7:30pm)'
-          - 'New! Bachata for Beginners (Wednesday, July 9th at 8:15pm)'
+          - 'New! Bachata for Beginners (Thursday, July 30th at 8:15pm)'
           - 'Ladies Line Routine Advanceed (Salsa, Bachata, Monday at 6:45pm)'
         is_required: true
       - input_type: checkbox
