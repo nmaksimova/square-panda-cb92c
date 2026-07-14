@@ -37,7 +37,7 @@ sections:
 
       **NEW! Salsa for Beginners**</br>Starting July 22nd (Wednesday) at 7:30 pm
 
-      **NEW! Bachata for Beginners**</br>Starting July 9th (Thursday) at 8:15 pm
+      **NEW! Bachata for Beginners**</br>Starting July 30th (Thursday) at 8:15 pm
 
       **Ladies Line Routine: Salsa, Bachata - Advanced** </br>Join us any time on Mondays at 6:45 pm
       
