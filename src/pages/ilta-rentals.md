@@ -48,7 +48,7 @@ sections:
     image_alt: ILTA Dance Studio rental spaces
     video_embed_html: >-
       <iframe width="560" height="315"
-      src="https://www.youtube-nocookie.com/embed/ra9qUBdCBsQ?controls=0"
+      src="https://www.youtube-nocookie.com/embed/eZNYqOYz6rM?controls=0"
       title="ILTA Dance Studio Room Rental Tour"
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
