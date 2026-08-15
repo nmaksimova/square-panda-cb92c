@@ -227,7 +227,7 @@ sections:
 
 
   - type: grid_section
-    title: Our Locations
+    title: Our Location
     grid_items:
 
       - title: Framingham
@@ -256,32 +256,7 @@ sections:
         actions_width: auto
         title_align: center
 
-      - title: Salem
-        content: |
-          A Performing Arts Academy
-
-          96 Swampscott Rd #6
-
-          Salem, MA 01970
-
-          781-492-2769
-
-          **dance@iltadance.com**
-        content_align: left
-        actions:
-          - label: Salem Schedule
-            url: /schedule-salem
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        actions_align: left
-        actions_width: auto
-
-    grid_cols: two
+    grid_cols: one
     grid_gap_horiz: large
     grid_gap_vert: large
     enable_cards: true
