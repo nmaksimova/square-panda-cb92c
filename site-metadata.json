@@ -1,5 +1,5 @@
 {
-    "description": "Ilta Dance Studio, dance lessons, dance classes, kids dance lessons, adults dance lessons, dance clases for same sex couples, salsa, bachata, swing, rumba, tango",
+    "description": "Ilta Dance Studio, dance lessons, dance classes, kids dance lessons, adults dance lessons, dance classes for same sex couples, salsa, bachata, swing, rumba, tango",
     "layout": "full-width",
     "style": "classic",
     "palette": "gray",
@@ -32,6 +32,11 @@
                 "style": "link"
             },
             {
+                "label": "Studio Rentals",
+                "url": "/ilta-rentals",
+                "style": "link"
+            },
+            {
                 "label": "Gallery",
                 "url": "/gallery",
                 "style": "link",
@@ -41,38 +46,6 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
-            },
-            {
-                "label": "Locations",
-                "url": "/ilta-locations",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            },
-            {
-                "label": "Dances",
-                "url": "/dances",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            },
-            {
-                "label": "Competitions",
-                "url": "/competitions",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false
             }
         ],
         "has_secondary_nav": true,
@@ -84,14 +57,13 @@
                 "icon_position": "center"
             },
             {
-                "label": "Framingham",
+                "label": "Framingham Schedule",
                 "url": "/schedule-framingham",
                 "style": "primary"
             }
-           
         ],
         "has_anncmnt": true,
-        "anncmnt_content": "Adult dance classes for beginners, no previous experience required! Salsa, Bachata, Swing, Social Dancing, and more! Join Us!\n",
+        "anncmnt_content": "New Beginner Adult Classes — Salsa, Bachata, Social Dance & More. Join Us!",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
@@ -136,7 +108,7 @@
                 "type": "action"
             },
             {
-                "label": "Dances we teach",
+                "label": "Dances We Teach",
                 "url": "/dances",
                 "style": "link",
                 "has_icon": false,
@@ -174,6 +146,11 @@
         "has_tertiary_nav": true,
         "tertiary_nav_title": "Our Studios",
         "tertiary_nav_links": [
+            {
+                "label": "Studio Rentals",
+                "url": "/ilta-rentals",
+                "style": "link"
+            },
             {
                 "label": "Locations",
                 "url": "/ilta-locations",
@@ -215,7 +192,7 @@
                 "new_window": true
             }
         ],
-        "content": "Ilta Dance Studio, 2025"
+        "content": "Ilta Dance Studio, 2026"
     },
     "title": "Ilta Dance Studio",
     "favicon": "images/favicon.png",
