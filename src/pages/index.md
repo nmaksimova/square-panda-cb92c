@@ -8,7 +8,7 @@ sections:
         style: primary
         icon_position: right
       
-      - label: Kids Registration Forms 2025-2026
+      - label: Kids Registration Forms 2026-2027
         url: 'https://square-panda-cb92c.netlify.app/images/ILTA_fram_kids_registration_2026_27.pdf'
         style: primary
         has_icon: false
@@ -32,6 +32,7 @@ sections:
     has_border: true
     background_image_repeat: no-repeat
 
+
   - content: |
       ## NEW GROUP CLASSES FOR ADULTS!!!
 
@@ -41,8 +42,6 @@ sections:
 
       **Ladies Line Routine: Salsa, Bachata - Advanced** </br>Join us any time on Mondays at 6:45 pm
       
-
-
     actions:
       - label: Register
         url: /ilta_new_class
@@ -68,37 +67,6 @@ sections:
     type: hero_section
     image: images/salsa_july_2026.jpg
 
-  - content: |
-      ## Summer Dance Classes for Kids 2026
-
-      **Build Skills and Confidence This Summer Through Dance**
-
-      **Starting July 6, 2026 • 6-Week Summer Session • Once or Twice a Week Options**
-    actions:
-      - label: Register for Summer Classes
-        url: /kids_summer_classes_fram
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
-    image_alt: kids dance schedule
-    media_position: right
-    media_width: fifty
-    align: left
-    padding_top: small
-    padding_bottom: small
-    has_border: false
-    background_color: secondary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
-    image: images/kids_summer_26.jpg
-
 
   - content: >
       ## Adult Dance Programs
@@ -113,7 +81,6 @@ sections:
 
 
       Click here to register and see the schedule
-
 
     actions:
       - label: Learn More
@@ -148,6 +115,43 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
 
+
+  - content: |
+      ## Studio & Room Rentals
+
+      **Flexible studio spaces available for rent in Framingham, MA**
+
+      Looking for a beautiful, professional space for a class, rehearsal, private session, workshop, fitness or wellness activity, photo or video shoot?
+
+      ILTA Dance Studio offers **three studio spaces** with hardwood floors, large mirrors and flexible lighting options.
+
+      Explore our available rooms, view photos and take a video tour of the studio.
+
+    actions:
+      - label: Explore Studio Rentals
+        url: /ilta-rentals
+        style: primary
+        has_icon: false
+        icon: arrow-right
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
+
+    image: images/grand_room_image1.jpeg
+    image_alt: Studio room rentals at ILTA Dance Studio in Framingham MA
+    media_position: left
+    media_width: fifty
+    align: left
+    padding_top: small
+    padding_bottom: small
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: hero_section
 
 
   - content: |
@@ -190,6 +194,7 @@ sections:
     type: hero_section
     image: images/Kids_dancing_site-cf941571.jpg
 
+
   - title: Welcome to Ilta Dance!
     features:
       - content: "We\_offer **dance group classes**, **private lessons**\_and other opportunities to help you learn the art\_of **Ballroom and Latin dancing**!\_Whether you are a novice or an experienced dancer,\_we have the right instructor to work with you!\_Our programs designed for kids and adult dancers.\n"
@@ -209,6 +214,7 @@ sections:
         align: left
         type: feature
         image: images/Ilta-dance-studio-1.jpg
+
       - content: >
           Our students are finalists and winners of many competitions and
           National championships.
@@ -222,6 +228,7 @@ sections:
         align: left
         type: feature
         image: images/Ilta-dance-studio-2.jpeg
+
     feature_padding_vert: medium
     align: center
     padding_top: medium
@@ -233,10 +240,13 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
+
+
   - type: grid_section
     title: Start Dancing Today!
     subtitle: ''
     grid_items:
+
       - title: Kids Classes
         title_align: center
         content: >
@@ -259,6 +269,7 @@ sections:
         image_align: center
         image_has_padding: true
         image_width: sixty
+
       - title: Adult Lessons
         title_align: center
         content: >
@@ -280,6 +291,7 @@ sections:
         image_align: center
         image_has_padding: true
         image_width: sixty
+
       - title: Wedding Dance
         title_align: center
         content: >
@@ -300,12 +312,15 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
+
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: small
     enable_cards: true
     align: center
     background_color: secondary
+
+
   - title: Book your first class with us
     title_align: left
     content: "#### Framingham location only\n\nBest way to receive personalized attention and faster learn dancing. Lessons may be for one or couple with any instructor. You will learn steps, step patterns, how to create combinations of steps and good leader / follower techniques as well as overview of the dances. Ballroom – Waltz, Foxtrot, Swing, Tango, Cha Cha. Latin dancing – Rumba, Salsa, Samba and Merengue. \n\n**Note!** We offer a 30-minute complimentary class exclusively for individuals interested in private lessons, including wedding packages. **Please note that this offer is not available for those interested in group lessons**.\n\n
@@ -319,6 +334,7 @@ sections:
     form_id: Book a class
     form_action: /thank-you
     form_fields:
+
       - input_type: text
         name: Full Name
         label: Full  Name
@@ -326,6 +342,7 @@ sections:
         options: []
         is_required: true
         type: form_field
+
       - input_type: email
         name: E-mail
         label: E-mail
@@ -333,6 +350,7 @@ sections:
         options: []
         is_required: true
         type: form_field
+
       - input_type: tel
         name: Phone
         label: Phone
@@ -340,6 +358,7 @@ sections:
         options: []
         is_required: false
         type: form_field
+
       - input_type: select
         name: Preferred Location
         label: Preferred Location
@@ -349,6 +368,7 @@ sections:
           - 'Framingham, MA'
         is_required: true
         type: form_field
+
       - input_type: select
         name: How did you hear about us?
         label: How did you hear about us?
@@ -362,6 +382,7 @@ sections:
           - Other
         is_required: true
         type: form_field
+
       - input_type: textarea
         name: Message/Comments
         label: Message/Comments
@@ -369,6 +390,7 @@ sections:
         options: []
         is_required: false
         type: form_field
+
     submit_label: Submit
     align_vert: top
     padding_top: medium
@@ -381,10 +403,13 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
     background_image: images/private_dance_class.jpg
+
+
   - type: grid_section
     title: Testimonials
     subtitle: ''
     grid_items:
+
       - content: >
           > As soon as I had my first lesson with Tamaz, I knew I would learn a
           lot from him. His knowledge and experience, his skill as a dancer and
@@ -400,6 +425,7 @@ sections:
         image_alt: Hanson Deck
         image_position: left
         image_width: twenty-five
+
       - content: >
           > I have been a student of Tamaz’ now for over two years. I’ve danced
           for over 20 years with a variety of teachers and none has been as
@@ -423,6 +449,7 @@ sections:
         image_alt: Miles Tone
         image_position: left
         image_width: twenty-five
+
       - content: >
           > ILTA Dance Studio is a truly rare find. The owners are not only
           remarkable pro dancers, but they also possess a unique ability to
@@ -437,6 +464,7 @@ sections:
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
+
       - content: >
           > If you are looking for a great ballroom dance studio, look no
           further. ILTA Dance Studio is a fabulous find! First impressions are
@@ -451,6 +479,7 @@ sections:
         image_alt: Gordon Norman
         image_position: left
         image_width: twenty-five
+
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
@@ -466,6 +495,8 @@ sections:
         new_window: false
         no_follow: false
         type: action
+
+
   - title: Ilta Showcase 2024
     actions:
       - label: Showcase Pictures
@@ -491,6 +522,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/sh_24_5253.jpg
+
 
   - type: grid_section
     title: Our Location
@@ -529,7 +561,10 @@ sections:
     grid_gap_vert: medium
     enable_cards: true
     background_color: primary
+
+
 template: advanced
+
 seo:
   title: ILTA Dance Studio
   description: >
