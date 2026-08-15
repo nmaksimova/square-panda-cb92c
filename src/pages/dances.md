@@ -1,5 +1,6 @@
 ---
 excerpt: Dances We Teach
+
 sections:
   - type: hero_section
     align: center
@@ -8,8 +9,11 @@ sections:
     background_image: images/IMG_0704.jpg
     background_image_opacity: 30
     title: Dances We Teach
+
+
   - type: features_section
     features:
+
       - title: Cha Cha
         subtitle: ' '
         content: >
@@ -21,10 +25,16 @@ sections:
         actions: []
         video_embed_html: >-
           <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/vlGzXYEC_8g" frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-          gyroscope; picture-in-picture" allowfullscreen></iframe>
-      - content: >
+          src="https://www.youtube-nocookie.com/embed/vlGzXYEC_8g?controls=1"
+          title="ILTA Dance Studio - Cha Cha"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen></iframe>
+
+
+      - title: Samba
+        content: >
           **Samba** is a fun, upbeat, lively dance that progresses
           counter-clockwise around the floor. It is characterized by its
           syncopated timing, bounce, rolling hip action and pelvic tilt and a
@@ -33,13 +43,16 @@ sections:
         media_position: left
         media_width: fifty
         actions: []
-        title: Samba
         video_embed_html: >-
           <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/ZUJrFlMpd_8" title="YouTube video
-          player" frameborder="0" allow="accelerometer; autoplay;
-          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          src="https://www.youtube-nocookie.com/embed/ZUJrFlMpd_8?controls=1"
+          title="ILTA Dance Studio - Samba"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
           allowfullscreen></iframe>
+
+
       - title: Rumba
         content: "**Rumba**\_is universally recognized as the dance of love. It is danced to slow, sensual music with a Latin beat and features a hip action known as “Cuban Motion”. Rumba is derived from the Afro-Caribbean dance “Son” and has been popular in this country as a ballroom dance since the 1930's.\n"
         image_alt: Rumba
@@ -48,10 +61,14 @@ sections:
         actions: []
         video_embed_html: >-
           <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/VsrEKHVaeoA" title="YouTube video
-          player" frameborder="0" allow="accelerometer; autoplay;
-          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          src="https://www.youtube-nocookie.com/embed/VsrEKHVaeoA?controls=1"
+          title="ILTA Dance Studio - Rumba"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
           allowfullscreen></iframe>
+
+
       - title: Pasodoble
         content: >
           **Pasodoble** is a style of [ballroom
@@ -70,9 +87,14 @@ sections:
         type: feature
         video_embed_html: >-
           <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/O9cRytl2WUI" frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-          gyroscope; picture-in-picture" allowfullscreen></iframe>
+          src="https://www.youtube-nocookie.com/embed/O9cRytl2WUI?controls=1"
+          title="ILTA Dance Studio - Pasodoble"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen></iframe>
+
+
       - title: Jive
         content: >
           **Jive** is a very happy, hoppy, energetic dance, with plenty of
@@ -82,15 +104,20 @@ sections:
           other dances.
         actions: []
         image_alt: Jive
-        video_embed_html: >-
-          <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/gruaM9tdOo0" frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-          gyroscope; picture-in-picture" allowfullscreen></iframe>
         media_position: right
         media_width: fifty
         align: left
         type: feature
+        video_embed_html: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube-nocookie.com/embed/gruaM9tdOo0?controls=1"
+          title="ILTA Dance Studio - Jive"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen></iframe>
+
+
       - title: Waltz
         content: >
           **Waltz** is a smooth, progressive ballroom and folk dance, normally
@@ -104,9 +131,14 @@ sections:
         type: feature
         video_embed_html: >-
           <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/_GH_DUKRhQc" frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-          gyroscope; picture-in-picture" allowfullscreen></iframe>
+          src="https://www.youtube-nocookie.com/embed/_GH_DUKRhQc?controls=1"
+          title="ILTA Dance Studio - Waltz"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen></iframe>
+
+
       - title: Tango
         content: >
           **Tango** is a Ballroom Dance that branched away from its original
@@ -119,22 +151,26 @@ sections:
           movements and a passionate attitude.
         actions: []
         image_alt: Tango
-        video_embed_html: >-
-          <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/8enrFfItpF0" title="YouTube video
-          player" frameborder="0" allow="accelerometer; autoplay;
-          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen></iframe>
         media_position: right
         media_width: fifty
         align: left
         type: feature
+        video_embed_html: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube-nocookie.com/embed/8enrFfItpF0?controls=1"
+          title="ILTA Dance Studio - Tango"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen></iframe>
+
+
       - title: Viennese Waltz
         content: >
           **Viennese Waltz** is a rotary dance where the dancers are constantly
           turning either toward the leader's right (a natural turn) or toward
           the leader's left (a reverse turn), interspersed with non-rotating
-          change steps to switch between the direction of rotation
+          change steps to switch between the direction of rotation.
         actions: []
         image_alt: Viennese Waltz
         media_position: left
@@ -143,10 +179,14 @@ sections:
         type: feature
         video_embed_html: >-
           <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/bMK0hXoqT9E" title="YouTube video
-          player" frameborder="0" allow="accelerometer; autoplay;
-          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          src="https://www.youtube-nocookie.com/embed/bMK0hXoqT9E?controls=1"
+          title="ILTA Dance Studio - Viennese Waltz"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
           allowfullscreen></iframe>
+
+
       - title: Foxtrot
         content: "**Foxtrot** is\_a smooth, progressive dance characterized by long, continuous flowing movements across the dance floor. It is danced to big band (usually vocal) music. The dance is similar in its look to Waltz, although the rhythm is in a 4/4 time signature instead of 3/4.\n"
         actions: []
@@ -157,9 +197,14 @@ sections:
         type: feature
         video_embed_html: >-
           <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/yU3gi-w41zU" frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-          gyroscope; picture-in-picture" allowfullscreen></iframe>
+          src="https://www.youtube-nocookie.com/embed/yU3gi-w41zU?controls=1"
+          title="ILTA Dance Studio - Foxtrot"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen></iframe>
+
+
       - title: Quickstep
         content: >
           The movement of the dance is fast and powerfully flowing, sprinkled
@@ -173,12 +218,18 @@ sections:
         type: feature
         video_embed_html: >-
           <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/BLZEUomoZgk" frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-          gyroscope; picture-in-picture" allowfullscreen></iframe>
+          src="https://www.youtube-nocookie.com/embed/BLZEUomoZgk?controls=1"
+          title="ILTA Dance Studio - Quickstep"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen></iframe>
+
+
   - type: grid_section
     title: Our Locations
     grid_items:
+
       - title: Framingham
         content: |
           1255 Worcester Road (Rt. 9)
@@ -204,6 +255,7 @@ sections:
         actions_align: left
         actions_width: auto
         title_align: center
+
       - title: Salem
         content: |
           A Performing Arts Academy
@@ -228,6 +280,7 @@ sections:
             type: action
         actions_align: left
         actions_width: auto
+
     grid_cols: two
     grid_gap_horiz: large
     grid_gap_vert: large
@@ -236,12 +289,15 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: secondary
+
+
 seo:
   title: ''
   description: ''
   robots: []
   extra: []
   type: stackbit_page_meta
+
 template: advanced
 title: Dances We Teach
 ---
