@@ -10,19 +10,19 @@ sections:
       **Packaged Cost for 6 lessons:** $150 </br> </br>
 
       *   **NEW! Salsa for Beginners** </br>
-        **When:** Wednesday, July 22nd at 7:30pm </br> </br>
+        **When:** Wednesday, September 16th at 8:15pm </br> </br>
 
       *   **NEW! Bachata for Beginners** </br>
-        **When:** Thursday, July 30th at 8:15pm </br> </br>
-                                                            
-       
+        **When:** Thursday, September 24th at 8:15pm </br> </br>
+
+      *   **NEW! Rumba & Swing Social** </br>
+        **When:** Friday, October 2nd at 6:45pm </br> </br>
+
       *   **Ladies Line Routine: Salsa, Bachata - Advanced level** </br>
         **When:** Join us on Mondays at 6:45pm (ongoing class, join any time) </br> </br>
-         
-    
-   
+
     actions: []
-    image_alt: salsa-dance-class
+    image_alt: fall-dance-classes-2026
     media_position: right
     media_width: fifty
     align: left
@@ -35,15 +35,15 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/salsa_july_2026.jpg
+    image: images/fall_classes_2026.jpg
 
   - title: Register for New Group Classes
     title_align: center
     content: |
-      *   NEW! Salsa for Beginners - Wednesday, July 22nd at 7:30pm
-      *   NEW! Bachata for Beginners - Thursday, July 30th at 8:15pm
+      *   NEW! Salsa for Beginners - Wednesday, September 16th at 8:15pm
+      *   NEW! Bachata for Beginners - Thursday, September 24th at 8:15pm
+      *   NEW! Rumba & Swing Social - Friday, October 2nd at 6:45pm
       *   Ladies Line Routine - Advanced: Salsa, Bachata, Monday at 6:45pm
-
 
     content_align: left
     form_position: bottom
@@ -82,9 +82,10 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'New! Salsa for Beginners (Wednesday, July 22nd at 7:30pm)'
-          - 'New! Bachata for Beginners (Thursday, July 30th at 8:15pm)'
-          - 'Ladies Line Routine Advanceed (Salsa, Bachata, Monday at 6:45pm)'
+          - 'New! Salsa for Beginners (Wednesday, September 16th at 8:15pm)'
+          - 'New! Bachata for Beginners (Thursday, September 24th at 8:15pm)'
+          - 'New! Rumba & Swing Social (Friday, October 2nd at 6:45pm)'
+          - 'Ladies Line Routine Advanced (Salsa, Bachata, Monday at 6:45pm)'
         is_required: true
       - input_type: checkbox
         name: Coming With Partner
@@ -106,7 +107,7 @@ sections:
     type: form_section
 
 seo:
-  title: 'Bachata, Salsa Group Classes'
+  title: 'Bachata, Salsa, Rumba & Swing Group Classes'
   description: ''
   robots: []
   extra: []
