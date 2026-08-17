@@ -122,19 +122,23 @@ sections:
     type: form_section
 
   - title: Adult Classes
+    subtitle: 'Weekly Schedule'
     actions: []
     grid_items:
       - title: Monday
         title_align: center
         content: |
 
-          *   **Ladies Line Routine: Bachata, Salsa, Cha-Cha Group - Intermediate**
-              *   6:45 pm
+          **Ladies Line Routine: Bachata, Salsa, Cha-Cha - Intermediate**
+
+          *   6:45 pm
+          *   Ongoing class — join any time
+
         content_align: left
         actions: []
         actions_align: left
         actions_width: auto
-        image_alt: lorem-ipsum
+        image_alt: monday-adult-dance-classes
         image_position: top
         image_width: fifty
         image_align: left
@@ -144,22 +148,24 @@ sections:
         title_align: center
         content: |
 
-          **New! Salsa Group for Beginners**
+          **NEW! Salsa for Beginners**
 
           *   8:15 pm
+          *   Starts September 16
 
           **Ladies Latin Choreography**
 
           *   7:30 pm
 
-          **Ladies Technique - Inetrnational Latin Advance (drop in)**
+          **Ladies Technique - International Latin Advanced (drop in)**
 
           *   8:15 pm
+
         content_align: left
         actions: []
         actions_align: left
         actions_width: auto
-        image_alt: lorem-ipsum
+        image_alt: wednesday-adult-dance-classes
         image_position: top
         image_width: fifty
         image_align: left
@@ -173,15 +179,16 @@ sections:
 
           *   7:30 pm
 
-          **New! Bachata for Beginners**
+          **NEW! Bachata for Beginners**
 
           *   8:15 pm
+          *   Starts September 24
 
         content_align: left
         actions: []
         actions_align: left
         actions_width: auto
-        image_alt: friday-dance-class
+        image_alt: thursday-adult-dance-classes
         image_position: top
         image_width: fifty
         image_align: left
@@ -191,21 +198,22 @@ sections:
         title_align: center
         content: |
 
-          **New! Rumba & Swing Social**
+          **NEW! Rumba & Swing Social**
 
           *   6:45 pm
+          *   Starts October 2
 
         content_align: left
         actions: []
         actions_align: left
         actions_width: auto
-        image_alt: friday-dance-class
+        image_alt: friday-adult-dance-classes
         image_position: top
         image_width: fifty
         image_align: left
         image_has_padding: false
 
-    grid_cols: three
+    grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
     enable_cards: true
