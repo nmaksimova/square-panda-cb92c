@@ -36,9 +36,11 @@ sections:
   - content: |
       ## NEW GROUP CLASSES FOR ADULTS!!!
 
-      **NEW! Salsa for Beginners**</br>Starting July 22nd (Wednesday) at 7:30 pm
+      **NEW! Salsa for Beginners**</br>Starting September 16th (Wednesday) at 8:15 pm
 
-      **NEW! Bachata for Beginners**</br>Starting July 30th (Thursday) at 8:15 pm
+      **NEW! Bachata for Beginners**</br>Starting September 24th (Thursday) at 8:15 pm
+
+      **NEW! Rumba and Swing - Social Dance Class**</br>Starting October 2nd (Friday) at 6:45 pm
 
       **Ladies Line Routine: Salsa, Bachata - Advanced** </br>Join us any time on Mondays at 6:45 pm
       
@@ -65,7 +67,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/salsa_july_2026.jpg
+    image: images/fall_classes_2026.jpg
 
 
   - content: >
