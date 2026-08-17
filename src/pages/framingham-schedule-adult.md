@@ -18,17 +18,17 @@ sections:
     type: hero_section
     title: ' Framingham - Adult  Dance Schedule'
     background_image: images/Start_dancing.png
+
   - title: Adult Classes
     subtitle: 'Session is 6-week long, packaged price for 6 classes: $150'
     content: |
 
-      *   **New! Salsa for Beginners** (July 22nd, Wednesday at 7:30pm)
-      *   **New! Bachata for Beginners** (July 30th, Thursday at 8:15pm)
+      *   **New! Salsa for Beginners** (September 16th, Wednesday at 8:15pm)
+      *   **New! Bachata for Beginners** (September 24th, Thursday at 8:15pm)
+      *   **New! Rumba & Swing Social** (October 2nd, Friday at 6:45pm)
 
       *   **Ladies Line Routine: Bachata, Salsa - Advanced:** You can join any time (Monday
       6:45 pm)
-
-  
 
     actions: []
     image_alt: adult dance classes
@@ -40,7 +40,7 @@ sections:
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       referrerpolicy="strict-origin-when-cross-origin"
       allowfullscreen></iframe>
-      
+
     media_position: right
     media_width: fifty
     align: left
@@ -53,6 +53,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+
   - title: Register for Adult Classes
     title_align: center
     content: |
@@ -96,8 +97,9 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'New! Salsa for Beginners (July 22nd, Wednesday at 7:30 pm)'
-          - 'New! Bachata for Beginners (July 30th, Thursday at 8:15 pm)'
+          - 'New! Salsa for Beginners (September 16th, Wednesday at 8:15 pm)'
+          - 'New! Bachata for Beginners (September 24th, Thursday at 8:15 pm)'
+          - 'New! Rumba & Swing Social (October 2nd, Friday at 6:45 pm)'
           - 'Ladies Line Routine - Advanced: Bachata, Salsa (Monday 6:45 pm)'
         is_required: true
       - input_type: checkbox
@@ -118,6 +120,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
+
   - title: Adult Classes
     actions: []
     grid_items:
@@ -143,12 +146,12 @@ sections:
 
           **New! Salsa Group for Beginners**
 
-          *   7:30 pm
-  
+          *   8:15 pm
+
           **Ladies Latin Choreography**
 
           *   7:30 pm
-       
+
           **Ladies Technique - Inetrnational Latin Advance (drop in)**
 
           *   8:15 pm
@@ -161,15 +164,19 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+
       - title: Thursday
         title_align: center
         content: |
-         
 
           **Intermediate Bachata**
-   
-          *    7:30 pm
-        
+
+          *   7:30 pm
+
+          **New! Bachata for Beginners**
+
+          *   8:15 pm
+
         content_align: left
         actions: []
         actions_align: left
@@ -180,7 +187,23 @@ sections:
         image_align: left
         image_has_padding: false
 
+      - title: Friday
+        title_align: center
+        content: |
 
+          **New! Rumba & Swing Social**
+
+          *   6:45 pm
+
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: friday-dance-class
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
 
     grid_cols: three
     grid_gap_vert: small
@@ -197,6 +220,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     background_image: images/adult_dance_classes.jpg
+
   - actions:
       - label: Back to All Schedule
         url: /schedule
@@ -219,5 +243,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: cta_section
+
 template: advanced
 ---
