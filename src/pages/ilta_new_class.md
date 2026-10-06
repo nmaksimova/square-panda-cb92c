@@ -1,28 +1,24 @@
 ---
 title: NEW Group Classes for Adults
-excerpt: Salsa Dance Class
+excerpt: New Adult Dance Classes
 sections:
   - title: NEW Group Classes
     subtitle: 'For Adults'
     content: >
 
-      *   **Each Session is 6-week long** </br>
-      **Packaged Cost for 6 lessons:** $150 </br> </br>
+      *   **Each session includes 6 weekly classes** </br>
+      **Package Cost for 6 classes:** $150 </br> </br>
 
-      *   **NEW! Salsa for Beginners** </br>
-        **When:** Wednesday, September 30th at 7:30pm </br> </br>
+      *   **NEW! Latin Line Choreo - Salsa + Bachata** </br>
+        A fun choreography class designed for individual dancers. No partner required. </br>
+        **When:** Thursday, October 22nd at 6:45pm </br> </br>
 
-      *   **NEW! Bachata for Beginners** </br>
-        **When:** Thursday, September 24th at 8:15pm </br> </br>
-
-      *   **NEW! Rumba & Swing Social** </br>
-        **When:** Friday, October 2nd at 6:45pm </br> </br>
-
-      *   **Ladies Line Routine: Salsa, Bachata - Advanced level** </br>
-        **When:** Join us on Mondays at 6:45pm (ongoing class, join any time) </br> </br>
+      *   **NEW! First Dance Prep - Wedding Dance Class** </br>
+        A group class designed for couples preparing for their wedding dance. </br>
+        **When:** Friday, November 6th at 6:45pm </br> </br>
 
     actions: []
-    image_alt: fall-dance-classes-2026
+    image_alt: new-adult-dance-classes-2026
     media_position: right
     media_width: fifty
     align: left
@@ -35,15 +31,13 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/fall_classes_2026.jpg
+    image: images/ilta_new_group_classes_web.jpg
 
   - title: Register for New Group Classes
     title_align: center
     content: |
-      *   NEW! Salsa for Beginners - Wednesday, September 30th at 7:30pm
-      *   NEW! Bachata for Beginners - Thursday, September 24th at 8:15pm
-      *   NEW! Rumba & Swing Social - Friday, October 2nd at 6:45pm
-      *   Ladies Line Routine - Advanced: Salsa, Bachata, Monday at 6:45pm
+      *   NEW! Latin Line Choreo - Salsa + Bachata - Thursday, October 22nd at 6:45pm
+      *   NEW! First Dance Prep - Wedding Dance Class - Friday, November 6th at 6:45pm
 
     content_align: left
     form_position: bottom
@@ -82,10 +76,8 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'New! Salsa for Beginners (Wednesday, September 30th at 7:30pm)'
-          - 'New! Bachata for Beginners (Thursday, September 24th at 8:15pm)'
-          - 'New! Rumba & Swing Social (Friday, October 2nd at 6:45pm)'
-          - 'Ladies Line Routine Advanced (Salsa, Bachata, Monday at 6:45pm)'
+          - 'New! Latin Line Choreo - Salsa + Bachata (Thursday, October 22nd at 6:45pm)'
+          - 'New! First Dance Prep - Wedding Dance Class (Friday, November 6th at 6:45pm)'
         is_required: true
       - input_type: checkbox
         name: Coming With Partner
@@ -107,8 +99,8 @@ sections:
     type: form_section
 
 seo:
-  title: 'Bachata, Salsa, Rumba & Swing Group Classes'
-  description: ''
+  title: 'Latin Line Choreo & Wedding Dance Classes | ILTA Dance'
+  description: 'Register for new adult group dance classes at ILTA Dance Studio in Framingham, MA. Join our Salsa and Bachata Latin Line Choreo class or First Dance Prep wedding dance class.'
   robots: []
   extra: []
 template: advanced
