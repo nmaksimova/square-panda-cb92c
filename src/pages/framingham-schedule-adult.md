@@ -1,5 +1,5 @@
 ---
-title: 'Adult Dance Classes Schedule, Framigham, MA'
+title: 'Adult Dance Classes Schedule, Framingham, MA'
 excerpt: Dance Schedule
 sections:
   - actions: []
@@ -16,19 +16,17 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    title: ' Framingham - Adult  Dance Schedule'
+    title: 'Framingham - Adult Dance Schedule'
     background_image: images/Start_dancing.png
 
   - title: Adult Classes
-    subtitle: 'Session is 6-week long, packaged price for 6 classes: $150'
+    subtitle: 'Each session includes 6 weekly classes. Package price for 6 classes: $150'
     content: |
 
-      *   **New! Salsa for Beginners** (September 30th, Wednesday at 7:30pm)
-      *   **New! Bachata for Beginners** (September 24th, Thursday at 8:15pm)
-      *   **New! Rumba & Swing Social** (October 2nd, Friday at 6:45pm)
+      *   **NEW! Latin Line Choreo - Salsa + Bachata** (Thursday, October 22nd at 6:45pm)
+      *   **NEW! First Dance Prep - Wedding Dance Class** (Friday, November 6th at 6:45pm)
 
-      *   **Ladies Line Routine: Bachata, Salsa - Advanced:** You can join any time (Monday
-      6:45 pm)
+      *   **Ladies Line Routine: Bachata, Salsa - Advanced:** You can join any time (Monday at 6:45pm)
 
     actions: []
     image_alt: adult dance classes
@@ -57,9 +55,10 @@ sections:
   - title: Register for Adult Classes
     title_align: center
     content: |
-      *   Group Class Session is 6-week long
+      *   Each session includes 6 weekly classes
 
-      *   packaged price for 6 classes: $150
+      *   Package price for 6 classes: $150
+
     content_align: left
     form_position: bottom
     form_width: fifty
@@ -97,10 +96,9 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'New! Salsa for Beginners (September 30th, Wednesday at 7:30 pm)'
-          - 'New! Bachata for Beginners (September 24th, Thursday at 8:15 pm)'
-          - 'New! Rumba & Swing Social (October 2nd, Friday at 6:45 pm)'
-          - 'Ladies Line Routine - Advanced: Bachata, Salsa (Monday 6:45 pm)'
+          - 'New! Latin Line Choreo - Salsa + Bachata (Thursday, October 22nd at 6:45pm)'
+          - 'New! First Dance Prep - Wedding Dance Class (Friday, November 6th at 6:45pm)'
+          - 'Ladies Line Routine Advanced - Bachata, Salsa (Monday at 6:45pm)'
         is_required: true
       - input_type: checkbox
         name: Coming With Partner
@@ -148,11 +146,6 @@ sections:
         title_align: center
         content: |
 
-          **NEW! Salsa for Beginners**
-
-          *   7:30 pm
-          *   Starts September 16
-
           **Ladies Latin Choreography**
 
           *   7:30 pm
@@ -175,14 +168,15 @@ sections:
         title_align: center
         content: |
 
+          **NEW! Latin Line Choreo - Salsa + Bachata**
+
+          *   6:45 pm
+          *   Starts October 22
+          *   No partner required
+
           **Intermediate Bachata**
 
           *   7:30 pm
-
-          **NEW! Bachata for Beginners**
-
-          *   8:15 pm
-          *   Starts September 24
 
         content_align: left
         actions: []
@@ -198,10 +192,11 @@ sections:
         title_align: center
         content: |
 
-          **NEW! Rumba & Swing Social**
+          **NEW! First Dance Prep - Wedding Dance Class**
 
           *   6:45 pm
-          *   Starts October 2
+          *   Starts November 6
+          *   For couples preparing for their wedding dance
 
         content_align: left
         actions: []
