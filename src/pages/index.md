@@ -36,14 +36,10 @@ sections:
   - content: |
       ## NEW GROUP CLASSES FOR ADULTS!!!
 
-      **NEW! Salsa for Beginners**</br>Starting September 30th (Wednesday) at 7:30 pm
+      **NEW! Latin Line Choreo - Salsa + Bachata**</br>Starting October 22nd (Thursday) at 6:45 pm
 
-      **NEW! Bachata for Beginners**</br>Starting September 24th (Thursday) at 8:15 pm
+      **NEW! First Dance Prep - Wedding Dance Class**</br>Starting November 6th (Friday) at 6:45 pm
 
-      **NEW! Rumba and Swing - Social Dance Class**</br>Starting October 2nd (Friday) at 6:45 pm
-
-      **Ladies Line Routine: Salsa, Bachata - Advanced** </br>Join us any time on Mondays at 6:45 pm
-      
     actions:
       - label: Register
         url: /ilta_new_class
@@ -54,7 +50,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-    image_alt: Register for Salsa Class
+    image_alt: New Adult Group Classes at ILTA Dance Studio
     media_position: left
     media_width: fifty
     align: left
@@ -67,7 +63,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/fall_classes_2026.jpg
+    image: images/ilta_new_group_classes_web.jpg
 
 
   - content: >
