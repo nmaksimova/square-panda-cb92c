@@ -11,11 +11,11 @@ sections:
 
       *   **NEW! Latin Line Choreo - Salsa + Bachata** </br>
         A fun choreography class designed for individual dancers. No partner required. </br>
-        **When:** Thursday, October 22nd at 6:45pm </br> </br>
+        **When:** Thursday, November 19th at 6:45pm </br> </br>
 
       *   **NEW! First Dance Prep - Wedding Dance Class** </br>
         A group class designed for couples preparing for their wedding dance. </br>
-        **When:** Friday, November 6th at 6:45pm </br> </br>
+        **When:** Friday, November 20th at 6:45pm </br> </br>
 
     actions: []
     image_alt: new-adult-dance-classes-2026
@@ -31,13 +31,13 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/ilta_new_group_classes_web.jpg
+    image: images/line_salsa_nov26.jpg
 
   - title: Register for New Group Classes
     title_align: center
     content: |
-      *   NEW! Latin Line Choreo - Salsa + Bachata - Thursday, October 22nd at 6:45pm
-      *   NEW! First Dance Prep - Wedding Dance Class - Friday, November 6th at 6:45pm
+      *   NEW! Latin Line Choreo - Salsa + Bachata - Thursday, November 19th at 6:45pm
+      *   NEW! First Dance Prep - Wedding Dance Class - Friday, November 20th at 6:45pm
 
     content_align: left
     form_position: bottom
@@ -76,8 +76,8 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'New! Latin Line Choreo - Salsa + Bachata (Thursday, October 22nd at 6:45pm)'
-          - 'New! First Dance Prep - Wedding Dance Class (Friday, November 6th at 6:45pm)'
+          - 'New! Latin Line Choreo - Salsa + Bachata (Thursday, November 19th at 6:45pm)'
+          - 'New! First Dance Prep - Wedding Dance Class (Friday, November 20th at 6:45pm)'
         is_required: true
       - input_type: checkbox
         name: Coming With Partner
