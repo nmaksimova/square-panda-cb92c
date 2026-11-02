@@ -23,8 +23,8 @@ sections:
     subtitle: 'Each session includes 6 weekly classes. Package price for 6 classes: $150'
     content: |
 
-      *   **NEW! Latin Line Choreo - Salsa + Bachata** (Thursday, October 22nd at 6:45pm)
-      *   **NEW! First Dance Prep - Wedding Dance Class** (Friday, November 6th at 6:45pm)
+      *   **NEW! Latin Line Choreo - Salsa + Bachata** (Thursday, November 19th at 6:45pm)
+      *   **NEW! First Dance Prep - Wedding Dance Class** (Friday, November 20th at 6:45pm)
 
       *   **Ladies Line Routine: Bachata, Salsa - Advanced:** You can join any time (Monday at 6:45pm)
 
@@ -96,8 +96,8 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'New! Latin Line Choreo - Salsa + Bachata (Thursday, October 22nd at 6:45pm)'
-          - 'New! First Dance Prep - Wedding Dance Class (Friday, November 6th at 6:45pm)'
+          - 'New! Latin Line Choreo - Salsa + Bachata (Thursday, November 19th at 6:45pm)'
+          - 'New! First Dance Prep - Wedding Dance Class (Friday, November 20th at 6:45pm)'
           - 'Ladies Line Routine Advanced - Bachata, Salsa (Monday at 6:45pm)'
         is_required: true
       - input_type: checkbox
