@@ -1,3 +1,4 @@
+
 ---
 title: Home
 sections:
@@ -36,9 +37,11 @@ sections:
   - content: |
       ## NEW GROUP CLASSES FOR ADULTS!!!
 
-      **NEW! Latin Line Choreo - Salsa + Bachata**</br>Starting November 19th (Thursday) at 6:45 pm
+      **NEW! Beginner Salsa Group**</br>Starting December 16th (Wednesday) at 7:30 pm
 
-      **NEW! First Dance Prep - Wedding Dance Class**</br>Starting November 20th (Friday) at 6:45 pm
+      **NEW! Ladies Line Choreo - Salsa + Bachata**</br>Starting January 7th (Thursday) at 6:45 pm. Ladies only.
+
+      **First Dance Prep - Wedding Dance Class**</br>Start date: TBD. Interested? Register to be notified when the next group is scheduled.
 
     actions:
       - label: Register
@@ -525,7 +528,7 @@ sections:
   - type: grid_section
     title: Our Location
     subtitle: ''
-    align: center
+    align: left
     grid_items:
       - image_alt: Ilta Dance
         image_align: center
@@ -579,3 +582,4 @@ seo:
       relativeUrl: false
   type: stackbit_page_meta
 ---
+  
