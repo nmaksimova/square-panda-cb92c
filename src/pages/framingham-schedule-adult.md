@@ -23,8 +23,9 @@ sections:
     subtitle: 'Each session includes 6 weekly classes. Package price for 6 classes: $150'
     content: |
 
-      *   **NEW! Latin Line Choreo - Salsa + Bachata** (Thursday, November 19th at 6:45pm)
-      *   **NEW! First Dance Prep - Wedding Dance Class** (Friday, November 20th at 6:45pm)
+      *   **NEW! Beginner Salsa Group** (Wednesday, December 16th at 7:30pm)
+      *   **NEW! Ladies Line Choreo - Salsa + Bachata** (Thursday, January 7th at 6:45pm, ladies only)
+      *   **First Dance Prep - Wedding Dance Class** (Date TBD - Join Interest List)
 
       *   **Ladies Line Routine: Bachata, Salsa - Advanced:** You can join any time (Monday at 6:45pm)
 
@@ -59,6 +60,8 @@ sections:
 
       *   Package price for 6 classes: $150
 
+      *   Wedding Dance Class: Date TBD. Register your interest and we'll notify you when the next group is scheduled.
+
     content_align: left
     form_position: bottom
     form_width: fifty
@@ -84,7 +87,7 @@ sections:
         label: Email
         default_value: Email
         options: []
-        is_required: false
+        is_required: true
       - input_type: text
         name: Phone Number
         label: Phone Number
@@ -96,8 +99,9 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'New! Latin Line Choreo - Salsa + Bachata (Thursday, November 19th at 6:45pm)'
-          - 'New! First Dance Prep - Wedding Dance Class (Friday, November 20th at 6:45pm)'
+          - 'New! Beginner Salsa Group (Wednesday, December 16th at 7:30pm)'
+          - 'New! Ladies Line Choreo - Salsa + Bachata (Thursday, January 7th at 6:45pm)'
+          - 'First Dance Prep - Wedding Dance Class (Date TBD - Join Interest List)'
           - 'Ladies Line Routine Advanced - Bachata, Salsa (Monday at 6:45pm)'
         is_required: true
       - input_type: checkbox
@@ -146,6 +150,12 @@ sections:
         title_align: center
         content: |
 
+          **NEW! Beginner Salsa Group**
+
+          *   7:30 pm
+          *   Starts December 16
+          *   Beginners welcome
+
           **Ladies Latin Choreography**
 
           *   7:30 pm
@@ -168,10 +178,11 @@ sections:
         title_align: center
         content: |
 
-          **NEW! Latin Line Choreo - Salsa + Bachata**
+          **NEW! Ladies Line Choreo - Salsa + Bachata**
 
           *   6:45 pm
-          *   Starts October 22
+          *   Starts January 7
+          *   Ladies only
           *   No partner required
 
           **Intermediate Bachata**
@@ -192,11 +203,11 @@ sections:
         title_align: center
         content: |
 
-          **NEW! First Dance Prep - Wedding Dance Class**
+          **First Dance Prep - Wedding Dance Class**
 
-          *   6:45 pm
-          *   Starts November 6
+          *   Date TBD
           *   For couples preparing for their wedding dance
+          *   Join the interest list to be notified when the next group is scheduled
 
         content_align: left
         actions: []
