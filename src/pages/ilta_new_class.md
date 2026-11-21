@@ -9,13 +9,22 @@ sections:
       *   **Each session includes 6 weekly classes** </br>
       **Package Cost for 6 classes:** $150 </br> </br>
 
-      *   **NEW! Latin Line Choreo - Salsa + Bachata** </br>
-        A fun choreography class designed for individual dancers. No partner required. </br>
-        **When:** Thursday, November 19th at 6:45pm </br> </br>
+      *   **NEW! Beginner Salsa Group** </br>
+        A fun and welcoming class for beginners looking to learn Salsa.
+        No previous dance experience required. </br>
+        **When:** Wednesday, December 16th at 7:30pm </br> </br>
 
-      *   **NEW! First Dance Prep - Wedding Dance Class** </br>
-        A group class designed for couples preparing for their wedding dance. </br>
-        **When:** Friday, November 20th at 6:45pm </br> </br>
+      *   **NEW! Ladies Line Choreo - Salsa + Bachata** </br>
+        A fun choreography class designed for ladies to learn
+        Salsa and Bachata routines. No partner required. </br>
+        **When:** Thursday, January 7th at 6:45pm </br> </br>
+
+      *   **First Dance Prep - Wedding Dance Class** </br>
+        A group class designed for couples preparing for their
+        wedding dance. </br>
+        **When:** Date TBD </br>
+        Interested? Join our interest list below and we'll notify
+        you when the next group is scheduled. </br> </br>
 
     actions: []
     image_alt: new-adult-dance-classes-2026
@@ -36,8 +45,9 @@ sections:
   - title: Register for New Group Classes
     title_align: center
     content: |
-      *   NEW! Latin Line Choreo - Salsa + Bachata - Thursday, November 19th at 6:45pm
-      *   NEW! First Dance Prep - Wedding Dance Class - Friday, November 20th at 6:45pm
+      *   NEW! Beginner Salsa Group - Wednesday, December 16th at 7:30pm
+      *   NEW! Ladies Line Choreo - Salsa + Bachata - Thursday, January 7th at 6:45pm (Ladies Only)
+      *   First Dance Prep - Wedding Dance Class - Date TBD (Join Interest List)
 
     content_align: left
     form_position: bottom
@@ -64,7 +74,7 @@ sections:
         label: Email
         default_value: Email
         options: []
-        is_required: false
+        is_required: true
       - input_type: text
         name: Phone Number
         label: Phone Number
@@ -76,8 +86,9 @@ sections:
         label: Select Class
         default_value: Class
         options:
-          - 'New! Latin Line Choreo - Salsa + Bachata (Thursday, November 19th at 6:45pm)'
-          - 'New! First Dance Prep - Wedding Dance Class (Friday, November 20th at 6:45pm)'
+          - 'New! Beginner Salsa Group (Wednesday, December 16th at 7:30pm)'
+          - 'New! Ladies Line Choreo - Salsa + Bachata (Thursday, January 7th at 6:45pm)'
+          - 'First Dance Prep - Wedding Dance Class (Date TBD - Join Interest List)'
         is_required: true
       - input_type: checkbox
         name: Coming With Partner
@@ -99,8 +110,8 @@ sections:
     type: form_section
 
 seo:
-  title: 'Latin Line Choreo & Wedding Dance Classes | ILTA Dance'
-  description: 'Register for new adult group dance classes at ILTA Dance Studio in Framingham, MA. Join our Salsa and Bachata Latin Line Choreo class or First Dance Prep wedding dance class.'
+  title: 'Beginner Salsa, Ladies Choreo & Wedding Dance | ILTA Dance'
+  description: 'Register for beginner Salsa, ladies-only Salsa and Bachata choreography, and wedding dance group classes at ILTA Dance Studio in Framingham, MA.'
   robots: []
   extra: []
 template: advanced
