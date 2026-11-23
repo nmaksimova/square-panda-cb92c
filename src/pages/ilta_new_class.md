@@ -14,6 +14,12 @@ sections:
         No previous dance experience required. </br>
         **When:** Wednesday, December 16th at 7:30pm </br> </br>
 
+      *   **NEW! Beginner Bachata Group** </br>
+        Discover the rhythm and joy of Bachata in this beginner-friendly class.
+        Learn basic steps and simple combinations while having fun.
+        No previous dance experience required. </br>
+        **When:** Wednesday, January 6th at 8:15pm </br> </br>
+
       *   **NEW! Ladies Line Choreo - Salsa + Bachata** </br>
         A fun choreography class designed for ladies to learn
         Salsa and Bachata routines. No partner required. </br>
@@ -46,6 +52,7 @@ sections:
     title_align: center
     content: |
       *   NEW! Beginner Salsa Group - Wednesday, December 16th at 7:30pm
+      *   NEW! Beginner Bachata Group - Wednesday, Janiary 6th at 8:15pm
       *   NEW! Ladies Line Choreo - Salsa + Bachata - Thursday, January 7th at 6:45pm (Ladies Only)
       *   First Dance Prep - Wedding Dance Class - Date TBD (Join Interest List)
 
@@ -87,6 +94,7 @@ sections:
         default_value: Class
         options:
           - 'New! Beginner Salsa Group (Wednesday, December 16th at 7:30pm)'
+          - 'New! Beginner Bachata Group (Wednesday, January 6th at 8:15pm)'
           - 'New! Ladies Line Choreo - Salsa + Bachata (Thursday, January 7th at 6:45pm)'
           - 'First Dance Prep - Wedding Dance Class (Date TBD - Join Interest List)'
         is_required: true
