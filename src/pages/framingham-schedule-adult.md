@@ -24,6 +24,7 @@ sections:
     content: |
 
       *   **NEW! Beginner Salsa Group** (Wednesday, December 16th at 7:30pm)
+      *   **NEW! Beginner Bachata Group** (Wednesday, January 6th at 8:15pm)
       *   **NEW! Ladies Line Choreo - Salsa + Bachata** (Thursday, January 7th at 6:45pm, ladies only)
       *   **First Dance Prep - Wedding Dance Class** (Date TBD - Join Interest List)
 
@@ -100,6 +101,7 @@ sections:
         default_value: Class
         options:
           - 'New! Beginner Salsa Group (Wednesday, December 16th at 7:30pm)'
+          - 'New! Beginner Bachata Group (Wednesday, January 6th at 8:15pm)'
           - 'New! Ladies Line Choreo - Salsa + Bachata (Thursday, January 7th at 6:45pm)'
           - 'First Dance Prep - Wedding Dance Class (Date TBD - Join Interest List)'
           - 'Ladies Line Routine Advanced - Bachata, Salsa (Monday at 6:45pm)'
