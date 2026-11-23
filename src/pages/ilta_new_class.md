@@ -46,7 +46,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/line_salsa_nov26.jpg
+    image: images/ilta_winter_2026.jpg
 
   - title: Register for New Group Classes
     title_align: center
