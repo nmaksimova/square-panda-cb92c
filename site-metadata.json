@@ -196,5 +196,6 @@
     },
     "title": "Ilta Dance Studio",
     "favicon": "images/favicon.png",
-    "domain": "https://iltadance.com/"
+    "domain": "https://iltadance.com/",
+    "siteUrl": "https://iltadance.com"
 }
