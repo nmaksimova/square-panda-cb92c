@@ -4,6 +4,7 @@ module.exports = {
     pathPrefix: '/',
     siteMetadata: siteMetadata,
     plugins: [
+        `gatsby-plugin-sitemap`,
         `gatsby-plugin-react-helmet`,
         `gatsby-source-data`,
         `gatsby-transformer-remark`,
